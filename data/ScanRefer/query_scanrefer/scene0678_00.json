@@ -1,0 +1,1100 @@
+[
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "a long tall window to the left of the glass door. there is an \"exit\" sign at the bottom.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "glass door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "14",
+        "target_name": "washing_machines",
+        "caption": "the center row of washers that face the wall.  there is an orange bottle of soap on top of them.",
+        "parsed_query": {
+            "Target": "washers",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "0",
+        "target_name": "vending_machine",
+        "caption": "a tall \"pepsi\" vending machine.  there is a snack vending machine to it's left and dryers on it's right.",
+        "parsed_query": {
+            "Target": "pepsi vending machine",
+            "Anchor": [
+                "snack vending machine",
+                "dryers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "a long skinny window beside the front door.  it has an \"exit\" sign at the bottom of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "front door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "31",
+        "target_name": "door",
+        "caption": "a glass swinging door.  it is the entrance to the room and has a floor mat in front of it.",
+        "parsed_query": {
+            "Target": "glass swinging door",
+            "Anchor": [
+                "entrance to the room",
+                "floor mat"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "a small window at the far end of the countertop.  there is a red fire extinguisher to the left of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "countertop",
+                "red fire extinguisher"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "14",
+        "target_name": "washing_machines",
+        "caption": "a row of three washing machines with another row pushed against their backs.  there is an orange bottle of laundry soap sitting on top of the washers.",
+        "parsed_query": {
+            "Target": "orange bottle of laundry soap",
+            "Anchor": [
+                "washing machines"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "a small window to the right of the metallic garbage bin.  it is directly right from the red fire extinguisher.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "metallic garbage bin",
+                "red fire extinguisher"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "13",
+        "target_name": "clothes_dryers",
+        "caption": "a long row of clothes dryers closest to the ground.  they are to the right of the vending machines.",
+        "parsed_query": {
+            "Target": "clothes dryers",
+            "Anchor": "vending machines"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "34",
+        "target_name": "vending_machine",
+        "caption": "a snack machine to the left of the front entrance.  there is a beverage machine to it's right.",
+        "parsed_query": {
+            "Target": "snack machine",
+            "Anchor": [
+                "front entrance",
+                "beverage machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "7",
+        "target_name": "fan",
+        "caption": "this is a standing fan. it is in the laundromat near the doorway.",
+        "parsed_query": {
+            "Target": "standing fan",
+            "Anchor": "doorway"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "this is a white door. it is in the corner of the laundromat by the counter.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "26",
+        "target_name": "window",
+        "caption": "this is the laundromat window. it is directly next to the doorway.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "doorway"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "5",
+        "target_name": "laundry_hamper",
+        "caption": "this is a red laundry hamper. it is on top of the washing unit by the vending machines.",
+        "parsed_query": {
+            "Target": "laundry hamper",
+            "Anchor": [
+                "washing unit"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "11",
+        "target_name": "washing_machines",
+        "caption": "this is the next to last row of washing machines. they are facing away from the pepsi machine.",
+        "parsed_query": {
+            "Target": "row of washing machines",
+            "Anchor": "pepsi machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "0",
+        "target_name": "vending_machine",
+        "caption": "there is a rectangular vending machine with a soda illustration. it is next to another vending machine.",
+        "parsed_query": {
+            "Target": "rectangular vending machine",
+            "Anchor": "vending machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "13",
+        "target_name": "clothes_dryers",
+        "caption": "there is a rectangular row of clothes dryers. they are next to a soda machine.",
+        "parsed_query": {
+            "Target": "clothes dryers",
+            "Anchor": "soda machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "there is a rectangular door. it is facing a shelf.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "31",
+        "target_name": "door",
+        "caption": "the glass door is in the center of the roof.  it is directly across from the alley between the laundry machines.",
+        "parsed_query": {
+            "Target": "glass door",
+            "Anchor": [
+                "alley"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "14",
+        "target_name": "washing_machines",
+        "caption": "there is a row of white washing machines. there is an orange container detergent on one of the machines.",
+        "parsed_query": {
+            "Target": "orange container detergent",
+            "Anchor": "white washing machines"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "5",
+        "target_name": "laundry_hamper",
+        "caption": "a red hamper is sitting on top of the laundry machine.  it is located in front of the soda machine.",
+        "parsed_query": {
+            "Target": "red hamper",
+            "Anchor": [
+                "laundry machine",
+                "soda machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is next to a fire extinguisher.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "fire extinguisher"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "4",
+        "target_name": "laundry_basket",
+        "caption": "a white laundry basket is on top of a laundry machine.  it is located at the far left machine, across from the door.",
+        "parsed_query": {
+            "Target": "laundry basket",
+            "Anchor": [
+                "laundry machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "33",
+        "target_name": "trash_can",
+        "caption": "there is a tan trash can next to the door.  it is directly in front of the vending machine.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "vending machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "there is a white window on the right side of the door.  it is the second window from the right in relation to the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "0",
+        "target_name": "vending_machine",
+        "caption": "the vending machine is in the corner next to a vending machine with food items in it. there is a pepsi logo on the front of the vending machine.",
+        "parsed_query": {
+            "Target": "vending machine",
+            "Anchor": [
+                "vending machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "31",
+        "target_name": "door",
+        "caption": "the door is made of glass with a silver bar running across the middle. if facing the door there is a trash can on the floor to the right. there is a black rug on the floor in front of the door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "trash can",
+                "black rug"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "the window is to the left of the door if facing the door from the inside. there is a white oscillating fan next to the window.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "4",
+        "target_name": "laundry_basket",
+        "caption": "the laundry basket is white with gray handles. it is on top of one of the washers in the row closest to the vending machines. there is an orange bottle of laundry soap two washers down from the basket.",
+        "parsed_query": {
+            "Target": "laundry basket",
+            "Anchor": [
+                "washers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "34",
+        "target_name": "vending_machine",
+        "caption": "the vending machine is in the corner of the room. it is next to the vending machine with the pepsi logo. there is a silver box on the wall in front of the vending machine.",
+        "parsed_query": {
+            "Target": "vending machine",
+            "Anchor": [
+                "vending machine with the pepsi logo"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "5",
+        "target_name": "laundry_hamper",
+        "caption": "the laundry hamper is red and cylindrical. it is located on top of the row of front-loading, white washers.",
+        "parsed_query": {
+            "Target": "laundry hamper",
+            "Anchor": "row of front-loading, white washers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "11",
+        "target_name": "washing_machines",
+        "caption": "the washing machines are tall and white. they are located in front of, and partially to the right of the pepsi machine.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": [
+                "pepsi machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "the window is the middle one on the northern wall. the window is clear and rectangular.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "33",
+        "target_name": "trash_can",
+        "caption": "the trash can is right of the entrance door. the trash can is gray and rectangular.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "10",
+        "target_name": "washing_machines",
+        "caption": "the washing machines are the closest ones to the window. the washing machines are white and square.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "10",
+        "target_name": "washing_machines",
+        "caption": "the washing machines are the ones nearest to the windows. the washing machines are white and rectangular.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "the door is left of the gray desk. the door is a clear rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "gray desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "0",
+        "target_name": "vending_machine",
+        "caption": "item is a soda dispensing machine.  it has a blue pepsi logo on the front.",
+        "parsed_query": {
+            "Target": "soda dispensing machine",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "item is a rectangular brown door.  it is located to the left of the chrome trash can.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "the window is in the middle of the three windows. the window is above the counter.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "13",
+        "target_name": "clothes_dryers",
+        "caption": "items are a row of clothes dryers.  they are located across from the dryers with the laundry basket on them.",
+        "parsed_query": {
+            "Target": "clothes dryers",
+            "Anchor": "dryers with the laundry basket on them"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "14",
+        "target_name": "washing_machines",
+        "caption": "the washing machines are on the left. there is a white basket on it.",
+        "parsed_query": {
+            "Target": "basket",
+            "Anchor": "washing machines"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "12",
+        "target_name": "washing_machines",
+        "caption": "there are white washing machines. they are an island in the middle of the room.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "10",
+        "target_name": "washing_machines",
+        "caption": "item is a row of white clothes washers.  they are located to the forefront of the stacked dryers.",
+        "parsed_query": {
+            "Target": "row of white clothes washers",
+            "Anchor": "stacked dryers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "33",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular trash can. it is next to a door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "5",
+        "target_name": "laundry_hamper",
+        "caption": "there is a red laundry hamper. it is on top of a washing machine.",
+        "parsed_query": {
+            "Target": "laundry hamper",
+            "Anchor": "washing machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "7",
+        "target_name": "fan",
+        "caption": "the fan is white. the fan is behind the washing machines.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": [
+                "washing machines"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "0",
+        "target_name": "vending_machine",
+        "caption": "item is a rectangular soda dispensing machine.  it is located to the right of the snack vending machine.",
+        "parsed_query": {
+            "Target": "soda dispensing machine",
+            "Anchor": "snack vending machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "there is a rectangular door. it is behind a gray mat.",
+        "parsed_query": {
+            "Target": "rectangular door",
+            "Anchor": "gray mat"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "12",
+        "target_name": "washing_machines",
+        "caption": "there are rectangular washing machines. they are in the center of the room.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "26",
+        "target_name": "window",
+        "caption": "the window is in the back. the window is on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "11",
+        "target_name": "washing_machines",
+        "caption": "five washing machines in a row in the middle of the room with a red container sitting on one on the end. they are on a checkered floor.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "7",
+        "target_name": "fan",
+        "caption": "the standard circular fan. the fan is next to the washer and dryers.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": [
+                "washer",
+                "dryers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "30",
+        "target_name": "picture",
+        "caption": "a blue and white picture is hanging on the wall towards the middle in the back. there is a brown paper bag to the left of it.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "26",
+        "target_name": "window",
+        "caption": "the large rectangular window. the window is by the large folding table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "folding table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "5",
+        "target_name": "laundry_hamper",
+        "caption": "the big round laundry hamper. the hamper is on top of the washer.",
+        "parsed_query": {
+            "Target": "laundry hamper",
+            "Anchor": "washer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "10",
+        "target_name": "washing_machines",
+        "caption": "five cabinets are in a row in the middle of the row. the are sitting on the green and tan checkered floor. there is white shelf to the left of them.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "green and tan checkered floor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "11",
+        "target_name": "washing_machines",
+        "caption": "the large washing machine. the washer is in the middle of the other washers.",
+        "parsed_query": {
+            "Target": "washing machine",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "13",
+        "target_name": "clothes_dryers",
+        "caption": "a row of bottom clothes dryers on the left wall. there are bottles of detergent to the left of them.",
+        "parsed_query": {
+            "Target": "clothes dryers",
+            "Anchor": "left wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "26",
+        "target_name": "window",
+        "caption": "the window is above the counter in the middle. there is a basket of clothes to the right of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "30",
+        "target_name": "picture",
+        "caption": "the picture is on the northern wall. the picture is square and blue.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "northern wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "the door is the northwestern-most one. the door is white and rectangular.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "the window is the closest one to the door. the window is clear and rectangular.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "30",
+        "target_name": "picture",
+        "caption": "the picture is to the right from the door. the picture is square and blue.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "14",
+        "target_name": "washing_machines",
+        "caption": "the washing machines are in the middle of the room. the washing machines are white and rectangular.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "the window is rectangular, with a white frame. it is located between stacks of white towels to its left and its right, on top of the grey counter.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "towel",
+                "towel"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "30",
+        "target_name": "picture",
+        "caption": "the picture is rectangular, with a blue background. it is located above and to the right of the brown bag and the white storage drawers.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "brown bag",
+                "white storage drawers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "7",
+        "target_name": "fan",
+        "caption": "the fan is white with a round face. it is located behind the black backpack on the floor.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": "black backpack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "this door is on the left. it is grey.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "this window is against the wall. it is clear.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "31",
+        "target_name": "door",
+        "caption": "this door is on the left. it is closed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "4",
+        "target_name": "laundry_basket",
+        "caption": "this laundry basket is on the right. it is white.",
+        "parsed_query": {
+            "Target": "laundry basket",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "4",
+        "target_name": "laundry_basket",
+        "caption": "this laundry basket is on the counter top. it is white.",
+        "parsed_query": {
+            "Target": "laundry basket",
+            "Anchor": "counter top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "13",
+        "target_name": "clothes_dryers",
+        "caption": "they are white clothes dryers. the white clothes dryers are the dryers on the left wall of the room.",
+        "parsed_query": {
+            "Target": "white clothes dryers",
+            "Anchor": "left wall of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "34",
+        "target_name": "vending_machine",
+        "caption": "it is a brown vending machine. the brown vending machines that sits in the far left corner of the room.",
+        "parsed_query": {
+            "Target": "brown vending machine",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "12",
+        "target_name": "washing_machines",
+        "caption": "they are white washing machines. the white washing machines are the machines at mid- right of the room.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "it is a white door. the white door is at the far left corner of the room.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "it is a white door. the white door is to the left of the washing machines on the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "washing machines"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "34",
+        "target_name": "vending_machine",
+        "caption": "the vending machine is tall and black. it is to the direct left of the pepsi vending machine.",
+        "parsed_query": {
+            "Target": "vending machine",
+            "Anchor": "pepsi vending machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "4",
+        "target_name": "laundry_basket",
+        "caption": "the laundry basket is rectangular and white, with holes in it. it is sitting on left most end of a row of white washing machines.",
+        "parsed_query": {
+            "Target": "laundry basket",
+            "Anchor": "washing machines"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "26",
+        "target_name": "window",
+        "caption": "the window is rectangular and tall. it is located partially behind and to the left of the square white laundry basket on top of the counter.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "laundry basket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "the window is rectangular, with a white frame. it is the second window from the left, above the grey counter.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "grey counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "30",
+        "target_name": "picture",
+        "caption": "the picture is rectangular, with a mostly blue background. it is behind and above the white plastic storage drawers.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "white plastic storage drawers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "11",
+        "target_name": "washing_machines",
+        "caption": "this washing machines are on the left. they are silver.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "33",
+        "target_name": "trash_can",
+        "caption": "this trash can is on the floor. it is tan.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "33",
+        "target_name": "trash_can",
+        "caption": "this trash can is square. it is on the floor.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "this window is on the left. it is opaque.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "31",
+        "target_name": "door",
+        "caption": "this door is on the left. it is white.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "this window is on the left. it is opaque and clear.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "12",
+        "target_name": "washing_machines",
+        "caption": "this washing machine is on the right. it is grey.",
+        "parsed_query": {
+            "Target": "washing machine",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "this door is on the far side. it is grey.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "10",
+        "target_name": "washing_machines",
+        "caption": "this washing machine is on the left. it is grey.",
+        "parsed_query": {
+            "Target": "washing machine",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0678_00",
+        "target_id": "7",
+        "target_name": "fan",
+        "caption": "this fan is on the left. it is grey.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

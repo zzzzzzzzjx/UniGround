@@ -1,0 +1,710 @@
+[
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "2",
+        "target_name": "seat",
+        "caption": "the seat is located to the left of a yellow seat and directly to the left of the square table near the yellow seat. the seat is to the right of the left wall.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "yellow seat",
+                "square table",
+                "left wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "15",
+        "target_name": "seat",
+        "caption": "the red seat is located along the back wall. the seat is to the left of the tan chair with the small black workspace arm.",
+        "parsed_query": {
+            "Target": "red seat",
+            "Anchor": [
+                "back wall",
+                "tan chair with the small black workspace arm"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this chair is located behind a rectangular table that is to the left of the low square table. the chair is the second to the left of the red seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "rectangular table",
+                "low square table",
+                "red seat"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "this rectangular table is directly to the right of and very near the yellow seat and to the left of a backpack. table is the second table from the rear wall.",
+        "parsed_query": {
+            "Target": "rectangular table",
+            "Anchor": [
+                "yellow seat",
+                "backpack",
+                "rear wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is just to the left of center of the back wall of the room. the coffee table is directly in front of a chair with circular black workspace arm and to the right of a red seat.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "chair with circular black workspace arm",
+                "red seat"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "this is a tan table. it is next to a green stool.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "green stool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "10",
+        "target_name": "coffee_table",
+        "caption": "this is a brown coffee table. it is in front of a chair.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "2",
+        "target_name": "seat",
+        "caption": "this is a tan seat. it is to the left of the table.",
+        "parsed_query": {
+            "Target": "tan seat",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "this is a white table. it is to the left of a seat.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "seat"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "this is a white table. it is to the left of a coffee table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "2",
+        "target_name": "seat",
+        "caption": "the seat has a square shape. it is to the left of the table.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is located with its back against the wall. it is located to the right of the other chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "other chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "5",
+        "target_name": "seat",
+        "caption": "the stool is green, and it is on the floor. it is to the right of the backpack that's near the table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "backpack",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is located towards the right side of the room, and has two chairs under it. it is to the right of the table with the backpack beside it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "table with the backpack beside it"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is to the right of the other table. the table has two chairs pulled into it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "other table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there is a chair at a long wooden table.  it is the left chair at the set of chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "long wooden table",
+                "set of chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "there is a square shaped coffee table.  it is between the chair and the table.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a brown chair.  it is sitting against the wall by the doorway.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "doorway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "15",
+        "target_name": "seat",
+        "caption": "this is an orange seat. it is to the left of a chair.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "5",
+        "target_name": "seat",
+        "caption": "there is a green stool.  it is under the table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "10",
+        "target_name": "coffee_table",
+        "caption": "this is a brown coffee table. it is in front of a tan chair.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "tan chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "15",
+        "target_name": "seat",
+        "caption": "this is a round seat. it is to the left of a chair.",
+        "parsed_query": {
+            "Target": "round seat",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a brown chair. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "this is a white table. it is at the far end of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a brown chair.  it is in front of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there is a chair tucked under a rectangular table. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "rectangular table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "there is a small table situated in the room. it is to the right of a chair and a small stand.",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": [
+                "chair",
+                "small stand"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a white table standing in the room. it is next to another white table that is surrounded by chairs.",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there is a chair tucked under a table. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "there is a chair with its back to the wall. it has a small circular table on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "small circular table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "there is a chair under a white table. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "three is a white table in the room. it has two chair tucked under it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a small white table with two legs. it has a small green stool next to it.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "there is a chair tucked under a table. it has another chair to its left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "2",
+        "target_name": "seat",
+        "caption": "there is a stool next to a small table. it has a green stool next to it.",
+        "parsed_query": {
+            "Target": "green stool",
+            "Anchor": "stool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "5",
+        "target_name": "seat",
+        "caption": "the seat is in one of the side of the table. the color of the seat is green.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table is color white. the table is in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "5",
+        "target_name": "seat",
+        "caption": "the seat is color green. the seat is on one side of the table.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "the chair is in one of the sides of the room. the color of the chair is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "the chair is close to the wall. the color of the chair is brown/caramel.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "10",
+        "target_name": "coffee_table",
+        "caption": "this is a large wood coffee table. this coffee table is  in front of the tan armchair.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "tan armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "5",
+        "target_name": "seat",
+        "caption": "this is a small green seat. the seat sits under a small table that has a backpack next to it.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "small table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "15",
+        "target_name": "seat",
+        "caption": "this is a small red seat. the seat is off to the side of the tan armchair and coffee table.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "tan armchair",
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a plastic chair with metal legs. the chair is at the table next to the coffee table. the chair is the one on the right side .",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "15",
+        "target_name": "seat",
+        "caption": "it is a small red seat. this seat is next to the tan armchair.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "tan armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "this coffee table is sitting in front of a chair with one arm on the left, and a small round table on it's right.  to the left of the coffee table is an orange stool with an extension cord plugged in to the wall nearby.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "chair with one arm on the left",
+                "small round table",
+                "orange stool"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "this is a coffee table that is dark brown on top, and white underneath.  to the left of the coffee table is a regular long table.  to the right is a lounge chair with only one arm next to the wall.  beyond the coffee table and the chair is a little orange stool.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "this is a one-armed chair, sitting against the wall.  the arm of the chair is on the left.  to the left of the chair is a yellow extension cord plugged into the wall.  there's also an orange stool to the left of this chair.  right next to the chair is a small round table that seems to be attached to it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "this chair is a one armed chair against the wall on the right.   to the left of the chair is a large square coffee table with a dark top.  behind the chair is an orange stool.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "coffee table",
+                "stool"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is between a chair and a long white table. the coffee table looks like a dark mahogany square.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "chair",
+                "long white table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is south of the coffee table. the table looks like a long white rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "the table is east of the long white table and southward between the two coffee tables. the table is a square with two legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "long white table",
+                "coffee table",
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is south of the leftmost coffee table. the table is rectangular and has two legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "leftmost coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is on the northwest side of the table that is furthest northeast in the room. the chair has a curved backside and four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "2",
+        "target_name": "seat",
+        "caption": "the seat is north of the brown coffee table and west of the westernmost yellow table. the seat is light brown and square.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": [
+                "brown coffee table",
+                "westernmost yellow table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "10",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is between a caramel armchair and a small square seat. the coffee table is dark brown and square shaped.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "caramel armchair",
+                "small square seat"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0187_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is between the dark brown coffee table and the wall. the chair is caramel colored and has armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "dark brown coffee table",
+                "wall"
+            ]
+        },
+        "unique": false
+    }
+]

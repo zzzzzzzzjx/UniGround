@@ -1,0 +1,292 @@
+[
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "2",
+        "target_name": "clothes_dryers",
+        "caption": "the clothes dryers are white. they are located perpendicular to the blue wall.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": "blue wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "the rectangular picture is on the blue wall. it is located above and behind the open clothes dryer door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "blue wall",
+                "clothes dryer door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "this is a picture on the wall. it looks like a coin operated dispenser. it is in the laundromat on the blue wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "blue wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "2",
+        "target_name": "clothes_dryers",
+        "caption": "these are the clothes dryers in the laundromat. they are installed along the left side wall.",
+        "parsed_query": {
+            "Target": "clothes dryers",
+            "Anchor": "left side wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "0",
+        "target_name": "laundry_basket",
+        "caption": "this is a white laundry basket. it is on top of the first drying machine on the left.",
+        "parsed_query": {
+            "Target": "laundry basket",
+            "Anchor": "drying machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "0",
+        "target_name": "laundry_basket",
+        "caption": "this is a white laundry basket. it is on top of the first dryer in the laundromat.",
+        "parsed_query": {
+            "Target": "laundry basket",
+            "Anchor": "first dryer"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "2",
+        "target_name": "clothes_dryers",
+        "caption": "the clothes dryers are white. they are located to the right of the folding table in the corner.",
+        "parsed_query": {
+            "Target": "clothes dryers",
+            "Anchor": "folding table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "1",
+        "target_name": "washing_machine",
+        "caption": "these are the washing machines in the laundromat. they are installed side by side along the right wall.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": "right wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "1",
+        "target_name": "washing_machine",
+        "caption": "the washing machines are tall and white. they are located perpendicular to the blue wall.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": "blue wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "2",
+        "target_name": "clothes_dryers",
+        "caption": "the clothes dryers are white with small black screens. they are located across from the washing machines.",
+        "parsed_query": {
+            "Target": "clothes dryers",
+            "Anchor": "washing machines"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "0",
+        "target_name": "laundry_basket",
+        "caption": "the round laundry basket. the basket is on top of the shelf.",
+        "parsed_query": {
+            "Target": "laundry basket",
+            "Anchor": "shelf"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "2",
+        "target_name": "clothes_dryers",
+        "caption": "the large clothes dryer. the dryer is across from the washing machines.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": "washing machines"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "0",
+        "target_name": "laundry_basket",
+        "caption": "the round plastic laundry basket. the basket is on the dryer.",
+        "parsed_query": {
+            "Target": "laundry basket",
+            "Anchor": "dryer"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the long rectangle folding table. the table is next to the dryers.",
+        "parsed_query": {
+            "Target": "folding table",
+            "Anchor": "dryers"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the rectangle folding table. the table is in the corner by the dryers.",
+        "parsed_query": {
+            "Target": "rectangle folding table",
+            "Anchor": "dryers"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "1",
+        "target_name": "washing_machine",
+        "caption": "the white washing machines are white with circular windows on their front. they are located directly across from the white dryers, and diagonally across the room from the laundry folding table.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": [
+                "dryers",
+                "laundry folding table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the laundry folding table is grey, with a rectangular surface. a row of white dryers is located across from it, to its right.",
+        "parsed_query": {
+            "Target": "dryers",
+            "Anchor": "laundry folding table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the grey laundry folding table has a rectangular surface. it is located in front of  the row of white dryers, and diagonally to the left of a row of white washers.",
+        "parsed_query": {
+            "Target": "laundry folding table",
+            "Anchor": [
+                "row of white dryers",
+                "row of white washers"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "1",
+        "target_name": "washing_machine",
+        "caption": "the washing machines are white and rectangular. they are located across the room from a row of white dryers, with a blue wall perpendicular between them.",
+        "parsed_query": {
+            "Target": "washing machines",
+            "Anchor": [
+                "row of white dryers",
+                "blue wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "the rectangular picture hangs on the blue wall. it is above and to the left of the row of white washing machines.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "blue wall",
+                "row of white washing machines"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "a black and broad table. it is kept near to the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "a square shaped picture. it is hanged on the wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "1",
+        "target_name": "washing_machine",
+        "caption": "a medium size washing machine. it is located near the other machine.",
+        "parsed_query": {
+            "Target": "washing machine",
+            "Anchor": "other machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "0",
+        "target_name": "laundry_basket",
+        "caption": "a small size compact laundry basket. it is kept on a machine.",
+        "parsed_query": {
+            "Target": "laundry basket",
+            "Anchor": "machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0595_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "a small size picture. it is hanged on the wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": true
+    }
+]

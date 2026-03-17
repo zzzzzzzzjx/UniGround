@@ -1,0 +1,280 @@
+[
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "there is a brown wooden bench. placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "5",
+        "target_name": "coffee_table",
+        "caption": "there is a brown round table. placed in front of the seats.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "seats"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "5",
+        "target_name": "coffee_table",
+        "caption": "there is a brown circle table. placed in the middle of the hall in front of seats.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "seats"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "8",
+        "target_name": "bench",
+        "caption": "there is a brown wooden bench. placed next to another same bench.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "bench"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "there are brown round leather seats. placed in front of the round table.",
+        "parsed_query": {
+            "Target": "seats",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "the couch is brown and has wood separators. it is positioned in a half circle in the center of the room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "the bench is made of wood and is in the shape of a rectangle. it is the left bench that is positioned horizontally just off of the far back wall.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "far back wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "8",
+        "target_name": "bench",
+        "caption": "the bench is made of wood and is positioned horizontally. it is the bench on the right just off the far back wall.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "back wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "5",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is circular and is made of wood. it is sitting in front of the half circle couch.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "half circle couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "the half circle couch is brown and has a wood seperator in the middle of it. the couch sits behind a circular coffee table.",
+        "parsed_query": {
+            "Target": "half circle couch",
+            "Anchor": "circular coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "this is a rounded couch. it is on a carpeted floor.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "carpeted floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "this is a brown couch. it is on a carpeted floor.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "carpeted floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "this is a brown bench. it is to the left of another bench.",
+        "parsed_query": {
+            "Target": "brown bench",
+            "Anchor": "bench"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "8",
+        "target_name": "bench",
+        "caption": "this is a brown bench. it is to the right of another bench.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "bench"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "8",
+        "target_name": "bench",
+        "caption": "this is a brown bench. it is behind the couch.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "this is a round couch. it is in front of a bench.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "bench"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "this is a brown bench. it is to the left of another brown bench.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "brown bench"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a brown couch. it is facing a coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a brown couch. it is behind a coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "this is a brown couch. it is in front of two benches.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "benches"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "there is a long circular brown couch. it is facing a coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "there is a long rectangular brown bench. it is next to a wide pillar.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "wide pillar"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "5",
+        "target_name": "coffee_table",
+        "caption": "there is a ciruclar donut shaped coffee table. it is next to a circular couch.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "circular couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "5",
+        "target_name": "coffee_table",
+        "caption": "there is a donut shaped brown coffee table. it is next to a couch.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0334_00",
+        "target_id": "8",
+        "target_name": "bench",
+        "caption": "there is a long rectangular bench. it is next to another wide bench that's closer to the pillar.",
+        "parsed_query": {
+            "Target": "long rectangular bench",
+            "Anchor": [
+                "wide bench",
+                "pillar"
+            ]
+        },
+        "unique": false
+    }
+]

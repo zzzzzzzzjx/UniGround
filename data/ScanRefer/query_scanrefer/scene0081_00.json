@@ -1,0 +1,457 @@
+[
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "1",
+        "target_name": "ottoman",
+        "caption": "a red squared chair. it is under a round table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "a round brown table. it is next to a red squared chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "red squared chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "a round brown table. it is right behind a long black chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "long black chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "a dark blue couch. it is right behind a round table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "1",
+        "target_name": "ottoman",
+        "caption": "a small red chair. it's shape is square, and it is next to a long blue couch.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "long blue couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "7",
+        "target_name": "couch",
+        "caption": "it is a blueish gray and tan booth style couch. the couch is along the wall and, has a small round table and red sitting cube on either end of it.",
+        "parsed_query": {
+            "Target": "booth style couch",
+            "Anchor": [
+                "wall",
+                "small round table",
+                "red sitting cube"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "2",
+        "target_name": "ottoman",
+        "caption": "it is a small red vinyl ottoman. the ottoman is on the ground to the left of the round table ,in front of the couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "round table",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "1",
+        "target_name": "ottoman",
+        "caption": "it is a red ottoman. the ottoman is at the right corner edge of the couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "it is a blue restaurant style booth. the couch is the section at the far right end.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "blue restaurant style booth"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "7",
+        "target_name": "couch",
+        "caption": "it is a blue and tan vinyl booth couch. the couch is along the right wall and is between two round tables and ottoman sets.",
+        "parsed_query": {
+            "Target": "booth couch",
+            "Anchor": [
+                "round tables",
+                "ottoman sets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "7",
+        "target_name": "couch",
+        "caption": "this is a portion of a larger blue couch that is up against a red wall. this portion of the blue couch has a red footrest to it's left and two wooden table on either side of it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "red wall",
+                "red footrest",
+                "wooden table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "1",
+        "target_name": "ottoman",
+        "caption": "a red cube shaped footrest. the footrest is near the end of a large blue couch and a wooden table.",
+        "parsed_query": {
+            "Target": "footrest",
+            "Anchor": [
+                "large blue couch",
+                "wooden table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "1",
+        "target_name": "ottoman",
+        "caption": "a red cube shaped footrest. it is next to a blue couch and wooden table.",
+        "parsed_query": {
+            "Target": "footrest",
+            "Anchor": [
+                "blue couch",
+                "wooden table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "a wooden table with a metal stand. the wooden table is in front of a blue couch and to the left of a red cub shaped footrest.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "blue couch",
+                "red cub shaped footrest"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "2",
+        "target_name": "ottoman",
+        "caption": "a red cube shaped footrest. the footrest is under a wooden table and in front of a blue couch.",
+        "parsed_query": {
+            "Target": "footrest",
+            "Anchor": [
+                "wooden table",
+                "blue couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table is small and circular. it is between two other tables that are very similar. it has a red stool beside it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "table",
+                "table",
+                "stool"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "choose the first small circular table with a metal stand, on the right side. it has no red stool.",
+        "parsed_query": {
+            "Target": "small circular table with a metal stand",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "the bench is blue and slightly curved, with a broadly striped back.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the small round table is in front of the bent portion of the bench. it is between two other very similar tables. it will have a small red stool with it.",
+        "parsed_query": {
+            "Target": "small round table",
+            "Anchor": [
+                "bench",
+                "two other very similar tables",
+                "small red stool"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a round table. it is in front of a blue bench seat.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "blue bench seat"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "this is a blue couch. it is behind a round table.",
+        "parsed_query": {
+            "Target": "blue couch",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "this is a round table. it is next to a red cushion.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "red cushion"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "this is a blue couch. it is next to a red cushion.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "red cushion"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "2",
+        "target_name": "ottoman",
+        "caption": "this is a red ottoman. it is next to a round table.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "the large couch. the couch is next to the little round table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "little round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "the long couch. the couch is against the wall by the table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the small table. the small round table is on the right by the couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "2",
+        "target_name": "ottoman",
+        "caption": "the square ottoman. the ottoman is next to the table.",
+        "parsed_query": {
+            "Target": "square ottoman",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "the couch corner. the couch corner is by the round table.",
+        "parsed_query": {
+            "Target": "couch corner",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the small table. the rounded table is by the couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "the couch end. the couch end is by the table.",
+        "parsed_query": {
+            "Target": "couch end",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the small rounded table. the table is next to the couch end.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couch end"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the small circle table. the table is next to the couch end.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couch end"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the small round table. the table is next to the ottoman.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "ottoman"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the small rounded table. the table is next to the couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "2",
+        "target_name": "ottoman",
+        "caption": "the square ottoman. the small ottoman is next to the table.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "the very long couch. the couch is next to the tables.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "tables"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0081_00",
+        "target_id": "7",
+        "target_name": "couch",
+        "caption": "the medium couch. the couch is by the table at an angle.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "table"
+        },
+        "unique": false
+    }
+]

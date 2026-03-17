@@ -1,0 +1,440 @@
+[
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "14",
+        "target_name": "water_fountain",
+        "caption": "there is a small water fountain located directly to the left of the longer water fountain which is shorter for handicap accessibility.  it is mounted on the wall directly on the left when entering the room from the entryway. .",
+        "parsed_query": {
+            "Target": "small water fountain",
+            "Anchor": [
+                "longer water fountain",
+                "entryway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the brown chair is in the corner of the room against the wall next to the water fountain.  it can be seen on the left when entering the room from the entryway.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "water fountain",
+                "entryway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "there is a table in the corner between the couches with a vase on it.  the table is short in stature and located against the wall directly in front of you when you enter the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couches",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "the brown armchair has two armrests and is located on the wall next to the table.  it is located right next to the door on the left.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is the same height as the armrest on the chair located next to it.  it is round and has a vase on it and is located in the corner between the couch and the chair.  it on the wall to the left of the door when looking at the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "couch",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "there is a brown armchair against the wall. it is to the right of the round table in the corner.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "wall",
+                "round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "14",
+        "target_name": "water_fountain",
+        "caption": "there is a water fountain on the wall. it is to the left of the other water fountain.",
+        "parsed_query": {
+            "Target": "water fountain",
+            "Anchor": "water fountain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "there is a brown chair in the corner. it is to the right of the water fountain.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "water fountain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "there is a brown armchair against the wall. to the left of the chair is a table in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "15",
+        "target_name": "water_fountain",
+        "caption": "there is a water fountain mounted in the wall. it is between the chair and the other water fountain.",
+        "parsed_query": {
+            "Target": "water fountain",
+            "Anchor": [
+                "chair",
+                "water fountain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "a white door. it is to the right of the brown couch.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "brown couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "a black and brown chair. to the right of the sink.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "a table in the corner. it has a mantelpiece placed on top.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "mantelpiece"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "3",
+        "target_name": "ottoman",
+        "caption": "an ottoman made from leather. it is the one furthest to the left.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "15",
+        "target_name": "water_fountain",
+        "caption": "this metallic water fountain is next to a chair. it is mounted to the wall.",
+        "parsed_query": {
+            "Target": "metallic water fountain",
+            "Anchor": [
+                "chair",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "the white interior door in in the corner. next to the door is a red chair.",
+        "parsed_query": {
+            "Target": "interior door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "3",
+        "target_name": "ottoman",
+        "caption": "the ottoman is red and part of a larger sofa. there is a table next to the ottoman.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "ottoman"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "6",
+        "target_name": "ottoman",
+        "caption": "the brown ottoman is touching another ottoman. it is against a red wall.",
+        "parsed_query": {
+            "Target": "brown ottoman",
+            "Anchor": [
+                "ottoman",
+                "red wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "14",
+        "target_name": "water_fountain",
+        "caption": "the metal water fointain is against another water fountain. it is mounted to the wall.",
+        "parsed_query": {
+            "Target": "water fountain",
+            "Anchor": [
+                "water fountain",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "15",
+        "target_name": "water_fountain",
+        "caption": "a chrome water fountain. is the lowest of two water fountains.",
+        "parsed_query": {
+            "Target": "water fountain",
+            "Anchor": "water fountain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "a white door. on the right of a sofa chair.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sofa chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "a armchair that is brown. it is to the left of a white door.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "white door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "14",
+        "target_name": "water_fountain",
+        "caption": "a water fountain that is furthest left. it is chrome.",
+        "parsed_query": {
+            "Target": "water fountain",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "15",
+        "target_name": "water_fountain",
+        "caption": "a water fountain that is chrome. it is closest to the chair.",
+        "parsed_query": {
+            "Target": "water fountain",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is black and brown. it is to the right of the water fountain.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "water fountain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is in the back left corner of the room. it is to the left of the armchair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "armchair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "6",
+        "target_name": "ottoman",
+        "caption": "the ottoman is in the back middle of the room. there is an identical ottoman to the right of it.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "ottoman"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "6",
+        "target_name": "ottoman",
+        "caption": "the ottoman is brown. it is the one on the left.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "3",
+        "target_name": "ottoman",
+        "caption": "the ottoman is brown. it is the one on the right.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "there is a brown chair in the corner. it is to the right of the two water fountains on the wall.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "water fountains"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "15",
+        "target_name": "water_fountain",
+        "caption": "there is a water fountain on the wall that refills water bottles. to the right of it is a brown chair.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "water fountain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "3",
+        "target_name": "ottoman",
+        "caption": "there is a brown ottoman against the wall. to the right is a round table in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "ottoman"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "there is an open door. to the left of the door is a brown armchair.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "open door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "6",
+        "target_name": "ottoman",
+        "caption": "the ottoman is the left-most one next to the chair. the ottoman is a orange brown square.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "there is a brown armchair against the wall. to the left of the chair is a round white table in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "the door is to the right of an orange chair. the door is white and rectangular.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "orange chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0316_00",
+        "target_id": "6",
+        "target_name": "ottoman",
+        "caption": "the ottoman is the left-most one that is near the chair. the ottoman is orange brown and square shaped.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "chair"
+        },
+        "unique": false
+    }
+]

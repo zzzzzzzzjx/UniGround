@@ -1,0 +1,1780 @@
+[
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a rolling cushion chair. the chair is placed at the corner of the room.",
+        "parsed_query": {
+            "Target": "rolling cushion chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "this is a table in diameter shape. the wooden table is attached to wall.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the object is not a chair. the object is the back of a whiteboard misidentified as a chair. it is a brown color and not a chair.",
+        "parsed_query": {
+            "Target": "back of a whiteboard",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the object is a wooden chair. it is the right most chair against the wall. there is a large window behind it.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "the object is a large boardroom style table. there are many chairs surrounding the table, and the table is in the center of the room. it is a brown wood color.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "the object is a large board room style table. the table is in the center of the room and is surrounded by many chairs. there is a chalkboard behind it and a door to the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "chalkboard",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "47",
+        "target_name": "chair",
+        "caption": "the object is a wooden chair with its back facing the camera. it is the middle chair among the three chairs facing away from the camera. it is pushed against the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "27",
+        "target_name": "window",
+        "caption": "the window is located to the left of the other window. there are chairs in front of the window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the chair is in front of the window. there is another chair to the left and behind it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "42",
+        "target_name": "chair",
+        "caption": "the brown wooden chair. the chair is in the back in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the rolling office chair. the office chair is in the corner.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "the large wall window. the window is behind all the chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a gray office chair. it is facing the side of a wooden chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "wooden chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "there is a round brown table. it is to the left of a wooden chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wooden chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a brown wooden chair. it is the second from the corner on the left side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is behind a row of wooden chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "row of wooden chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "46",
+        "target_name": "chair",
+        "caption": "there is a brown wooden chair. it is the third from the corner on the left side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is the third chair from the left. it is along the back wall by the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "51",
+        "target_name": "chair",
+        "caption": "this is one of the fancy chairs on the wall. it is next to last before the office chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "office chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "38",
+        "target_name": "chair",
+        "caption": "this is a wooden chair pulled in to a table. it is on the left side facing towards the row of chairs, second to last from the edge.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "row of chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table is to the right of the door. the table is sitting on the grey floor.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door",
+                "grey floor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "39",
+        "target_name": "chair",
+        "caption": "the brown chair has arms and is behind the table. the chair is on the left side of the table and has a chair on each side of it.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the brown chair is at the end on the left side with another beside it. it is sitting on a grey floor.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "grey floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "27",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is the leftmost window on the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "26",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is the second leftmost window on the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a square wooden chair. it is closest to the right corner of the room.",
+        "parsed_query": {
+            "Target": "square wooden chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "46",
+        "target_name": "chair",
+        "caption": "there is a square wooden chair at the left side of a table. it is the fourth from the end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "there is a square wooden chair. it is at the long end of the table and closest to the right corner.",
+        "parsed_query": {
+            "Target": "square wooden chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "this brown table is a flat surface. it is in the middle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "a brown wooden chair. it is in between multiple wooden chairs next to a wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wooden chairs",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "43",
+        "target_name": "chair",
+        "caption": "there is a wooden chair. it is in the back row, second chair from the wall and situated in front of the large window.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "wall",
+                "large window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "46",
+        "target_name": "chair",
+        "caption": "there are a row of chairs on the side of the table closest to the large windows. it is the fourth chair at the table when counting the chairs starting from the righthand side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "large windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "this is a wooden chair that is placed at the large table. it is the second chair from the end.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "large table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a wooden chair that is in the second row of chairs from the window. in that row (there are two chairs in this row), it is the closest chair to the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "a wooden chair. the chair is underneath a wooden desk next to other chairs.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "wooden desk",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "the object is a chair. if you are standing in front of the door facing the table it is the chair at the end to your left on the opposite side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the object is a chair. it is on the row that is behind the table against the wall it is the third chair down from the beginning of the row which starts in the middle of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the object is a chair. if you were to enter through the door and took a left and walked all the way up to the end of the room and be the last chair to the right in the back row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "37",
+        "target_name": "chair",
+        "caption": "the object is a chair. as you enter through the door it is the fourth chair from the left end of the table in front of you.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the object is a chair. if you enter the room for the door and walked to the left up to the end of the table it would be the second chair from the wall on the left it would be in front of you.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "table",
+                "left wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "46",
+        "target_name": "chair",
+        "caption": "this is a chair by the table. it is the fourth chair from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "53",
+        "target_name": "chair",
+        "caption": "this is a chair by the wall. it is the fifth chair from the right wall surface.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "right wall surface"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "53",
+        "target_name": "chair",
+        "caption": "a wooden chair with arms. the chair is in between multiple other wooden chairs.",
+        "parsed_query": {
+            "Target": "wooden chair with arms",
+            "Anchor": "wooden chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "a medium sized wooden chair. the chair is in front of a window with blinds.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window with blinds"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this chair is light. it is facing away.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "54",
+        "target_name": "chair",
+        "caption": "this chair is facing to the left. it is light.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "26",
+        "target_name": "window",
+        "caption": "this window is on the right. it is bright.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this chair is the third closest to the viewer. it is bright.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "37",
+        "target_name": "chair",
+        "caption": "this is a chair positioned in front of the door. it is facing away from the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this chair is on the far right corner. it is facing inward.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "this table is round. it is brown.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "54",
+        "target_name": "chair",
+        "caption": "this chair is the sixth from the viewer. it is facing left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "54",
+        "target_name": "chair",
+        "caption": "this chair is the fifth from the viewer on the left row. it is facing left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "this table is on the left. it is brown.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "26",
+        "target_name": "window",
+        "caption": "the window is along the wall on the right side of the room. the window is to the right of the other window beside it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "other window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "the chair is to the left of the other chair. the chair is also to the right of the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "the chair is facing the table, and is located at the right corner of the table. the chair is to the right of the other chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "other chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "53",
+        "target_name": "chair",
+        "caption": "the chair has its back against the wall. there are two chairs to the left of the chair, and two chairs to the right of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "55",
+        "target_name": "chair",
+        "caption": "the chair is in a row of chairs. there is a chair to its left, and a chair to its right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a chair sits near a long wooden table. it is the second chair from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "long wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "43",
+        "target_name": "chair",
+        "caption": "a chair sits with it's back to the window. it's the third chair from the right in the back row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "43",
+        "target_name": "chair",
+        "caption": "a chair sits in the back row with it's back to the window. it's the second from the left in the back row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "39",
+        "target_name": "chair",
+        "caption": "a chair sits on the floor. it's the chair in the middle of two others and is pulled out from the table the most.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "a chair sits with it's back to the wall. it's directly to the right of a half circle table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "half circle table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is to the left of other chairs.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "other chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "this is a glass window. it is behind chairs.",
+        "parsed_query": {
+            "Target": "glass window",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "55",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is in front of the window.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "38",
+        "target_name": "chair",
+        "caption": "a chair sits on our side of the table with it's back to us. it's the third chair if you're counting from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "48",
+        "target_name": "chair",
+        "caption": "a chair sits at a long table with many others. it's the second chair from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "long table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "47",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is the middle chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is the second chair from the right.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "a chair sits with it's back pointing to the corner. it's the third from the left chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "a chair sits with it's back to the wall. it's the chair at the bottom of a long row of chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "row of chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "a window sits behind several chairs. it's got a swivel chair to the right of the right window.",
+        "parsed_query": {
+            "Target": "swivel chair",
+            "Anchor": "right window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "40",
+        "target_name": "chair",
+        "caption": "a chair sits facing a table. it's between two other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "two other chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "42",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is the second chair from the wall.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is by the corner of the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is to the middle chair.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "middle chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "this is a glass window. it is behind wooden chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wooden chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is to the left of the table corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this chair is placed in a row of chairs close with the wall. this is the second chair from the left and so many other chairs are present on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this chair is a single chair placed close with the wall. another semicircle table found on the left of this chair.",
+        "parsed_query": {
+            "Target": "semicircle table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "this is the left end chair placed under the long wooden table. another chair is placed behind this chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "long wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "51",
+        "target_name": "chair",
+        "caption": "this chair is placed close with the wall along with other chairs. this is the second chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "41",
+        "target_name": "chair",
+        "caption": "a chair sits near a table sitting in the middle of the floor. it's between two other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a chair sits almost pulled under a table as it faces us. it's on the far side of the table and it's second from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "43",
+        "target_name": "chair",
+        "caption": "this is a wooden chair in the room. it is near the opened window, second from the left side wall.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "opened window",
+                "left side wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "44",
+        "target_name": "chair",
+        "caption": "a chair sits with it's back to the window. it's in the back row all the way to the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "a window is lit up in the wall. it's behind a row of chairs.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "row of chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "a long table sits in the center of the room. it's got many wooden chairs pulled under it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a chair sits with it's back to the window. it's the third chair from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "a chair sits with it's back to the window. it's the chair all the way to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "27",
+        "target_name": "window",
+        "caption": "a window sits behind two chairs. it's to the left of another window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "chairs",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "38",
+        "target_name": "chair",
+        "caption": "a chair sits pulled under a table. it's the third chair from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "a window with four panes sits in the wall. it's got a few chairs with their backs to it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "a window with four panes sits in the wall with light coming through it. it's got two chairs with their backs pointed to it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the second chair from the left in the back row, against the windows. there is only one chair to it's left, many to it's right, and some in front of it which are pulled up to the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair to the far left in the back row against the windows. there is a long row of chairs to it's right, and chairs in front of it,  too. it's against the wall in-between windows.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "a chair in the back left corner of the table, pulled under the table. there chairs behind it to its right, which are further from the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "in front of the back row of chairs, this chair is second from the left. to its left is a chair, behind it is the back row, and to its right is a gap before another two chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "back row of chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. the chair is placed next to door with arms.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "26",
+        "target_name": "window",
+        "caption": "this is a glass window in square shape . the window have wooden frame and have no chairs in front.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "a chair in front of the back row, 2nd from the right. there is a chair directly right of this one next to the window, and to its left is a gap, followed by two more chairs in this second-from-the-back row of 4 chairs. this one could also be considered the 3rd from the left in this row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "a wooden chair sits with it's back to the wall to the left of a blackboard. it's to the right of a swivel chair and they both hang out by the window.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "blackboard",
+                "swivel chair",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "43",
+        "target_name": "chair",
+        "caption": "a chair in the back row sits with it's back to the window. it's the second chair from the left of the back row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "a window with four panes sits in the wall in the back of the room. it's got two chairs in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "a chair sits with it's back pointed at the windows left corner. it's the chair all the way to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is one of three. it is slightly pulled out. there is a chair to the left, and a chair to the right of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "41",
+        "target_name": "chair",
+        "caption": "the chair is slightly pulled back from the corner of the table. it is to the left of the other chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "47",
+        "target_name": "chair",
+        "caption": "the chair is facing and pulled into the table. there is a chair to the right of it, and two chairs to the left of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is grey and has casters as its base. it is facing the wooden chair to the right of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wooden chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this chair is on the bottom left corner of the table. it is facing toward the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this chair is facing down and right. it has no chairs in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "44",
+        "target_name": "chair",
+        "caption": "this chair is in the far back left corner. it is facing the viewer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "46",
+        "target_name": "chair",
+        "caption": "this chair is on the right side. it is the fourth from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "55",
+        "target_name": "chair",
+        "caption": "the chair is to the right of one chair, and to the left of another. the window is behind the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "27",
+        "target_name": "window",
+        "caption": "this is a window on the right side of the room. right where the wall angles, it's the first addition there.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "this is a wooden chair at the large table in the room. it is on the left front corner near the left side wall.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "large table",
+                "left side wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is between the two sets of windows at the back wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "37",
+        "target_name": "chair",
+        "caption": "this is a brown wooden chair. it is on the left side of the meeting table near the doors. it is fourth down from the end with the windows.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "meeting table",
+                "doors",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a wooden basic chair. it is in the back left corner of the room near the windows, in the first row against the left wall near the white board.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "left wall",
+                "white board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "this is a brown wooden table in the meeting room. it has a glossy cover and many chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "40",
+        "target_name": "chair",
+        "caption": "this is a wooden chair in the meeting room. it is near the corner of the table nearest the bins and door entrance.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "table",
+                "bins",
+                "door entrance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "41",
+        "target_name": "chair",
+        "caption": "the object is a chair. if you were to enter through the door and walk around the table to your left, when you got to the end of the table it would be the chair closest to you on that end of the table with its back facing the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "41",
+        "target_name": "chair",
+        "caption": "the object is a chair. if you were standing on the opposite side of the room from the chalkboard with your back to the windows it would be the chair on the end of the table at the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chalkboard",
+                "window",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "51",
+        "target_name": "chair",
+        "caption": "the object is a chair. if you were standing in front of the door with the door to the back of you and look to the left end of the chalkboard to your right and counted of the chairs from the chalkboard up it would be the fourth chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "chalkboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "this is a window in the meeting room. it is near the chalkboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "chalkboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "37",
+        "target_name": "chair",
+        "caption": "this is a wooden chair at the table. it is near the doors on the left side of the room near the center of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "doors"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is against the wall by the windows. it is third from the left side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "39",
+        "target_name": "chair",
+        "caption": "this is the pulled out wooden chair at the table. it is near the doorway entrance.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "table",
+                "doorway entrance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the object is a chair. if you enter through the door and walked up to the left there wood be a row of chairs directly behind the table and chairs, in the first row. it would be the second chair from the left end.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "table",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is against the wall near the left side of the chalkboard.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "wall",
+                "chalkboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a swivel office chair. it is to the left of the wooden chair to the left of the chalkboard.",
+        "parsed_query": {
+            "Target": "swivel office chair",
+            "Anchor": [
+                "wooden chair",
+                "chalkboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is the wooden chair by the chalkboard. it is to the left of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chalkboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a wooden chair by the window. in the line of 8 or so chairs by the window, it is second from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "44",
+        "target_name": "chair",
+        "caption": "this is a wooden chair all the way in the corner of the room. it is behind the white board and by the window.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "white board",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a staggered placed wooden chair. it is near the windows on the opposite side of the room. it is the only chair not in a row by the far windows, opposite of the white board.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "white board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "53",
+        "target_name": "chair",
+        "caption": "this is a wooden chair against the wall. it is in a line of chairs. this particular one is sixth from the left side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "this is a window in the corner of the room. it is directly opposite of the entrance and to the left of the chalkboard.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "entrance",
+                "chalkboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "41",
+        "target_name": "chair",
+        "caption": "this is a wooden chair at the head of the table. it is closes to the entrance doors.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "table",
+                "entrance doors"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "39",
+        "target_name": "chair",
+        "caption": "this is a pulled out wooden chair at the front side of the table near the entrance. it is near the left side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "entrance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "27",
+        "target_name": "window",
+        "caption": "this is a window in the meeting room. from the entrance, it is the second set of windows from the left side of the room. the wall is slightly angled there.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "entrance"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "38",
+        "target_name": "chair",
+        "caption": "this is a wooden chair on the front of the long side of the table. it is the third chair from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a wooden chair at the head of the table. it is on the left side of the head of the table.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "26",
+        "target_name": "window",
+        "caption": "this is a window in the meeting room. from the entrance, it is the third window set from the left wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "entrance",
+                "left wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0500_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is near the window to the bottom left of the chalkboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "chalkboard"
+            ]
+        },
+        "unique": false
+    }
+]

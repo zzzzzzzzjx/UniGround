@@ -1,0 +1,1551 @@
+[
+  {
+    "scan_id": "47333462",
+    "target_id": "2",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is farthest from the bed",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "2",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is far from the bed",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "2",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is far away from the bed",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "choose the chair that is closer to the bed",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "choose the chair that is close to the bed",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "choose the chair that is near the bed",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "choose the chair that is farthest from the bed",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "choose the chair that is far from the bed",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "choose the chair that is far away from the bed",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "select the flowerpot that is farthest from the bed",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "select the flowerpot that is far from the bed",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "select the flowerpot that is far away from the bed",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "bed"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "3",
+    "target_name": "cabinet",
+    "caption": "find the cabinet that is closer to the table",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "3",
+    "target_name": "cabinet",
+    "caption": "find the cabinet that is close to the table",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "3",
+    "target_name": "cabinet",
+    "caption": "find the cabinet that is near the table",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "0",
+    "target_name": "cabinet",
+    "caption": "select the cabinet that is farthest from the table",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "0",
+    "target_name": "cabinet",
+    "caption": "select the cabinet that is far from the table",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "0",
+    "target_name": "cabinet",
+    "caption": "select the cabinet that is far away from the table",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "find the monitor that is closer to the table",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "find the monitor that is close to the table",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "find the monitor that is near the table",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "find the monitor that is farthest from the table",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "find the monitor that is far from the table",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "find the monitor that is far away from the table",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "find the chair that is closer to the table",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "find the chair that is close to the table",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "find the chair that is near the table",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "the chair that is farthest from the table",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "the chair that is far from the table",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "the chair that is far away from the table",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "the flowerpot that is closer to the table",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "the flowerpot that is close to the table",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "the flowerpot that is near the table",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "19",
+    "target_name": "flowerpot",
+    "caption": "the flowerpot that is farthest from the table",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "19",
+    "target_name": "flowerpot",
+    "caption": "the flowerpot that is far from the table",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "19",
+    "target_name": "flowerpot",
+    "caption": "the flowerpot that is far away from the table",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "3",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is closer to the lamp",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "3",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is close to the lamp",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "3",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is near the lamp",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "0",
+    "target_name": "cabinet",
+    "caption": "the cabinet that is farthest from the lamp",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "0",
+    "target_name": "cabinet",
+    "caption": "the cabinet that is far from the lamp",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "0",
+    "target_name": "cabinet",
+    "caption": "the cabinet that is far away from the lamp",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "choose the monitor that is beside the lamp",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "select the monitor that is farthest from the lamp",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "select the monitor that is far from the lamp",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "select the monitor that is far away from the lamp",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "choose the chair that is next to the lamp",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "choose the chair that is farthest from the lamp",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "choose the chair that is far from the lamp",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "choose the chair that is far away from the lamp",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "choose the flowerpot that is closer to the lamp",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "choose the flowerpot that is close to the lamp",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "choose the flowerpot that is near the lamp",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "15",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is next to the blanket",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "2",
+    "target_name": "cabinet",
+    "caption": "select the cabinet that is farthest from the blanket",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "2",
+    "target_name": "cabinet",
+    "caption": "select the cabinet that is far from the blanket",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "2",
+    "target_name": "cabinet",
+    "caption": "select the cabinet that is far away from the blanket",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "select the monitor that is closer to the blanket",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "select the monitor that is close to the blanket",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "select the monitor that is near the blanket",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "choose the monitor that is farthest from the blanket",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "choose the monitor that is far from the blanket",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "choose the monitor that is far away from the blanket",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "the chair that is closer to the blanket",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "the chair that is close to the blanket",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "the chair that is near the blanket",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "the chair that is farthest from the blanket",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "the chair that is far from the blanket",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "the chair that is far away from the blanket",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "find the flowerpot that is farthest from the blanket",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "find the flowerpot that is far from the blanket",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "find the flowerpot that is far away from the blanket",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "blanket"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "find the monitor that is closer to the radiator",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "find the monitor that is close to the radiator",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "find the monitor that is near the radiator",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "select the monitor that is farthest from the radiator",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "select the monitor that is far from the radiator",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "select the monitor that is far away from the radiator",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "the chair that is beside the radiator",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "select the chair that is farthest from the radiator",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "select the chair that is far from the radiator",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "select the chair that is far away from the radiator",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "select the flowerpot that is farthest from the radiator",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "select the flowerpot that is far from the radiator",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "select the flowerpot that is far away from the radiator",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "0",
+    "target_name": "cabinet",
+    "caption": "the cabinet that is beside the door",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "3",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is farthest from the door",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "3",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is far from the door",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "3",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is far away from the door",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "find the monitor that is closer to the door",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "find the monitor that is close to the door",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "find the monitor that is near the door",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "the monitor that is farthest from the door",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "the monitor that is far from the door",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "the monitor that is far away from the door",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "select the chair that is closer to the door",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "select the chair that is close to the door",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "select the chair that is near the door",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "select the chair that is farthest from the door",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "select the chair that is far from the door",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "select the chair that is far away from the door",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "find the flowerpot that is farthest from the door",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "find the flowerpot that is far from the door",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "20",
+    "target_name": "flowerpot",
+    "caption": "find the flowerpot that is far away from the door",
+    "parsed_query": {
+      "Target": "flowerpot",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "15",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is closer to the window",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "15",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is close to the window",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "15",
+    "target_name": "cabinet",
+    "caption": "choose the cabinet that is near the window",
+    "parsed_query": {
+      "Target": "cabinet",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "choose the monitor that is closer to the window",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "choose the monitor that is close to the window",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "choose the monitor that is near the window",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "the monitor that is farthest from the window",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "the monitor that is far from the window",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "the monitor that is far away from the window",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "choose the chair that is closer to the window",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "choose the chair that is close to the window",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "choose the chair that is near the window",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "find the chair that is farthest from the window",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "find the chair that is far from the window",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "find the chair that is far away from the window",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "looking at the front of the lamp, select the monitor that is on the left of it",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "looking at the front of the lamp, select the monitor that is to the left of it",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "looking at the front of the lamp, select the monitor that is on the left side of it",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "facing the front of the lamp, select the monitor that is on the left of it",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "facing the front of the lamp, select the monitor that is to the left of it",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "facing the front of the lamp, select the monitor that is on the left side of it",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "looking at the front of the lamp, select the monitor that is on the right of it",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "looking at the front of the lamp, select the monitor that is to the right of it",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "looking at the front of the lamp, select the monitor that is on the right side of it",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "facing the front of the lamp, pick the monitor that is on the right of the lamp",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "facing the front of the lamp, pick the monitor that is to the right of the lamp",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "6",
+    "target_name": "monitor",
+    "caption": "facing the front of the lamp, pick the monitor that is on the right side of the lamp",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "lamp"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "select the chair that is in front of the radiator",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "radiator"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "choose the chair that is in front of the door",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "door"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "7",
+    "target_name": "chair",
+    "caption": "find the chair that is in front of the window",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": "window"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "find the monitor that is on top of the table",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "find the monitor that is on the table",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "5",
+    "target_name": "monitor",
+    "caption": "find the monitor that is lying on the table",
+    "parsed_query": {
+      "Target": "monitor",
+      "Anchor": "table"
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "select the chair that is in the center of the bed and the table",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": [
+        "bed",
+        "table"
+      ]
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "the chair that is in the center of the table and the radiator",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": [
+        "table",
+        "radiator"
+      ]
+    },
+    "unique": false
+  },
+  {
+    "scan_id": "47333462",
+    "target_id": "8",
+    "target_name": "chair",
+    "caption": "choose the chair that is between the table and the door",
+    "parsed_query": {
+      "Target": "chair",
+      "Anchor": [
+        "table",
+        "door"
+      ]
+    },
+    "unique": false
+  }
+]

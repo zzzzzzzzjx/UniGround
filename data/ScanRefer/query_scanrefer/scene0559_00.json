@@ -1,0 +1,416 @@
+[
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "13",
+        "target_name": "bench",
+        "caption": "a dark gray leather seat. under the table.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "a beige wooden,gray steel table. in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "5",
+        "target_name": "ottoman",
+        "caption": "a green round table. in front the seats.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "seats"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "this is a wooden table. it is big and rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "7",
+        "target_name": "whiteboard",
+        "caption": "this is a rectangular whiteboard. it is right next to the table.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "7",
+        "target_name": "whiteboard",
+        "caption": "this is a rectangular whiteboard. it is hanging vertically.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "15",
+        "target_name": "end_table",
+        "caption": "this is a square table. it is between the two couches.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couch",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "this is a big table. it has many stuffs on top.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "7",
+        "target_name": "whiteboard",
+        "caption": "this is a rectangular board. it is behind a box",
+        "parsed_query": {
+            "Target": "rectangular board",
+            "Anchor": "box"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "14",
+        "target_name": "couch",
+        "caption": "this is a black couch. it is behind a stool.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "stool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "7",
+        "target_name": "whiteboard",
+        "caption": "this is a rectangular whiteboard. it is on the far wall.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "far wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "12",
+        "target_name": "bench",
+        "caption": "this is a gray bench. it is under a desk.",
+        "parsed_query": {
+            "Target": "gray bench",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "15",
+        "target_name": "end_table",
+        "caption": "this is a tan end table. it is in between to couches.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "couch",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "14",
+        "target_name": "couch",
+        "caption": "there is a rectangular brown couch. it is next to a cylindrical green footstool.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "cylindrical green footstool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "13",
+        "target_name": "bench",
+        "caption": "there is a rectangular brown bench. it is under a rectangular table.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "rectangular table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "5",
+        "target_name": "ottoman",
+        "caption": "there is a cylindrical green ottoman. it is in front of a couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "13",
+        "target_name": "bench",
+        "caption": "there is a rectangular brown bench. it is under the table.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "there is a rectangular brown couch. it has two seats and faces a green ottoman.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "green ottoman"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "the table stands to the left of the metal railing. the table has a tan top and dark metal legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "metal railing"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "7",
+        "target_name": "whiteboard",
+        "caption": "the board hangs behind the tan table. the board is white with blue writing.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": "tan table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "12",
+        "target_name": "bench",
+        "caption": "the bench sits underneath the tan table. the bench is brown and sat next to an identical bench.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "tan table",
+                "identical bench"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "13",
+        "target_name": "bench",
+        "caption": "the bench sits underneath the tan table. the bench is brown and sits nearest to the metal railing.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "tan table",
+                "metal railing"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "the tan table stands in the middle of view. the table sits in front of the white board.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "white board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a 2 seater couch. it is placed adjacent to another couch and a side table.",
+        "parsed_query": {
+            "Target": "2 seater couch",
+            "Anchor": [
+                "couch",
+                "side table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a 2 seater couch. it is placed against a colorful wall with wallpaper.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "14",
+        "target_name": "couch",
+        "caption": "this is a 3 seater couch. it is placed against a wood textured wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "wood textured wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a 2 seater couch. it is placed against a colorful wall.",
+        "parsed_query": {
+            "Target": "2 seater couch",
+            "Anchor": "colorful wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "5",
+        "target_name": "ottoman",
+        "caption": "the small round ottoman. the ottoman is next to the couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "15",
+        "target_name": "end_table",
+        "caption": "the small square end table. the table is between the couches.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "couches"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "12",
+        "target_name": "bench",
+        "caption": "the rectangle bench. the bench is under the table.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "12",
+        "target_name": "bench",
+        "caption": "the small rectangle grey bench. the bench is tucked under the table.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "12",
+        "target_name": "bench",
+        "caption": "the rectangle grey bench. the bench sits under the table.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "5",
+        "target_name": "ottoman",
+        "caption": "the item is an ottoman. is the only ottoman in the room and it is green.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "5",
+        "target_name": "ottoman",
+        "caption": "the item is an ottoman. it is the only ottoman in the room in front of the couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "the item is a couch. it is the couch directly below the window.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0559_00",
+        "target_id": "15",
+        "target_name": "end_table",
+        "caption": "the item is in end table. what is the only in end table found between the two couches in the room.",
+        "parsed_query": {
+            "Target": "item",
+            "Anchor": [
+                "end table",
+                "couches"
+            ]
+        },
+        "unique": false
+    }
+]

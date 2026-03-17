@@ -1,0 +1,925 @@
+[
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the black chair, in front of the chair with a brown table, on the right has 2 black chairs. . on the left is a black chair with the left to right it is the first chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "chair",
+                "brown table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "a black office office chair. the third chair from the left.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "a black office office chair. a black chair who is in between with other similar chairs.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": "other similar chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair is black with metal legs. the chair is back against the wall and has two chairs to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "33",
+        "target_name": "door",
+        "caption": "the door is wooden with a window in the middle. the door is in the corner by the white board.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "white board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is grey and leather. the chair is on the right of the table and is behind one chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair is black with metal legs. the chair is the first one right of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "31",
+        "target_name": "whiteboard",
+        "caption": "a white board in the corner. it is next to the door.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is black and plastic. the chair is on the right corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is black and tall. the chair is on the right corner of the end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is black and plastic. the chair is between two others.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "31",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is white and in the corner of the room. the whiteboard is wooden legged.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is black and in the corner. the chair left of the others.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "straight ahead, with its back resting against the far wall, sits a black chair. to the right of it is another chair of the same type with its back facing a perpendicular wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "black chair",
+                "perpendicular wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "in the right corner of the room is a black chair facing the large wooden table. it is one of many chairs of the same type. but it is the only one directly in the aforementioned corner and is the one closes to the far wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "large wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "one of many black office chairs sits next to a large wooden board room table. it is on the nearest side of the table and sits between two other chairs of the same type, so that it is almost in the center of the table.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": [
+                "large wooden board room table",
+                "other chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "33",
+        "target_name": "door",
+        "caption": "a door is situated behind a large wooden board room table, near the right far corner of the room. to its right is a portable white board followed by a wall hanging white board.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "large wooden board room table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "one of many black office chairs sits behind the large wooden office table on its furthest right corner. behind it is a row of black office chairs.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": [
+                "large wooden office table",
+                "row of black office chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "33",
+        "target_name": "door",
+        "caption": "a wooden door is placed in the far wall just before the far right corner of the room. ahead of it is a large wooden conference table.",
+        "parsed_query": {
+            "Target": "conference table",
+            "Anchor": "wooden door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "a black office chair sits in the middle of the far side of a large wooden conference table. two other black chairs sit on either side of it.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": "large wooden conference table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "a black office chair sits behind the large wooden conference table. it is the sixth chair from the left of those that are behind the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "large wooden conference table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "28",
+        "target_name": "table",
+        "caption": "there is a large wooden conference table in the middle of the room. it is surrounded by numerous black office chairs.",
+        "parsed_query": {
+            "Target": "conference table",
+            "Anchor": "black office chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "one of many black office chairs site with its back to the far wall, against the white board. to the left is the far end of a large wooden conference table.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": [
+                "far wall",
+                "white board",
+                "large wooden conference table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is around the table in the middle of the room.  it is on the right hand side of the table and third from the front.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the chair is around the table in the middle of the room.  it is on the right hand side and the first from the front.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is around the table in the middle of the room.  it is in the right hand side and the furthest in the back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is on the right hand side of the room in the middle facing forward.  it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "31",
+        "target_name": "whiteboard",
+        "caption": "this is a standing whiteboard. it is in a corner of the room.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is facing another chair across the room.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "28",
+        "target_name": "table",
+        "caption": "this is a long table. it is surrounded by chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "28",
+        "target_name": "table",
+        "caption": "this is a long table. it is in the middle of many chairs.",
+        "parsed_query": {
+            "Target": "long table",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this is a black chair. the back of the chair is against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is to the right of two other chairs.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in front of a row of chairs.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "row of chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at the end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "28",
+        "target_name": "table",
+        "caption": "this is a long bare table. it is in the middle of many chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a black, mesh back, rolling office chair. this chair is the last one one the right  at the table closest to front of room.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "33",
+        "target_name": "door",
+        "caption": "this is a wood frame door.  the door is back behind the table in the right corner of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a black rolling office chair. this chair is behind the table and is turned sideways pointing towards the door.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "31",
+        "target_name": "whiteboard",
+        "caption": "it is a white board on a rolling stand. the white board is next to the door.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": [
+                "rolling stand",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "it is a rolling,black, office chair. this chair is at the back of the table and is the third chair from the end when going to the left.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is black and has two arms. the chair is right of the other one.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is plastic and grey. the chair is between two others.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is black and is near a wall. the chair has three to the left of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is black and at the end of the table. the chair is right of the other two.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "other two chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "28",
+        "target_name": "table",
+        "caption": "the table is long and brown. the table is wooden and has chairs on either side.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is black and in the middle of the table. there is one chair to the right of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is on the left of the table. the chair is black and closest to the end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is black and in the corner of the room. the chair is against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is black and has arms. the chair is sideways and in front of two others.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "two other chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a black office chair. this chair is at the end of the table and is the chair closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a black office chair. this chair is on the side of the table with only three chairs and, is the chair at the end ,furthest from the white board.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "white board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "31",
+        "target_name": "whiteboard",
+        "caption": "this is a whiteboard. it sets on the floor.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "floor"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a chair. it sets in a room with other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a chair. it sets at a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a chair. it sets at a table with other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a chair. it sets at a table, close to the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a black mesh office chair. this chair is along the back wall and has a chair turned side ways in front of it.",
+        "parsed_query": {
+            "Target": "black mesh office chair",
+            "Anchor": [
+                "back wall",
+                "chair turned sideways"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a black office chair. this chair is along the back wall and it is the fifth chair to the right.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the office chair. the office chair is at the head of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a black rolling office chair. this chair is  on the back side of the table and, is the last chair on the right.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the roller office chair. the chair is at the head of the table by the pulled out chair.",
+        "parsed_query": {
+            "Target": "roller office chair",
+            "Anchor": [
+                "table",
+                "pulled out chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a black office chair. this chair is on the front side of the desk and, it is the last one before the white board.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "white board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a nice office chair. the chair is by the next to the head of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a black office chair. this chair is the last on to the right on the back side of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the big office chair. the chair is on the side between two chairs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "33",
+        "target_name": "door",
+        "caption": "there is a brown door that you can see when you are standing at the end of the table by the wipe board.  it is against the wall you will be looking at and to the left of the wipe board.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wipe board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "stand by the outlets under the board while facing the windows in the room.  there is a black office chair is the one closest to you.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "outlets",
+                "board",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "stand at the end of the table facing the wipe boards.  looking down the right side of the table, the office chair is the fourth one down, facing the wall with the board on it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "stand in front of the free standing board in the room.  looking down the side of the table closest to you, it is the second chair down the row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "free standing board",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "stand in front of the free standing board in the room looking down the side of the table closest to you.  the black chair is the one closest to you on the side of the table looking down the length of the table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "free standing board",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the black chair, in front of a chair with a brown table, on the right with 2 black chairs. on the left are chairs arranged close together, right to left it is the first chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "chair",
+                "brown table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the black chair, in front of the chair with a brown table. it  is in the middle of two black chairs.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "chair with a brown table",
+                "two black chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the black chair, in front of the chair with a brown table, on the right is a black chair, on the left is another chair but it is not folded in. looking straight , it is the middle chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "chair with a brown table",
+                "black chair on the right",
+                "chair on the left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0088_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "the black chair, in front of the chair is another row. this chair is placed near the wall, from right to left, it is the first chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    }
+]

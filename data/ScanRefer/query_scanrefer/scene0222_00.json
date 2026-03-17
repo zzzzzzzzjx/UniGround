@@ -1,0 +1,1274 @@
+[
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "another similar window can be seen on the right of this window. a fan is present in front of another window. .",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "it is a black and silver mini fridge. there is a blue trashcan and a brown desk next to it.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": [
+                "blue trashcan",
+                "brown desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "the window has blinds on it. it is to the right of the bed in the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the desk chair is brown with a blue cushion. it goes with the brown desk in the image.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "brown desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "20",
+        "target_name": "pillow",
+        "caption": "the white pillow is on top of the black bed. it is to the left of the brown dresser.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "black bed",
+                "brown dresser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "the blue trash can is the second trash can from the left. it is to the left of the gray bed.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "gray bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "the trash can is the rightmost one out of a row of three trash cans next to the bed. the trash can is blue and has a plastic bag on top.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "trash can",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "19",
+        "target_name": "pillow",
+        "caption": "the pillow is on top of the northern side of the bed. the pillow is a gray rectangle.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "a black bed with one pillow and blue sheets on top. its next to a wooden desk in the corner of the room.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "wooden desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "a window with black shades over it near the corner. it is directly next to the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "a brown and green chair with white shorts draped over them. it is directly in front of the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "29",
+        "target_name": "window",
+        "caption": "a window in the corner of the room with black drapes covering it. it is near the shelf and the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "shelf",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "19",
+        "target_name": "pillow",
+        "caption": "there is a dark grey pillow on the corner of the bed closest to the wall. the pillow is near the headboard on the unmade bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "wall",
+                "headboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "there is a chair in front of the desk. the chair is covered in clothing.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "21",
+        "target_name": "mini_fridge",
+        "caption": "there is a black mini-fridge to the left of the bed. the mini fridge is to the left of the trash cans.",
+        "parsed_query": {
+            "Target": "mini-fridge",
+            "Anchor": [
+                "bed",
+                "trash cans"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "24",
+        "target_name": "door",
+        "caption": "the dark door is in the corner of the room. the door has brass fixtures and is to the left of the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "24",
+        "target_name": "door",
+        "caption": "there is a dark door to the left of the bed. the door has brass hardware and is next to the mini-fridge.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bed",
+                "mini-fridge"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "42",
+        "target_name": "shelf",
+        "caption": "the shelf is on top of the desk between the bed and closet. the shelf is brown and has two sections.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "bed",
+                "closet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "13",
+        "target_name": "desk",
+        "caption": "the desk is between the bed and the closest. the desk is brown and has multiple drawers.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "closet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a desk chair sitting next to the desk. it is covered in laundry.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "20",
+        "target_name": "pillow",
+        "caption": "this is a white pillow located at the top of the bed. it is lying against the wooden bed frame.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "bed",
+                "wooden bed frame"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "0",
+        "target_name": "bed",
+        "caption": "this is a twin bed located along the wall in the bedroom. it has a dark wooden frame and is covered in a blue sheet set.",
+        "parsed_query": {
+            "Target": "twin bed",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "this is a square window located above the twin bed in the bedroom. it is covered with closed blinds.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "twin bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "this is a wooden desk located in the bedroom. it is covered in personal items. it is located on a wall adjacent to the bed.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "21",
+        "target_name": "mini_fridge",
+        "caption": "this is a black mini-fridge. it is located along the wall next to the trash can and recycling bin.",
+        "parsed_query": {
+            "Target": "mini-fridge",
+            "Anchor": [
+                "wall",
+                "trash can",
+                "recycling bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "this is a plastic trash can. it is located on the floor between the bed and the recycling bin.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "bed",
+                "recycling bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "this is a blue plastic recycling bin. it is located on the floor between the bed and the trash can.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "bed",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "this is a brown wooden desk. it is located along the wall opposite the bed, next to the bedroom door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "bedroom door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "18",
+        "target_name": "nightstand",
+        "caption": "the nightstand is to the right of a bed in the corner of the room. the nightstand is a brown prism.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk is between two beds. the desk is a orange brown rectangular prism.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "21",
+        "target_name": "mini_fridge",
+        "caption": "this is a black mini-fridge. it is located along the wall adjacent to the bed, next to the trash can and the recycling bin.",
+        "parsed_query": {
+            "Target": "mini-fridge",
+            "Anchor": [
+                "bed",
+                "trash can",
+                "recycling bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "34",
+        "target_name": "trash_can",
+        "caption": "the trash can is between the desk and mini fridge. the trash can is blue and rectangular.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "desk",
+                "mini fridge"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "41",
+        "target_name": "cushion",
+        "caption": "this is a cushion located on the floor next to the open closet door. it is on the floor at the foot of the bed.",
+        "parsed_query": {
+            "Target": "cushion",
+            "Anchor": [
+                "open closet door",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "17",
+        "target_name": "trash_can",
+        "caption": "this is a plastic trash can. it is located on the floor between the mini-fridge and the bed.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "mini-fridge",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a desk chair sitting next to a desk in the center of the room. it is covered with laundry.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "29",
+        "target_name": "window",
+        "caption": "this is a square window on the same wall as the bed. it is covered with closed blinds and located above a desk/dresser.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed",
+                "desk",
+                "dresser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "19",
+        "target_name": "pillow",
+        "caption": "the pillow is on top of the northern side of the bed. the pillow is a dull gray rectangle.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk is against the wall. it is located to the left of the door. there is a chair partially pulled into the desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "17",
+        "target_name": "trash_can",
+        "caption": "the trash can is to the left of the blue trash can that is left of the bed. the trash can is a gray prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue trash can",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "29",
+        "target_name": "window",
+        "caption": "the window is right above the desk with the shelf. the window is closed and looks like a gray rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desk",
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "42",
+        "target_name": "shelf",
+        "caption": "the shelf if on top of the desk. it is to the right of the ventilator.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "ventilator"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "0",
+        "target_name": "bed",
+        "caption": "the bed is to the left of a desk. the bed has four legs and a dark blue mattress.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "20",
+        "target_name": "pillow",
+        "caption": "the pillow is on top of a bed that is to the left of a desk and a drawer. the pillow is a white rectangle.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "desk",
+                "drawer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "34",
+        "target_name": "trash_can",
+        "caption": "the trash can is on the floor, and is blue in color. it is to the right of the desk.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "17",
+        "target_name": "trash_can",
+        "caption": "the trash can is on the floor. it is to the left of the blue trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "floor",
+                "blue trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "41",
+        "target_name": "cushion",
+        "caption": "the cushion is located on a pile of stuff at the foot of the bed. it is beyond the chair, and before the closet.",
+        "parsed_query": {
+            "Target": "cushion",
+            "Anchor": [
+                "pile of stuff",
+                "bed",
+                "chair",
+                "closet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "0",
+        "target_name": "bed",
+        "caption": "this is a bed located in the corner of the bedroom along the same wall as the closet door. there is a white pillow at the head of the bed.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "closet door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "34",
+        "target_name": "trash_can",
+        "caption": "this is a blue recycling bin located between the desk and the mini-fridge. it is along the same wall as the bedroom door.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "desk",
+                "mini-fridge",
+                "bedroom door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "this is a brown wooden desk. it is located along the same wall as the bedroom door. it is covered in personal items.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bedroom door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "this is a bed located along the same wall as the two windows. it has blue sheets and a white pillow.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "two windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "this is an open closet door. it is between the bed and the desk.",
+        "parsed_query": {
+            "Target": "closet door",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "42",
+        "target_name": "shelf",
+        "caption": "this is a three tiered shelf on top of a desk. the desk beneath the shelf is to the right of the end of the bed against the wall with windows.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "bed",
+                "wall with windows"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a brown chair with a blue cushion. the chair is in front of a desk. there is a yellow piece of paper beneath the chair and a pair of shoes to the left of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "20",
+        "target_name": "pillow",
+        "caption": "this is a white pillow at the head of the bed. this bed is tucked in the extended corner of the room. it is on the only bed with a nightstand next to it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "nightstand"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "34",
+        "target_name": "trash_can",
+        "caption": "this is a blue recycling bin. the bin is between the desk and the black mini fridge. this is visible when walking through the door and looking to the right.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "desk",
+                "mini fridge"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "this is a bed with grey sheets and a blue cover. the bed is placed up against the only wall with windows.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "wall with windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "41",
+        "target_name": "cushion",
+        "caption": "the cushion is between the bed and the desk. the cushion is white, gray, and rectangular.",
+        "parsed_query": {
+            "Target": "cushion",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "17",
+        "target_name": "trash_can",
+        "caption": "the trash can is left of the blue trash can. the trash can is a gray rectangular prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "blue trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "18",
+        "target_name": "nightstand",
+        "caption": "the nightstand is to the right of a bed in a corner of the room. the nightstand is brown and boxy.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "the bed is to the right of the row of trash cans. the bed has four legs and a blue mattress.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "row of trash cans"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "34",
+        "target_name": "trash_can",
+        "caption": "the trash can is right of the desk. the trash can is blue with a rectangular shape.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "19",
+        "target_name": "pillow",
+        "caption": "this is a gray pillow. it is at the head of the bed on the wall underneath the windows.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "21",
+        "target_name": "mini_fridge",
+        "caption": "this is a black mini-fridge. it is along the wall adjacent to the bed, between the bed and the door.",
+        "parsed_query": {
+            "Target": "mini-fridge",
+            "Anchor": [
+                "bed",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "13",
+        "target_name": "desk",
+        "caption": "this is a wooden desk. it is along the wall opposite from the bed.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "42",
+        "target_name": "shelf",
+        "caption": "this is a wooden shelf. it is on top of the desk that is on the opposite wall from the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "9",
+        "target_name": "fan",
+        "caption": "this is a desk fan. it is on top of the desk underneath the window on the right.",
+        "parsed_query": {
+            "Target": "desk fan",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "this is a black mini fridge. a blue trash can is present on the left side of the fridge.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "9",
+        "target_name": "fan",
+        "caption": "this fan is kept on the table. a bed is present in front of it.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": [
+                "table",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "18",
+        "target_name": "nightstand",
+        "caption": "the nightstand is to the right of the bed in the corner. the nightstand is a brown square box.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "13",
+        "target_name": "desk",
+        "caption": "the desk is between two beds. the desk is a deep brown color with a rectangular shape.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "the door is between a bed and the closet. the door is a dark brown rectangle with a metallic knob.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bed",
+                "closet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "the trash can is the closest one to the bed on the left. the trash can is blue with a rectangular shape.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "19",
+        "target_name": "pillow",
+        "caption": "the pillow is on top of the bed on the northern side. the pillow is a dully gray color with a rectangular shape.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this chair is place in front of a table. a pair of shoes are present besides this chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "pair of shoes"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "18",
+        "target_name": "nightstand",
+        "caption": "this night stand is in one corner of the room. a bed is present on the left side close to this night stand.",
+        "parsed_query": {
+            "Target": "night stand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "0",
+        "target_name": "bed",
+        "caption": "bed is lying parallel to the wall and attached to the wall. a night stand is on right side of the bed.",
+        "parsed_query": {
+            "Target": "night stand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "21",
+        "target_name": "mini_fridge",
+        "caption": "mini fridge is kept close to the wall. two trash can are present on the right side of the fridge.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "mini fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "24",
+        "target_name": "door",
+        "caption": "as you enter through this door a mini fridge is present on the left side. another mini fridge in front of this door is also present.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "13",
+        "target_name": "desk",
+        "caption": "this table is in front of a closet. a table fan is present on this table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "closet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "9",
+        "target_name": "fan",
+        "caption": "there is a circular gray fan. it is on a table next to a bed and in front of a window by the side of the room.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": [
+                "table",
+                "bed",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "9",
+        "target_name": "fan",
+        "caption": "there is a circular gray fan. it rests on top of a table by the windows near the side of the room.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": [
+                "table",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "there is a rectangular brown bed with gray sheets. it is by the side of the room next to some windows.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "there is a rectangular brown and blue chair. it is in front of a desk against the side of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "29",
+        "target_name": "window",
+        "caption": "there is a long rectangular window. it is on the wall by the side of the room behind a gray fan.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "gray fan"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "13",
+        "target_name": "desk",
+        "caption": "a desk that is brown and has three drawers on its left side. it is is opposite the other desk and has a small fan on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "other desk",
+                "small fan"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "it is a small black box, probably a refrigerator. it is next to the blue trash can by the door.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": [
+                "blue trash can",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "a chair with a shirt or jacket hanging over it. it is in front of the desk without the fan on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk without the fan on it"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "17",
+        "target_name": "trash_can",
+        "caption": "a small beige trash can with a trash bag in it. its next to the blue trash can by the bed.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue trash can",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "9",
+        "target_name": "fan",
+        "caption": "a small round common type desk fan. it is sitting on the left side of the desk at the end of the bunk bed.",
+        "parsed_query": {
+            "Target": "desk fan",
+            "Anchor": [
+                "desk",
+                "bunk bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "41",
+        "target_name": "cushion",
+        "caption": "the cushion is between the desk and the bed. the cushion is a white rectangle.",
+        "parsed_query": {
+            "Target": "cushion",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "the mini fridge is right of the blue trash can. the mini fridge is a black rectangular box.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "blue trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "20",
+        "target_name": "pillow",
+        "caption": "the pillow is on top of the bed on the northern side. the pillow is white and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "29",
+        "target_name": "window",
+        "caption": "the window is above the desk. the window is a grey rectangular shape.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is right next to the desk. the chair has four legs and a brown color.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "41",
+        "target_name": "cushion",
+        "caption": "the cushion is between the desk and bed. the cushion is a dirty white color with a rectangular shape.",
+        "parsed_query": {
+            "Target": "cushion",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "the window is the leftmost one and is above the bed. the window has a gray, square shape.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "the mini fridge is right of the blue recycling bin. the mini fridge is a black rectangular box.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "blue recycling bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "24",
+        "target_name": "door",
+        "caption": "the door is right of the mini fridge. the door is a dark brown rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "mini fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "42",
+        "target_name": "shelf",
+        "caption": "the shelf is between the bed and closet. the shelf is rectangular and has two legs.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bed",
+                "closet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "18",
+        "target_name": "nightstand",
+        "caption": "the nightstand is right of a bed in the corner. the nightstand is a brown boxy shape.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0222_00",
+        "target_id": "0",
+        "target_name": "bed",
+        "caption": "the bed is left of a nightstand in a corner of the room. the bed has a dark blue, rectangular shape.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "nightstand"
+        },
+        "unique": false
+    }
+]

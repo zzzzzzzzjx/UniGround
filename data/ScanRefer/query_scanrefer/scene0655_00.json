@@ -1,0 +1,486 @@
+[
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "the office chair is yellow. it is to the left of the chair beside it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "the office chair is red. it is facing to the right. there is another chair behind it that faces the opposite direction.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "the office chair is one of two that face away from the wall. it is to the right of the yellow chair beside it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "wall",
+                "yellow chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "the office chair is blue. the back of it is towards the blackboard. the office chair is to the right of the yellow chair next to it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "blackboard",
+                "yellow chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "11",
+        "target_name": "office_chair",
+        "caption": "the office chair is facing right. it is pulled into the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "this is a red office chair. it is near the corner of the room with five chairs in the corner.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "this is a swivel office chair. it is black and at the back end head of the table.",
+        "parsed_query": {
+            "Target": "swivel office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "this is a black chair with a group of other chairs. it is near the yellow chair in the corner.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "yellow chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "this is a red office chair. it is in the meeting room at the back head of the table next to the black chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is at the back head of the table by the red chair next to it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "red chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is in the center of the room. the table is a white rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "11",
+        "target_name": "office_chair",
+        "caption": "the office chair is the southeast-most one next to the center table. the office chair is red with a curved back.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "center table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "11",
+        "target_name": "office_chair",
+        "caption": "the office chair is the south-east one next to the table in the center. the office chair is red with a square seat.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "the office chair is the southwest-most one next to the center table. the office chair has two arms amd a square seat.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "center table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "this is a yellow office chair. it is next to a black chair.",
+        "parsed_query": {
+            "Target": "yellow office chair",
+            "Anchor": "black chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "this is a white table. it is in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "this is a yellow office chair. it is facing the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is in front of another black chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "black chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "this is a red chair. it is at the back left corner of the second table.",
+        "parsed_query": {
+            "Target": "red chair",
+            "Anchor": "second table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "this is a red office chair. it is at the back head of the table next to a black chair.",
+        "parsed_query": {
+            "Target": "red office chair",
+            "Anchor": [
+                "table",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "this is a yellow chair. it is against the back wall near all the chairs in the corner.",
+        "parsed_query": {
+            "Target": "yellow chair",
+            "Anchor": [
+                "back wall",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is at the back end of the table next to the red chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "red chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this office chair is yellow. it is facing left.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this office chair is against the right wall. its facing down and left.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "right wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this office chair is tan. it has a smooth surface.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "this red office chair is facing the viewer. it is smooth.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "this chair is black. it is facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "11",
+        "target_name": "office_chair",
+        "caption": "this is a red color cushion chair. the chair is facing the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "this is a cushion chair in red color. the chair is at the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "this chair is facing the board. the cushion chair is having the arms.",
+        "parsed_query": {
+            "Target": "cushion chair",
+            "Anchor": "board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "11",
+        "target_name": "office_chair",
+        "caption": "this is a cushion chair with arms. the chair is facing the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "this is a yellow chair with no arms. the chair is close to board.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is in the center of the room. the table is a white rectangle withh red edges.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "the office chair is the right-most red one next to the table. the chair has two arms and a square seat.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "the office chair is the southwest-most one next to the table. the office chair is red with a curved back.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "the office chair is the black one on the southwest corner of the room. the office chair is round.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is in the center of the room. the table is white and rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "there is a red office chair in front of the white board.  it is the furthest left chair resting away from the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "white board",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "there is a red chair located across the room from the white board.  it is the chair not tucked under the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white board",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "there is a red office chair seated at the table.  the chair is turned towards the white board on the left side of the table, and is the closest chair to the white board on the left side.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "white board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0655_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "there is a yellow chair located at the rear of the room behind the table.  it is the furthest chair away from the white board.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "white board"
+            ]
+        },
+        "unique": false
+    }
+]

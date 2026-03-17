@@ -1,0 +1,877 @@
+[
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "there is a black pillow. placed on the floor of the room.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "42",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is a natural wood color and has 5 shelves.  to the right of the bookshelf is a dark gray/blue lounge chair, a window, and another similar bookshelf. .",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "there is a multi color chair. placed on the side of the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "14",
+        "target_name": "pillow",
+        "caption": "this is a white pillow on a bean bag. it is square shaped.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bean bag"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "this is a wooden shelf with something blue on top. it has three separate compartments.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "the pillow on the floor is green. it also has a square shape.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "14",
+        "target_name": "pillow",
+        "caption": "the white pillow on the beanbag also has brown textures. its shape is a square.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "beanbag"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "41",
+        "target_name": "table",
+        "caption": "the stool placed on hardwood floor is dark blue. it has four legs.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "hardwood floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "black love seat in living room area. the love seat couch faces a large book shelf when sitting on it.",
+        "parsed_query": {
+            "Target": "love seat",
+            "Anchor": "book shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "black throw pillow on the chair in front of the window. black throw pillow next to the white pillow on the round chair in the living room.",
+        "parsed_query": {
+            "Target": "black throw pillow",
+            "Anchor": [
+                "chair",
+                "window",
+                "white pillow",
+                "round chair",
+                "living room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "41",
+        "target_name": "table",
+        "caption": "small round table next to the round chair in front of the window. little table in front of the window in the living room.",
+        "parsed_query": {
+            "Target": "small round table",
+            "Anchor": [
+                "round chair",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "14",
+        "target_name": "pillow",
+        "caption": "white throw pillow on the round chair in the living room in front of the window. white throw pillow next to the black pillow on the round chair.",
+        "parsed_query": {
+            "Target": "white throw pillow",
+            "Anchor": [
+                "round chair",
+                "black pillow",
+                "window",
+                "living room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "black throw pillow on the round chair that is in front of the window. the black throw pillow that is next to the white throw pillow on the round chair in the living room.",
+        "parsed_query": {
+            "Target": "black throw pillow",
+            "Anchor": [
+                "round chair",
+                "window",
+                "white throw pillow",
+                "living room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "5",
+        "target_name": "shelf",
+        "caption": "the shelf is the entire unit in front of the carpet. there is another shelf to the right of this shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "carpet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "this table is to the left of the couch. it's positioned on the floor between the rug and the carpet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couch",
+                "rug",
+                "carpet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "5",
+        "target_name": "shelf",
+        "caption": "this shelf is the entire unit in front of the rug. there is a shelf to the right of this shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "rug"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "14",
+        "target_name": "pillow",
+        "caption": "it's one the two pillows on the chair that's in front of the window. it's the pillow that's lighter in color on the right of the two pillows in the chair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "chair",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "26",
+        "target_name": "couch",
+        "caption": "there is a black chair with brown legs. it is sitting adjacent to a grey chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "grey chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "5",
+        "target_name": "shelf",
+        "caption": "there is a brown shelf with lots of items on it. it is comprised of four sections, one with two shelves, one with three and two with four.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "there is a tan shelf that is sitting next to the black couch. it is partially resting on a maroon rug.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "couch",
+                "rug"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "there is a rainbow colored circle chair with a black and white pillow on it. it is sitting behind a black fuzzy rug and there is a stack of blankets next to it.",
+        "parsed_query": {
+            "Target": "circle chair",
+            "Anchor": [
+                "black fuzzy rug",
+                "stack of blankets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "41",
+        "target_name": "table",
+        "caption": "there is a small black end table sitting between a chair and some containers. it is behind the maroon rug on the wood floor.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "chair",
+                "containers",
+                "rug",
+                "floor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "44",
+        "target_name": "armchair",
+        "caption": "the armchair on the left side of the room. it is grey.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "room"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "a grey pillow which is directly under the brown fabric. it has a square shape.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "brown fabric"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "44",
+        "target_name": "armchair",
+        "caption": "a grey armchair on the left of the room. it has a detachable part on the part where the sitters back would reside.",
+        "parsed_query": {
+            "Target": "grey armchair",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "6",
+        "target_name": "shoe_rack",
+        "caption": "a lightly coloured shoe cabinet. it has three levels for shoes.",
+        "parsed_query": {
+            "Target": "shoe cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "26",
+        "target_name": "couch",
+        "caption": "the black couch with people seated on it. it has enough room for at least three people.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is black and on top of an area rug that has 2 semi-circles on it.  the coffee table has a book on it and is in front of a couch and across from a bookshelf.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "area rug",
+                "couch",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "the black coffee table is in front of a black couch and is across from a bookshelf.  the coffee table is located on top of an area rug that has green and red semi-circle patterns.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "couch",
+                "bookshelf",
+                "area rug"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "there is a black cotton couch. placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "6",
+        "target_name": "shoe_rack",
+        "caption": "there is a brown wooden cabinet. placed on side of the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "there is a black cotton pillow. placed on the armchair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "the pillow  is a turquoise green color.  the pillow is laying on top of the area rug that has green and red semicircle designs.  the pillow is behind a black couch and near a black coffee table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "area rug",
+                "couch",
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "45",
+        "target_name": "footrest",
+        "caption": "the ottoman is dark gray/blue and is located in front of a lounge chair.  the ottoman is push against the lounge chair.  a partially closed laptop is resting on top of the ottoman.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "lounge chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "26",
+        "target_name": "couch",
+        "caption": "this is a black sofa. it is facing the corner of the room, adjacent to an armchair.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": [
+                "corner of the room",
+                "armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "5",
+        "target_name": "shelf",
+        "caption": "this is a large wooden shelf. it is along the wall between the two windows. it is full of personal and decorative items.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "this is a black coffee table. it is on top of the rug in the center of the room, in between the two sofas.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "rug",
+                "sofa",
+                "sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "the pillow is between the bookshelf and the couch. the pillow has a green color and is a cylinder.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bookshelf",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "26",
+        "target_name": "couch",
+        "caption": "this is a black sofa that is facing the corner of the room. it is next to a black armchair. there is someone sitting on the sofa, they appear to be watching tv.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": [
+                "corner of the room",
+                "black armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "45",
+        "target_name": "footrest",
+        "caption": "the footrest is directly in front of the sofa chair. the footrest is blue and shaped like a box.",
+        "parsed_query": {
+            "Target": "footrest",
+            "Anchor": "sofa chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "the pillow is northwest of the table next to the couch. the pillow looks like a bent cylinder.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "table",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "this is another black sofa. it is along the wall adjacent to the other sofa. it is facing the coffee table that is on top of the rug.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": [
+                "wall",
+                "coffee table",
+                "rug"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "41",
+        "target_name": "table",
+        "caption": "the table is to the left of the chair with a 3d circular shape. the table has a blue, rounded top.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "42",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is to the left of the sofa chair. the bookshelf is brown and has four sections.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "sofa chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "44",
+        "target_name": "armchair",
+        "caption": "the armchair is behind the footrest. the armchair is blue and has armrests.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "footrest"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "the couch is between the small table and the pile of pillows. the couch is circular with an indent in the middle.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "small table",
+                "pile of pillows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "the couch is left of a pile of pillows. the couch is round in shape and has a indent in the center.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "pile of pillows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "6",
+        "target_name": "shoe_rack",
+        "caption": "the shoe rack is to the right of the door. the shoe rack is brown and has three sides.",
+        "parsed_query": {
+            "Target": "shoe rack",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "6",
+        "target_name": "shoe_rack",
+        "caption": "the shoe rack is northeast of the couch. the shoe rack has three sections and is rectangular.",
+        "parsed_query": {
+            "Target": "shoe rack",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "there is a rectangular dark coffee table. it is in front of a couch and at the center of the room.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "couch",
+                "center of the room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "there is a rectangular blue pillow with colorful decorations. it is on a larger cushion in front of the window by the side of the room.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "cushion",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "there is a rectangular coffee table. it is in front of a couch at the center of the room.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "6",
+        "target_name": "shoe_rack",
+        "caption": "there is a rectangular brown shoe rack. it is against the wall next to a large brown cabinet.",
+        "parsed_query": {
+            "Target": "shoe rack",
+            "Anchor": [
+                "wall",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "42",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is left of my sofa chair. the bookshelf has a cream color with four sections.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "sofa chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "5",
+        "target_name": "shelf",
+        "caption": "the shelf is behind the pile of blankets. the shelf has many rectangular sections.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "pile of blankets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "the pillow is on top of a chair that is between a table and a pile of blankets. the pillow is dark purple and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "chair",
+                "table",
+                "pile of blankets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "42",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is left of the armchair. the bookshelf is rectangular and brown.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "armchair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "45",
+        "target_name": "footrest",
+        "caption": "the footrest is south of the armchair. the footrest is purple and square.",
+        "parsed_query": {
+            "Target": "footrest",
+            "Anchor": "armchair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "14",
+        "target_name": "pillow",
+        "caption": "the pillow is on top of a chair between a small table and a pile of blankets. the pillow is white and brown, and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "chair",
+                "small table",
+                "pile of blankets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "41",
+        "target_name": "table",
+        "caption": "the table is left of a chair with a round shape. the table has a blue top with two legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "the shelf is to the north of the black couch. the shelf is light brown and rectangular.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "the shelf is north of the couch. the shelf has no legs and is rectangular.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "26",
+        "target_name": "couch",
+        "caption": "there is a couch in the center of the room near the sofa chair. the couch is black and rectangular.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "sofa chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "44",
+        "target_name": "armchair",
+        "caption": "the armchair is north of the footrest. the armchair is blue and has armrests.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "footrest"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "the pillow on a pile of blankets left of the bookshelf. the pillow is a dull gray and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "blankets",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "the pillow is on a pile of blankets. the pillow is a gray rectangular prism.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "pile of blankets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "the couch is to the south of a black table. the couch is black and has two backseat cushions.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "black table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "the pillow is to the left of the bookcase. the pillow is a gray rectangular prism.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bookcase"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "the pillow is below a pile of blankets. the pillow is grey and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "pile of blankets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "44",
+        "target_name": "armchair",
+        "caption": "the armchair is in front of the footrest. the armchair is blue and has armrests.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "footrest"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0203_00",
+        "target_id": "45",
+        "target_name": "footrest",
+        "caption": "the footrest is south of the armchair. the footrest is blue, purple, and boxy.",
+        "parsed_query": {
+            "Target": "footrest",
+            "Anchor": "armchair"
+        },
+        "unique": true
+    }
+]

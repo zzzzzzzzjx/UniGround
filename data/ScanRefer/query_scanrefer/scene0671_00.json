@@ -1,0 +1,688 @@
+[
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a beige chair. it has a red backpack hanging from it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "red backpack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a beige chair. it is to the right of a red backpack.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "red backpack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "20",
+        "target_name": "cart",
+        "caption": "there is a rectangular brown cart. it is next to a brown cabinet.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "brown cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is beige chair. it is next to a chair with a red backpack.",
+        "parsed_query": {
+            "Target": "beige chair",
+            "Anchor": "chair with a red backpack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "there is a rectangular pillow. it is in front of a gray table and right of another pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "gray table",
+                "pillow"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "20",
+        "target_name": "cart",
+        "caption": "this cart is on the top left. it is red.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is black.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "7",
+        "target_name": "cabinet",
+        "caption": "this cabinet is on the right. it is green.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "7",
+        "target_name": "cabinet",
+        "caption": "this cabinet is on the right. it is green and is solid.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "19",
+        "target_name": "cart",
+        "caption": "the cart is made of wood. it is next to another cart in front of the table.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "cart",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "14",
+        "target_name": "bench",
+        "caption": "it is a black bench. it is on the left side of the table.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "14",
+        "target_name": "bench",
+        "caption": "the bench is in front of the carts. it is close to the table.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "carts",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "it is a black table. it has a plant and some books on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "plant",
+                "books"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "it is a grey pillow on the bench. it is the first one from the left.",
+        "parsed_query": {
+            "Target": "grey pillow",
+            "Anchor": "bench"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a plastic chair. it is beige and is the one in the middle at the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a white plastic chair. located at the end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a plastic chair, beige in color. it is at the end of the table.",
+        "parsed_query": {
+            "Target": "plastic chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "19",
+        "target_name": "cart",
+        "caption": "this is a red stand/cabinet of sorts. one of two and the one on the right.",
+        "parsed_query": {
+            "Target": "red cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "this is a gray pillow. it has black striped and is the one on the right at the table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "there is a bench with two light colored pillows on top pushed against against the long side of the table. it is the light colored pillow on top of the bench on the right side, across from the red and white high backed chair.",
+        "parsed_query": {
+            "Target": "light colored pillow",
+            "Anchor": [
+                "bench",
+                "red and white high backed chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "there is a pillow on top of the bench pushed against the table. it is the pillow on the left side, without books in front of it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bench",
+                "table",
+                "books"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "there is a brown chair pushed against the end of the table. it is on the side of the table without books in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "books"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a brown chair pushed against the long side of the table on the same side as the white and red chair. it is on the end near the head of the table.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "table",
+                "white and red chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "there are two reddish-colored carts against the wall in this room. in front of the carts is a black rectangular table with benches that have pillows. the highlighted object is the pillow on the left on the nearest bench. it is gray and made of fabric, with black stripes.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bench"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "in this room is a rectangular table with bench seating. the pillow on the right on the bench in front of the red carts is the highlighted object. it is gray and has black stripes.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bench",
+                "red carts"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a large rectangular table with open books at one end. the highlighted object is the white chair that is in front of those books, on that side of the table.",
+        "parsed_query": {
+            "Target": "white chair",
+            "Anchor": [
+                "open books",
+                "rectangular table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "on the side of the large rectangular table that is closest to the red metal carts is a bench with two pillows. the highlighted object is the pillow on the right. it is gray and made of fabric. it also has black stripes on it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bench",
+                "large rectangular table",
+                "red metal carts"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "at one end of the large rectangular table are some open books. the white chair on that side of the table is the highlighted object.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "large rectangular table",
+                "open books"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "19",
+        "target_name": "cart",
+        "caption": "the cart is brown. it is against the far wall.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is on the near side of the table. it is the furthest right chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "the pillow is on the near side of the table. it is the leftmost pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is on the near side of the table. it is the furthest right chair at the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is on the right side of the table. it is located at the top right corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a long table in the room with a number of white plastic chairs around it. one chair has a red vest hanging on the back. the chair we're looking for is on the same side of the table as the one with the red vest, but at the other end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair with red vest",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "20",
+        "target_name": "cart",
+        "caption": "the wheeled cart is sitting against the wall. it has three shelves with rims around them.",
+        "parsed_query": {
+            "Target": "wheeled cart",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "20",
+        "target_name": "cart",
+        "caption": "there are two carts with shelves and wheels against the wall. the one we want is on the left.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "there is a long, narrow table near the center of the room. it has a vase of white flowers on top of it and several white plastic chairs around it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "vase of white flowers",
+                "white plastic chairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "19",
+        "target_name": "cart",
+        "caption": "a cart is behind and on the right side of the table. there is a vase of flowers in front of it.",
+        "parsed_query": {
+            "Target": "vase of flowers",
+            "Anchor": "cart"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "a white chair is sitting behind the table on the right side with a red backpack hanging on it. there are papers on the table in front of it.",
+        "parsed_query": {
+            "Target": "white chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the white chair on the right side of the table in front is to the left of the white chair on the end. there is a green cabinet behind the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "white chair on the end",
+                "green cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "14",
+        "target_name": "bench",
+        "caption": "a bench is in between the carts and the table. there are pillows on it.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "carts",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a white chair in an office. it is the middle chair on the right side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "14",
+        "target_name": "bench",
+        "caption": "this is a brown bench in an office. i is on the left side of the able with pillows on it.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a white chair in an office.  it is at the end of the table to the right of the bench.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "bench"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "7",
+        "target_name": "cabinet",
+        "caption": "this is a brown cabinet in an office. it is on the right wall next to the table.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a white chair in an office.  it is at the end of the table closest to the picture on the wall.",
+        "parsed_query": {
+            "Target": "white chair",
+            "Anchor": [
+                "table",
+                "picture on the wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "7",
+        "target_name": "cabinet",
+        "caption": "this is a brown cabinet in a dining room. it is on the right side of he table up against the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a white chair in a dining room. it is at the end of the table closest to the right side of the bench.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "bench"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "14",
+        "target_name": "bench",
+        "caption": "this is a brown bench in a dining room. it is on the left side of the table and the same side as the shelves.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "table",
+                "shelves"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "this is a brown table in a dining room. it has a vase on it and is in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "this is a white pillow in a dining room. it is on the bench at the table and to the left of the vase.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bench",
+                "table",
+                "vase"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this chair is facing left. its red.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this chair is facing away. its brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "this table is in the middle. its brown.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this chair is facing left. its red and brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0671_00",
+        "target_id": "7",
+        "target_name": "cabinet",
+        "caption": "this cabinet is on the other side. its green in color.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    }
+]

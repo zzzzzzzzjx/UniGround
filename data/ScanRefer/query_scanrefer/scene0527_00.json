@@ -1,0 +1,1096 @@
+[
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "it is white sink. the white sink sits at the right of the left wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "left wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is brown and rectangular. it is to the right of the tall cabinet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "tall cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "6",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is brown with a white counter top. it is to the right of the picture.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "picture"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "the cabinet is dark brown. it is above the left sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "left sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "23",
+        "target_name": "towel",
+        "caption": "the towel is white and hanging on the hook. it is the second one from the right.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "hook"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "18",
+        "target_name": "picture",
+        "caption": "there is a square picture. it is on the wall directly under another square picture.",
+        "parsed_query": {
+            "Target": "square picture",
+            "Anchor": "square picture"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is brown with a shelf. it is under the white sign.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "white sign"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "there is a square picture. it is on the wall to the left of a sink.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "16",
+        "target_name": "sink",
+        "caption": "the sink is located within the bathroom vanity. it is below the mirror.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "bathroom vanity",
+                "mirror"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "6",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is one of two in the bathroom. it is the one on the right.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "7",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is located to the left of the shelf. the bathroom vanity has a sink in it.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "17",
+        "target_name": "cabinet",
+        "caption": "the cabinet is affixed to the wall above the bathroom vanity. it is to the right of the pictures on the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "bathroom vanity",
+                "pictures"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "the sink is located within the bathroom vanity. it is below the cabinet that is mounted on the wall above it.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "bathroom vanity",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "12",
+        "target_name": "bathrobe",
+        "caption": "it is a brown bathrobe. the brown bathrobe is hanging at the left of the rack.",
+        "parsed_query": {
+            "Target": "bathrobe",
+            "Anchor": "rack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "it is a brown door. the brown door is sitting at the right of the rack in the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "rack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "9",
+        "target_name": "picture",
+        "caption": "it is a brown picture. the brown picture sits on the table.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "23",
+        "target_name": "towel",
+        "caption": "it is a brown towel. the brown towel hangs in the middle of the rack on the left wall.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "rack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "17",
+        "target_name": "cabinet",
+        "caption": "the cabinet is above he sink. it is on the right side of two small pictures on the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink",
+                "two small pictures"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "10",
+        "target_name": "end_table",
+        "caption": "the end table is between the sinks. it has a jar on top of it.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "sinks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "the picture is close to the wall. it is the picture on the left side.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "the cabinet is the closes to the door. it is on the left side of the two pictures hanging between the sinks.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "door",
+                "two pictures"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "7",
+        "target_name": "bathroom_vanity",
+        "caption": "it is a black bathroom vanity. it is the closest to the door.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "18",
+        "target_name": "picture",
+        "caption": "it is a picture below a similar picture. it is placed between two cabinets.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "similar picture",
+                "cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "it is a table with a shelf like space underneath it. it is be side a tall shelf .",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "tall shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "11",
+        "target_name": "towel",
+        "caption": "it is a white towel. it is first towel from the right beside a similar towel hung on the wall right beside the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "18",
+        "target_name": "picture",
+        "caption": "it is a picture hung on the wall placed underneath a similar picture. it is in between two cabinets.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "picture",
+                "cabinet",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "17",
+        "target_name": "cabinet",
+        "caption": "it is a cabinet placed on the right side of a set of picture placed on the wall. it has a sink placed beneath it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "set of pictures",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "17",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular cabinet. it is over the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "1",
+        "target_name": "picture",
+        "caption": "there is a square picture. it is on the wall over one other picture.",
+        "parsed_query": {
+            "Target": "square picture",
+            "Anchor": "picture"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "there is a rectangular door. it is next to the sink.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "18",
+        "target_name": "picture",
+        "caption": "there is a square picture. it is on the wall under another picture.",
+        "parsed_query": {
+            "Target": "square picture",
+            "Anchor": [
+                "wall",
+                "picture"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "12",
+        "target_name": "bathrobe",
+        "caption": "there is a white bathrobe. it is hanging to the right of a white curtain.",
+        "parsed_query": {
+            "Target": "bathrobe",
+            "Anchor": "curtain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "27",
+        "target_name": "towel",
+        "caption": "this towel is green. it is rolled.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "0",
+        "target_name": "curtain",
+        "caption": "these curtains are green. they are curled.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "11",
+        "target_name": "towel",
+        "caption": "this towel is hanging. it is green.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "30",
+        "target_name": "cabinet",
+        "caption": "this cabinet is on the right side. it is dark.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "this door is straight. it is green.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "17",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular black cabinet. it is over the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "27",
+        "target_name": "towel",
+        "caption": "there are rectangular folded towels. they are on a shelf under a table.",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "shelf",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "1",
+        "target_name": "picture",
+        "caption": "there is a square picture. it is on the wall above another picture.",
+        "parsed_query": {
+            "Target": "square picture",
+            "Anchor": [
+                "wall",
+                "another picture"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "16",
+        "target_name": "sink",
+        "caption": "there is a rectangular white sink. it is in the corner of the room next to the door.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "there is a rectangular door. it is next to the sink to the right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "30",
+        "target_name": "cabinet",
+        "caption": "there is a tall rectangular cabinet. it is in the corner of the room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "0",
+        "target_name": "curtain",
+        "caption": "there is a rectangular curtain. it is next to bathrobes.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bathrobes"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "9",
+        "target_name": "picture",
+        "caption": "there is a rectangular picture. it on the table above some folded towels.",
+        "parsed_query": {
+            "Target": "rectangular picture",
+            "Anchor": [
+                "table",
+                "folded towels"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "there is a rectangular sink. it is over some cabinets.",
+        "parsed_query": {
+            "Target": "rectangular sink",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "16",
+        "target_name": "sink",
+        "caption": "there is a rectangular sink. it is in the left corner of the room.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "16",
+        "target_name": "sink",
+        "caption": "the sink is under the mirror. it is to the left of the shelf.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "mirror",
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "10",
+        "target_name": "end_table",
+        "caption": "this table is dark colored. it has shelves and is in between two sinks.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "sink",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "1",
+        "target_name": "picture",
+        "caption": "the picture is one of two on the wall. it is the one on the top.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "this cabinet is above the sink on the left. it is dark colored with mirrors on the front.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "30",
+        "target_name": "cabinet",
+        "caption": "this is a large cabinet to the left of the toilet. it sits against the wall and has a handle on the right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "toilet",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "9",
+        "target_name": "picture",
+        "caption": "the picture is on the table. the table is against the right wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "7",
+        "target_name": "bathroom_vanity",
+        "caption": "this vanity is to the left of the small table. it has a sink on top of it and dark colored wood below the sink.",
+        "parsed_query": {
+            "Target": "vanity",
+            "Anchor": "small table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "6",
+        "target_name": "bathroom_vanity",
+        "caption": "this vanity is to the right of the small table. it has a sink in it and is dark colored under the sink.",
+        "parsed_query": {
+            "Target": "vanity",
+            "Anchor": "small table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "9",
+        "target_name": "picture",
+        "caption": "the picture is on the table. there is an envelope to the right of it.",
+        "parsed_query": {
+            "Target": "envelope",
+            "Anchor": "picture"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is located against the right wall. there is a picture on the table.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "there is a rectangular sink. it is to the right of a dark shelf.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "dark shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "30",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular cabinet. it is facing a sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "this specific picture is on the same wall as the ivory colored door. it is the leftmost one of the two.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "ivory colored door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "10",
+        "target_name": "end_table",
+        "caption": "this dark colored end table is in between two white sinks. it has about three shelves that are holding different objects. there is a glass container on top of it.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "white sink",
+                "white sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "11",
+        "target_name": "towel",
+        "caption": "there are three whitish colored towels hanging on the wall. this towel is the right-most towel. it is the one to the immediate left of the white door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "white door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "this table is on the opposite wall as the side with the two sinks. it is rectangular, dark colored, with informative materials on top of it. there are some folded white towels on the left side of the shelf below the top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "two sinks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "12",
+        "target_name": "bathrobe",
+        "caption": "this bathrobe is on the wall. it is green.",
+        "parsed_query": {
+            "Target": "bathrobe",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "7",
+        "target_name": "bathroom_vanity",
+        "caption": "this bathroom vanity is attached to the wall. it has a base.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "12",
+        "target_name": "bathrobe",
+        "caption": "this bathrobe is wrinkled. it is green.",
+        "parsed_query": {
+            "Target": "bathrobe",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "23",
+        "target_name": "towel",
+        "caption": "this towel is curled. it is hung.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "23",
+        "target_name": "towel",
+        "caption": "this towel is on the far side wall. it is grooved.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "16",
+        "target_name": "sink",
+        "caption": "there is a rectangular sink. it is to the left of a shelf.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "there is a rectangular sink. it is to the right of a picture and a shelf.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "picture",
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "7",
+        "target_name": "bathroom_vanity",
+        "caption": "there is a rectangular bathroom vanity. it is on the left corner of the room.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "there is a rectangular picture. it is next to the leftmost sink.",
+        "parsed_query": {
+            "Target": "rectangular picture",
+            "Anchor": "leftmost sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "6",
+        "target_name": "bathroom_vanity",
+        "caption": "there is a rectangular bathroom vanity. it is to the right of a picture over a shelf.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": [
+                "picture",
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "18",
+        "target_name": "picture",
+        "caption": "this picture is on the wall. it is a square. it is in between the two sinks and cabinets.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "sink",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "0",
+        "target_name": "curtain",
+        "caption": "the curtain is to the left of the towels hanging on the wall. it runs from the ceiling to the floor and it is light colored.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "towels"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "11",
+        "target_name": "towel",
+        "caption": "the towel is hanging on the wall. it is the right most towel hanging. it is light colored.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door is light colored with a knob on the right side. there are towels to the left of it and a sink to the right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "towels",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "1",
+        "target_name": "picture",
+        "caption": "this picture is on the wall above the table. it is the top picture, in between the two cabinets.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "table",
+                "cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "1",
+        "target_name": "picture",
+        "caption": "this picture is on the far side. it is brown.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "0",
+        "target_name": "curtain",
+        "caption": "this curtain is on the top right corner. it is ridged.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "10",
+        "target_name": "end_table",
+        "caption": "this end table is black and in the middle. it is by the wall.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "9",
+        "target_name": "picture",
+        "caption": "this picture is on the far side. it is green.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "11",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is the towel on the right.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "12",
+        "target_name": "bathrobe",
+        "caption": "this is a white bathrobe. it is to the left of the towels.",
+        "parsed_query": {
+            "Target": "bathrobe",
+            "Anchor": "towels"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "this is a black cabinet. it is above the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "27",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is on a shelf.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "27",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is on the bottom shelf.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "10",
+        "target_name": "end_table",
+        "caption": "a small end table sits between two sinks. it's got some paper on top of it.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "sink",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "23",
+        "target_name": "towel",
+        "caption": "a towel hangs between two others on the door. it's on the second hook from the right.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "door",
+                "hook"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "27",
+        "target_name": "towel",
+        "caption": "a towel sits on the shelf of a small table. it's to the left of the towels hanging on the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "small table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "30",
+        "target_name": "cabinet",
+        "caption": "a cabinet sits on the other side of the room from the sink. it's to the left of a coat hanger.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink",
+                "coat hanger"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0527_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "a picture hangs on the wall to the left of another picture. it's the closest picture from the door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "another picture",
+                "door"
+            ]
+        },
+        "unique": false
+    }
+]

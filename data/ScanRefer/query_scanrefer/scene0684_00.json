@@ -1,0 +1,286 @@
+[
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this black chair is in front of a desk. it is in front of the window.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "this is a small black window. it is above a tan table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "this window is above the phone on the table. it is the closest window to the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "phone"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a rectangular table. it is between the wall and a white cabinet.",
+        "parsed_query": {
+            "Target": "rectangular table",
+            "Anchor": [
+                "wall",
+                "white cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a large table. it is under the window of the corner of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this is a small, narrow room with only one door. the door has a large glass pane taking up most of the door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "the room has two small windows above a desk with a phone on it. if you stand facing the desk, the window in question is the one on the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the desk is the largest item of furniture in the small room. it has a tan top and metal legs. it has a phone at one end.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is a black padded swivel chair with wheels and no arms. it is in front of a tan desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tan desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the table is on the northwest side of the room. the table is orange and rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "the window is the right-most one on the northern wall. the window is a rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the door is on the northern side of the room. the door is a white rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "the window is the right-most one on the right side of the room. the window is a clear rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is south of the desk next to the window. the chair is black wit five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this is a white door. it is next to a box.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "this is a glass window. it is to the right of another window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a tan table. it is behind a chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "this is a glass window. it is to the left of another window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this is a white door. it is at the far end of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "there is a door with a window in the back of the room. it is to the right of the tall cardboard box standing in the corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "tall cardboard box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a black desk chair in the center of the room. it is in front of the desk with a phone sitting on it.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": [
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "there is a window on the wall. it is directly behind the telephone sitting on the desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "telephone"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "there is a window in the wall above the desk. it is on the left side behind the phone.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desk",
+                "phone"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0684_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a black desk chair in the middle of the room. it is in front of the wooden desk that is pushed against the wall.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": [
+                "wooden desk"
+            ]
+        },
+        "unique": true
+    }
+]

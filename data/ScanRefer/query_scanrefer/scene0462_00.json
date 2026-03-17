@@ -1,0 +1,712 @@
+[
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "15",
+        "target_name": "bin",
+        "caption": "it is a grey bin with handles. it is sitting on the floor in front of the shelves. .",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "floor",
+                "shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "the door is white and open. it is to the right of the shelves.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "shelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "the cabinet is white. it is under the counter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "20",
+        "target_name": "bucket",
+        "caption": "the bucket is white. it is to the right of the copier.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "16",
+        "target_name": "door",
+        "caption": "the door is light grey. it is to the left of the shelves.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "shelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "15",
+        "target_name": "bin",
+        "caption": "the bin is white and on the floor. it is to the left of the shelves.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "shelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "11",
+        "target_name": "bucket",
+        "caption": "this is a green trash bin against the wall. it is on the right of another.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": [
+                "wall",
+                "trash bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "20",
+        "target_name": "bucket",
+        "caption": "this is a grey trash bin on the floor. it is on the left of a green bin.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "green bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "15",
+        "target_name": "bin",
+        "caption": "this is a grey basket on the floor. it is empty.",
+        "parsed_query": {
+            "Target": "basket",
+            "Anchor": "floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "16",
+        "target_name": "door",
+        "caption": "this is a closed grey door. it is on the corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "7",
+        "target_name": "mini_fridge",
+        "caption": "this is a box like object against the wall. it is grey.",
+        "parsed_query": {
+            "Target": "box like object",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "9",
+        "target_name": "printer",
+        "caption": "the white printer is directly left of the black trash can. it is sitting on top of the tan countertop.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "black trash can",
+                "tan countertop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "9",
+        "target_name": "printer",
+        "caption": "the printer is directly in front of the giant cork board. the printer is on top of the counter.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "giant cork board",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "the black trashcan is to the left of the large printer. it is directly to the right of the cabinets.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "large printer",
+                "cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "0",
+        "target_name": "copier",
+        "caption": "the larger copier is to the left of the door. it is to the right of the black trash can.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": [
+                "door",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "7",
+        "target_name": "mini_fridge",
+        "caption": "the mini fridge is directly across from the door. it is to the left of the cabinets.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": [
+                "door",
+                "cabinets"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "the black trash can is to the left of the copier machine. to the left of the black trash can is a giant cork board.",
+        "parsed_query": {
+            "Target": "cork board",
+            "Anchor": "black trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "the door is to the right of the mail cubbies. it is directly across from the cabinets.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "mail cubbies",
+                "cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "9",
+        "target_name": "printer",
+        "caption": "it is a printer on the table.  it is right beside the black trash can.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "table",
+                "black trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "9",
+        "target_name": "printer",
+        "caption": "the printer is to the left of the large copier machine. the printer is perched on top of the cabinet.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "large copier machine",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "20",
+        "target_name": "bucket",
+        "caption": "it is the white bucket on the floor. it is right beside the green one.",
+        "parsed_query": {
+            "Target": "white bucket",
+            "Anchor": "green bucket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "it is the black trash can the floor. it is right beside the printer.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "floor",
+                "printer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "0",
+        "target_name": "copier",
+        "caption": "the large copier machine is adjacent to the door. behind the copier are a pair of white and green buckets.",
+        "parsed_query": {
+            "Target": "large copier machine",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "across from the door is a giant cork board. right next to the door is a mini fridge.",
+        "parsed_query": "{\"Target\": \"cork board\", \"Anchor\": \"door\"}\n{\"Target\": \"mini fridge\", \"Anchor\": \"door\"}",
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "0",
+        "target_name": "copier",
+        "caption": "it is the big copier on the floor. it is to the right of the black  trash can.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": [
+                "floor",
+                "black trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "this is a black trash can. it is to the right of the cabinets.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "11",
+        "target_name": "bucket",
+        "caption": "this is a green bucket. it is to the right of a white bucket.",
+        "parsed_query": {
+            "Target": "green bucket",
+            "Anchor": "white bucket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "16",
+        "target_name": "door",
+        "caption": "this is a gray door. it is at the far end of the room.",
+        "parsed_query": {
+            "Target": "gray door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "4",
+        "target_name": "bin",
+        "caption": "this is a white bin. it is on the counter.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "16",
+        "target_name": "door",
+        "caption": "this is a gray door. it is to the right of the green bucket.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bucket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "4",
+        "target_name": "bin",
+        "caption": "it is the white bin on top of the table. it is located where the printer is too.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "table",
+                "printer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "there is a cabinet with 4 doors to the left of a dark colored garbage can.  this cabinet is on the other side of a large shelving unit with binders in it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "dark colored garbage can",
+                "large shelving unit with binders"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "15",
+        "target_name": "bin",
+        "caption": "there's a very large shelving unit directly in front of the printer.  at the foot of that shelving unit is the white, empty bin.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "shelving unit",
+                "printer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "9",
+        "target_name": "printer",
+        "caption": "there's a printer on top of a desk in front of a corkboard.  to the right of the printer is a dark colored garbage bin.",
+        "parsed_query": {
+            "Target": "garbage bin",
+            "Anchor": "printer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "7",
+        "target_name": "mini_fridge",
+        "caption": "there's a mini fridge with a door directly to the left of it.  to the right of the fridge is the cabinet with a printer on it.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": [
+                "door",
+                "cabinet with a printer on it"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "4",
+        "target_name": "bin",
+        "caption": "this is a grey box object. it is in the corner.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "this is a tall trash bin. it is black.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "4",
+        "target_name": "bin",
+        "caption": "this is a box object in the corner. it is large.",
+        "parsed_query": {
+            "Target": "box",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "20",
+        "target_name": "bucket",
+        "caption": "this is a grey bin on the floor. it is is the corner.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this is a grey rectangular object on the floor. it is to the right of another large object.",
+        "parsed_query": {
+            "Target": "grey rectangular object",
+            "Anchor": "another large object"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "7",
+        "target_name": "mini_fridge",
+        "caption": "there's a white mini fridge that has a grey door directly to the left.  to the right is a cabinet with a printer on top.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": [
+                "grey door",
+                "cabinet with a printer on top"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "the door is on the same side of the wall as the mail area. across from the door is a mini fridge.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "11",
+        "target_name": "bucket",
+        "caption": "the green bucket is to the left of the door. the green bucket is between a white bucket and brown box.",
+        "parsed_query": {
+            "Target": "green bucket",
+            "Anchor": [
+                "door",
+                "white bucket",
+                "brown box"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "20",
+        "target_name": "bucket",
+        "caption": "the white bucket is behind the copier. to the right of the white bucket is a green bucket.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "white bucket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "to the left of the small gray trash can is a huge black trash can. to the right of the gray trash can is the copier machine.",
+        "parsed_query": {
+            "Target": "huge black trash can",
+            "Anchor": "small gray trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "to the right of the white cabinet is a black trash can. on top of the cabinet is a printer.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "white cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "it is a huge cabinet. sitting above it is a bin and a printer.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "bin",
+                "printer"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "it is a light colored door. it opens to a room with lots of shelves.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "shelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "11",
+        "target_name": "bucket",
+        "caption": "it is a green bucket on the floor. it is sitting beside a white one.",
+        "parsed_query": {
+            "Target": "green bucket",
+            "Anchor": [
+                "floor",
+                "white bucket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "4",
+        "target_name": "bin",
+        "caption": "there is a white bin on the counter. it is all the way on the far left side of the counter.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "there is a white cabinet. it is to the left of the black trash bin.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "trash bin"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "there is a small silver trash can. it is to the right of the large black trash bin.",
+        "parsed_query": {
+            "Target": "small silver trash can",
+            "Anchor": "large black trash bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "11",
+        "target_name": "bucket",
+        "caption": "there is a green bucket on the floor. it is to the right of the white bucket.",
+        "parsed_query": {
+            "Target": "green bucket",
+            "Anchor": "white bucket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "16",
+        "target_name": "door",
+        "caption": "there is a gray door. it is to the left of the white cabinets.",
+        "parsed_query": {
+            "Target": "gray door",
+            "Anchor": "white cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "0",
+        "target_name": "copier",
+        "caption": "there is a rectangular white copier. it is next to a green bucket on its right.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "green bucket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "0",
+        "target_name": "copier",
+        "caption": "there is a rectangular white copier. it has buckets on its right side.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "buckets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular gray trash can. it is between two copying machines.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "copying machine",
+                "copying machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "7",
+        "target_name": "mini_fridge",
+        "caption": "there is a rectangular white mini fridge. it is next to the door.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0462_00",
+        "target_id": "15",
+        "target_name": "bin",
+        "caption": "there is a rectangular white bin. it is in front of the shelf.",
+        "parsed_query": {
+            "Target": "rectangular white bin",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    }
+]

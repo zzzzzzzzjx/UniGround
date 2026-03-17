@@ -1,0 +1,859 @@
+[
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "this is a white internal door with glass pannel. right in the middle of the back wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "5",
+        "target_name": "monitor",
+        "caption": "this is a grey computer monitor. it is ontop of the brown sideboard next to the window.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "sideboard",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a brown wooden chair with dark seat. its located at the corner of the table at the end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a brown wooden chair. it is locted at the side of the table second from the end.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "this is a dark wooden table. it is located directly in the middle of the room and can not be missed.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "6",
+        "target_name": "curtain",
+        "caption": "object is a white lace and brown curtain.  it is located behind the two computer monitors.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "two computer monitors"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "object is a brown and black chair.  it is located at the far left of the row of three chairs.",
+        "parsed_query": {
+            "Target": "brown and black chair",
+            "Anchor": "row of three chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "6",
+        "target_name": "curtain",
+        "caption": "object is a brown curtain with with lace on its left side.  it is located behind two computer monitors.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "computer monitors"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "item is the first brown chair on the left.  it is located to the right of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "item is a brown and black chair.  it is located in the middle of the row of three chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "row of three chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "item is a brown chair between two other chairs.  it is located to the right of the green table.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "chairs",
+                "green table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "item is a long rectangular cabinet.  it is located below the two computer monitors.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "computer monitors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "item is a tall rectangular shelf.  it is located to the right of the light blue blanket.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "light blue blanket"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "4",
+        "target_name": "monitor",
+        "caption": "item is a rectangular computer monitor.  it is the computer monitor on the left side of the two monitors.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "computer monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "item is a tall brown and black chair.  it is located to the far left of the three chairs that look the same.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "three chairs that look the same"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "6",
+        "target_name": "curtain",
+        "caption": "item is a brown curtain with white lace in front.  it is located behind the two computer monitors.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "computer monitors"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "21",
+        "target_name": "cabinet",
+        "caption": "item is a taller rectangular cabinet.  it is located to the left of the cabinet that holds the computer monitors.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "cabinet that holds the computer monitors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "item is a large green and white rectangular table.  it is located centrally in the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "item is a white framed door.  it is located to the left of the tall white cabinet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "tall white cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "item is a tall brown and black chair.  it is located the farthest left of three similar chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "item is a tall brown and black chair.  it is located to the far right in a line of three similar chairs.",
+        "parsed_query": {
+            "Target": "tall brown and black chair",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "item is a tall brown and black chair.  it is located to the left of the square white pillow on the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "square white pillow",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "item is a tall brown and black chair.  it is located to the far right of a line of chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "line of chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "item is a tall rectangular shelf.  it is located to the right of a shorter white cabinet.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "0",
+        "target_name": "cabinet",
+        "caption": "item is a rectangular brown cabinet.  it is located behind the green and white table and wooden chairs.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "green and white table",
+                "wooden chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "there is a wooden cabinet with four doors pushed against the wall. there are two computer monitors sitting on top of it.",
+        "parsed_query": {
+            "Target": "computer monitors",
+            "Anchor": "wooden cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "there are four wooden chairs pushed up to the large table in the middle of the room. it is the chair to the right of the chair with the solid back, second from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "large table",
+                "chair with solid back"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "0",
+        "target_name": "cabinet",
+        "caption": "there is a large wooden cabinet behind the chairs that are pushed up to the table. the cabinet has two doors on the lower half.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "chairs",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "6",
+        "target_name": "curtain",
+        "caption": "there is a curtain hanging in front of the window on the wall. it is directly behind the two monitors sitting on the cabinet.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "window",
+                "monitors"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there are four chairs pushed against the table in the middle of the room. it is the chair with the solid back, second from the left.",
+        "parsed_query": {
+            "Target": "chair with solid back",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "this door is a white frame with a large window in the middle. it is on the back wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "32",
+        "target_name": "cabinet",
+        "caption": "this cabinet is large and made of wood. it is against the wall behind the green table.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "green table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "this shelf is on the right. its brown.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "0",
+        "target_name": "cabinet",
+        "caption": "this cabinet is on the left. its brown.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "this pillow is small and rectangular. it is on the table, on the corner.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "this shelf is on the right. its brown in color.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "this door is on the other side. its closed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "this cabinet is on the right. its brown.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this chair is at the green table. it is wood and on the left side. it is the middle chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "green table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the small table chair. the chair is in the middle of the chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "0",
+        "target_name": "cabinet",
+        "caption": "the large wall cabinet. the cabinet is by the table.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "32",
+        "target_name": "cabinet",
+        "caption": "the big wooden cabinet. the cabinet is next to the table.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "this pillow is on the table. it is grey.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this chair is brown. it is facing left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "6",
+        "target_name": "curtain",
+        "caption": "this curtain is on the other side. it is ridged.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "32",
+        "target_name": "cabinet",
+        "caption": "this cabinet is on the other side. it is brown.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "4",
+        "target_name": "monitor",
+        "caption": "the tiny computer monitor. the monitor is left of the other monitor.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "other monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "this shelf is on the right. its brown in colour.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "5",
+        "target_name": "monitor",
+        "caption": "this monitor is on the desk. its in the middle.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "this table is green. this is a top view.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this chair is on the right. it is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the chair is the middle one on the northern side of the table. the chair is brown with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is the left-most one on the northern side of the table. the chair is brown with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table is in the middle of the room. the table is a green rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "5",
+        "target_name": "monitor",
+        "caption": "the monitor is the right-most one on the northern wall. the monitor is a white square.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "northern wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "the cabinet is below two screens. the cabinet is a brown rectangle.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "two screens"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "the pillow is on the northeastern-most corner of the table. the pillow is a white square.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is on the northeastern-most corner of the table. the chair is brown with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is the right-most one on the northern side of the table. the chair is brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "the cabinet is below two screens. the cabinet is brown and rectangular.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "screens"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "21",
+        "target_name": "cabinet",
+        "caption": "the cabinet is left of the monitor. the cabinet is a brown rectangular prism.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "32",
+        "target_name": "cabinet",
+        "caption": "the cabinet is right of the microwave. the cabinet is a brown rectangle.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "microwave"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "21",
+        "target_name": "cabinet",
+        "caption": "the cabinet is west of the two monitors. the cabinet is a brown rectangular prism.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "two monitors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is the second right-most one on the northern side of the table. the chair is brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the chair is the second right-most one on the northern side of the table. the chair is brown with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "the door is left of the table. the door is white and rectangular.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table is large and green. it has chairs around it, and items atop it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "the pillow is on the table. it is on the top right side of the table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "4",
+        "target_name": "monitor",
+        "caption": "the monitor is one of two that are on the counter. it is the one on the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "4",
+        "target_name": "monitor",
+        "caption": "the monitor is atop the counter. it is the monitor on the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair faces the table. there is a chair to the right of it, and a chair to the left of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "21",
+        "target_name": "cabinet",
+        "caption": "the cabinet is the northwestern-most one. the cabinet is a brown rectangular prism.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "4",
+        "target_name": "monitor",
+        "caption": "the monitor is north of the center table. the monitor is square and has a white color.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "center table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "5",
+        "target_name": "monitor",
+        "caption": "the monitor is the right-most one above the counter. the monitor is a white box.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "32",
+        "target_name": "cabinet",
+        "caption": "the cabinet is right of the refrigerator. the cabinet is a brown rectangular prism.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0696_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "the pillow is on the northeastern-most corner of the table. the pillow is a white square shape.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "table"
+        },
+        "unique": true
+    }
+]

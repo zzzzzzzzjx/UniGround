@@ -1,0 +1,962 @@
+[
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "there is a door in the wall. it is to the left of a chair.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "this is a brown wood table, set against a wall. the table is to the right of a bed.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "14",
+        "target_name": "dresser",
+        "caption": "this is a dark brown or black wood dresser sitting in the corner of the room. there is a closet to the left of it and a small white table to the right.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "closet",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "this is a white rectangular pillow. it is sitting at the head of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "this is a white nightstand. it is sitting at the foot of the bed just to the right of a dark dresser.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "dark dresser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "21",
+        "target_name": "armchair",
+        "caption": "this is a reddish brown leather armchair. it is sitting in front of the door and just to the left of the closet.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "door",
+                "closet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair the closes to one from the bed in the northeast corner of the room from the entrance. the chair is light gray colored and has a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "14",
+        "target_name": "dresser",
+        "caption": "the dresser is in the farthest north area from the entrance. the dresser has three sections and is dark mahogany color.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "entrance"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "17",
+        "target_name": "curtain",
+        "caption": "the curtain is on the northeast corner of the room from the entrance. te curtain is orange and wavy.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "entrance"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "the nightstand is between the cabinet and the bed in the northern wall. the nightstand is a pale white cube.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "cabinet",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "17",
+        "target_name": "curtain",
+        "caption": "the curtain is in the furthest northeastern corner of the room from the entrance. the curtain is white and wavy.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "entrance"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "the pillow is on the bed on the left hand wall.  it is to the right of the window.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "2",
+        "target_name": "curtain",
+        "caption": "the curtain is to the left of the window in the back wall.  it is to the right of the red and green painting.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "window",
+                "red and green painting"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is against the brown table on the left hand side of the room.  it is the chair closest to the back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is near the brown table on the left side of the room. it is grey and the one further in the back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "16",
+        "target_name": "printer",
+        "caption": "the printer is on a white table.  it is to the left of the bed.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "white table",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "0",
+        "target_name": "bed",
+        "caption": "the bed is next to a window. there is also a desk to the right of the bed.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "6",
+        "target_name": "shelf",
+        "caption": "the shelf is in the corner of the room. there is a desk in front of it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is white. it is the chair on the left side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "the door is in the corner of the room. it is next to a dresser that is on the right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "2",
+        "target_name": "curtain",
+        "caption": "the curtain is on the left side of the window. there is also a black dresser on the left side of the curtain.",
+        "parsed_query": {
+            "Target": "black dresser",
+            "Anchor": "curtain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "2",
+        "target_name": "curtain",
+        "caption": "behind the bed there is a window. the window has two curtains there is one cartoon on the left. there is one curtain on the right. we are looking for the curtain on the left. it is green and orange and white. we are not looking for the curtain that is by the green orange and blue lamp. we are looking for the curtain that is on the left and above the small white nightstand with two drawers",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "window",
+                "small white nightstand with two drawers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "9",
+        "target_name": "lamp",
+        "caption": "this white bright lamp is above the desk that is to the right of the bed. it is not the lamp orange green and blue  lamp  to the left of the bed.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "9",
+        "target_name": "lamp",
+        "caption": "to the right of the bed is it desk with two white chairs in front of it . hanging on the wall above the desk white bright lamp . the white bright lamp is bright because it is on . the white bright lamp is the item we are looking for.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "wall",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "0",
+        "target_name": "bed",
+        "caption": "to the left of a brown wooden desk and below the big window is a   bed with a white bedspread. the bed is the item we are looking for. at the foot of the bed is a stack of white papers. we are not looking for the papers we are looking for the bed,",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "brown wooden desk",
+                "big window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "in front of a brown wooden desk are two white chairs. we are looking for the chair on the right. we are not looking for the chair on the left. the chair on the left is closest to the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown wooden desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "6",
+        "target_name": "shelf",
+        "caption": "this is a white shelf. it is in a corner of the room.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a white chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "white chair",
+            "Anchor": "another chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "16",
+        "target_name": "printer",
+        "caption": "this is a black printer. it is at the foot of the bed.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "6",
+        "target_name": "shelf",
+        "caption": "this is a white shelf. it is to the right of a desk.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "this is a white door. it is to the right of a dresser.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "a white pillow sits on the white bed. the pillow is at the same level as the brown desk.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "white bed",
+                "brown desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "a white wooden cabinet. the cabinet is in front of the white bed.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "white bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "0",
+        "target_name": "bed",
+        "caption": "a white mattress bed with white bed frame made of wood. the bed is in between a window and a desk.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "window",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "17",
+        "target_name": "curtain",
+        "caption": "a beige curtain next to the white bed. the curtain is at far corner of the room.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "white bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "19",
+        "target_name": "closet_door",
+        "caption": "a white closet door. the closet door is next to the black cabinet.",
+        "parsed_query": {
+            "Target": "closet door",
+            "Anchor": "black cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "6",
+        "target_name": "shelf",
+        "caption": "there is a shelf installed near a table. it is located in the corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a chair sitting on the floor. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "floor",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "16",
+        "target_name": "printer",
+        "caption": "there is a printer on a small table. the printer is to the left of a window.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "small table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a chair to the right of a bed. it is between the bed and another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "0",
+        "target_name": "bed",
+        "caption": "there is a bed in a corner. it is to the left of a desk and chair.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "18",
+        "target_name": "dresser",
+        "caption": "this is a white dresser. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "16",
+        "target_name": "printer",
+        "caption": "this is a gray printer. it is to the left of the bed.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "0",
+        "target_name": "bed",
+        "caption": "this is a bed with a white blanket. it is to the left of the chair.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "17",
+        "target_name": "curtain",
+        "caption": "this is a white curtain. it is above the bed.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "18",
+        "target_name": "dresser",
+        "caption": "this is a white dresser. it is to the right of a table.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "19",
+        "target_name": "closet_door",
+        "caption": "the cream colored open closet door is by a single sofa chair that is dark red.  in front of this closet door, there are two chairs facing the opposite way.",
+        "parsed_query": {
+            "Target": "closet door",
+            "Anchor": "sofa chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "2",
+        "target_name": "curtain",
+        "caption": "the multi color curtain is closest to the open closet door.  right in front of this curtain there is door straight ahead.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "open closet door",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "9",
+        "target_name": "lamp",
+        "caption": "the bright lamp is on top of the desk by the bed.  in front of the lamp there are two chairs.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "16",
+        "target_name": "printer",
+        "caption": "there is a black printer on top of a white cabinet by the window. the black printer is located at the foot of the bed.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "cabinet",
+                "window",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "6",
+        "target_name": "shelf",
+        "caption": "there is a shelf in the corner on the wall. it is to the right of a light.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "light"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "19",
+        "target_name": "closet_door",
+        "caption": "there is a closet door to the right of the open closet space. it is to the left of the wall.",
+        "parsed_query": {
+            "Target": "closet door",
+            "Anchor": [
+                "open closet space",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a chair to the right of a bed. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "there is a table on a wall near a bed. it has two chairs tucked under it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "9",
+        "target_name": "lamp",
+        "caption": "there is a light near a wall. it is above a desk.",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": [
+                "wall",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "17",
+        "target_name": "curtain",
+        "caption": "there is a curtain on the wall by a bed. it is to the right of a window.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "there is a nightstand on the wall. it is to the left of a bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "there is a table on a wall. it has two chairs near it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "chairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "21",
+        "target_name": "armchair",
+        "caption": "there is a chair with it's back to the wall. it is to the right of a door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "14",
+        "target_name": "dresser",
+        "caption": "a black dresser. it is right next to a white small cabinet.",
+        "parsed_query": {
+            "Target": "black dresser",
+            "Anchor": "white small cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "21",
+        "target_name": "armchair",
+        "caption": "a red armchair. it is in front of a white cabinet.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "white cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "a brown wooden work table. behind of it are two office chairs.",
+        "parsed_query": {
+            "Target": "work table",
+            "Anchor": "office chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "a white pillow. it is a above a bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "18",
+        "target_name": "dresser",
+        "caption": "a white dresser. in front of it is a red armchair.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "2",
+        "target_name": "curtain",
+        "caption": "a white curtain. it is attached to the window.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "14",
+        "target_name": "dresser",
+        "caption": "a black dresser. it is beside a white cabinet.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "white cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "19",
+        "target_name": "closet_door",
+        "caption": "a white closet door. it is behind a black dresser.",
+        "parsed_query": {
+            "Target": "closet door",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "9",
+        "target_name": "lamp",
+        "caption": "a white lamp. it is above a brown table.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "brown table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "21",
+        "target_name": "armchair",
+        "caption": "a red armchair. in front of it is a white cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is chair with arm. the chair is in front of the table.",
+        "parsed_query": {
+            "Target": "chair with arm",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "this is a pillow in white color. the pillow is on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "this is a nightstand made of wood. the night stand is near the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "18",
+        "target_name": "dresser",
+        "caption": "this is a dresser. the dresser is near the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "this is a white door. the door is near the table.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "the table is between the bed and the kitchen sink. the table is a brown rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "bed",
+                "kitchen sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "18",
+        "target_name": "dresser",
+        "caption": "the dresser is to the left of the entrance door. the dresser is white and rectangular.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "21",
+        "target_name": "armchair",
+        "caption": "the armchair is directly in front of the entrance door. the armchair has a curved backside and armrests.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "19",
+        "target_name": "closet_door",
+        "caption": "the closet door is northeast from the armchair. the closet door is white and rectangular.",
+        "parsed_query": {
+            "Target": "closet door",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0144_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "the door is east from the white dressers. the door is a white rectangle with a doorknob.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "white dressers"
+        },
+        "unique": false
+    }
+]

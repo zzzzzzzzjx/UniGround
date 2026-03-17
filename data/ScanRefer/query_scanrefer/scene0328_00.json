@@ -1,0 +1,739 @@
+[
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "7",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a wooden kitchen cabinet. the cabinet is placed on the top of the sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinet",
+        "caption": "it appears to be next to a larger cabinet that is next to a fridge. it is below the countertop.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "larger cabinet",
+                "fridge",
+                "countertop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "16",
+        "target_name": "kitchen_cabinets",
+        "caption": "a dark brown wooden wall cabinet, in the corner of the room. it is located above and to the left of the stove.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "17",
+        "target_name": "microwave",
+        "caption": "a microwave with a metal finish. it is located directly above the stove, between two wall cabinets.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "stove",
+                "wall cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "18",
+        "target_name": "kitchen_cabinets",
+        "caption": "a dark brown corner wall cabinet. it is located in the back right corner of the room, above kitchen counter tops.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "kitchen counter tops"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "14",
+        "target_name": "kitchen_counter",
+        "caption": "a dark grey counter top. it extends along the length of the kitchen, on either side of the stove, and goes from the left side of the kitchen next to the fridge, along the wall, past the stove, and around the right corner of the kitchen, including a kitchen sink before it connects to the last wall.",
+        "parsed_query": {
+            "Target": "counter top",
+            "Anchor": [
+                "stove",
+                "fridge",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "24",
+        "target_name": "kitchen_cabinet",
+        "caption": "its a three door cabinet. its located to the right of the oven and above it is a closed cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "oven",
+                "closed cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "a framed board set above the kitchen sink. it is on the wall between two wall cabinets, and has some paper in a holder on it.",
+        "parsed_query": {
+            "Target": "framed board",
+            "Anchor": [
+                "kitchen sink",
+                "wall cabinets"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "there is a window above the sink. it is located between two cabinets.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "sink",
+                "cabinets"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "19",
+        "target_name": "kitchen_cabinets",
+        "caption": "there is a set of cabinets mounted to the wall above the countertop. they are of dark brown wood.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "wall",
+                "countertop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a open fronted cabinet to the right of the refrigerator. it has five shelves.",
+        "parsed_query": {
+            "Target": "open fronted cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "14",
+        "target_name": "kitchen_counter",
+        "caption": "the counter top is u-shaped. it appears to be made of granite.",
+        "parsed_query": {
+            "Target": "counter top",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "17",
+        "target_name": "microwave",
+        "caption": "black and silver microwave that is above the oven. it has two cabinets to the right and left that it sits in between that are closed.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "oven",
+                "left cabinet",
+                "right cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "18",
+        "target_name": "kitchen_cabinets",
+        "caption": "this is the cupboard mounted on the wall above and to the right of the stove. it is the first one with a glass door.",
+        "parsed_query": {
+            "Target": "cupboard",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "24",
+        "target_name": "kitchen_cabinet",
+        "caption": "kitchen cabinet that is located next to the oven. it has three door openings and is closed. it is to the right of the oven.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "oven"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "7",
+        "target_name": "kitchen_cabinet",
+        "caption": "brown kitchen cabinet that is above to the right of the sink. there is a blue board with a white outline that is to the left of it. also a box beneath it.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "sink",
+                "blue board",
+                "box"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "the window is between two kitchen cabinets on the northern wall. the window is white and rectangular.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "kitchen cabinets",
+                "northern wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "2",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is to the south of the leftmost sink. the refrigerator is a gray rectangle.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "leftmost sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "18",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are to the right of the microwave. the kitchen cabinets are dark brown and rectangular.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "microwave"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "21",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is to the left of the stove. the kitchen cabinet is dark brown and cube-like.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "7",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is to the right and above the sink. the kitchen cabinet is a mahogany brown rectangular box.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "14",
+        "target_name": "kitchen_counter",
+        "caption": "the kitchen counter is above the kitchen cabinets on the walls. the kitchen counter is thin, black, and rectangular.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "kitchen cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "21",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a wooden kitchen cabinet. the cabinet is at the left corner.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "24",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a wooden kitchen cabinet. the cabinet is at the right corner.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "10",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a wooden kitchen cabinet. the cabinet is next to the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "25",
+        "target_name": "kitchen_cabinets",
+        "caption": "this is a kitchen cabinet with many partition. this is a wooden cabinet attached with sink at the top.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "6",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a wooden kitchen cabinet. the cabinet is at the corner of the wall next to sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "19",
+        "target_name": "kitchen_cabinets",
+        "caption": "this is a wooden kitchen cabinet. the cabinet is placed at the top next to sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "25",
+        "target_name": "kitchen_cabinets",
+        "caption": "this is a wooden kitchen cabinet. the cabinet is placed at the bottom of the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "21",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a single kitchen cabinet. the cabinet is at the left corner.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "15",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen is left of the stove. the kitchen cabinet is a dark brown box.",
+        "parsed_query": {
+            "Target": "kitchen",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "17",
+        "target_name": "microwave",
+        "caption": "this is a microwave. the microwave is placed on the top of the stove.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "8",
+        "target_name": "sink",
+        "caption": "an small embelzel sink as it has clean clear finish it appears to be stainless steel. the cutless steel is unfluttered.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "10",
+        "target_name": "kitchen_cabinet",
+        "caption": "appears to be an dark wood panel. is ceiling to floor height.",
+        "parsed_query": {
+            "Target": "wood panel",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "6",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a kitchen cabinet in the floor. it is at the far right end of the counter.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "8",
+        "target_name": "sink",
+        "caption": "there is a sink in the countertop. it is located between the two cabinets on the wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "countertop",
+                "cabinets on the wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "17",
+        "target_name": "microwave",
+        "caption": "there is a microwave mounted on the wall. it is above the stove.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "wall",
+                "stove"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "8",
+        "target_name": "sink",
+        "caption": "there is a sink built in to the counter. to the right of the sink are some brochures.",
+        "parsed_query": {
+            "Target": "brochures",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "8",
+        "target_name": "sink",
+        "caption": "a stainless steel kitchen sink with tall bent spout with single mixer control. set in a black stone kitchen surface on the right hand side in the middle. behind is small tiles on back wall. underneath is a brown fitted wooden kitchen unit with two drawers, much like the rest of the kitchen.",
+        "parsed_query": {
+            "Target": "kitchen sink",
+            "Anchor": [
+                "black stone kitchen surface",
+                "back wall",
+                "brown fitted wooden kitchen unit with two drawers"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "7",
+        "target_name": "kitchen_cabinet",
+        "caption": "above kitchen work surface, brown wooden unit with two front doors that have a large clear glass windows inset. it has two small golden knobs that are low and near each other of each door where they meet. it is located above and to the right of the sink and fitted to the wall hovering above the dark work surface.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink",
+                "kitchen work surface"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a dark wooden wine rack, has enough space to hold 16 bottles in a configuration of 4 shelves, each holding 4 bottles each (split by a divider). is open fronted and located to the right of a tall larder style (room height) kitchen unit. is topped with dark work surface.",
+        "parsed_query": {
+            "Target": "wine rack",
+            "Anchor": [
+                "tall larder style kitchen unit",
+                "dark work surface"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "15",
+        "target_name": "kitchen_cabinet",
+        "caption": "a dark wooden fronted kitchen unit located on the floor and in the left back corner of the kitchen. has a large single front panel with no handle. located next to the wine rack. topped with black stone kitchen surface.",
+        "parsed_query": {
+            "Target": "kitchen unit",
+            "Anchor": "wine rack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "2",
+        "target_name": "refrigerator",
+        "caption": "large larder style stainless steel fridge freezer. has a split upper and lower areas with large wide handle. located to the left of the large larder style kitchen unit.",
+        "parsed_query": {
+            "Target": "stainless steel fridge freezer",
+            "Anchor": "large larder style kitchen unit"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "7",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a brown rectangular kitchen cabinet. it is on the wall right of a sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "10",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular brown kitchen cabinet. it is left of the end of the counter.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "21",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular brown kitchen cabinet. it is left of the stove.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "6",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is at the rightmost end of the counter.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "6",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is the one at the very edge of the counter, below the counter. it's on the far right, and the sink is to its left, a few feet down.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "counter",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "25",
+        "target_name": "kitchen_cabinets",
+        "caption": "there's a set of oak-colored wooden kitchen cabinets with silver-colored metal handles at the top. the cabinets are located above the striped rug on the floor.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "striped rug"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinet",
+        "caption": "there's a kitchen cabinet with cutouts to hold tilted wine bottles. it's wooden, and located one cabinet away from the corner, below the marble countertop.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "marble countertop"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "there's a window with a white frame around it. it's located directly above the kitchen sink.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "kitchen sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "16",
+        "target_name": "kitchen_cabinets",
+        "caption": "there's a set of wooden kitchen cabinets directly to the left of the microwave. they are above the kitchen counter, and there's a spatula hanging below them.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "microwave",
+                "kitchen counter",
+                "spatula"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "24",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is right of the stove. the kitchen cabinet is a dark brown rectangular prism.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "24",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is east of the stove. the kitchen cabinet is a brown square.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "2",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is left of the stove. the refrigerator is a dark gray rectangular prism.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "stove"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "19",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are above and next to the sink. the kitchen cabinets are brown and has a glass center.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "15",
+        "target_name": "kitchen_cabinet",
+        "caption": "this cabinet is below the countertop. it is along the corner of where the countertop turns 90 degrees and goes the other direction.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "countertop"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "14",
+        "target_name": "kitchen_counter",
+        "caption": "the kitchen counter has a 90 degree turn in it, where it meets the stove top. the counter also has a sink that comes out of it at the other end.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": [
+                "stove top",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "10",
+        "target_name": "kitchen_cabinet",
+        "caption": "this kitchen cabinet is next to the refrigerator on one side. on the other side, there is a counter top which is at a lower height than this cabinet.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "refrigerator",
+                "counter top"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "16",
+        "target_name": "kitchen_cabinets",
+        "caption": "this kitchen cabinet is above the countertop. next to this cabinet, there is a microwave.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "countertop",
+                "microwave"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0328_00",
+        "target_id": "2",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is in front of the dishwasher. the refrigerator is a gray rectangle.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "dishwasher"
+        },
+        "unique": true
+    }
+]

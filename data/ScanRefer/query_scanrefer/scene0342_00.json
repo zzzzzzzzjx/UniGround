@@ -1,0 +1,678 @@
+[
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is to the right of another chair. c",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "it is one of the brown chairs that are connected together. it is located at the very back of the room from the right side wall it will be the second chair to your left at the top row.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "right side wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "from where the speaker stands and talks it is a brown chair located from the right side of the room. is the second chair from the right in the second row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "speaker"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "it is it is a brown chair it is located on the front row from the right side of the room. standing from where the speaker speaks it is the first chair in the first roll from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "it is a brown chair it is located on the top row. it is the first chair from the right side of the room and to your left if you were standing in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "it is a brown chair in front of the table that is across from the front the first row of chairs. it is the fourth chair from the right side of the room when standing in front of the table.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "table",
+                "first row of chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "a chair sits along with a great many others in a room. it is in the front row on the third from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "a chair sits with many other in the back row. it is the furthest chair to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "a chair sits in a lecture hall with many other chairs. it is in the back row the second from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "a chair is in the second row if you start counting from the back row. it is the second chair from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "a lecture hall chair sits in the back row. it is furthest to the right.",
+        "parsed_query": {
+            "Target": "lecture hall chair",
+            "Anchor": "back row"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is located in the third row and is the furthest chair to the right. it is a chair whose seat folds up and down.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair has tan arm rests and faces the near wall. it is the chair fourth from the right and is located in the second row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is facing the near wall and has tan arm rests. it is the furthest right chair in the 4th row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is the furthest chair on the right in the front row. it has a moveable desk attached to it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is the furthest to the right in the third row. it is facing the near wall and is a greyish green color.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is in the first row. it is the second from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "6",
+        "target_name": "whiteboard",
+        "caption": "it is hanging on the wall in front of the room. it is large, flat, and white.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is in the second row. it is brown and is the second from the end on the right side in the frame.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a brown chair in a conference room.  it is the second chair from the right in the first row.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the chair is in the front row. it is the middle chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "the chair is in the second row. it is third chair from the left, when looking at it from the front.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a brown table in a conference room.  it is at the front of the room in front of a bunch of chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a brown table in a conference room. it is in the front of the room with a chalk board behind it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chalk board"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is in the back row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is third from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is second from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is in between two other chairs.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is in the middle of two other gray chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "gray chair",
+                "gray chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is in the middle of other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is on the far right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a black table. it is facing the chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this chair is sitting between two other chairs. it's in the row closest to us.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "a table sits in the front of a lecture gall. it's got a whiteboard behind it and a red bag on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "whiteboard",
+                "red bag"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "6",
+        "target_name": "whiteboard",
+        "caption": "a whiteboard is on the wall in the front of a lecture hall. it's got a white table in front of it.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "white table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "6",
+        "target_name": "whiteboard",
+        "caption": "a whiteboard is hanging on the wall. it's near a table with a red bag on it.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair has a moveable desk. it is in the front row and is the third from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "the chair has tan arm rests. it is the third chair from the left in the 2nd row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "the chair is the second from the right in the third row. it is a grey color and has tan arm rests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is in the front row and is furthest to the right. it has a tan desk on its right side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tan desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is in the middle of chairs.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is on the right end in the front.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "this is a gray chair. it is in between two chairs.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is in the 2nd row. it is the 2nd left most chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is in the front row. it is the 2nd chair from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is in the last row. it is the first one on the right side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "6",
+        "target_name": "whiteboard",
+        "caption": "it is a large whiteboard hanging on the wall. the seats are facing the board.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "seats"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "22",
+        "target_name": "chair",
+        "caption": "this brown seat is in the third row back. it is the third seat from the left if you're facing the white board.",
+        "parsed_query": {
+            "Target": "brown seat",
+            "Anchor": "white board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "6",
+        "target_name": "whiteboard",
+        "caption": "it is a whiteboard in the front of the room. it's hanging on the wall.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "it's a brown chair. it's the fifth chair from the right in the first row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "22",
+        "target_name": "chair",
+        "caption": "the chair is in the 2nd to last row. it is the third chair from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is in the second to the last row. it is the first chair from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a black table. it is in front of a whiteboard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "whiteboard"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is at the first row you see. the chair is the third from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair has no chair behind it. the chair is the second one from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "the second chair from the left. the chair has a chair in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "22",
+        "target_name": "chair",
+        "caption": "the third chair from the right. the chair is at the second to the back row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0342_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "the second chair from the right. the chair has no chair behind it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

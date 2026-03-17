@@ -1,0 +1,1459 @@
+[
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "8",
+        "target_name": "bed",
+        "caption": "there is a brown cotton bed cover. placed on the bed of the room.",
+        "parsed_query": {
+            "Target": "bed cover",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "8",
+        "target_name": "bed",
+        "caption": "there is a brown bed cover. covering the double bed.",
+        "parsed_query": {
+            "Target": "bed cover",
+            "Anchor": "double bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "there is a white pillow. placed next to another same pillow.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": "white pillow"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "24",
+        "target_name": "radiator",
+        "caption": "the radiator is right of the rightmost bed. the radiator is a white trapezoidal prism.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "rightmost bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "the office chair is left of the hexagonal table. the office chair is black and has armrests.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "hexagonal table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "47",
+        "target_name": "table",
+        "caption": "the table is south of the leftmost bed. the table is a rectangular brown shape.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "leftmost bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "41",
+        "target_name": "pillow",
+        "caption": "the pillow is the rightmost one on the leftmost bed in the room. the pillow is white and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "leftmost bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "24",
+        "target_name": "radiator",
+        "caption": "this is a wall mounted ac/heater commonly seen in hotel rooms and rectangular in shape. it is to the left of the window curtains and touiching the back wall.",
+        "parsed_query": {
+            "Target": "ac/heater",
+            "Anchor": [
+                "window curtains",
+                "back wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "39",
+        "target_name": "pillow",
+        "caption": "this is a white fluffy pillow in its case. it is located on the bed on the left in front of two other pillows.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "pillows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "a cabinet section beside the bed with a counter on top, two cabinets, and a refrigerator. it's just before you get to the restroom.",
+        "parsed_query": {
+            "Target": "cabinet section",
+            "Anchor": [
+                "bed",
+                "restroom"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "43",
+        "target_name": "nightstand",
+        "caption": "a coffee type table with a lamp on top. it is located between the two beds.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "44",
+        "target_name": "pillow",
+        "caption": "the object is a bed pillow that is on the bed to the right of the table. the pillow is sitting at the head of the bed in front of two other pillows.",
+        "parsed_query": {
+            "Target": "bed pillow",
+            "Anchor": [
+                "bed",
+                "table",
+                "pillows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "a counter/desk where a tv often sits. it is beside the black chair.",
+        "parsed_query": {
+            "Target": "counter/desk",
+            "Anchor": "black chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "the object is a green patterned shopping bag. the bag is on the floor in front of the desk, and can easily be seen from the entry door.",
+        "parsed_query": {
+            "Target": "shopping bag",
+            "Anchor": [
+                "desk",
+                "entry door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "17",
+        "target_name": "trash_can",
+        "caption": "the object is a wastebasket with a bag inside. it is on the floor beside the counter, beside the doorway.",
+        "parsed_query": {
+            "Target": "wastebasket",
+            "Anchor": [
+                "counter",
+                "doorway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the object is the bed with a green spread, with a laptop computer resting on it. the bed is to the left of the nightstand.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "nightstand"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "the object is a brown, upholstered chair. it is pushed in front of the desk, and can be seen from the entry door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "entry door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "14",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is to the immediate right of the door when you enter the room. the bathroom vanity is white with a rectangular shape.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "17",
+        "target_name": "trash_can",
+        "caption": "the trash can is to the left of the kitchen cabinets. the trash can is gray with a plastic bag on top.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "kitchen cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "46",
+        "target_name": "pillow",
+        "caption": "the pillow is the rightmost one that is on top of the bed. the pillow is a caramel white color and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "46",
+        "target_name": "pillow",
+        "caption": "the pillow is the furthest one to the right on the bed. the pillow looks like a crumpled rectangular prism.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "11",
+        "target_name": "ironing_board",
+        "caption": "the ironing board is on the right side of a cabinet that is left of the bathroom vanity. the ironing board is gray and flat.",
+        "parsed_query": {
+            "Target": "ironing board",
+            "Anchor": [
+                "cabinet",
+                "bathroom vanity"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a black rolling desk chair. it is located along the wall to the left of the dresser.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "41",
+        "target_name": "pillow",
+        "caption": "this is a white pillow located on the left bed. it is the pillow on the right side of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "left bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "14",
+        "target_name": "bathroom_vanity",
+        "caption": "this is a bathroom vanity with a sink. it is located right outside the bathroom door.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "bathroom door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "46",
+        "target_name": "pillow",
+        "caption": "this is a white pillow placed on the right bed. it is located on the right side of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "right bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "this is a brown wooden door. it is located next to the bathroom vanity.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom vanity"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the black office chair is to the left of the dresser. there is a tv to the right of the chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "24",
+        "target_name": "radiator",
+        "caption": "the object is a heating and cooling unit. it is mounted to the wall in the corner of the room.",
+        "parsed_query": {
+            "Target": "heating and cooling unit",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "43",
+        "target_name": "nightstand",
+        "caption": "the brown nightstand has a lamp on it. it is between two beds in the room.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "lamp",
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "21",
+        "target_name": "picture",
+        "caption": "the furthest left painting is above the bed with the laptop on it. the painting is fixed to the wall in the room.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "the object is white sink. it is mounted in a vanity beside the bathroom door.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "vanity",
+                "bathroom door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "11",
+        "target_name": "ironing_board",
+        "caption": "the object is a beige ironing board. it is resting against the wall on the other side of the vanity, and cannot be seen from the doorway.",
+        "parsed_query": {
+            "Target": "ironing board",
+            "Anchor": [
+                "vanity",
+                "doorway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "47",
+        "target_name": "table",
+        "caption": "the white table with brown edges has a plastic bag on it.  there is a door to the right of the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "plastic bag",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "43",
+        "target_name": "nightstand",
+        "caption": "the object is a nightstand that has a lamp resting upon it. the nightstand is centered between the beds, and can be seen from the entry door.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "lamp",
+                "beds",
+                "entry door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "46",
+        "target_name": "pillow",
+        "caption": "the white pillow is on the bed with two other pillows. it is the furthest right pillow in the photo.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "the object was referred to as a trashcan, but it is a green, paper shopping bag. it is on the floor in front of the desk and can be seen from the entry door.",
+        "parsed_query": {
+            "Target": "green paper shopping bag",
+            "Anchor": [
+                "desk",
+                "entry door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "43",
+        "target_name": "nightstand",
+        "caption": "the nightstand is located between the two beds. it has a white cover.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "47",
+        "target_name": "table",
+        "caption": "the table is on the left side of the room opposite the furthest away bed. it is brown.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "furthest away bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "8",
+        "target_name": "bed",
+        "caption": "this bed is the one further away (second on the left). it has a green cover.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "41",
+        "target_name": "pillow",
+        "caption": "the pillow on the left side bed. it is closet to the lamp on that bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "left side bed",
+                "lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door has a beige colour. it also has a window.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "this office chair is next to the round table. it is black.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "40",
+        "target_name": "pillow",
+        "caption": "there is a white pillow placed next to another pillow.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": "pillow"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "50",
+        "target_name": "towel",
+        "caption": "there is a white plastic soap dispenser placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed furthest away. it has green bed covers.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "43",
+        "target_name": "nightstand",
+        "caption": "the bedside cabinet between the beds. it has a white table top.",
+        "parsed_query": {
+            "Target": "bedside cabinet",
+            "Anchor": "beds"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a black chair. it is next to a cabinet on the side of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "there is a black trash can. it is beneath a table placed up against the wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "there is a round brown table. it is between two chairs near a wall of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "there is a round, octagonal brown table. it is between two chairs at the side of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "there is a blak trash can. it is beneath a desk next to a cabinet at the side of the room.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "desk",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "there is a brown rectangular chair. it is up against a dresser and desk placed at the side of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "dresser",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "there is a rectangular pillow. it is at the top of the bed placed against the wall.",
+        "parsed_query": {
+            "Target": "rectangular pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "17",
+        "target_name": "trash_can",
+        "caption": "there is a dark trash can. it is to the side of a sink and cabinet and at the side of a hallway.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink",
+                "cabinet",
+                "hallway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "39",
+        "target_name": "pillow",
+        "caption": "there is a rectangular pillow. it is at the head of a bed near the wall of the room.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "the chair is next to the desk in front of the bed. the chair has four legs and is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "50",
+        "target_name": "towel",
+        "caption": "the soap dispenser is on the right side of the wall from the bathroom sink. the soap dispenser is a white cylinder.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "bathroom sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "44",
+        "target_name": "pillow",
+        "caption": "the pillow is the front-most one on top of the rightmost bed. the pillow is a white rectangular prism.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "rightmost bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "14",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is located in the far left corner of the room. it is next to the yellow door.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "yellow door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "21",
+        "target_name": "picture",
+        "caption": "the picture is on top of the left-most bed in the room. the picture is a rectangle with brown edges.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "left-most bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "17",
+        "target_name": "trash_can",
+        "caption": "the trash can is in the middle of the room. it is black.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "50",
+        "target_name": "towel",
+        "caption": "the soap dispenser is to the left of the entrance door. the soap dispenser looks like a white cylinder.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "39",
+        "target_name": "pillow",
+        "caption": "the pillow is on the right side of the room. it is white and located on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed is on the left side of the room. it has a green cover.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "51",
+        "target_name": "towel",
+        "caption": "the soap dispenser is in the far left corner of the room above the sink. it is white.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "11",
+        "target_name": "ironing_board",
+        "caption": "the ironing board is attached to the wall. it is grey.",
+        "parsed_query": {
+            "Target": "ironing board",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "11",
+        "target_name": "ironing_board",
+        "caption": "the ironing board is grey. it is up against the wall.",
+        "parsed_query": {
+            "Target": "ironing board",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "21",
+        "target_name": "picture",
+        "caption": "the picture above the bed that is further away. it is framed on the wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bed",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the closest bed. the covers of the bed are green and white.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door has a metal door knob. it is also made from wood.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "39",
+        "target_name": "pillow",
+        "caption": "this is a white pillow. it is the only pillow in front of two pillows sitting side by side. this pillow is on the left bed in the room.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "two pillows",
+                "left bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "this is an octagonal table in the corner of the room. there is a black chair on both sides of the table. it is the only table in the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "this is a brown chair pushed under the desk in the room. the desk has a tv on it. it is the only chair in the room without wheels.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "tv"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "this cabinet is to the left of the first bed in the room. the cabinet has a white mini fridge and two doors.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "first bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "this is the only chair in the room without wheels. it is brown. it is located in the middle of the room in front of both beds.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "24",
+        "target_name": "radiator",
+        "caption": "this is the white heater up against the wall. it is to the left of the window.",
+        "parsed_query": {
+            "Target": "heater",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "24",
+        "target_name": "radiator",
+        "caption": "this is the beige air conditioning unit up against the wall. it is also in the corner and to the left of the window.",
+        "parsed_query": {
+            "Target": "air conditioning unit",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "50",
+        "target_name": "towel",
+        "caption": "this is a white soap dispenser that is hanging on the wall to the right in the bathroom. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "this is a wooden dresser with a television on top. it is to the left of the bathroom and has a clock on it.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "television",
+                "bathroom",
+                "clock"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "41",
+        "target_name": "pillow",
+        "caption": "this pillow is white. it is on the first bed on the left and is the right-most pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "first bed on the left"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "40",
+        "target_name": "pillow",
+        "caption": "the pillow furthest away. it is white.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "51",
+        "target_name": "towel",
+        "caption": "the soap dispenser on the left. it is white.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "the desk to the right of the office desk. it is made from wood.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "office desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door that has a lock on it. it is beige.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "lock"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "40",
+        "target_name": "pillow",
+        "caption": "the pillow on the furthest left. it is white.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "44",
+        "target_name": "pillow",
+        "caption": "this is a white hotel pillow. it is the center pillow on the bed closest to the curtains.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "curtains"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this is a hotel room bed. it is the bed closest to the entrance door.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a rolling desk chair. it is next to the round table in the hotel room. it is the chair closest to the entrance door.",
+        "parsed_query": {
+            "Target": "rolling desk chair",
+            "Anchor": [
+                "round table",
+                "entrance door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "this is a rolling desk chair, next to the round table in the hotel room. it is the chair closest to the curtains.",
+        "parsed_query": {
+            "Target": "rolling desk chair",
+            "Anchor": [
+                "round table",
+                "curtains"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "47",
+        "target_name": "table",
+        "caption": "there is a square beige table. it is next to a large rectangular table at the side of the room.",
+        "parsed_query": {
+            "Target": "square beige table",
+            "Anchor": "large rectangular table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "there is a brown cabinet. it is next to a bed by the side of the room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "there is a long brown desk. it is at the side of the room and next to a chair.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "there is an octagonal beige desk. it is next to some chairs by the side of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "50",
+        "target_name": "towel",
+        "caption": "the soap dispenser is right of another one. the soap dispenser is white and small.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "soap dispenser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "the pillow is white and right of the lamp. the pillow is in the back left of the others.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "lamp"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "the pillow is rectangular and white. the pillow is against the wall, left of one, and behind another.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "the cabinet is wide and made of wood. the cabinet has three doors.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "8",
+        "target_name": "bed",
+        "caption": "the bed is large and dark. the bed is right of the other one.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "47",
+        "target_name": "table",
+        "caption": "the table is brown and short. the table is right of a counter.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "the sink is white and has a wide counter around it. the sink is in between two walls.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "wall",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "44",
+        "target_name": "pillow",
+        "caption": "the pillow is white and long. the pillow is in front of two other ones.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "two other pillows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door is gold and tall. the door has a silve handle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "44",
+        "target_name": "pillow",
+        "caption": "the pillow is white and long. the pillow is flat and is in front of the others.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "other pillows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "11",
+        "target_name": "ironing_board",
+        "caption": "there is a long gray ironing board. it is in the shelf next to the sink.",
+        "parsed_query": {
+            "Target": "ironing board",
+            "Anchor": [
+                "shelf",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "there is a dark trash can. it is under the table next to the cabinet and near the foot of a bed.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "table",
+                "cabinet",
+                "foot of a bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "there is an octagonal beige table. it's betweent two chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "17",
+        "target_name": "trash_can",
+        "caption": "there is a dark trash can. it is next to the end of some cabinets and near the entraceway.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "cabinets",
+                "entranceway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "the office chair is left of the hexagonal table. the chair is black and has a curved backside.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "hexagonal table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "21",
+        "target_name": "picture",
+        "caption": "the picture is above the left-most bed in the room. the picture is rectangular with brown edge.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "left-most bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "51",
+        "target_name": "towel",
+        "caption": "the soap dispenser is left of the entrance door. the soap dispenser is shaped like a white cylinder.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "14",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is left of the door. the bathroom vanity is a rectangular prism with a white top.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "21",
+        "target_name": "picture",
+        "caption": "this picture is located on the back wall of the room. it is above the left bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "left bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "39",
+        "target_name": "pillow",
+        "caption": "this is a white pillow. it is the front pillow on the left bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "left bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "this is a white pillow on the right bed. it is the leftmost pillow on this bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "right bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "14",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is located in the far left corner of the room. it is next to the door.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "this cabinet is on the left wall. it is brown. there are candles on top of the cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is to the right of the hexagonal table. the chair is black and has armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "hexagonal table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "40",
+        "target_name": "pillow",
+        "caption": "the pillow is the furthest northwest one on the left-most bed. the pillow is a yellow color and is rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "left-most bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "the office chair is to the left of the hexagonal table. the office chair has a bent backside and is black.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "hexagonal table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0221_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "the desk is below the two beds. the desk is brown and rectangular.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "beds"
+        },
+        "unique": true
+    }
+]

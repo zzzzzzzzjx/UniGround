@@ -1,0 +1,586 @@
+[
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "33",
+        "target_name": "table",
+        "caption": "there is a brown wooden desk. placed on the first raw of the clasroom.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "there is an office chair. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "36",
+        "target_name": "table",
+        "caption": "there is a beige wooden desk. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "there is an office chair. placed in front of a desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "35",
+        "target_name": "table",
+        "caption": "there is a wooden steel desk. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "wooden steel desk",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "there is a black office chair. placed in the side of the wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "21",
+        "target_name": "chair",
+        "caption": "there is a black office chair. placed in the table of the office.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "there is a black office chair. placed in the side of the wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "there is an office chair. placed next to the heating of the room.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "heating of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "36",
+        "target_name": "table",
+        "caption": "there is a brown wooden desk . placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "35",
+        "target_name": "table",
+        "caption": "this is a small table with a wood look.  it is the table closest to the front of the room in the upper left corner. .",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "33",
+        "target_name": "table",
+        "caption": "there is a beige wooden steel desk. on the first raw of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "21",
+        "target_name": "chair",
+        "caption": "this is a chair with no arms. it is at the end of a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "36",
+        "target_name": "table",
+        "caption": "this is a short wooden table. it is against a wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "35",
+        "target_name": "table",
+        "caption": "this is a short table. it is in front of a chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "a wooden chair with no arms. it is located away from the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "32",
+        "target_name": "table",
+        "caption": "it is a long brown table. it is located opposite to the crossed table on other side.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "crossed table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "33",
+        "target_name": "table",
+        "caption": "a long brown plain table. it is located near a single chair which is very close to the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "21",
+        "target_name": "chair",
+        "caption": "this is a chair with no arms. it is at one end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "24",
+        "target_name": "chair",
+        "caption": "this is a chair with no arms. it is at a long tan table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "long tan table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "35",
+        "target_name": "table",
+        "caption": "this is a tan table. one end of the table is against a wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "this is a chair with no arms. it's back is to the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this is a chair with no arms. it is in between two chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "this is a patterned chair. it is facing a table.",
+        "parsed_query": {
+            "Target": "patterned chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in a corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "33",
+        "target_name": "table",
+        "caption": "this is a long table. it is in front of two chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "24",
+        "target_name": "chair",
+        "caption": "this is a blcak chair. it sets at a desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this is a polka dotted chair. it sets between 2 other chairs at a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "37",
+        "target_name": "table",
+        "caption": "this is a table. it has many chairs setting around it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "24",
+        "target_name": "chair",
+        "caption": "this is a black chair. it sets between the wall and another identical chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "this is a polka dotted chair. it sets along the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "33",
+        "target_name": "table",
+        "caption": "this is a long light brown table with a wood look.  if you stand in the middle of the room facing the windows, it is the one on the left closest to the left most window.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "left most window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this is a padded chair with no arms and is checkerboard color blue and light blue or white.  it belongs to the second table from the front of the class on the side with the windows and is the second chair closest the middle window.",
+        "parsed_query": {
+            "Target": "padded chair",
+            "Anchor": [
+                "second table from the front of the class",
+                "middle window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "32",
+        "target_name": "table",
+        "caption": "this is a long conference type table with a wood look.  it is the 3rd table back from the front of the room and is on the side close to the windows.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this is an armless checkerboard blue padded chair.  it is facing the front of the class and is in between the 2nd and 3rd tables from the front on the side of the windows and is 2nd from the windows.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "2nd table from the front",
+                "3rd table from the front",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "this is a chair with no arms. it is facing a wooden chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wooden chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "37",
+        "target_name": "table",
+        "caption": "this is a long table. it is between two chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "32",
+        "target_name": "table",
+        "caption": "this is a long table. it is in front of three chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "37",
+        "target_name": "table",
+        "caption": "this is a long table. it is against the wall on one end.",
+        "parsed_query": {
+            "Target": "long table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "this is a chair with no arms. it is facing a long table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "long table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "32",
+        "target_name": "table",
+        "caption": "this is a long table. it is behind three chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "three chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "36",
+        "target_name": "table",
+        "caption": "this is a wooden table. it is against a wall.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at a long table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "long table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "this is a chair with no arms. it is in front of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "35",
+        "target_name": "table",
+        "caption": "this is a wooden table. it is a wooden table. it is next to a patterned chair.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": "patterned chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "36",
+        "target_name": "table",
+        "caption": "the table is in the back left of the room.  it is a lone table and there are chairs around it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "24",
+        "target_name": "chair",
+        "caption": "the chair is with the table in the back in front of the white board. it is the one on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "white board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "the chair is black.  it is the furthest chair on the left in the back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair is near the table second from the front on the left.  it is the middle chair on that row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0015_00",
+        "target_id": "19",
+        "target_name": "chair",
+        "caption": "there is an office chair. placed next to another chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    }
+]

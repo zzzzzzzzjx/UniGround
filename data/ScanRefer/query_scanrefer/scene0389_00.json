@@ -1,0 +1,906 @@
+[
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "there is a brown double bed. placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "double bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "there is a dark brown wooden tv set. placed next to the chair.",
+        "parsed_query": {
+            "Target": "tv set",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a brown wooden table. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "28",
+        "target_name": "trash_can",
+        "caption": "there is a beige plastic bucket. placed next to the fridge.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "there is a white door. placed on the left to the curtain.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "curtain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "there is a rectangular picture on the wall. it is next to the door on its left.",
+        "parsed_query": {
+            "Target": "rectangular picture",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "9",
+        "target_name": "tv",
+        "caption": "this is an off tv that is flat and has a certain thickness against a white wall. it is facing the viewer and is to the left, on top of a wooden stand.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "white wall",
+                "wooden stand"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "29",
+        "target_name": "mini_fridge",
+        "caption": "this is a hollow or filled cardboard box against the surface of a wall. it is facing the viewer and is to the left of the view.",
+        "parsed_query": {
+            "Target": "cardboard box",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "9",
+        "target_name": "tv",
+        "caption": "this is an off black tv in contact with a wall surface behind it. it is atop a stand and is facing toward the observer and to the right.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "wall",
+                "stand"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "this is a painting against a wall, in close proximity to the viewer and is facing right. it has color in the center and the outside border is tan.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "28",
+        "target_name": "trash_can",
+        "caption": "this is a bin in contact with a wall surface behind it, and near the corner of a room. it is beside a box and is hollow or solid.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "wall surface",
+                "box"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a sturdy chair, made of wood and with green cushioning. it is in contact with a wall surface and a brown table. it is oriented about 120 degrees in relation to the viewer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall surface",
+                "brown table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "26",
+        "target_name": "radiator",
+        "caption": "this is a white rectangular-shaped object that has an opening and seems to be unfilled. it is in contact with a wall surface behind it and has wavy brown curtains above it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "curtains"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "this is a wooden cabinet in close proximity to and covered by a relatively large bed. it is hollow or filled and has objects set atop it.",
+        "parsed_query": {
+            "Target": "wooden cabinet",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "26",
+        "target_name": "radiator",
+        "caption": "this is a hollow and unfilled but sturdy rectangular object. it is in contact with a wall surface and sitting below brown curtains.",
+        "parsed_query": {
+            "Target": "rectangular object",
+            "Anchor": [
+                "wall surface",
+                "brown curtains"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "9",
+        "target_name": "tv",
+        "caption": "this is a black and off tv set atop a brown stand. it is in contact with a wall behind it and is facing the viewer, only slightly to the right.",
+        "parsed_query": {
+            "Target": "tv set",
+            "Anchor": [
+                "brown stand",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "29",
+        "target_name": "mini_fridge",
+        "caption": "the mini fridge is small and white. it is to the left of the cabinet.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "the picture is large and square. it is to the left of the white door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "white door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "the nightstand is small and wooden. it is to the left of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is green and brown. it is to the right of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is dark wood and green colored. it is to the right of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "19",
+        "target_name": "nightstand",
+        "caption": "there is a rectangular brown nightstand. it is to the right of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "there is a rectangular picture. it is on the wall to the left of the door.",
+        "parsed_query": {
+            "Target": "rectangular picture",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "26",
+        "target_name": "radiator",
+        "caption": "there is a rectangular radiator. it is underneath the curtains.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "curtains"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "there is a rectangular beige door. it is next to the curtain.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "curtain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "25",
+        "target_name": "curtain",
+        "caption": "there is a rectangular beige curtain. it is next to the door.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "29",
+        "target_name": "mini_fridge",
+        "caption": "there is a rectangular mini fridge. it is on the floor next to a dresser.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": [
+                "floor",
+                "dresser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "28",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular trash can. it is on the floor next to a mini fridge.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "mini fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a tan chair. it is at the table and next to a backpack.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular brown cabinet. it is up against the wall and next to a chair.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "the door is to the left of the curtain. the door handle is on the right side of the door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "curtain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "the cabinet contains a microwave. the cabinet is to the left of the table and chairs.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "microwave",
+                "table",
+                "chairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "21",
+        "target_name": "lamp",
+        "caption": "the lamp is affixed to the wall above the night stand. it is to the left of the headboard.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "night stand",
+                "headboard"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "the table has two chairs at it. the table is to the left of the trash can.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "the door is past the curtains on the right side of the room. there is a table to the left of the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "25",
+        "target_name": "curtain",
+        "caption": "there is a rectangular curtain. it is next to the door.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "25",
+        "target_name": "curtain",
+        "caption": "there is a rectangular curtain. it is in front of the window.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "26",
+        "target_name": "radiator",
+        "caption": "there is a rectangular radiator. it is under the curtain.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "curtain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "there is a rectangular bed. it is against the wall and next to a nightstand.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "wall",
+                "nightstand"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "there is a rectangular brown nightstand. it is to the left of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a square olive chair. it is to the left of a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "there is a rectangular bed. it is next to a nightstand.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "nightstand"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "there is a rectangular bed. it is between two nightstands.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "nightstand",
+                "nightstand"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a square olive and brown chair. it is to the left of a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "19",
+        "target_name": "nightstand",
+        "caption": "there is a rectangular brown nightstand. it is to the right of a bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "a cabinet sits with a microwave under the top of it. it's got a small tv on top of it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "microwave",
+                "tv"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "21",
+        "target_name": "lamp",
+        "caption": "a light is lit up and hanging on the wall. it's to the left of a bed.",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": [
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a square brown table. it is flanked by olive chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "olive chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "21",
+        "target_name": "lamp",
+        "caption": "a light hangs on the wall to the left of a bed. it's above a small end tabel.",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": [
+                "bed",
+                "end table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "19",
+        "target_name": "nightstand",
+        "caption": "there is a square brown nightstand. it is to the right of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "19",
+        "target_name": "nightstand",
+        "caption": "there is a square brown nightstand. it is right next to the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "5",
+        "target_name": "bed",
+        "caption": "there is a rectangular bed. it is next to the radiator.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "radiator"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "29",
+        "target_name": "mini_fridge",
+        "caption": "there is a rectangular mini fridge. it is next to the door.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "a chair sits partially underneath a table. it's to the right of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "a small night stand sits to the left of a bed. there is a light above it.",
+        "parsed_query": {
+            "Target": "night stand",
+            "Anchor": [
+                "bed",
+                "light"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a square olive chair. it is between a cabinet and a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "cabinet",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "9",
+        "target_name": "tv",
+        "caption": "there is a rectangular tv. it is on top of a dresser.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "dresser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "25",
+        "target_name": "curtain",
+        "caption": "there is a rectangular beige curtain. it is in front of the window.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "25",
+        "target_name": "curtain",
+        "caption": "there is a rectangular beige curtain. it is hanging over the radiator.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "radiator"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "28",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular gray trash can. it is next to the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a square brown table. it is between two chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "29",
+        "target_name": "mini_fridge",
+        "caption": "there is a rectangular beige mini fridge. it is next to a trash can.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a square brown table. it is next to an olive chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "olive chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "21",
+        "target_name": "lamp",
+        "caption": "there is a cylindrical light. it is hanging over a nightstand.",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": "nightstand"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "19",
+        "target_name": "nightstand",
+        "caption": "there is a rectangular brown nightstand. it is right next to the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "a picture hangs on the wall. it's to the left of a door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "a cabinet sits on the floor to the left of a chair. it's got a small tv atop it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "20",
+        "target_name": "nightstand",
+        "caption": "a small nightstand sits to the left of a bed. it's sitting underneath a light.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "light"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "21",
+        "target_name": "lamp",
+        "caption": "a light hangs on the wall. it's to the left of a bed.",
+        "parsed_query": {
+            "Target": "light",
+            "Anchor": [
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "26",
+        "target_name": "radiator",
+        "caption": "a radiator runs along the wall. it's sitting underneath a window.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "the object is a door. it is located on the left side of the window.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "9",
+        "target_name": "tv",
+        "caption": "the object is a tv. if you enter the room follow a straight path it is against the wall on the right at the end of the room.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "28",
+        "target_name": "trash_can",
+        "caption": "the object is a small trash can. it is in the corner of the room that is only left side of the dresser that the television is sitting on.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the object is a chair. if you are standing to the right side of the dresser with the television on it is the chair between the dresser and the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "dresser",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0389_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the object is a chair. if you enter the room through the doorway and walk straight there is a table on the left side of the table when you turn and face it will be the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    }
+]

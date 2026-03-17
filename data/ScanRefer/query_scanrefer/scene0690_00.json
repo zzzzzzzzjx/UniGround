@@ -1,0 +1,724 @@
+[
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "10",
+        "target_name": "lamp",
+        "caption": "this is a lamp . the lamp is at the corner of the room.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "20",
+        "target_name": "shelf",
+        "caption": "it is a brown wooden bookcase in the middle. it is protruding from the wall.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "16",
+        "target_name": "armchair",
+        "caption": "it is a brown armchair. it is in the middle of the room near an identical armchair.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "it is a small black lamp with a white shade. it is on an end table near the sofa.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "end table",
+                "sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "16",
+        "target_name": "armchair",
+        "caption": "it is a brown armchair. it is located in the middle of the room next to an identical armchair.",
+        "parsed_query": {
+            "Target": "brown armchair",
+            "Anchor": "identical armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "a small lamp is on an end table to the left of the sofa. there is a coffee table in front of it.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "end table",
+                "sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "17",
+        "target_name": "armchair",
+        "caption": "an armchair is sitting to the left of another on the rug. there is a rectangle coffee table in front of it.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "armchair",
+                "rug",
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "10",
+        "target_name": "lamp",
+        "caption": "a small lamp is on the right of the sofa on an end table. there is two arm chairs to the right of it on the right side of the room.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "sofa",
+                "end table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "the colored armchair is on the left side of the two. it is next to the light wood cabinets on the left.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "light wood cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "it is a leather sofa between 2 lamps. the color is a light brown/tan color.",
+        "parsed_query": {
+            "Target": "leather sofa",
+            "Anchor": [
+                "lamp",
+                "lamp"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "12",
+        "target_name": "coffee_table",
+        "caption": "it is a coffee table in front of the couch and chair.  the top is lighter than the bottom in brown color family.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "couch",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular brown cabinet. it is behind a rug.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "rug"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "it is a dark brown chair sitting by the kitchen table.  item is to the right of the bookcase.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "kitchen table",
+                "bookcase"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "there is a rectangular end table. it is at the corner formed by two sofas.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "sofa",
+                "sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "17",
+        "target_name": "armchair",
+        "caption": "there is a square beige armchair. it is to the left of another armchair.",
+        "parsed_query": {
+            "Target": "square beige armchair",
+            "Anchor": "another armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "there is a square table. it is between an armchair and a couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "armchair",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "it is a leather type sofa between two end tables.  it is sitting behind the coffee table.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": [
+                "end tables",
+                "coffee table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "15",
+        "target_name": "armchair",
+        "caption": "there is a square armchair. it is to the right of another armchair.",
+        "parsed_query": {
+            "Target": "square armchair",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "18",
+        "target_name": "armchair",
+        "caption": "there is a square armchair. it is to the left of another armchair.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "there is a brown chair. it is at a circular table and the one closer to the bookshelf.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "circular table",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "12",
+        "target_name": "coffee_table",
+        "caption": "there is a rectangular coffee table. it has sofa chairs to its sides.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "sofa chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "20",
+        "target_name": "shelf",
+        "caption": "there is a rectangular wooden shelf. it is beside the circular table.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "circular table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "15",
+        "target_name": "armchair",
+        "caption": "there is a square armchair. it is between an armchair and an end table.",
+        "parsed_query": {
+            "Target": "square armchair",
+            "Anchor": [
+                "armchair",
+                "end table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "20",
+        "target_name": "shelf",
+        "caption": "this shelf is in the corner. there are many objects on it and there is a large cabinet to the left of it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "this table is in between the couch and chair. there is a lamp on it. it is square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couch",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "this lamp is in between the couch and chair. it is on the table, and has a dark base.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "couch",
+                "chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "10",
+        "target_name": "lamp",
+        "caption": "this lamp is on the table between the couch and the chairs. it has a light colored shade.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "table",
+                "couch",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "20",
+        "target_name": "shelf",
+        "caption": "this shelf has many books on it. it is in the back corner and there is a chair to the right of it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "12",
+        "target_name": "coffee_table",
+        "caption": "this coffee table has a light top and is rectangular with wood legs. it is in between the couch and chairs.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "couch",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "18",
+        "target_name": "armchair",
+        "caption": "this is a brown chair. it is to the left of the other chair. there is a table to the left of it with a lamp on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "other chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "this is a large wood cabinet. there are doors on the bottom of it and windows on the top. it is against a wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "this lamp is in between the couch and chair. it is on a small table and has a dark base.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "couch",
+                "chair",
+                "small table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "this chair is a wooden chair in the back corner of the room. it is on the left of the other wood chair. the bookshelf is behind it and to the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "other wood chair",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "this is a brown couch. it has lamps on either side of it and a table in front of it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "this is a couch with chairs to either side of it. it has two seat cushions and is brown.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "this lamp is to the left of the couch. it is on a small table and has a dark base.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "couch",
+                "small table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "17",
+        "target_name": "armchair",
+        "caption": "this is a brown chair. it is on the left of the other chair.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "other chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "12",
+        "target_name": "coffee_table",
+        "caption": "this is a table in front of the chairs and couch. it has a light top and wood legs. it is rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "15",
+        "target_name": "armchair",
+        "caption": "this armchair is on the left. it is facing right.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "this table is on the right. it is square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "8",
+        "target_name": "couch",
+        "caption": "this couch is facing the viewer. it is brown.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "18",
+        "target_name": "armchair",
+        "caption": "this armchair is on the right. it is facing inward.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "this cabinet is straight ahead. it is brown.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "18",
+        "target_name": "armchair",
+        "caption": "this armchair is facing left. it is the firs ton the wall.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "this table is on the top right. it is square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "this table is in the left corner. it is standing.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "this cabinet is straight ahead. it is past gold doors.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "gold doors"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "17",
+        "target_name": "armchair",
+        "caption": "this is a brown armchair in a living room. it is the one closest to the right side of the entertainment center.",
+        "parsed_query": {
+            "Target": "brown armchair",
+            "Anchor": "entertainment center"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "18",
+        "target_name": "armchair",
+        "caption": "this is a brown arm chair in a living room. it is on the right side of the couch.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "16",
+        "target_name": "armchair",
+        "caption": "this is a brown arm chair in a living room. it is the one closest to the left corner of the entertainment center.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "entertainment center"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "12",
+        "target_name": "coffee_table",
+        "caption": "this is a brown coffee table in a living room. it is wood and in the center of the room surrounded by the couch and arm chairs.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "couch",
+                "arm chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "17",
+        "target_name": "armchair",
+        "caption": "this is a brown arm chair in a living room.  it is the one closest to the entertainment center and has two chairs behind it.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "entertainment center",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "the table is south of the left-most  couch. the table is a yellow square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "left-most couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "15",
+        "target_name": "armchair",
+        "caption": "the armchair is the central south-most one. the armchair has two round armrests.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "the chair is south of the northwestern-most bookshelf. the chair is gray and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "northwestern-most bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "10",
+        "target_name": "lamp",
+        "caption": "the lamp is south of the southwestern-most armchair. the lamp is a one above a blue vase.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "southwestern-most armchair",
+                "blue vase"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "this is a cabinet made of wood. the cabinet is close to wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "16",
+        "target_name": "armchair",
+        "caption": "this is a cushion arm chair. the armchair is at the corner.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0690_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "this is a square table. the table at the corner of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

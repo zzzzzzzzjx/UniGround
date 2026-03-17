@@ -1,0 +1,598 @@
+[
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a chair with arms . the chair is placed in front of another chair.",
+        "parsed_query": {
+            "Target": "chair with arms",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "this is a black rectangular tv. the tv is hanged on the wall.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. it is directly facing the corner of a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. it is to the right of a chair directly facing the corner of a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. its back is to the tv and it is right of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "tv",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. it is at the long end of a table on the left side and second closest to the corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "there is a rectangular beige table. it is surrounded by chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "this is a table in the middle. it is flat and light.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "13",
+        "target_name": "whiteboard",
+        "caption": "this is a whiteboard on the wall. it is on the left.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is the second chair from the viewer. it is facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is the second chair from the left. it is on the back wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "back wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "this table is bright. it is in the middle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "this chair is dark. it is facing to the right and is on the left side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this dark chair is facing inward. it is dark.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "14",
+        "target_name": "whiteboard",
+        "caption": "this whiteboard is on the left side surface. it is flat.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this chair is the second from the viewer. it is on the left side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "this table is light. it is flat and sturdy.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "14",
+        "target_name": "whiteboard",
+        "caption": "this is part of a chalkboard. it is behind the three chairs at the table.",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": [
+                "chairs",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a brown arm chair. it is in the corner of the room.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "this is the large table at the center of the room. it is yellow in color.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is an armchair. it is brown and at the far right facing the three chairs.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "three chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "this is a brown arm chair. it is on the far left of the four chairs at the table.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "13",
+        "target_name": "whiteboard",
+        "caption": "this is the chalkboard behind the four chairs at the table. it is white.",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": [
+                "chairs",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "13",
+        "target_name": "whiteboard",
+        "caption": "this is the chalkboard that is behind the 4 chairs. it is white with an eraser on the left.",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": "4 chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "this is a large flat screen tv. it is mounted on one of the walls.",
+        "parsed_query": {
+            "Target": "large flat screen tv",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "14",
+        "target_name": "whiteboard",
+        "caption": "this is one of two chalkboards opposite one another. it is behind the three chairs at the table.",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": [
+                "chairs",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a black office chair. it is on the side of the table near the whiteboard. it is second from the right.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "this is a black office chair. it is pulled up to the left corner of the table near the left side of the chalkboard.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "chalkboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "13",
+        "target_name": "whiteboard",
+        "caption": "this is a large white dry erase board. it is at the head of the classroom or meetingroom behind the table with chairs.",
+        "parsed_query": {
+            "Target": "white dry erase board",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "a chair sits pulled under the table near its right corner. it's to the right of two other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "a tv hangs on the wall in front of a whiteboard. it's got two chairs under it.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "wall",
+                "whiteboard"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "14",
+        "target_name": "whiteboard",
+        "caption": "a whiteboard hangs on the wall. it's got some markers and erasers in the tray near it's bottom edge.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "a tv hangs on the wall above two chairs. there is also a whiteboard behind it.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "wall",
+                "chairs",
+                "whiteboard"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is at the right corner of the tv.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "there is a rectangular tv. it is on the wall between two chairs.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "wall",
+                "chairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "there is a gray chair. its back is to a whiteboard and it is furthest left in a row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "there is a gray chair. its back is to a whiteboard and it is furthest right in a row.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a gray chair. its back is to a whiteboard and it is in the middle of a row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "14",
+        "target_name": "whiteboard",
+        "caption": "this is a rectangular white board. the white board is attached to wall.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a black color chair with arms. the chair is placed in the middle of the chairs next to white board.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chairs",
+                "white board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a grey rolling chair with arms. the chairs are slightly moved back on right side.",
+        "parsed_query": {
+            "Target": "rolling chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it has its back facing the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "there is a gray office chair. it is right in the corner of the room.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is in the middle of a row of chairs with their backs facing a whiteboard.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": [
+                "row of chairs",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is in the middle of a row with its back facing a whiteboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "there is a square gray office chair. it has its back facing the corner of the room.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is at the left corner of the tv.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is in the middle of a row of chairs in front of a whiteboard.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": [
+                "row of chairs",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is at the left corner of the tv and facing a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "tv",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0490_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is in the middle of a row of chairs before a whiteboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "row of chairs",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    }
+]

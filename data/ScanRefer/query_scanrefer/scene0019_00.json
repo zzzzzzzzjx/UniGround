@@ -1,0 +1,629 @@
+[
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there are six brown arm chairs stacked against the white wall. they are next to two black chairs and a black couch. it appears  to be leather. it is the brown chair on the top row in the middle.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "white wall",
+                "black chairs",
+                "black couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "there are two black chairs situated between six brown chairs and a black couch. this black chair is next to the black couch. it appears to be leather. it is black. there is a snack machine on the opposite wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "six brown chairs",
+                "black couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "this black chair appears to be leather. there is another black leather chair next to it. this black chair is next to the black sofa. the other black chair is next to six brown chairs. there is a snack machine on the opposite wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "black sofa",
+                "black leather chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "it is a tall floor  lamp with a white shade. it is next to the snack machine. it is behind the doorway. it is also next to the white wall and it is in the corner.",
+        "parsed_query": {
+            "Target": "floor lamp",
+            "Anchor": [
+                "snack machine",
+                "doorway",
+                "white wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "9",
+        "target_name": "vending_machine",
+        "caption": "it is next to the tall floor lamp. it is a snack machine and it is full of tasty snacks. it is over by the door. the floor lamp next to it is in the corner of  the room. the machine is tall and brown. it has a glass front.",
+        "parsed_query": {
+            "Target": "snack machine",
+            "Anchor": [
+                "tall floor lamp",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "it is white,it holds trash and it is sitting in the doorway. it contains a black plastic bag.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "doorway"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a brownish foot stool. there are 6 stacked , 3 on the top that are upside down and 3 on the botttom that are upright. highlighted item is the middle on the bottom row. .",
+        "parsed_query": {
+            "Target": "foot stool",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "there are six brown chairs,next to a black couch. this one is on the bottom in the exact middle,of six chairs exactly alike.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there are six brown chairs next to black couches. this one is in the top row in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "black couches"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "there are two black chairs,in the middle between six brown chairs and black couches. this black chair is the one next to the brown chairs. there are six brown chairs,this is the black chair next to them. there is a snack machine on the opposite wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "brown chairs",
+                "black couches"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "there is a brown chair that is stacked upside down.  it is the third chair from the left, and right next to a black chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "black chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "9",
+        "target_name": "vending_machine",
+        "caption": "the vending machine is full of snacks.  it is in the back right of the room to the left of a lamp.",
+        "parsed_query": {
+            "Target": "vending machine",
+            "Anchor": "lamp"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the brown chair is inverted.  it is the third chair from the left.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "the brown door is towards the back right of the room, but to the left of a wall.  there is a trashcan to the left of the door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this is a silver trash can that appears to be 1' high. it is between the cabinets and the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "cabinets",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "this is a black couch designed to seat one person. this is between an identical couch and a black longer couch. they are all facing the wall.",
+        "parsed_query": {
+            "Target": "black couch",
+            "Anchor": [
+                "identical couch",
+                "black longer couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "box shaped foot stool with a tarnish red color. there are 6 foot stools stacked , 3 on the bottom row and 3 on the top. this is located on the bottom row in the middle.",
+        "parsed_query": {
+            "Target": "foot stool",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "wooden door that is in the open position. the door is pushed against the wall and next to a waste basket.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "wall",
+                "waste basket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "this is a black single seat couch facing the wall. to the left is an identical couch and to the right is a black longer couch, both are facing the wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a black couch designed for one person. it is facing the wall and between other furniture facing the wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "located near a door in a corner of a room is a gray trash can with a black trash bag liner. the trash can has been place adjacent to a tall cabinet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "tall cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "wooden sliding door that is in the open position. this is to the right of the vending machine.",
+        "parsed_query": {
+            "Target": "wooden sliding door",
+            "Anchor": "vending machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "it is a black leather chair.  it is between another black chair and brown chairs, which are stacked upon each other.",
+        "parsed_query": {
+            "Target": "black leather chair",
+            "Anchor": [
+                "black chair",
+                "brown chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "it is a black chair, looks like leather.  it has two arms and is between another black chair and brown chairs which are stacked on each other.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "another black chair",
+                "brown chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "wooden sliding door that is open to the left side. this is to the right of the vending machine.",
+        "parsed_query": {
+            "Target": "wooden sliding door",
+            "Anchor": "vending machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "along the wall are a stack of several chairs. i'm looking at the brown one on the floor, and in the middle.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "floor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "23",
+        "target_name": "chair",
+        "caption": "there are several chairs along the wall. specifically the black one that is in between another black chair and black sofa.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "black chair",
+                "black sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "in the corner is a tall lamp. directly beside it is a vending machine.",
+        "parsed_query": {
+            "Target": "vending machine",
+            "Anchor": "tall lamp"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "this is an upside down brown leather chair. the chair is located on the top right end of the second row, of a group of six brown leather chairs. the chairs are stacked against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this is an upside down brown leather chair. this chair is the middle chair of three in the top row of six brown leather chairs, stacked against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "a stack of brown chairs is along the wall. there is a brown one on top and in the middle of the stack.",
+        "parsed_query": {
+            "Target": "stack of chairs",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "this is a brown leather chair. the chair is placed on the far right end of the second row of a stack of brown leather chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "stack of brown leather chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this a red chair. it is on top on the left in the middle between two more red chairs next to the wall on the right.",
+        "parsed_query": {
+            "Target": "red chair",
+            "Anchor": [
+                "red chair",
+                "red chair",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "this a black chair  on the floor. it is to the right side of the six red chairs stacked two high.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "red chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "it is a lamp. it is next to the black snack machine with a white lamp shade on top.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "black snack machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a black couch next to two black chairs. there is a snack machine on the opposite wall behind it. tt is a couch not a chair.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "black chairs",
+                "snack machine"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "9",
+        "target_name": "vending_machine",
+        "caption": "it is a black and white snack machine. it is to the left of the lamp with the shade on top.",
+        "parsed_query": {
+            "Target": "snack machine",
+            "Anchor": "lamp"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "it is a small waste basket. it is on the floor on the right side wall in front of the lockers.",
+        "parsed_query": {
+            "Target": "waste basket",
+            "Anchor": "lockers"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "it is a small trash can in next to the open door on the floor. it is round and white with a black bag inside it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "open door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "this is a tan wood door. the door is opened and flat against the wall, beside the doorway and also beside a snack machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "doorway",
+                "snack machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "this is a door it is brown and open. there is a small white trash can on the floor next to it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "this is a tan wood door. it is opened flat against the wall beside an open doorway. it is to the right of a snack machine.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "open doorway",
+                "snack machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "a black chair is situated near a stack of brown seats to its' left and a similar black chair to its' right. the chair is facing the wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "stack of brown seats",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "9",
+        "target_name": "vending_machine",
+        "caption": "this is a vending machine.  it is in the corner of the room, by a lamp.",
+        "parsed_query": {
+            "Target": "vending machine",
+            "Anchor": "lamp"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "black couch designed to seat 3 people. this is facing and pushed against the wall. the wall has a black surface to it.",
+        "parsed_query": {
+            "Target": "black couch",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "a tall tan door is located across from a vending machine, and next to a floor lamp. the door is open, and its' hinges are visible in the image.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "vending machine",
+                "floor lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "9",
+        "target_name": "vending_machine",
+        "caption": "it is a snack machine. it is black with a large window with snack inside for purchase with a lamp on the right side of it.",
+        "parsed_query": {
+            "Target": "snack machine",
+            "Anchor": "lamp"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "it is a black sofa. it on the left of the black snack machine with two cushions setting on it.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": "black snack machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "this is a floor lamp by the vending machine.  it has a black base and a white shade.",
+        "parsed_query": {
+            "Target": "floor lamp",
+            "Anchor": "vending machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "11",
+        "target_name": "lamp",
+        "caption": "this is a floor lamp in the corner by the vending machine.  it has a black base and a white shade.",
+        "parsed_query": {
+            "Target": "floor lamp",
+            "Anchor": "vending machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0019_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "along the wall are several chairs. there is a brown one on the top row at the end, closest to the black chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "black chairs"
+        },
+        "unique": false
+    }
+]

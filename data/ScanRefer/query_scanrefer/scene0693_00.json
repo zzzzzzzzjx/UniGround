@@ -1,0 +1,658 @@
+[
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "this is a sink with round shape. the sink is attached to wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "there is a white door with a mirror on it. it is to the right of the box of cat litter with the green top.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": "box of cat litter with green top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "21",
+        "target_name": "container",
+        "caption": "there is a box of cat litter with a green lid. it is the box on the far left.",
+        "parsed_query": {
+            "Target": "box of cat litter",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "19",
+        "target_name": "shower_door",
+        "caption": "there is a clear shower door with silver trim. it is slid to the left side of the shower.",
+        "parsed_query": {
+            "Target": "shower door",
+            "Anchor": "shower"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "16",
+        "target_name": "window",
+        "caption": "there is a window in the wall. it is the window on the left side.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "3",
+        "target_name": "bathtub",
+        "caption": "there is a white bathtub. it is on the other side of the toilet.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "16",
+        "target_name": "window",
+        "caption": "the window is north of the toilet. the window is blue and square.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "20",
+        "target_name": "container",
+        "caption": "the container is left of the door. the container is white with a green top.",
+        "parsed_query": {
+            "Target": "container",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "16",
+        "target_name": "window",
+        "caption": "the window is above the toilet. the window is a blue square.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "the trash can is the farthest left one of the ones left of the door. the trash can is a white ovular prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "20",
+        "target_name": "container",
+        "caption": "the container is left of the entrance door. the container is white with a green square top.",
+        "parsed_query": {
+            "Target": "container",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "0",
+        "target_name": "mirror",
+        "caption": "it is a pink mirror. the pink mirror sits at the left of the bathtub.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "bathtub"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "it is a white toilet. the white toilet sits to the right of the vanity sink.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "vanity sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "the large bathroom door. the door is in front of the sink.",
+        "parsed_query": {
+            "Target": "bathroom door",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "the small rectangle trash can. the trash can is next to the tub.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "8",
+        "target_name": "towel",
+        "caption": "the large hanging towel. the towel is by the tub.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "3",
+        "target_name": "bathtub",
+        "caption": "the full size bathtub. the tub is next to the toilet.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "the large bordered door. the door is in the front of the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "20",
+        "target_name": "container",
+        "caption": "there is a white and green container  set in the room near the wall. it is on the right side of the green and white container with the shovels on top.",
+        "parsed_query": {
+            "Target": "container",
+            "Anchor": "green and white container"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "the sink is in the corner of the bathroom. it is located between the left corner of the wall and the green toilet on the right.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "left corner of the wall",
+                "green toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "19",
+        "target_name": "shower_door",
+        "caption": "the shower door is located left side of the bathroom. there is a white towel hanging in front.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "shower door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "19",
+        "target_name": "shower_door",
+        "caption": "the shower door is across from the green toilet. it is located in front of the soap holder and the shower seat.",
+        "parsed_query": {
+            "Target": "shower door",
+            "Anchor": [
+                "green toilet",
+                "soap holder",
+                "shower seat"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "0",
+        "target_name": "mirror",
+        "caption": "there is a red and green wall in the bathroom. it is behind the toilet and sink.",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "8",
+        "target_name": "towel",
+        "caption": "this towel is on the right. it is hung up.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "20",
+        "target_name": "container",
+        "caption": "this container is straight ahead. it is green.",
+        "parsed_query": {
+            "Target": "container",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "5",
+        "target_name": "bathroom_vanity",
+        "caption": "this bathroom vanity is on the top left. it is closed.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "21",
+        "target_name": "container",
+        "caption": "this container is in the top left. it is green and blue.",
+        "parsed_query": {
+            "Target": "container",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "this trash can is on the top left. it is grey.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "the toilet is to the right of the cabinet. it is to the left of the bathtub.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "cabinet",
+                "bathtub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "5",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is to the left of the toilet. it is in the left corner of the room.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "0",
+        "target_name": "mirror",
+        "caption": "the mirror is along the wall on the right side of the room. it is behind the bathroom vanity.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "bathroom vanity"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "the toilet is located to the left of the bathtub. it is also to the right of the cabinet.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "bathtub",
+                "cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "0",
+        "target_name": "mirror",
+        "caption": "the mirror is on the wall. it is above and behind the vanity.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "wall",
+                "vanity"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "this is a sink built in to the light colored counter. there is a wall to the left of it and a toilet to the right.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "counter",
+                "wall",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "16",
+        "target_name": "window",
+        "caption": "this window is above the sink. it is on the wall.  the toilet is to the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "3",
+        "target_name": "bathtub",
+        "caption": "the tub is to the right of the toilet. it is light colored and against the right wall.",
+        "parsed_query": {
+            "Target": "tub",
+            "Anchor": [
+                "toilet",
+                "right wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "20",
+        "target_name": "container",
+        "caption": "the container is to the left of the door. it has a green top and is the right most container.",
+        "parsed_query": {
+            "Target": "container",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "19",
+        "target_name": "shower_door",
+        "caption": "the shower door is to the right of the toilet. it is to the left of the tub and has a towel on it. the door is clear.",
+        "parsed_query": {
+            "Target": "shower door",
+            "Anchor": [
+                "toilet",
+                "tub"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "the toilet is left of the bathtub. the toilet is a white ovular shape.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "the toilet is left of the bathtub. the toilet is round and pastel white.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "8",
+        "target_name": "towel",
+        "caption": "the towel is above the bathtub. the towel is white and wavy.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "5",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is left of the toilet. the bathroom vanity is white and rectangular.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "3",
+        "target_name": "bathtub",
+        "caption": "the bathtub is east of the toilet. the bathtub is white and hollowed out.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "0",
+        "target_name": "mirror",
+        "caption": "this is a mirror. the mirror is attached to wall.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this is a door with wooden frame. the door is closed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "5",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is left of the toilet. the bathroom vanity is a white box.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "this is round shape sink. the sink is attached to sink top.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "sink top"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "21",
+        "target_name": "container",
+        "caption": "the container is right of the bathtub. the container is white with a green top.",
+        "parsed_query": {
+            "Target": "container",
+            "Anchor": "bathtub"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "16",
+        "target_name": "window",
+        "caption": "the window is above the sink. the window is a blue square.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "8",
+        "target_name": "towel",
+        "caption": "this is a towel hanging. the towel is next to toilet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "the door is at the northeastern corner. the door is a white rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "3",
+        "target_name": "bathtub",
+        "caption": "the bathtub is right of the toilet. the bathtub is white and hollowed out.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "5",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is left of the toilet. the bathroom vanity is a white and boxy.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "the sink is left of the toilet. the sink is a white circle shape.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "21",
+        "target_name": "container",
+        "caption": "the container is northwest from the bathtub. the container is white with a green square top.",
+        "parsed_query": {
+            "Target": "container",
+            "Anchor": "bathtub"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "the trash can is left of the bins with green tops. the trash can is a rectangular prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bins with green tops"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0693_00",
+        "target_id": "8",
+        "target_name": "towel",
+        "caption": "the towel is above the bathtub. the towel is white, wavy, and rectangular.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    }
+]

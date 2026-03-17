@@ -1,0 +1,966 @@
+[
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "14",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a beige wooden cabinet. placed on the upper side of the kitchen.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "23",
+        "target_name": "kitchen_cabinet",
+        "caption": "a white wooden cabinet. on the right to the fridge.",
+        "parsed_query": {
+            "Target": "white wooden cabinet",
+            "Anchor": "fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "4",
+        "target_name": "kitchen_cabinet",
+        "caption": "a white wooden cabinet. placed on the upper part on the left to the fridge.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "9",
+        "target_name": "kitchen_cabinet",
+        "caption": "a white wooden shelf. on the right to the stove.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "14",
+        "target_name": "kitchen_cabinet",
+        "caption": "a white wooden cabinet. above the fridge.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "a silver sink. placed on the counter top.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "counter top"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "8",
+        "target_name": "kitchen_cabinet",
+        "caption": "a white wooden cabinet. placed above the fridge of the kitchen.",
+        "parsed_query": {
+            "Target": "white wooden cabinet",
+            "Anchor": "fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "9",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular white kitchen cabinet. it is to the right of an oven.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "oven"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "7",
+        "target_name": "stove",
+        "caption": "there is a rectangular white stove. it is between two kitchen cabinets.",
+        "parsed_query": {
+            "Target": "stove",
+            "Anchor": [
+                "kitchen cabinet",
+                "kitchen cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "23",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is to the right of a refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "1",
+        "target_name": "refrigerator",
+        "caption": "there is a tall rectangular refrigerator. it is to the left of a kitchen counter.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "kitchen counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "21",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is up top to the right of a refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "10",
+        "target_name": "kitchen_counter",
+        "caption": "there is a rectangular white kitchen counter. it is over cabinets.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "6",
+        "target_name": "microwave",
+        "caption": "there is a rectangular white microwave. it is suspended over the stove.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "stove"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "3",
+        "target_name": "kitchen_cabinets",
+        "caption": "there is a set of rectangular kitchen cabinets. they are over the stove and counter.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "stove",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "5",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular white kitchen cabinet. it is to the left of the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "21",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is suspended to the right of the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "9",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular white kitchen cabinet. it is to the right of a stove.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "9",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular white kitchen cabinet. it is right of and next to a stove.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "19",
+        "target_name": "kitchen_cabinets",
+        "caption": "there are long rectangular beige kitchen cabinets. they are below a sink and counter.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "sink",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "6",
+        "target_name": "microwave",
+        "caption": "there is a rectangular white microwave. it is over a stove.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "stove"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "there is a rectangular metal sink. it is over a pair of cabinets.",
+        "parsed_query": {
+            "Target": "rectangular metal sink",
+            "Anchor": "cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "1",
+        "target_name": "refrigerator",
+        "caption": "there is a tall rectangular refrigerator. it is next to a counter.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "11",
+        "target_name": "kitchen_counter",
+        "caption": "there is a rectangular kitchen counter. it is along the sides of the room.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "there is a rectangular metal sink. it is in the middle of the counter.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "14",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is over the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "21",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is over the counter and to the right of a refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "counter",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "21",
+        "target_name": "kitchen_cabinet",
+        "caption": "a white wooden cabinet. on the right to the fridge.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "3",
+        "target_name": "kitchen_cabinets",
+        "caption": "there are rectangular beige kitchen cabinets. they are over and around the microwave.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "microwave"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "there is a rectangular metal sink. it is above some cabinets.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "21",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular beige kitchen cabinet. it is next to the refrigerator on its right.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "10",
+        "target_name": "kitchen_counter",
+        "caption": "there is a rectangular kitchen counter. it is over some cabinets.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "3",
+        "target_name": "kitchen_cabinets",
+        "caption": "there are rectangular beige kitchen cabinets. they are to the sides and above the microwave.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "microwave"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "8",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular beige kitchen cabinet. it is over the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "2",
+        "target_name": "refrigerator",
+        "caption": "there is a white rectangular refrigerator. it is left of another refrigerator.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "18",
+        "target_name": "kitchen_cabinets",
+        "caption": "there are beige rectangular kitchen cabinets. they are over a sink and counter.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "sink",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "6",
+        "target_name": "microwave",
+        "caption": "there is a white rectangular microwave. it is over the stove.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "stove"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "8",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is suspended over the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "10",
+        "target_name": "kitchen_counter",
+        "caption": "this is a l shaped kitchen counter. the kitchen counter is close to the wall.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "3",
+        "target_name": "kitchen_cabinets",
+        "caption": "this is a wooden kitchen cabinet. the cabinet is at the top of the kitchen counter.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "kitchen counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "2",
+        "target_name": "refrigerator",
+        "caption": "this is a refrigerator is in silver color. the refrigerator is next to the kitchen counter.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "kitchen counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "4",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a single kitchen cabinet. the kitchen cabinet is at the top of the kitchen counter and next to refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "kitchen counter",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "3",
+        "target_name": "kitchen_cabinets",
+        "caption": "this is a kitchen cabinet is at the top. the kitchen cabinet is made of wood.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "2",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is one of two refrigerators. it is the refrigerator on the left side.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "2",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is to the right of the kitchen cabinets. it is also to the left of the other refrigerator.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": [
+                "kitchen cabinets",
+                "other refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "18",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are mounted on the wall. they are above the sink and the counter top.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "wall",
+                "sink",
+                "counter top"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "5",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is located to the left of the refrigerator. it is also located below the counter top.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "refrigerator",
+                "counter top"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "7",
+        "target_name": "stove",
+        "caption": "the stove is located within the kitchen counter, between the cabinets. the stove has four burners on its top, and an oven below.",
+        "parsed_query": {
+            "Target": "stove",
+            "Anchor": [
+                "kitchen counter",
+                "cabinets"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "7",
+        "target_name": "stove",
+        "caption": "an oven sits with it's back to the wall. the oven is between two counters.",
+        "parsed_query": {
+            "Target": "oven",
+            "Anchor": [
+                "wall",
+                "counter"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "23",
+        "target_name": "kitchen_cabinet",
+        "caption": "a kitchen cabinet sits to the left of a corner. it's directly to the right of a fridge.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "10",
+        "target_name": "kitchen_counter",
+        "caption": "a kitchen counter runs along to the right of a fridge. it's to the left of the oven .",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": [
+                "fridge",
+                "oven"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "4",
+        "target_name": "kitchen_cabinet",
+        "caption": "a kitchen cabinet hangs to the left of the fridge. it's between the cabinets on the left wall and the cabinet above the fridge.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "fridge",
+                "cabinets on the left wall",
+                "cabinet above the fridge"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "18",
+        "target_name": "kitchen_cabinets",
+        "caption": "cabinets run along the wall in the kitchen. they're the ones above the sink.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "5",
+        "target_name": "kitchen_cabinet",
+        "caption": "this small white kitchen cabinet is located next to the refrigerator that is on the left. on the left side of the kitchen cabinet is the kitchen sink.",
+        "parsed_query": {
+            "Target": "small white kitchen cabinet",
+            "Anchor": [
+                "refrigerator",
+                "kitchen sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "7",
+        "target_name": "stove",
+        "caption": "above the white stove is a white microwave. on the left side of the stove are cabinets that make an l shape.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "stove"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "14",
+        "target_name": "kitchen_cabinet",
+        "caption": "this white kitchen cabinet located on top of the refrigerator on the left. the kitchen cabinet is located up high.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "9",
+        "target_name": "kitchen_cabinet",
+        "caption": "to the left of the white kitchen cabinet is the oven. to the right of the kitchen cabinet is an entryway into the room.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "oven",
+                "entryway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "6",
+        "target_name": "microwave",
+        "caption": "below the white microwave is the stove. above the microwave are two smaller white cabinets.",
+        "parsed_query": {
+            "Target": "stove",
+            "Anchor": "white microwave"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "10",
+        "target_name": "kitchen_counter",
+        "caption": "the kitchen counter top surrounds the stove on both sides. above the kitchen counter are white cabinets.",
+        "parsed_query": {
+            "Target": "kitchen counter top",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "19",
+        "target_name": "kitchen_cabinets",
+        "caption": "these kitchen cabinets are located on the left side of the room. on top of the kitchen cabinets is the kitchen sink.",
+        "parsed_query": {
+            "Target": "kitchen sink",
+            "Anchor": "kitchen cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "the kitchen sink is located on the left side of the room. above the kitchen sink are white cabinets.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "kitchen sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "11",
+        "target_name": "kitchen_counter",
+        "caption": "the kitchen counter makes an \"l\" shape. in the middle of the kitchen counter is the sink.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "kitchen counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "2",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is located closest to the left side of the room. to the left of the refrigerator is the kitchen sink.",
+        "parsed_query": {
+            "Target": "kitchen sink",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "1",
+        "target_name": "refrigerator",
+        "caption": "there is a rectangular white refrigerator. it is to the right of another refrigerator.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "8",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is on top of a refrigerator on the right.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "23",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is near the floor and next to the refrigerator on the right.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "11",
+        "target_name": "kitchen_counter",
+        "caption": "there is a rectangular kitchen counter. it is to the left of a refrigerator.",
+        "parsed_query": {
+            "Target": "rectangular kitchen counter",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "18",
+        "target_name": "kitchen_cabinets",
+        "caption": "there are rectangular kitchen cabinets. they are over the sink to the left of a refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "sink",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "11",
+        "target_name": "kitchen_counter",
+        "caption": "there is a rectangular white kitchen counter. it is to the left of a refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "6",
+        "target_name": "microwave",
+        "caption": "there is a rectangular microwave. it is over a stove.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "stove"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "14",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is on top of a refrigerator on the left.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "1",
+        "target_name": "refrigerator",
+        "caption": "there is a rectangular white refrigerator. it is right of another refrigerator.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "4",
+        "target_name": "kitchen_cabinet",
+        "caption": "this kitchen cabinet is located up above on the left side next to the refrigerator. below the kitchen cabinet is the smallest cabinet space that is squished between the refrigerator and sink area.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "23",
+        "target_name": "kitchen_cabinet",
+        "caption": "this kitchen cabinet is located on the lower level next to the refrigerator on the right side of the kitchen. one kitchen cabinet space down is the oven.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "refrigerator",
+                "oven"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "18",
+        "target_name": "kitchen_cabinets",
+        "caption": "these kitchen cabinets are located on the left side shaped like the letter \"n\". beneath the kitchen cabinets is the kitchen sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "kitchen sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "1",
+        "target_name": "refrigerator",
+        "caption": "this is the refrigerator located on the right side of the kitchen. this refrigerator is closer to the stove.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "19",
+        "target_name": "kitchen_cabinets",
+        "caption": "these kitchen cabinets are located on the left side. on top of the kitchen cabinets is the sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "11",
+        "target_name": "kitchen_counter",
+        "caption": "there is a rectangular kitchen counter. it is to the left of a refrigerator and over cabinets.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": [
+                "refrigerator",
+                "cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "5",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is between a counter and a refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "counter",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "7",
+        "target_name": "stove",
+        "caption": "there is a rectangular white stove. it is between kitchen cabinets.",
+        "parsed_query": {
+            "Target": "stove",
+            "Anchor": "kitchen cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "8",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is hanging over the refrigerator on the right.",
+        "parsed_query": {
+            "Target": "rectangular kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0488_00",
+        "target_id": "5",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular kitchen cabinet. it is between a counter and a refrigerator on its right.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "counter",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    }
+]

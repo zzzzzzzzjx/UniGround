@@ -1,0 +1,1031 @@
+[
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "this table is placed in the right side of the room. another table lying parallel to this table can be seen. .",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a tan. metal frame chair. the chair is at the second table back,on the right side of the room. this chair is on the front left side edge of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "the small chair. the chair is in the middle of the two tables.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the tiny chair. the chair is on the left under the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the little armchair. the hair is under the table in the middle on the right.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the small table. the table is next to the wall on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this chair is kept under a table, and its back is facing the wall. on the left a door can be seen.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "20",
+        "target_name": "chair",
+        "caption": "this chair is placed under a table in the longer side. back side of this chair, another table can be seen lying parallel to this table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this table is placed on the right side of the room. an object with red and black color is placed above it.",
+        "parsed_query": {
+            "Target": "object with red and black color",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "this chair is placed under the table in the near to the door. another table can be seen back of this chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "there's a white table with brown legs. it is to the right of the other table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "there's a black chair. it's on the opposite side of the table on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "there is a brown door to the left of the room. it is also next to a black trashcan.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trashcan"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "there's a brown chair at the table. it is on the left side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "there's a white table in the middle of the room. it is surrounded by five chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a table. it has a couple of items on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "this is a chair. it is setting at the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "this is a chair. it sets between 2 tables.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a chair. it has 2 arms.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "this is a table. it has a few chairs setting around it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there is a chair pulled under a table. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "there is an open door in the wall. it is being held open by a trashcan.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "wall",
+                "trashcan"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "there is a trashcan between a door and a table. it is holding the door open.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "door",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "there is a table that has two chairs tucked under it. it also has a red and black object on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "there is a trash can between a door and a table. it is holding the door open.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a chairpulled under a table. it is between two other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "there is an open door in the wall. it is being held open by a trash can.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "there is a chair pulled under a table. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "this table is two tables together as one. the table is by a wood cabinet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wood cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this is a tan desk chair. the chair is at the end of the table, on the right side.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "it is a tan chair. the chair is across from the red bag that is on the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "red bag"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this is a tan desk chair. this chair is on the left of the first table. it is the chair on the far side of the table.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "first table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "there is a white rectangular table in the room. it has chairs surrounding it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "there is a chair partially tucked underneath a table. it is located at the bottom right corner of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "there is a chair tucked under a desk with a red object on it. it is the chair to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "there is a chair at the table to the right of another chair. it is in the corner of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "there is a white table in the corner. it has several chairs around it.",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "a brown wooden chair. it is under a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "a long wooden table. in front of it is a same table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "long wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "a brown wooden chair. it is under a wooden table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "a white brown wooden table. it is surrounded by brown chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "brown chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "the table is color white. the table is in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "the table is color white. the table is three chairs around this.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is made of metal and plastic. the chair is color gray.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "the trash can is close to the door. the trash can is color black.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "the door is color brown, made of wood. the door is supported by a trash can.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the small chair. the chair is under the odd table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "odd table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "the little chair. the chair is under the middle table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "middle table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "the tiny chair. the chair is on the right under the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the office chair. the chair is under the middle table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "middle table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "the square table. the table is on the right side of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "this is a brown desk chair. this chair is at the middle desk,on the front left side.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "middle desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "this is a white table. this table is two tables put together . this table is along the wall, by the stacked chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "stacked chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "this is a tan chair. the chair is at the table with the red bag on it. this chair is directly across from the red bag.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "red bag"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "this is a white table. this table is the second one back,on the left hand side of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "the chair is to the left of the middle of the row of northernmost tables. the chair has four legs and armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "row of northernmost tables"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "20",
+        "target_name": "chair",
+        "caption": "the chair is to the right of the northwestern most table. the chair is brown and has a bent backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "northwestern most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "the chair is at the center north side of the table closest to the door. the chair is brown and has a square seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "the door is to the left of a large bullet shaped trash can. the door is dark brown and is thick.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "large bullet shaped trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "this is a trash can. it sets close to the wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a chair. it sets at a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "enter you enter through the door there is a table. it is the table in the middle  on the wall farthest to the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "20",
+        "target_name": "chair",
+        "caption": "the object is a chair. it is on the right side of the room from the doorway at the end table. it is the second one next to the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "doorway",
+                "end table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this a chair at the end of the room on the right as you enter. it is the chair on the end table that on the side that only has one chair . it is not the one against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "entrance door",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the table is the farthest northeast  table in the room. the table is a white rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the table is the farthest northwestern one in the room. the table has four legs and is rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is to the right of the door and between a wall and a desk. the chair is gray and has a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "wall",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "the chair is on the north lefter side of the desk in the center. the chair has armrests and four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is in the northeastern side of the desk in the center. the chair is gray and has a bent backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "20",
+        "target_name": "chair",
+        "caption": "the chair is on the southeastern side of the table in the northeast corner. the chair is gray and has armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "the table is on the middle of the row of tables in the northern are of the room. the table is a white rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "row of tables"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the table is the directly northernmost one from the entrance. the table is white and has four legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "entrance"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "the trash can is right of the door. the trash can has a cylindrical shape.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is on the southwestern side of the table that is the west-most table from the entrance. the chair has four leg and armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "entrance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "1",
+        "target_name": "table",
+        "caption": "this is a table. there are a few chairs setting at it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "this is a chair. it sets at a table by another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "this is a chair. it is setting at the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a brown chair. it is under a white table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "a brown chair. it is right beside a same chair, and it is behind the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "a brown chair. it is right next to a same chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "a brown chair. it is beside a same colored chair.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "same colored chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "a light brown table. it is surrounded with brown chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "brown chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is the third closest to the door and is next to a table. the char is brown and has armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the chair is on the southern left side of the middle table in the northern area. the chair has four legs and armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "middle table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the chair is on the southwestern side of the middle table in the northern region. the chair has a curved backside and four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "middle table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is on the northwestern side of the table closest to the door. the chair is brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0196_00",
+        "target_id": "29",
+        "target_name": "chair",
+        "caption": "the chair is on the central southern side of the table closest to the door. the chair has four legs and two armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    }
+]

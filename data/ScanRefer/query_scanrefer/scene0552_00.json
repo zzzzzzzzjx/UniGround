@@ -1,0 +1,1259 @@
+[
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "a wooden chair. next to the table in the middle of the room.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "12",
+        "target_name": "refrigerator",
+        "caption": "a silver fridge. on the left to the cabinets.",
+        "parsed_query": {
+            "Target": "fridge",
+            "Anchor": "cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "a wooden square table. in the middle of the room.",
+        "parsed_query": {
+            "Target": "wooden square table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a wooden chair. next to the wooden table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen black cabinets are under the counter top. the cabinets are to the right of the refrigerator.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "counter top",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is brown wood with 4 silver legs. the brown chair is at the last table with ream wood top.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "last table with ream wood top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table is cream with 4 wheels.  the table has a green paper cutter on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "paper cutter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets have both doors and drawers attached. the cabinets has an counter top equipped with functional sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "12",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is silver with 2 doors.  the refrigerator is next to the black cupboards with a korag coffee machine on.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "black cupboards"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "18",
+        "target_name": "kitchen_counter",
+        "caption": "the kitchen counter appears to be in a facility of some sort. it is in a corner with the sink closest to a white wall that has a light switch on the end.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": [
+                "sink",
+                "white wall",
+                "light switch"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "33",
+        "target_name": "bucket",
+        "caption": "the white bucke is under the table sitting next to a green bucket. a white bucket under the table besides the copy machine on the right.",
+        "parsed_query": {
+            "Target": "white bucket",
+            "Anchor": [
+                "table",
+                "green bucket",
+                "copy machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "15",
+        "target_name": "paper_cutter",
+        "caption": "the paper cutter is on the table. it is to the left of the trash can.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": [
+                "table",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the refrigerator is in back of the chair.  the chair is next to a table with a cream top and 1 other chair.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "the table is one of two tables. it is the one on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "27",
+        "target_name": "kitchen_cabinets",
+        "caption": "the cabinets are black. the cabinets are in the kitchen above the counter to the right of refrigerator.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "counter",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair is one of three chairs in a row. it is the middle chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is slightly pulled into the table. the table is to the right of the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table has a paper cutter on it. the table has buckets under it, and a trash can to the right of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "paper cutter",
+                "buckets",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "15",
+        "target_name": "paper_cutter",
+        "caption": "this is a green paper cutter. it is on the table.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "this is a square table. it is in front of a square table.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": "square table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this is a tan chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "27",
+        "target_name": "kitchen_cabinets",
+        "caption": "these are black kitchen cabinets. they are above the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinets",
+        "caption": "these are black kitchen cabinets. they are below the counter.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "it is a rusted looking chair. located at the corner of the cream colored table.  it looks as if it is connected to another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "cream colored table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "there is a square table. it is the table closest.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "18",
+        "target_name": "kitchen_counter",
+        "caption": "it is a black kitchen counter.  it has a sink in it.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "33",
+        "target_name": "bucket",
+        "caption": "there is a white bucket under the desk. it is to the right of the green bucket.",
+        "parsed_query": {
+            "Target": "white bucket",
+            "Anchor": [
+                "desk",
+                "green bucket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "there is a green bucket on the floor. it is to the left of the white bucket.",
+        "parsed_query": {
+            "Target": "green bucket",
+            "Anchor": "white bucket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "27",
+        "target_name": "kitchen_cabinets",
+        "caption": "it is a set of kitchen cabinets.  located up top of the counter.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "19",
+        "target_name": "microwave",
+        "caption": "there is a microwave on the counter. it is to the left of the toaster oven.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "counter",
+                "toaster oven"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "there is a square, wooden table. it is the table in the back.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "it is a chair.  it is located at the end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "33",
+        "target_name": "bucket",
+        "caption": "it is a grayish/silver bucket.  it is located next to a green bucket, under a table.",
+        "parsed_query": {
+            "Target": "grayish/silver bucket",
+            "Anchor": [
+                "green bucket",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "there is a rectangular wooden table. it has a paper cutter on it.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "rectangular wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "19",
+        "target_name": "microwave",
+        "caption": "there is a rectangular microwave. it is on the left end of a desk.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "there is a square wooden chair at a desk. its back is facing a gray trash can.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "gray trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "there is a square wooden table. the back of one of its chairs is facing a gray trash can.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "square wooden table",
+                "gray trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a square wooden chair at a desk. its back is facing a microwave.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "microwave"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "23",
+        "target_name": "sink",
+        "caption": "this is a white sink in an office. it is on the counter of the cabinets in the corner.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "counter",
+                "cabinets"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "15",
+        "target_name": "paper_cutter",
+        "caption": "this is a green paper cutter in an office. it is on a table against the wall next to the cabinet with the sink.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": [
+                "table",
+                "cabinet with the sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "14",
+        "target_name": "cabinet",
+        "caption": "this is a brown cabinet in an office. it is to the right of the table with the paper cutter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "table with the paper cutter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this is a brown table in an office. it is to the left of the cabinet and has a paper cutter on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "cabinet",
+                "paper cutter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "7",
+        "target_name": "copier",
+        "caption": "this is a white copier machine in an office. it is to the left of the table with the green paper cutter.",
+        "parsed_query": {
+            "Target": "copier machine",
+            "Anchor": "table with the green paper cutter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this table is on the left. it is tan.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "19",
+        "target_name": "microwave",
+        "caption": "this microwave is in front o the viewer. it is grey.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "viewer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "23",
+        "target_name": "sink",
+        "caption": "this sink is on the right side of the counter. it is steel.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "18",
+        "target_name": "kitchen_counter",
+        "caption": "this kitchen counter is dark. it is smooth and sturdy.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this chair is facing down and right. it is curved and is the closest the viewer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "15",
+        "target_name": "paper_cutter",
+        "caption": "this paper cutter is flat and on the desk. it is green.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "this trash can is green. it is on the left side and under the table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this chair is in the middle on the left side. it is facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "it is a brown chair. the brown chair is at the front right of the table.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "it is a brown chair. the brown chair is at the second right of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "7",
+        "target_name": "copier",
+        "caption": "it is a white copier. the white copier is at the back left of the room.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "it is a brown chair. the brown chair is at the back head of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "it is a beige table. the beige table is towards the back right of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "this table is closest to the viewer. it is tan.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "19",
+        "target_name": "microwave",
+        "caption": "this microwave is on the left side of the desk. it is closed.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "7",
+        "target_name": "copier",
+        "caption": "this copier is on the left of the desk. it is grey.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "7",
+        "target_name": "copier",
+        "caption": "this copier is big. it is on the desk.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this chair is closest to the viewer. it is facing left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "32",
+        "target_name": "trash_can",
+        "caption": "this trash can is black. it is on the left side.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "14",
+        "target_name": "cabinet",
+        "caption": "this cabinet is on the top left corner. it is tan.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "32",
+        "target_name": "trash_can",
+        "caption": "this trash can is on the top left corner. it is black.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "this trash can is green. it is on the floor.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "18",
+        "target_name": "kitchen_counter",
+        "caption": "this kitchen counter is black. it is smooth and hard.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinets",
+        "caption": "a lengthy dark brown kitchen cabinet. it is attached towards the wall.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "23",
+        "target_name": "sink",
+        "caption": "a small size compact sink. it is attached to the kitchen slab.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "kitchen slab"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "14",
+        "target_name": "cabinet",
+        "caption": "a brown closed cabinet. it is broad and spacious.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "this is a wooden table with chairs around it. it is the second table from the window.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "19",
+        "target_name": "microwave",
+        "caption": "this is a break room microwave. it is next to the toaster oven on the counter.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "toaster oven",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "12",
+        "target_name": "refrigerator",
+        "caption": "this is a refrigerator. it is next to the microwave on the counter.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "microwave"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is on the right side at the first table.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "first table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is on the left side of the table near the table next to the wall.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "32",
+        "target_name": "trash_can",
+        "caption": "it is a gray trash can. the gray trash can sits at the bottom right of the long beige table behind the brown chairs.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "long beige table",
+                "brown chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "14",
+        "target_name": "cabinet",
+        "caption": "it is a brown cabinet. the brown cabinet sits at the far end of the left wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "it is a brown chair. the brown chair is the first chair to the left to of the gray copier.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "gray copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "27",
+        "target_name": "kitchen_cabinets",
+        "caption": "they are black kitchen cabinets. the black kitchen cabinets are to the right of the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "23",
+        "target_name": "sink",
+        "caption": "this sink is on the right side. it is silver.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "this chair is on the left. it is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "12",
+        "target_name": "refrigerator",
+        "caption": "this refrigerator is steel. it is on the right.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "27",
+        "target_name": "kitchen_cabinets",
+        "caption": "these kitchen cabinets are silver. they are high up.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "13",
+        "target_name": "kitchen_cabinets",
+        "caption": "these kitchen cabinets are low by the ground. they are black and closed.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "18",
+        "target_name": "kitchen_counter",
+        "caption": "this kitchen counter is black. it is on the far edge of the wall.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this chair is on the right side. it is facing inward.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this chair is on the left side. it is second from the viewer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "20",
+        "target_name": "toaster_oven",
+        "caption": "this toaster oven is black. it is on the far hard surface.",
+        "parsed_query": {
+            "Target": "toaster oven",
+            "Anchor": "hard surface"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "20",
+        "target_name": "toaster_oven",
+        "caption": "this toaster oven is in the middle of two large objects. it is dark in color.",
+        "parsed_query": {
+            "Target": "toaster oven",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "there is a square, wooden table. it is the table on the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "15",
+        "target_name": "paper_cutter",
+        "caption": "there is a paper cutter on the table. the paper cutter is on the right side of the table.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "20",
+        "target_name": "toaster_oven",
+        "caption": "there is a black toaster on the counter. it is to the left of the can opener.",
+        "parsed_query": {
+            "Target": "toaster",
+            "Anchor": [
+                "counter",
+                "can opener"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "7",
+        "target_name": "copier",
+        "caption": "there is a large copier machine. it is to the left of the table.",
+        "parsed_query": {
+            "Target": "copier machine",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "33",
+        "target_name": "bucket",
+        "caption": "there is a white bucket under the table. it is to the right of the green bucket.",
+        "parsed_query": {
+            "Target": "white bucket",
+            "Anchor": [
+                "table",
+                "green bucket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "a gray bin under the desk.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a thin brown chair without arms. it is kept near the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "a brown thin wooden chair. it is kept in between the other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "other chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "20",
+        "target_name": "toaster_oven",
+        "caption": "the toaster oven is on the counter. it is immediately to the right of the microwave.",
+        "parsed_query": {
+            "Target": "toaster oven",
+            "Anchor": [
+                "counter",
+                "microwave"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "23",
+        "target_name": "sink",
+        "caption": "the sink is on the right side of the kitchen counter. it is below and to the right of the soap dispenser. it is to the left of the wall, under the paper towel dispenser.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "kitchen counter",
+                "soap dispenser",
+                "wall",
+                "paper towel dispenser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "33",
+        "target_name": "bucket",
+        "caption": "the bucket is under the table. it is next to a box and a green bucket.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": [
+                "table",
+                "box",
+                "green bucket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "14",
+        "target_name": "cabinet",
+        "caption": "the cabinet is against the wall. it is to the right of the trash can, in the corner of the room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "12",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is to the left of the microwave. it is also to the left of the kitchen cabinets.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": [
+                "microwave",
+                "kitchen cabinets"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "20",
+        "target_name": "toaster_oven",
+        "caption": "the toaster oven is on the counter. it is to the right of the microwave next to it.",
+        "parsed_query": {
+            "Target": "toaster oven",
+            "Anchor": [
+                "counter",
+                "microwave"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "32",
+        "target_name": "trash_can",
+        "caption": "the trash can is on the floor to the right of the table. it is also located to the left of the cabinet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "table",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is pulled into the table. it is facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair is to the left of one chair, and to the right of the other chair. the chair is facing the gap between the tables.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0552_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "the chair is facing the table. it is to the left of the other chair that sits beside it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    }
+]

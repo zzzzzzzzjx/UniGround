@@ -1,0 +1,242 @@
+[
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "there is a small dark brown coffee table. it is square in shape and in front of a large cream chair.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "large cream chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "there is an armchair in the right corner of the room. it is under the window.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "there is a dark brown square coffee table. it is not touching any other furniture in the room.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "1",
+        "target_name": "armchair",
+        "caption": "there is a grey armchair in the corner of the room to the left of a coffee table. it is partially under a window but not fully.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "coffee table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "1",
+        "target_name": "armchair",
+        "caption": "there is a large square grey armchair in the corner of the room. it is directly next to a coffee table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "there is a square black table. it is between two sofa chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "sofa chair",
+                "sofa chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "there is a square beige armchair. it is right of a square table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "square table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "there is a square black coffee table. it is in front of an armchair.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "1",
+        "target_name": "armchair",
+        "caption": "there is a square beige armchair. it is left of a square table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "square table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "there is a square table. it is between two armchairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "armchair",
+                "armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "the square coffee table is in front of two chairs. the dark brown coffee table has a table between two chairs in front of it.",
+        "parsed_query": {
+            "Target": "dark brown coffee table",
+            "Anchor": [
+                "table",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "the dark brown square coffee table is in front of the chair. the coffee table is on the wooden floor.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "chair",
+                "wooden floor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the small square table has two chairs on each side of it. the occasional table between two chairs is against the wall.",
+        "parsed_query": {
+            "Target": "occasional table",
+            "Anchor": [
+                "chairs",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "the white armchair is against the wall with another to the left of it.  the white armchair is to the right of another on a wooden floor.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "wall",
+                "armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "the white armchair is to right of an occasional table. the white armchair is on the right side against the wall on the wooden floor.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "occasional table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the black table is between two gray armchairs. behind the black table are windows.",
+        "parsed_query": {
+            "Target": "black table",
+            "Anchor": [
+                "gray armchairs",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "this gray armchair is on the right side of the room. across from this armchair is small brown table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the black table is between two armchairs. the black table is located on the back wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "armchair",
+                "armchair",
+                "back wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0461_00",
+        "target_id": "1",
+        "target_name": "armchair",
+        "caption": "to the right of this armchair is a black table. this gray armchair is located near the left wall.",
+        "parsed_query": {
+            "Target": "black table",
+            "Anchor": "gray armchair"
+        },
+        "unique": false
+    }
+]

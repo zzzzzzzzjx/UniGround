@@ -1,0 +1,275 @@
+[
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "a very long wooden table. in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "a black leather arm chair. on the side of the table.",
+        "parsed_query": {
+            "Target": "black leather arm chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "a black leather chair. next to the wooden table.",
+        "parsed_query": {
+            "Target": "black leather chair",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a black leather arm chair. next to another same chair.",
+        "parsed_query": {
+            "Target": "black leather arm chair",
+            "Anchor": "arm chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the black chair is on the left side of the desk. it is the second chair from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is long and dark brown. it is surrounded by black chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "black chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is rectangular and brown. it is in the middle of black chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "black chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is made of brown leather.  it is the second chair from the left against the back wall. the chair is turned sideways.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "back wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is made of brown leather. it is the chair to the furthest left on the side of the table in closest view. it is turned sideways, facing the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "it is a long table surrounded by chairs. it is either a conference table or lunch table. the top is made of dark brown wood.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "it is a brown leather chair that is furthest to the left against the back wall. the chair is turned, facing to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "back wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "it is a brown leather chair facing to the left. it is the middle chair on the outside face of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "there is a dark gray and black chair. it is the one on the left by the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a dark gray and black chair. it is the one in the middle by the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a dark gray and black chair. it is the one in the middle opposite the chairs by the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chairs by the wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "this is a long brown table. it has many cushioned chairs around it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this is a black leather chair. it is on the right side of the table and second chair from the window.",
+        "parsed_query": {
+            "Target": "black leather chair",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is the first chair on the left side of the table. it is black and upholstered with leather.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a black leather chair at the meeting table. it is the first chair facing the window on the right side of the table.",
+        "parsed_query": {
+            "Target": "black leather chair",
+            "Anchor": [
+                "meeting table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is the last chair on the right side of the table. it is made of black leather and is by the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "a black leather armchair. in front of the table.",
+        "parsed_query": {
+            "Target": "black leather armchair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at the corner of the table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is on the back right side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0660_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in front of another chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    }
+]

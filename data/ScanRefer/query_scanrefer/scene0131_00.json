@@ -1,0 +1,1274 @@
+[
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "we are looking for the brown office chair with wheels . it is not pushed all the way in under the table but is in front of the corner  where the   l shaped desk  bends.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "l shaped desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "38",
+        "target_name": "whiteboard",
+        "caption": "this is a white rectangular board. the board is attached to the wall.",
+        "parsed_query": {
+            "Target": "board",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "29",
+        "target_name": "computer_tower",
+        "caption": "a black computer tower. it is under a brown table.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "11",
+        "target_name": "computer_tower",
+        "caption": "a black computer tower. it is under a brown table.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "a black office chair. it is in between with the same chair.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": [
+                "office chair",
+                "office chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "43",
+        "target_name": "whiteboard",
+        "caption": "a rectangle white board. it is behind a black cabinet.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": "black cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "this is a black monitor. it is facing two chairs.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "30",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is located by the corner of the room close to a chair and monitor.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "chair",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is next to the white board.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "white board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "27",
+        "target_name": "keyboard",
+        "caption": "this is a black keyboard. it is located next to the desk hutch.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "desk hutch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "this is a black monitor. it is located to the far right of the room.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "28",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is located under a desk, under a monitor, at the far end of the room.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "0",
+        "target_name": "shelf",
+        "caption": "the shelf is on top of a table in the northwest corner of the room from the entrance. the shelf has two sections in the middle and two legs.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "table",
+                "entrance"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "the officer chair is in front of the desk at the center of the room in front of the entrance. the chair is black and has a round backrest.",
+        "parsed_query": {
+            "Target": "officer chair",
+            "Anchor": [
+                "desk",
+                "entrance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "there is an office chair in the furthest northwest corner of the room from the entrance. the chair has a curved backside and five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "entrance"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "13",
+        "target_name": "monitor",
+        "caption": "the monitor is on top of the u-shaped table at the furthest west side of the room. the monitor has a silver cover and a black screen.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "u-shaped table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "there is a u-shaped desk surround all sides of the room except the one with the door. the desk is brown with a flat top.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk is up against the wall, and wraps around the room to the left. there are chairs at the desk, and monitors atop it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is facing the left corner of the room, and is at the desk. the monitor is to the left of the chair, and there are shelves in front of the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk is against the wall. the desk is long, and wraps around to the right against the far wall.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall",
+                "far wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "9",
+        "target_name": "office_chair",
+        "caption": "an office chair is in the middle of two other office chairs in an office.  it is in front of a picture on the wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "two other office chairs",
+                "picture"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "9",
+        "target_name": "office_chair",
+        "caption": "a black office chair is at the middle desk in an office.  it has a file cabinet to the left of it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "middle desk",
+                "file cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "43",
+        "target_name": "whiteboard",
+        "caption": "there is a whiteboard in an office on the floor.  it is next to the chair with no back in the corner.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "chair with no back",
+                "floor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "an office chair is in an office. it is black and under the whiteboard on the wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "39",
+        "target_name": "mini_fridge",
+        "caption": "a mini fridge is in an office. it is black and next to a whiteboard on the floor.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "38",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is above and to the left of the desk. the whiteboard is fixed to the wall.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "desk",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk runs along the wall on the right side of the room. the desk continues to the left on the far wall.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall on the right side of the room",
+                "far wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "we are looking at a brown wooden desk , on the desk there are many  messy stacks of paper. there is one messy stack of paper that is in front of a computer monitor, in front of this  messy stack of paper are two black office chairs with wheels we are looking for the chair that is on the  left. there are many messy stacks of paper on the desk, there is only one messy stack of paper in front of two chairs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "messy stack of paper",
+                "computer monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "at the corner of the room  is a small white mini  fridge.  there is a small light brown  cardboard box   on the floor to the left of it. to the right of it is a small black mini fridge. the small white mini fridge is what we are looking for.",
+        "parsed_query": {
+            "Target": "small white mini fridge",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "at the far left  end of the l-shaped desk  are two black and gray office chairs. we are looking for the chair on the left. it is the chair closest to the desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "l-shaped desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "there are two black office chairs in front of a messy stack of papers. behind the messy stack of papers that is in front of the two black office chairs  is a black computer monitor. the black computer monitor behind the messy stack of papers   that is in front of the two black office chairs is the item we are looking for.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "stack of papers",
+                "office chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "11",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is under a desk in between two chairs.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desk",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in the corner of the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is facing a monitor.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "29",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is under a desk.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. the back of the chair is to two other chairs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this chair is kept along with other chairs. the tables are kept in l shape close to the walls.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "this chair is kept closer to the table. on right a white board can be seen on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "this chair is kept in front of a computer. a picture can be seen on the wall beside the computer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "computer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "this fridge is kept close to the wall. on the left, a table and chairs can be seen.",
+        "parsed_query": {
+            "Target": "fridge",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "38",
+        "target_name": "whiteboard",
+        "caption": "this is a large whiteboard. it is to the left of a desk.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "27",
+        "target_name": "keyboard",
+        "caption": "this is a black keyboard. it is in front of a monitor.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "0",
+        "target_name": "shelf",
+        "caption": "this is a wooden shelf. it is aggainst a wall in a corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is at a long desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "13",
+        "target_name": "monitor",
+        "caption": "this is a monitor with a black screen. it is on a desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "28",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is under a desk.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "39",
+        "target_name": "mini_fridge",
+        "caption": "this is a stainless steel mini fridge. it is to the left of the desk.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "this is a gray office chair. it is facing the corner of the room.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "43",
+        "target_name": "whiteboard",
+        "caption": "this is a plain whiteboard. it is to the right of the mini fridge.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "mini fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "this is a white mini fridge. it is to the right of chairs.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "0",
+        "target_name": "shelf",
+        "caption": "this is a brown shelf. it is above a desk.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "0",
+        "target_name": "shelf",
+        "caption": "this is a brown shelf. it is facing a chair.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is facing a desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is facing a desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "13",
+        "target_name": "monitor",
+        "caption": "the monitor is on top of the right side of the u shaped desk. the monitor has a gray cover and a black screen.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "u shaped desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "38",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is on the southern wall that is left from the entrance. the whiteboard has the color white and is rectangular.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "entrance"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "the chair is in front of the entrance and is next to the middle of the u-shaped desk. the chair has five legs and is the color black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "entrance",
+                "u-shaped desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "39",
+        "target_name": "mini_fridge",
+        "caption": "the mini fridge is next to the wall in the left from the entrance. the mini fridge has a gray color and is shaped like a rectangular prism.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": [
+                "wall",
+                "entrance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "the chair is on the northwestern corner of the room and has a chair on both its left and right sides. the chair has a curved backrest and five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "the smooth office chair. the chair is on the left by the desk and wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "the curved office chair. the chair is in front of the whiteboard.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "0",
+        "target_name": "shelf",
+        "caption": "this is a shelf. there are multiple objects setting on it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "28",
+        "target_name": "computer_tower",
+        "caption": "this is a computer tower. it sets underneath the computer desk.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "computer desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "28",
+        "target_name": "computer_tower",
+        "caption": "the computer tower. the tower is under the desk.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "9",
+        "target_name": "office_chair",
+        "caption": "this is a chair. it sets in the office at a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "39",
+        "target_name": "mini_fridge",
+        "caption": "this is a mini fridge. it sets against the wall.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "30",
+        "target_name": "computer_tower",
+        "caption": "this is a computer tower. it sets on the floor under the desk.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "the small mini fridge. the fridge is on the corner by the desk.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "33",
+        "target_name": "mini_fridge",
+        "caption": "the tiny mini fridge. the mini fridge on the corner by the whiteboard.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "27",
+        "target_name": "keyboard",
+        "caption": "this is a standard rectangular keyboard.  it is by the first monitor on the left when you enter the room.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "first monitor on the left"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a black swivel office chair.    it is located in the furthermost corner to the left after entering the room.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "this is a swivel office chair.  it is in the furthermost corner to the right after entering the room.",
+        "parsed_query": {
+            "Target": "swivel office chair",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "this is several wood tables that have been joined together to make a large \"c\" shaped continuous desk around the room.  just walk in and it is up against three wall and can't be missed.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "walls"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "28",
+        "target_name": "computer_tower",
+        "caption": "this is a standard black computer tower.  it is the first computer town on the left under the table.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "this is a cushion rolling chair. the chair is facing to the white board.",
+        "parsed_query": {
+            "Target": "cushion rolling chair",
+            "Anchor": "white board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "this is arm chair. the chair is placed in front of the monitor.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a cushion rolling chair. the chair is placed on the intersection of the table.",
+        "parsed_query": {
+            "Target": "cushion rolling chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "29",
+        "target_name": "computer_tower",
+        "caption": "this is a computer tower . the tower is attached to the wall.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "13",
+        "target_name": "monitor",
+        "caption": "the monitor is sitting atop the desk. it is located to the left of the shelves.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "the chair is facing the desk. the chair is also facing the right corner. there are two chairs before the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "two chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "the chair has no seat backing on it. the chair is to the left of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "the chair is slightly pulled away from the desk. the chair is to the right of the computer tower.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "computer tower"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "43",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is leaning against the wall. the whiteboard is to the left of the table.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "11",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is to the left of the chair.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "29",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is to the right of the chair.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at the corner of the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is facing the desk corner.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this is a gray chair. it is in front of a whiteboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "this is a small monitor. it is facing two chairs.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "30",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is to the left of chairs.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "30",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is below a desk.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "9",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is at a desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "27",
+        "target_name": "keyboard",
+        "caption": "there is a keyboard at the furthest west side of the room from the entrance below a monitor. the keyboard is black and shaped like a rectangle.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "entrance",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "13",
+        "target_name": "monitor",
+        "caption": "the monitor is above a keyboard at the furthest west side of the room. the monitor is black with a stand below it.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "keyboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "39",
+        "target_name": "mini_fridge",
+        "caption": "the mini fridge is in front of the southern wall from the left of the entrance. the mini fridge is gray and looks like a rectangular prism.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": [
+                "southern wall",
+                "entrance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "the office chair is the first one on the right from the chair in the center of the northern area of the room. the office chair has curved backside and the color black.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "chair in the center of the northern area of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "11",
+        "target_name": "computer_tower",
+        "caption": "the computer tower is directly north from the entrance and under the desk. the computer tower is a black rectangular prism.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "entrance",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is in front of two other chairs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is facing a wooden table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is at a desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "27",
+        "target_name": "keyboard",
+        "caption": "this is a black keyboard. it is in front of a rectangular monitor.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "rectangular monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "9",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is to the left of a computer tower.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "computer tower"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "11",
+        "target_name": "computer_tower",
+        "caption": "the computer tower is to the north of the entrance under the desk. the computer tower is a black rectangular prism.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "entrance",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "29",
+        "target_name": "computer_tower",
+        "caption": "the computer tower is in the farthest northern area from the entrance under a u-shaped desk. the computer tower is black and looks like a box.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "entrance",
+                "u-shaped desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "38",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is on the southern wall left of the entrance. the whiteboard looks like a white rectangle.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "southern wall",
+                "entrance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "the monitor is the farthest northeast one from the entrance. the monitor is black and has a blank screen.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "entrance"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0131_00",
+        "target_id": "30",
+        "target_name": "computer_tower",
+        "caption": "the computer tower is the farthest northeast one from the entrance. the computer tower is black and looks like a rectangle.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "entrance"
+        },
+        "unique": false
+    }
+]

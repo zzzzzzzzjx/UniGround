@@ -1,0 +1,620 @@
+[
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "12",
+        "target_name": "trash_can",
+        "caption": "the trash can is the farthest left one out of a row of cans. the trash can is a gray rectangular prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "row of cans"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door is right of a gray trash can. the door is a brown rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "gray trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "14",
+        "target_name": "door",
+        "caption": "this is a brown object that covers an opening to a room. it must be opened to enter the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "this is a black object used to dispose of waste. it is the second closes object to the open door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "open door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "this is a brown wooden object used to cover an opening to a room. it must be opened to pass into the room on the other side.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "a grey container with a blue liner that is not in the corner. it is on the right side of the image.",
+        "parsed_query": {
+            "Target": "container",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "a grey container with a blue liner used for disposing of waste. it is placed in the corner of the room.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "a black object used for disposing of waste. it is the second closest object to the doorway.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "doorway"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "12",
+        "target_name": "trash_can",
+        "caption": "a black object used for disposing of waste. it is the closest object to the doorway.",
+        "parsed_query": {
+            "Target": "black trash can",
+            "Anchor": "doorway"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "a standing structure with a flat surface used to support many items. it spans the entire length of the room.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "standing semi-circular wooden object with flat surface for holding objects. object can be found in center of image.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "the window is the leftmost one above the tables. the window has two sections and blinds.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "tables"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "standing semi-circular wooden object with flat top for supporting objects. object can be found in center of image between chairs.",
+        "parsed_query": {
+            "Target": "semi-circular wooden table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "20",
+        "target_name": "cabinet",
+        "caption": "the cabinet is in the northwest corner of the room. the cabinet is a white rectangular box.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is right of the half circle table. the chair is brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "half circle table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door is next to the trash can and a table. the door is a brown rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "trash can",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table is surrounded by two chairs. the table is a half-circle top and has four legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "the trash can is left of the door. the trash can is a gray rectangular prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "20",
+        "target_name": "cabinet",
+        "caption": "there is an ivory cabinet. the cabinet is to the left of the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "there are rectangular windows. the window is above the long brown table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "long brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "there is a brown chair. the chair is beside a half moon shaped table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "half moon shaped table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "there is wooden brown chair. the chair is next to a wooden half moon table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wooden half moon table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "20",
+        "target_name": "cabinet",
+        "caption": "there is a white filing cabinet. the cabinet is to the left of the door.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "12",
+        "target_name": "trash_can",
+        "caption": "this is a black trash can. it is to the left of another trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "this is a long table. it is to the right of the trash can.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "19",
+        "target_name": "window",
+        "caption": "this is a rectangular window. it is behind the table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this is a gray trash can. it is in the corner of the room.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table is between two chairs. the table is a half-circle top with four legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "20",
+        "target_name": "cabinet",
+        "caption": "the cabinet is right of the exit. the cabinet is a white rectangular prism.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "exit"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is right of the half-circle table. the chair is brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "half-circle table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "14",
+        "target_name": "door",
+        "caption": "the door is left of the white door. the door is a brown rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "white door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "the trash can is in the northeast corner of the room. the trash can is a gray cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "the trash can is the second left-most one out of a row of trash cans. the trash can is a gray rectangle.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "14",
+        "target_name": "door",
+        "caption": "the door is left of a row of trash cans. the door is a brown rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "row of trash cans"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "20",
+        "target_name": "cabinet",
+        "caption": "the cabinet is against the wall. it contains four drawers.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "the window is above the bench/table . there is a vertical divider in the window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bench",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the chair is a wood chair. the chair is to the left of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "19",
+        "target_name": "window",
+        "caption": "the window is above the right table. there is a vertical divider in the window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "right table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table is against the wall with one leaf folded down. there is a chair to the left of it, and a chair to the right of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "12",
+        "target_name": "trash_can",
+        "caption": "there is a brown wooden chair set in front of a night stand. there is a plastic trash can set left beside the door.",
+        "parsed_query": "{\"Target\": \"chair\", \"Anchor\": \"night stand\"}\n{\"Target\": \"trash can\", \"Anchor\": \"door\"}",
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "the gray and blue trash can set left of the brown table in a corner. the gray and blue trash can is place between the all gray trash can on right side and another gray and blue trash can on left.",
+        "parsed_query": {
+            "Target": "gray and blue trash can",
+            "Anchor": [
+                "brown table",
+                "all gray trash can",
+                "gray and blue trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the chair is left of the half-circle table. the chair is brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "half-circle table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "there is a blue and gray trash can sets in a corner. it is on the left side of the brown metal table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "brown metal table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "the trash can is right of the blue covered trash can. the trash can is a grey rectangular prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "blue covered trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "the trash can is left of an open door. the trash can is a gray rectangle.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "open door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "there is a gray trash can located in the corner of the room near the door. it is place next to the long wooden table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "long wooden table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "the window is the leftmost one above the table. the window is a rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is below the windows. the table is an orange rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "14",
+        "target_name": "door",
+        "caption": "the door is left of the group of trash cans. the door is a brown rectangular shape.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "group of trash cans"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door is right of the gray trash can. the door is a rectangle with hinges.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "gray trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is below the windows. the table is a rectangle with four legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is underneath the windows. the table is a long brown rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "10",
+        "target_name": "trash_can",
+        "caption": "the trash can is the second closest to the door out of the group of cans. the trash can has a plastic bag over it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "19",
+        "target_name": "window",
+        "caption": "the window is the rightmost window above the table. the window is rectangular and has blinds.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0251_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "the window is the leftmost window above the table. the window has rectangular and has two sections.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "unique": false
+    }
+]

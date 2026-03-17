@@ -1,0 +1,1699 @@
+[
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "37",
+        "target_name": "office_chair",
+        "caption": "a rolling chair with a tan seat and black back. .  it is sitting in front of a white filing box and is in the middle of the room.",
+        "parsed_query": {
+            "Target": "rolling chair",
+            "Anchor": "white filing box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "this is a rolling office chair. the chair is with cushion seat.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "39",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is black. it is to the right of the desk in the back left corner.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "1",
+        "target_name": "file_cabinet",
+        "caption": "this is a black filing cabinet. it is on the floor on the left of the wooden desk.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": "wooden desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "this is a black moniter. it is sitting on the center of the wooden desk in the back corner of the room.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "wooden desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "37",
+        "target_name": "office_chair",
+        "caption": "the office chair is in the back middle of the room. it is facing towards the left.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a white and black office chair. it is under the wooden desk next to the windows.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "wooden desk",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "17",
+        "target_name": "desk",
+        "caption": "the desk is in the back left corner. there are two monitors on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk is on the back wall near the windows. it is the one furthest to the left.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "31",
+        "target_name": "monitor",
+        "caption": "this is a black moniter. it is on a wooden desk that is set in between the two sets of windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "wooden desk",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "this is a bank of windows. they are in the back right corner of the room when you walk in.",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "this is a large window on the right side of a shared office. it is directly in front of the desk in the right corner of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "15",
+        "target_name": "desk",
+        "caption": "this is a brown desk in a shared office space. it is in the middle on the right side of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "this is a large window. it is the window on the left side of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "27",
+        "target_name": "file_cabinet",
+        "caption": "this is a small black two drawer filing cabinet. it is located under the desk in the back right corner of the room.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "31",
+        "target_name": "monitor",
+        "caption": "this is a black computer monitor. it is located on the desk that is directly under the clock.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "desk",
+                "clock"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "the monitor is the northeast-most one in the room. the monitor is a black rectangle.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "43",
+        "target_name": "monitor",
+        "caption": "the monitor is the center one on the right side of room. the monitor is a black rectangle.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "the trash can is the right-most one next to the whiteboard. the trash can is black and cone shaped.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "13",
+        "target_name": "desk",
+        "caption": "the desk is the northeast-most one. the desk is a dark brown rectangle.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "21",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is above the two trash cans. the whiteboard is white and rectangular.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "trash cans"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "41",
+        "target_name": "monitor",
+        "caption": "the right monitor in a two-monitor setup in the corner of the room.  the sit to the left of a short two-drawer file cabinet.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "short two-drawer file cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "17",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is by a file cabinet.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "file cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "34",
+        "target_name": "monitor",
+        "caption": "this is a silver monitor. it is by the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "17",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is under two monitors.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "monitors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "27",
+        "target_name": "file_cabinet",
+        "caption": "this is a black file cabinet. it is in behind the backpack.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "backpack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "43",
+        "target_name": "monitor",
+        "caption": "a monitor sitting on a wooden desk inside of a cubicle.   it is on the wall opposite the windows and sits in the second cubical back from the front of the room.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "wooden desk",
+                "cubicle",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "43",
+        "target_name": "monitor",
+        "caption": "this is a black monitor. it is on the desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "15",
+        "target_name": "desk",
+        "caption": "a wooden desk on the opposite end of the room from the windows.  it is in the second cubical back from the front of the room.  there is a white box and a monitor on the desk.",
+        "parsed_query": {
+            "Target": "wooden desk",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "18",
+        "target_name": "desk",
+        "caption": "a wooden desk in the first cubical from the front of th eroom.  the desk is setup with computer monitors and has been used.  the monitors are powered on.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "first cubicle"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "17",
+        "target_name": "desk",
+        "caption": "the computer desk has metal legs. it is in the corner of the room.",
+        "parsed_query": {
+            "Target": "computer desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "1",
+        "target_name": "file_cabinet",
+        "caption": "the metal filing cabinet is black. it is situated at the end of the desk, and its drawers are open.",
+        "parsed_query": {
+            "Target": "metal filing cabinet",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "43",
+        "target_name": "monitor",
+        "caption": "the rectangular monitor is sitting on the computer desk. it is against the cubicle wall.",
+        "parsed_query": {
+            "Target": "rectangular monitor",
+            "Anchor": [
+                "computer desk",
+                "cubicle wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "34",
+        "target_name": "monitor",
+        "caption": "the computer monitor is atop a desk. it is near a black keyboard.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "desk",
+                "black keyboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "the windows are behind a computer desk and monitor. one side is open.",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": [
+                "computer desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "50",
+        "target_name": "monitor",
+        "caption": "the computer next to the other computer. in the top right of the room.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": "other computer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "45",
+        "target_name": "office_chair",
+        "caption": "the chair in front of the desk with the only computer. it is in between two other desks, to the right of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk with the only computer",
+                "two other desks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "18",
+        "target_name": "desk",
+        "caption": "this is a desk made of wood. the desk is in rectangular shape.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "this is a closed window. the window is with glass.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "this is a glass window with wooden frame. the window are closed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "15",
+        "target_name": "desk",
+        "caption": "the desk with one computer on it. in between two other desks and to the right of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "21",
+        "target_name": "whiteboard",
+        "caption": "whiteboard by the window. it is at the top of the room.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "0",
+        "target_name": "file_cabinet",
+        "caption": "file cabinet next to the window. it is at the bottom left of the room behind a desk.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "window",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "29",
+        "target_name": "office_chair",
+        "caption": "it is a beige and black chair. the beige and black chair is the chair sitting between the two desks on the right, next to the first window (from right to left).",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desks",
+                "first window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "it is a white window. the white window is on the right side, towards the back of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "47",
+        "target_name": "office_chair",
+        "caption": "it is a black office chair. the black office chair is at the first desk on the left of the room.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "it is a black trash can. the black trash can is sitting at the back of the room, below the white board on the white wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "white board",
+                "white wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "17",
+        "target_name": "desk",
+        "caption": "the desk is the northwest-most one in the room. the desk is dark brown and rectangular.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "the desk is the center right one on the northern side of the room. the desk is brown and rectangular.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "the trash can is the left-most one next to the whiteboard. the trash can is black with a plastic bag on top.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "the trash can is the middle one in the row of trash cans next to the whiteboard. the trash can is black and rectangular.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "39",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is right of the northwest-most table. the file cabinet is a gray rectangular prism.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "northwest-most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular trash can. it is to the left of another trash can by the wall.",
+        "parsed_query": {
+            "Target": "rectangular trash can",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "26",
+        "target_name": "office_chair",
+        "caption": "there is a gray office chair. it is the one closest to the trash cans by the wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "trash cans"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "29",
+        "target_name": "office_chair",
+        "caption": "the office chair is agains the wall with the windows. it is on the right side of the desk cluster on the left.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "window",
+                "desk cluster"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular trash can. it is to the right of another trash can by the wall.",
+        "parsed_query": {
+            "Target": "rectangular trash can",
+            "Anchor": [
+                "trash can",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "43",
+        "target_name": "monitor",
+        "caption": "there is a rectangular monitor. it is to the right of a white box on a desk.",
+        "parsed_query": {
+            "Target": "rectangular monitor",
+            "Anchor": "white box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "the trash can is below the whiteboard. it is the one on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk is along the wall with the windows. it is on the left side of the cluster of desks on the left.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall with the windows",
+                "cluster of desks on the left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "36",
+        "target_name": "office_chair",
+        "caption": "the office chair is against the back wall on the right. it is facing forward.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "back wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is against the wall with the windows. it is to the left of the desk cluster on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall with the windows",
+                "desk cluster on the left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "it is a brown wooden desk. it is the first desk to the left of the office chair.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "office chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "44",
+        "target_name": "file_cabinet",
+        "caption": "it is a black metal file cabinet. it is located on the right under the brown table.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "42",
+        "target_name": "monitor",
+        "caption": "it is a black monitor. it is the first monitor from the left wall.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "left wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "it is a black and brown office chair. it is located in front of the monitor on the brown table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "monitor",
+                "brown table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "1",
+        "target_name": "file_cabinet",
+        "caption": "it is a black wooden file cabinet. it is placed to the left of the brown wooden desk.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "brown wooden desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "36",
+        "target_name": "office_chair",
+        "caption": "this chair is in the middle. it is facing inwards.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "44",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is below the center desk on the right side of the room. the file cabinet is a dark gray box.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "center desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "37",
+        "target_name": "office_chair",
+        "caption": "this chair is in the middle. it is facing left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "this trash can is in the middle. it is black.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "42",
+        "target_name": "monitor",
+        "caption": "this monitor is on the top left. it is black.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "47",
+        "target_name": "office_chair",
+        "caption": "the office chair is between the northern desk and middle desk on the right side. the office chair is black with five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "northern desk",
+                "middle desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is the northwest-most one in the room. the chair is black with a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk is the northwest-most one in the room. the desk is a dark brown rectangle.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "21",
+        "target_name": "whiteboard",
+        "caption": "this is a white chalkboard. it is for magic markers and to the right of the desk.",
+        "parsed_query": {
+            "Target": "chalkboard",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "42",
+        "target_name": "monitor",
+        "caption": "this monitor is on the top left. it is black and off.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "27",
+        "target_name": "file_cabinet",
+        "caption": "this file cabinet is in the middle. its handles are facing viewer.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "47",
+        "target_name": "office_chair",
+        "caption": "this black chair is facing inwards. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "41",
+        "target_name": "monitor",
+        "caption": "this monitor is on the desk. it is the second from the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "34",
+        "target_name": "monitor",
+        "caption": "this is a computer monitor. it is the first monitor by the window.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "there is a waste basket. it has a liner and is under the chalkboard and it is the one on the left.",
+        "parsed_query": {
+            "Target": "waste basket",
+            "Anchor": "chalkboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "15",
+        "target_name": "desk",
+        "caption": "there is a rectangular wooden desk. it holds a monitor next to a white box.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "white box"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "there is a rectangular wooden desk. it holds a monitor and a white box.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "monitor",
+                "white box"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "13",
+        "target_name": "desk",
+        "caption": "there is a rectangular wooden desk. it is over a rectangular cabinet.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "34",
+        "target_name": "monitor",
+        "caption": "this is a computer screen. it is the first one by the window and rectangular.",
+        "parsed_query": {
+            "Target": "computer screen",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "39",
+        "target_name": "file_cabinet",
+        "caption": "there is a rectangular cabinet. it is next to an office chair to its right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "office chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "this is a window. it has 8 sections and it is on the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "1",
+        "target_name": "file_cabinet",
+        "caption": "this file cabinet is in the middle. it has objects.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "50",
+        "target_name": "monitor",
+        "caption": "this monitor is on the left. it is blue.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "45",
+        "target_name": "office_chair",
+        "caption": "this office chair is facing up and left. it has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "50",
+        "target_name": "monitor",
+        "caption": "it is a black monitor. the black monitor is sitting to the left of the front desk  on the right, sitting close to the right of the white board.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "front desk",
+                "white board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "50",
+        "target_name": "monitor",
+        "caption": "it is a black monitor. the black monitor is sitting to the left of the front desk  on the right, close to the right of the white board.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "front desk",
+                "white board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "it is beige and black office chair. the beige and black office chair is the first chair sitting at the third desk on the right of the room.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "third desk on the right of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "44",
+        "target_name": "file_cabinet",
+        "caption": "this is a black file cabinet. it is under the desk.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is black chair. it is facing a keyboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "keyboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "it is a white window. the white window is sitting at the far left corner of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is above the file cabinet.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "file cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "0",
+        "target_name": "file_cabinet",
+        "caption": "this is a black file cabinet. it is in the corner.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "18",
+        "target_name": "desk",
+        "caption": "it is a brown desk. the brown desk is the first desk sitting at the right side of the room next to the white board.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "white board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "37",
+        "target_name": "office_chair",
+        "caption": "this is a black and tan chair. it is by a white and black chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white and black chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "0",
+        "target_name": "file_cabinet",
+        "caption": "this is a black file cabinet. it is under the window.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "this is a silver monitor. it is in front of the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is in front of another brown desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "brown desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "42",
+        "target_name": "monitor",
+        "caption": "this is a black flat screen monitor. it is near the corner next to the other screen on the desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "screen",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "44",
+        "target_name": "file_cabinet",
+        "caption": "this is a black file cabinet. it is on the floor underneath the corner desk.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "corner desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "0",
+        "target_name": "file_cabinet",
+        "caption": "this is a black file cabinet. it is by itself in the corner of the room with a cardboard box on top of it.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "cardboard box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "15",
+        "target_name": "desk",
+        "caption": "this is a desk in a cubicle. it is the second cubicle from the corner.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "cubicle"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "this is a large pane framed window. it is behind a desk in the right corner of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "45",
+        "target_name": "office_chair",
+        "caption": "this is the grey office chair. it is in the second cubicle from the corner.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "cubicle"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "18",
+        "target_name": "desk",
+        "caption": "this is an office desk. it is in the far cubicle near the corner.",
+        "parsed_query": {
+            "Target": "office desk",
+            "Anchor": "cubicle"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "13",
+        "target_name": "desk",
+        "caption": "this is a desk in the corner of the room. it is in the back right corner near the dry erase board.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "dry erase board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "this is an office chair. it is at the double cubicle pulled out from the desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "double cubicle",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "1",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is black. it is in front of the desk on the back left.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "0",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is in the back left corner. there is a white box on top of it.",
+        "parsed_query": {
+            "Target": "white box",
+            "Anchor": "file cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "31",
+        "target_name": "monitor",
+        "caption": "the monitor is on the desk on the left. it is black.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "41",
+        "target_name": "monitor",
+        "caption": "the monitor is on the desk in the back left corner. it is the monitor on the right.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "21",
+        "target_name": "whiteboard",
+        "caption": "it is a white board. the white board is in the front of the room.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "13",
+        "target_name": "desk",
+        "caption": "it is a brown desk. the brown desk is in the front left corner.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "36",
+        "target_name": "office_chair",
+        "caption": "it is a beige and black chair. the beige and black chair is the chair at the right of the two chairs in the mid-front of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "two chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "it is a beige and black chair. the beige and black chair is the chair at the third desk on the right side of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "third desk on the right side of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "18",
+        "target_name": "desk",
+        "caption": "it is a brown desk. the brown desk is the first desk at the right side of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "31",
+        "target_name": "monitor",
+        "caption": "the monitor is the right-most one on the middle table in the north. the monitor is gray and rectangular.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "middle table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "47",
+        "target_name": "office_chair",
+        "caption": "the office chair is directly south  of the center of the window. the office chair is gray with two arms.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "30",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is right of the center north table. the file cabinet is a gray box.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "center north table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "29",
+        "target_name": "office_chair",
+        "caption": "the office chair is left of the northeast-most table. the office chair is gray with five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "northeast-most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "30",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is right of the center north table. the file cabinet is a dark gray cube.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "center north table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "29",
+        "target_name": "office_chair",
+        "caption": "the office chair is between the middle and right-most tables on the north side. the office chair has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "middle table",
+                "right-most table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "36",
+        "target_name": "office_chair",
+        "caption": "the office chair is the northwest-most one. the office chair is gray with five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "the office chair is the southwest-most one in the room. the office chair is gray and has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "30",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is to the right of the middle table. the file cabinet is gray and boxy.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "middle table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "27",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinets are south of the northeast-most table. the file cabinet is gray and rectangular.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "northeast-most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "41",
+        "target_name": "monitor",
+        "caption": "the monitor is the right-most one on the northwest-corner of the room. the monitor is a black rectangle.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "45",
+        "target_name": "office_chair",
+        "caption": "the office chair is the southwest one next to the central right desk. the office chair is black with five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "central right desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "39",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is the central south-most one. the file cabinet is gray and boxy.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "29",
+        "target_name": "office_chair",
+        "caption": "the office chair is the northeast-most one. the office chair has five legs and two arms.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "47",
+        "target_name": "office_chair",
+        "caption": "the office chair is north of the central right chair. the office chair is gray with curved backside.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "central right chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "21",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is rectangular and white. it is hanging on the wall above the two black trash cans.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "trash cans"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "the trash can is black. it is the first trash can from the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "the monitor is black and rectangular. it is sitting on top of the brown, rectangular desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "36",
+        "target_name": "office_chair",
+        "caption": "the chair is blue and grey. it is the second chair from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "44",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is black. it is beneath the desk, to the right of the office chair.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "desk",
+                "office chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "26",
+        "target_name": "office_chair",
+        "caption": "the object is a chair. if you were to enter through the doorway it would  be the chair directly in front of you.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "doorway"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "50",
+        "target_name": "monitor",
+        "caption": "the object is a monitor. it would be the first monitor in the first to cool after you enter through the doorway at the desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "doorway",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "13",
+        "target_name": "desk",
+        "caption": "the object has a desk. after you enter through the doorway it is the desk in front of the window directly in front of you.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window",
+                "doorway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "the object has a monitor. after you enter through the doorway it is on the desk in front of the window directly in front of you.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0653_00",
+        "target_id": "39",
+        "target_name": "file_cabinet",
+        "caption": "the object has a filing cabinet. it is located on wall at the end of the room beside the desk and it has hand soap and a book upon it.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": "desk"
+        },
+        "unique": false
+    }
+]

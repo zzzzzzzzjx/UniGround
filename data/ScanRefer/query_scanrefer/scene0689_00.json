@@ -1,0 +1,776 @@
+[
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the white square table is sitting in the middle of the room. there is a red wall to the left of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "red wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "the window is behind the table in the middle of the room. there is a red wall to the left of the window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "table",
+                "red wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "a red and black chair is on the right side of the room and behind a table. it is the first chair on the right .",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the red and black chair is on the right side of the table. it is in the middle with a chair on each side.",
+        "parsed_query": {
+            "Target": "red and black chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "a black chair is sitting on the right side of the room. it is in the middle and one chair on each side.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "a red and black office chair is on the right side of the table. there are two chairs on each side of it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "a white square shaped table is in the middle of the room. the table top has cracks on it and there is a red wall to the left of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "red wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "15",
+        "target_name": "trash_can",
+        "caption": "a black trash can sits against the wall behind the table. there is a liner inside the trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "a red and black office chair is sitting on the right side of the table. the chair is on the end in the front with the wall behind it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the black and red office chair is sitting in front of the table by itself on the end. there is three chairs on each side of the end chair in front.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is the middle one on the north side of the table. the chair is red and has two arms.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is the southeast one next to the table. the chair is black and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is the left-most one on the north side of the table. the chair is red and has a curved back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is the middle one on the south side of the table. the chair is black and has a curved back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "the window is north of the center table. the window is a yellow square.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "center table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "this is a red chair. it is at the corner of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is the center chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "this is a glass window. it is behind the far end of the table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "this is a glass window. it is behind a trash can.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "this is a white table. it is in the middle of many chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "15",
+        "target_name": "trash_can",
+        "caption": "this is a gray trash can. it is in front of the window.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a red chair. it is the middle chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this is a white door. it is in the corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this is a white door. it is by the red wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "red wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a red chair. it is by the table corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this door is on the right corner. it is grey.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "this table is from the top view. it is beige.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "16",
+        "target_name": "whiteboard",
+        "caption": "this whiteboard is straight ahead. it is clean.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this chair is on the left. its black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "16",
+        "target_name": "whiteboard",
+        "caption": "this whiteboard is on the right. it is clean.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "this window is on the right. it is bright.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this chair is facing left. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this chair is facing inwards. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this chair is facing left. it is furthest from viewer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "viewer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this chair is red. it is facing left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table has a light surface. there are many chairs around it. it is in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the door is in the corner of the room. there is a red wall to the left of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "red wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this chair is red. it is on the right side of the table. it is the middle chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "the window is on the wall behind the table. it has a yellow tint to it. there is a trash can towards the right of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "15",
+        "target_name": "trash_can",
+        "caption": "this is a small trash can in front of the yellow window. it is cylinder shaped and against the wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "yellow window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "it is a black chair. the black chair is the third chair (left to right) that sits  the right back of the table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "it is a red chair. the red chair is the chair that sits  at the right head of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "it is a black chair. the black chair is the third chair (left to right) that sits  the right back of the table, close to the right wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "table",
+                "right wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this chair is on the other side. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this chair is facing in. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this chair is closest the viewer. it is red and black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "this chair is facing left. it is flat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this chair is facing up and left. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "15",
+        "target_name": "trash_can",
+        "caption": "it is a grey trash can. the grey trash can is the trash can that is sitting next to the wall at the far front of the room.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "the large giant window. the window is at the end of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the large office door. the door is in the corner by the table.",
+        "parsed_query": {
+            "Target": "office door",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the small office chair. the chair is at the corner of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the office armchair. the chair is under the table at the corner.",
+        "parsed_query": {
+            "Target": "office armchair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "15",
+        "target_name": "trash_can",
+        "caption": "the small round trash can. the trash can is in front of the window.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "the window is on the northern wall. the window is rectangular and has a yellow square.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "northern wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is the western-most one next to the table. the chair is red and has five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "16",
+        "target_name": "whiteboard",
+        "caption": "the whiteboards are on the southern wall. the whiteboard is white and rectangular.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "southern wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is the middle one in the row of chairs on the southern section of the table. the chair is black with five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "the window is on the northern wall. the window is a yellow square.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "northern wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the chair the right-most one on the northern side of the table. the chair is red with two arms.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is the eastern-most one next to the table. the chair is red with a curved back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "16",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is on the southern wall. the whiteboard is white and a rectangle.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "southern wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is the western-most one on the southern side of the table. the chair is velvet and has a curved back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is the left-most one on the northern side of the table. the chair has five legs and a red color.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "16",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is on the southern wall in the room. the whiteboard is white and rectangular.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "southern wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is the right-most one next to the table. the chair is red with five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is the northwestern-most one next to the table. the chair is red with five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "the window is on the eastern side of the room. the window is yellow and rectangular.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0689_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the chair is on the northeastern-most corner of the table. the chair has two arms and five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    }
+]

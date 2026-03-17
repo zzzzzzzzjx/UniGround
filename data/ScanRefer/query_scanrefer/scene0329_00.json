@@ -1,0 +1,1297 @@
+[
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "there is a brown leather couch. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "17",
+        "target_name": "picture",
+        "caption": "there is a black white picture. placed next to another picture on the wall.",
+        "parsed_query": {
+            "Target": "black white picture",
+            "Anchor": "picture"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "the chair is black and pushed into a desk. it is the chair furthest to the left. that is on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "the door is to the left of the blue bin. it is the last door on the left and to the right of eight pictures.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "blue bin",
+                "eight pictures"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "it is a white square cube office storage organizer. it is located between the two sets office desks.",
+        "parsed_query": {
+            "Target": "office storage organizer",
+            "Anchor": [
+                "office desks",
+                "office desks"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "27",
+        "target_name": "trash_can",
+        "caption": "this is a grey trashcan with a black trash bag inside it. it is located on the same wall as two brown doors. it is not directly next to a blue trash can.",
+        "parsed_query": {
+            "Target": "grey trashcan",
+            "Anchor": [
+                "two brown doors",
+                "blue trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "41",
+        "target_name": "door",
+        "caption": "this is a wooden door with a metal handle and a redish picture on it. it is next to a white board with pictures on it.",
+        "parsed_query": {
+            "Target": "wooden door",
+            "Anchor": "white board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "it is a brown leather couch with a bag on the left cushion. there is a fire extinguisher behind it and it is across from another identical couch.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "fire extinguisher",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "37",
+        "target_name": "chair",
+        "caption": "it is the second black office chair from the left. it is the office chair that is the closest to the two wooden doors.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "wooden doors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "this is a brown table with three computer monitors on it. it does not have a red chair near it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "computer monitors",
+                "red chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "the monitor is opposite the desk with two monitors, and is next to the white shelf/cabinet. there is a black, non-rolling chair at the same desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk with two monitors",
+                "white shelf/cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "43",
+        "target_name": "whiteboard",
+        "caption": "this large whiteboard has 9 groups of photos in its upper left corner. it has a door on either side of it.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "32",
+        "target_name": "monitor",
+        "caption": "it is the second white monitor from the left. it is located on the desk and it is facing away from the camera.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "the door is to the right of the blue and grey bin. it is in between two grey bins and to the right of the last door on the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "blue and grey bin",
+                "grey bins",
+                "last door on the left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the trash can is the left-most on between two doors on the northern wall. the trash can is blue and rectangular.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "it is the first white monitor from the left. it is located on the desk next to the white cube office storage organizer and it is facing the camera.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "white cube office storage organizer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "there is a brown couch. it is placed between the wall and the coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall",
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a brown table. it is placed in the left corner of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "32",
+        "target_name": "monitor",
+        "caption": "it is the first while monitor from the right. it is located on the desk and it is the closest to the wooden door.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "wooden door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "30",
+        "target_name": "monitor",
+        "caption": "there is a black monitor. it is placed on the table, on the left side of the shelf and in front of the chair.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "shelf",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is next to the leftmost center table. the chair is dark red and  has five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "leftmost center table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "37",
+        "target_name": "chair",
+        "caption": "the chair is the closest one to the two southern doors. the chair is black and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "southern doors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "the monitor is on top of the rightmost table in the center. the monitor is black and rectangular.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "the first wooden door on the left. the door with the knob on the left side. it is the door closest to the blue waste paper basket.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "blue waste paper basket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the trash is can is blue and  rectangular. the trash can near the door with the knob on the left.  the trashcan on the left of the gray trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "gray trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "17",
+        "target_name": "picture",
+        "caption": "the picture appears to be white and square. it is the picture closest to the left corner. it is the first picture in the first row.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the trash can is blue. it is to the left of the other trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "other trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "35",
+        "target_name": "computer_tower",
+        "caption": "a black computer tower. it is to the left of the desk chair.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "desk chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "the couch has a pillow on the left side of it. there is a fire extinguisher on the wall behind the couch.",
+        "parsed_query": {
+            "Target": "fire extinguisher",
+            "Anchor": [
+                "wall",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "a black and white picture. it is on the bottom row of eight and is second from the right.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "a wooden door. it is the one on the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "29",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is on the floor underneath the desk. there is a chair to the right and in front of the file cabinet.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "file cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "a  desk chair by a desk. it is red.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is located in between the couches. the coffee table is a different color than the two couches.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "couches"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table has a brown wooden top with black legs. it is the table to the right of the white shelf. it is the table located near the paintings.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "white shelf",
+                "paintings"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "it is a small, blue, rectangular trash can. it is closest to the door on the left. it is perpendicalur with the maroon chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "maroon chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "there is brown wooden table. placed on the side of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "25",
+        "target_name": "trash_can",
+        "caption": "there is a gray black bin. placed next to the door.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "29",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is below the leftmost table in the center of the room. the file cabinet is a black rectangular box.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "leftmost table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table is the rightmost one in the center of the room. the table is a orange brown square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a table with a brown top. it is in the corner under the pictures on the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "pictures"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "39",
+        "target_name": "door",
+        "caption": "there is a brown door. it is to the left of the door with the flyer taped on it.",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": "door with the flyer taped on it"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "25",
+        "target_name": "trash_can",
+        "caption": "there is a trash can on the floor. it has a black bag and is between the two doors and to the right of the recycle bin.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "floor",
+                "doors",
+                "recycle bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "8",
+        "target_name": "table",
+        "caption": "there is a brown table against the wall and under the pictures. the left side of the table is in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "pictures"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "39",
+        "target_name": "door",
+        "caption": "there is a brown door. it is to the left of the other door.",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": "other door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "the couch is to the left of the coffee table. the couch is orange with two seats.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is between two orange couches. the coffee table is gray with a square shape.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "orange couch",
+                "orange couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the trash can is left of the gray trash can between two doors. the trash can is blue and rectangular.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "gray trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "29",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is below the left-most table in the center of the room. the file cabinet is black and rectangular.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "left-most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "37",
+        "target_name": "chair",
+        "caption": "the chair is the southeastern-most one next to the right-most table in the center. the chair is gray and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "the couch is north of the coffee table. the couch is orange and has two seats.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "39",
+        "target_name": "door",
+        "caption": "the door is the left-most one in the northern wall. the door is orange brown and rectangular.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "northern wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "the picture is the second bottom right-most one. the picture is dark gray and square.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "43",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is next to two doors. the whiteboard is a long, white rectangle.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "doors"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "21",
+        "target_name": "picture",
+        "caption": "the picture is the bottom right-most one next to the door. the picture is square and gray.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "the door is the right-most one in the northern wall. the door is an orange rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "northern wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "the chair is south of the right-most table in the center of the room. the chair is black and has two armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "right-most table in the center of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "the door is the left-most one on the northern wall. the door is an orange rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "northern wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "39",
+        "target_name": "door",
+        "caption": "the door is the left-most one in the northern wall. the door is orange and rectangular.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "northern wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is the left-most one in the center of the room. the table is dark orange and has four legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "there is a brown couch with two cushions. it is to the left of the coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "37",
+        "target_name": "chair",
+        "caption": "there is a black office chair. it is at the corner of the desk to the right of the other chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "other chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "21",
+        "target_name": "picture",
+        "caption": "there is a picture on the wall. it is the bottom right-most picture closest to the door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "25",
+        "target_name": "trash_can",
+        "caption": "there is a trash can with a black bag. it is on the floor between the doors and to the right of the recycle bin.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "doors",
+                "recycle bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "30",
+        "target_name": "monitor",
+        "caption": "there is a black monitor on the desk. it is to the left of the shelves and facing the burgundy chair.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "shelves",
+                "burgundy chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "17",
+        "target_name": "picture",
+        "caption": "the picture is on the far wall. it is the highest left picture on the wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "the black chair is pushed into the desk. it is the chair furthest to the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "33",
+        "target_name": "monitor",
+        "caption": "the monitor is on the right table. it is in the back left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "right table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "27",
+        "target_name": "trash_can",
+        "caption": "the trash can is black. it is to the right of the far right door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "far right door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "43",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is on the white wall. it is to the right of the doors.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "white wall",
+                "doors"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "30",
+        "target_name": "monitor",
+        "caption": "the monitor is on the left hand desk. it is the front right monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "left hand desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "21",
+        "target_name": "picture",
+        "caption": "the picture is on the wall. it is the bottom right picture.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "the door is on the far wall and has a trash can on either side. it is the 2nd door from the left.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "trash can",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "2",
+        "target_name": "couch",
+        "caption": "the couch is facing another couch with s table between them. its the leather couch that is the furthest couch to the left.",
+        "parsed_query": {
+            "Target": "leather couch",
+            "Anchor": [
+                "couch",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "17",
+        "target_name": "picture",
+        "caption": "the picture is on the far wall above the table. it is the furthest left picture in the top row.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "far wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table is brown with work station on it. it is the furthest left table .",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "work station"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "31",
+        "target_name": "monitor",
+        "caption": "the monitor is on the left desk top. it is the monitor that fartherest from the red office chair. it is the monitor facing away from the red office chair.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "left desk",
+                "red office chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "the shelf is white in color and the tallest furnishing. the shelf is in the middle of the two desks and has square cut-outs.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "35",
+        "target_name": "computer_tower",
+        "caption": "the computer tower is located on the floor to the right of the tall white shelving unit. the computer tower is to the left of the chair located at the right hand desk.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "tall white shelving unit",
+                "chair",
+                "right hand desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "43",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is on the wall. the whiteboard has green and black writing, a yellow backed eraser and 9 pictures on the left side.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "this is a shelf with many partition. the shelf is attached to wall on one side.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "29",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is located on the floor to the left side of the red chair. the file cabinet is underneath the desk located to the left of the white shelving unit.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "red chair",
+                "desk",
+                "white shelving unit"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "41",
+        "target_name": "door",
+        "caption": "this is a wooden door. the door is having some picture pasted on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "30",
+        "target_name": "monitor",
+        "caption": "this is a monitor in black color. the monitor is next to the wall and at the back of maroon chair.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "wall",
+                "maroon chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "19",
+        "target_name": "picture",
+        "caption": "the picture is the second northeastern-most one that is next to the door. the picture is a gray square.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "21",
+        "target_name": "picture",
+        "caption": "the picture is the southeastern-most one that is next to the door. the picture is a gray square.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "33",
+        "target_name": "monitor",
+        "caption": "the monitor is on the table on the right. it is the back left monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "43",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is on the left hand wall. it is large.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "left hand wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "35",
+        "target_name": "computer_tower",
+        "caption": "the computer tower is on the floor. it is below the right-hand desk.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "floor",
+                "right-hand desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "41",
+        "target_name": "door",
+        "caption": "the door is to the left of the whiteboard. there is a similar one on the left of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "the shelf is in between the two desks on the left. it is white.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "the chair is south of the right-most table in the center of the room. the chair is black and has five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "right-most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is between orange couches. the coffee table is gray square.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "orange couches"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "39",
+        "target_name": "door",
+        "caption": "the door is the leftmost one on the northern wall. the door is an orange rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "northern wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "this is a white shelf. it is between tables.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "tables"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this is a black picture. it is second from the right on the bottom row.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a red chair. it is in front of a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "37",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is facing a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "this is a square coffee table. it is in between couches.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "couches"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "27",
+        "target_name": "trash_can",
+        "caption": "the trash can is right of the right-most door on the northern wall. the trash can is a trapezoidal prism and gray.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "right-most door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "19",
+        "target_name": "picture",
+        "caption": "the picture is the second northeastern-most one out of the pictures next to the door. the picture is a gray square.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table is the right-most one in the middle of the room. the table is orange brown and has four legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "7",
+        "target_name": "table",
+        "caption": "the table has a red chair in front of it that is facing away from it. the table is to the left of the white shelving that is between the two desks/tables when facing the chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red chair",
+                "white shelving"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "the couch is brown with 2 cushions in the seat and wide armrests. there is a black bag laying on the left side when facing the couch. there is a fire extinguisher behind the couch.",
+        "parsed_query": {
+            "Target": "black bag",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "41",
+        "target_name": "door",
+        "caption": "the door is the one that is on the right when facing the two doors on the same wall. the door has a poster/picture attached to it and there is a whiteboard on the wall to the right of the door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "door",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "the door is to the right of the blue container.  the door has pictures on the wall to the right of it along with a white board leaning against the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "blue container"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0329_00",
+        "target_id": "34",
+        "target_name": "chair",
+        "caption": "the chair is located at the desk closest to the doors and to the right of the white storage shelf between the 2 desks. the chair is pushed farther under the table/desk and is sitting straight. it is the black chair fartherest from the doors at that desk/table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "desk",
+                "doors",
+                "white storage shelf"
+            ]
+        },
+        "unique": false
+    }
+]

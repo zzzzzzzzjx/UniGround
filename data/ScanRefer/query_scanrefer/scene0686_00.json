@@ -1,0 +1,495 @@
+[
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "12",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispenser is the left most one that is left of the door. the paper towel dispenser is gray and square.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "12",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispenser is right of the sink. the paper towel dispenser is gray and square.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "23",
+        "target_name": "toilet",
+        "caption": "the toilet is the right-most one in the room. the toilet is white and ovular.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "24",
+        "target_name": "toilet",
+        "caption": "the toilet is the left-most one. the toilet is white and ovular.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "the bathroom stall door is the right-most one in the room. the bathroom staff door is brown and rectangular.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "there is a rectangular bathroom stall door. it is the second from the left.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "24",
+        "target_name": "toilet",
+        "caption": "there is an oval white toilet. it is the leftmost in a row.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "13",
+        "target_name": "soap_dispenser",
+        "caption": "there is a rectangular soap dispenser. it is to the left of a sink.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "12",
+        "target_name": "paper_towel_dispenser",
+        "caption": "there is a rectangular paper towel dispenser. it is left of a metal trash bin.",
+        "parsed_query": {
+            "Target": "rectangular paper towel dispenser",
+            "Anchor": "metal trash bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "24",
+        "target_name": "toilet",
+        "caption": "it is the toilet on the left side of the bathroom.  it is the one with the lid down.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "25",
+        "target_name": "trash_bin",
+        "caption": "there is a trash bin hanging by the wall. it is in silver color.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "13",
+        "target_name": "soap_dispenser",
+        "caption": "this is the soap dispenser by the wall. it is near the bathroom sink.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "wall",
+                "bathroom sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "23",
+        "target_name": "toilet",
+        "caption": "this is the toilet on the right. it is the one with the lid up.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "25",
+        "target_name": "trash_bin",
+        "caption": "this is a silver trash bin by the tiled wall. it is in the middle of the room.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "25",
+        "target_name": "trash_bin",
+        "caption": "the silver trash bin has a black bag in it. it is hanging on the wall next to the towel dispenser.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": [
+                "towel dispenser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "24",
+        "target_name": "toilet",
+        "caption": "the white toilet is in the left stall. the toilet seat is down.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "23",
+        "target_name": "toilet",
+        "caption": "the toilet is in the right stall. the toilet seat lid is up.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "0",
+        "target_name": "bathroom_stall_door",
+        "caption": "this is a white bathroom stall door. it is in front of the toilet.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "0",
+        "target_name": "bathroom_stall_door",
+        "caption": "this is a white bathroom stall door. it is to the left of another bathroom stall.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "bathroom stall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "13",
+        "target_name": "soap_dispenser",
+        "caption": "this is a white soap dispenser. it is to the left of the sink.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "24",
+        "target_name": "toilet",
+        "caption": "this is a white toilet. it is to the left of another toilet.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "23",
+        "target_name": "toilet",
+        "caption": "to white toilet is in the stall to right. the door is open and the lid is up.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "11",
+        "target_name": "sink",
+        "caption": "this is a white sink. it is to the right of the soap dispenser.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "soap dispenser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "13",
+        "target_name": "soap_dispenser",
+        "caption": "the soap dispenser is mounted on the wall. it is next to sink on the left.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "4",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "the toilet paper dispenser is white. it is on the right of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "23",
+        "target_name": "toilet",
+        "caption": "the toilet is white. it is in the right stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "4",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "the toilet paper dispenser is to the right of the toilet. it is in the right stall.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "4",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "the toilet paper dispenser is to the right of the toilet. it is to the left of the sink.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "4",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "the toilet paper dispenser is to the left of the sink. it is above the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "sink",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "0",
+        "target_name": "bathroom_stall_door",
+        "caption": "item is an ecrue colored bathroom stall door.  it is located to the left and forefront of the toilet.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "item is an ecru colored bathroom stall door.  it is located to the left of the toilet with the raised seat.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "25",
+        "target_name": "trash_bin",
+        "caption": "item is a silver trash can with a black liner bag.  it is on the wall to the right and below the paper towel dispenser.",
+        "parsed_query": {
+            "Target": "silver trash can",
+            "Anchor": [
+                "paper towel dispenser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "item is an ecru colored bathroom stall door.  it is located to the right of the toilet with the seat down.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "11",
+        "target_name": "sink",
+        "caption": "item is an ivory colored sink.  it is located in an alcove to the right of the raised toilet seat.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet seat"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "11",
+        "target_name": "sink",
+        "caption": "the sink is to the right of the room. it is to the left of the trash bin.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "room",
+                "trash bin"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "11",
+        "target_name": "sink",
+        "caption": "the sink is to the right of the toilets. it's silver.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "25",
+        "target_name": "trash_bin",
+        "caption": "the trash bin is silver. it is on the wall to the right of the sink.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "0",
+        "target_name": "bathroom_stall_door",
+        "caption": "the bathroom stall door is tan. it is the door on the furthest left stall.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "12",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispenser is affixed to the wall. it is to the right of the sink.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "the bathroom stall door is open. it is the door on the rightmost stall.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "0",
+        "target_name": "bathroom_stall_door",
+        "caption": "the bathroom stall door is open. it is the leftmost stall door.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "12",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispenser is attached to the wall. it is to the right of the sink.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0686_00",
+        "target_id": "13",
+        "target_name": "soap_dispenser",
+        "caption": "the soap dispenser is attached to the wall. it is to the left of the sink.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,388 @@
+[
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "4",
+        "target_name": "trash_can",
+        "caption": "this is a white bucket with a white lid.  it is in the corner adjacent to the copier.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "8",
+        "target_name": "copier",
+        "caption": "this is a white copy machine.  it is located in the corner to the left of the wooden counter.",
+        "parsed_query": {
+            "Target": "copy machine",
+            "Anchor": "wooden counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "4",
+        "target_name": "trash_can",
+        "caption": "this is a white plastic bucket with a white lid. it is the second bucket to the right of the chair.  it is located in the corner adjacent to the copy machine.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": [
+                "chair",
+                "copy machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "14",
+        "target_name": "cabinets",
+        "caption": "these cabinets are installed under black counter top. a paper cutter is present above these cabinets.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "13",
+        "target_name": "paper_cutter",
+        "caption": "this is a green color paper cutter. it is kept above the cabinets.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is brown chair kept besides another similar chair. a copier machine is present on the right side of this chair.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "chair",
+                "copier machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this chair is along with another chair kept close with the wall. two chairs are in front of the cabinets.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "15",
+        "target_name": "file_cabinet",
+        "caption": "this is a white file cabinet. on the right two chairs are present.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "4",
+        "target_name": "trash_can",
+        "caption": "there is a cylindrical white trash can. it is between a chair and a cabinet at the side of the room.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "chair",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "8",
+        "target_name": "copier",
+        "caption": "there is a rectangular gray copier. it is at the corner of the room and next to a cabinet.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "16",
+        "target_name": "counter",
+        "caption": "there is a rectangular long gray counter. it is at the side of the room and has a paper slicer on top of it.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "paper slicer"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "13",
+        "target_name": "paper_cutter",
+        "caption": "there is a rectangular green paper cutter. it on top of a long counter at the side of the room.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "long counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "16",
+        "target_name": "counter",
+        "caption": "there is a rectangular gray counter. it is at the side of the room and has a paper cutter on it.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "paper cutter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "8",
+        "target_name": "copier",
+        "caption": "there is a large grey copier. the copier is against the green wall near a cylindrical trash can.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": [
+                "green wall",
+                "cylindrical trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a brown chair. the chair is between a similar chair and a stack of boxes.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "similar chair",
+                "stack of boxes"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "4",
+        "target_name": "trash_can",
+        "caption": "there is a grey cylinder trash can. the trash can is underneath a laminator.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "laminator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a brown chair. the chair is located between another chair a stack of boxes and papers.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "chair",
+                "stack of boxes",
+                "papers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "16",
+        "target_name": "counter",
+        "caption": "there is a long counter with a black top. there is a green cutting board on top of the counter.",
+        "parsed_query": {
+            "Target": "cutting board",
+            "Anchor": "counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "16",
+        "target_name": "counter",
+        "caption": "the counter is on the right side of the room. the counter is a black rectangle.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "15",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is on the opposite side at the counter top. the file cabinet is a white box.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "counter top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "4",
+        "target_name": "trash_can",
+        "caption": "the trash can is southwest of the copier. the trash can is a white cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "16",
+        "target_name": "counter",
+        "caption": "the counter is on the right side of the room. the counter is a black rectangular prism.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "8",
+        "target_name": "copier",
+        "caption": "the copier is on the north side of the room. the copier is a white, bulky box.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "15",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is between the doorway and the cardboard boxes. the file cabinet is a white box.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "doorway",
+                "cardboard boxes"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "15",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is left of the stack of cardboard boxes. the file cabinet is a white box.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "stack of cardboard boxes"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is between a stack of cardboard boxes and another chair. the chair is a wooden one.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "stack of cardboard boxes",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "13",
+        "target_name": "paper_cutter",
+        "caption": "the paper cutter is above the counter-top. the paper cutter is a green square.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "counter-top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "14",
+        "target_name": "cabinets",
+        "caption": "the cabinets are on the right side of the room. the cabinets are long rectangular boxes.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "14",
+        "target_name": "cabinets",
+        "caption": "the cabinets are beneath the green paper cutter. the cabinets are brown and rectangular.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "green paper cutter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is on the opposite side from the green paper cutter and has a chair to its right. the chair is gold and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "green paper cutter",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is between a gold chair and a green cylinder. the chair has four legs and a curved seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "gold chair",
+                "green cylinder"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0278_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is to the left of a green cylinder. the chair has a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "green cylinder"
+        },
+        "unique": false
+    }
+]

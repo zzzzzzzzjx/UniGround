@@ -1,0 +1,107 @@
+[
+    {
+        "scan_id": "scene0304_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "the cabinet is in the middle of the room. the cabinet is a white box with a blue rectangular top.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0304_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "the cabinet is in the middle of the room. the cabinet is a white box with a blue top.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0304_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "the cabinet is in the middle of the room. the cabinet is a white cube with a blue rectangular top.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0304_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "the cabinet is in the middle of the room. the cabinet is a white prism with a blue top.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0304_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "the trash can is sitting on the wall and is open. it is a large trash can and is across from the counter that has lockers.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wall",
+                "counter that has lockers"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0304_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "the trash can is sitting on the far wall. it is open and is across from the counter with a backpack on it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0304_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "the trash can is large and is open. it is sitting on the far wall across from the counter with a backpack.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "counter with a backpack"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0304_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "the trash can is sitting against the far wall. it is right across from the counter with the red backpack.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "far wall",
+                "counter with the red backpack"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0304_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "the cabinet sits in the center of the room. it has a blue top with a red back pack on top of it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    }
+]

@@ -1,0 +1,778 @@
+[
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a brown wooden cotton chair. between the window and bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "3",
+        "target_name": "curtain",
+        "caption": "a zebra design curtain. covering the window.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "a round glass table. in front of the chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "a white gray pillow. on the left of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "a white gray sheet. covering the double bed.",
+        "parsed_query": {
+            "Target": "sheet",
+            "Anchor": "double bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "it is a white table. the white table sits at the left of the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "it is a white pillow. the white pillow sits at the top right of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "it is a brown chair. the brown chair sits next to the  top right side of the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "it is a white bed. the white bed sits next to the brown chair.",
+        "parsed_query": {
+            "Target": "white bed",
+            "Anchor": "brown chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "3",
+        "target_name": "curtain",
+        "caption": "it is a brown curtain. the brown curtain is hanging on the right side of the curtain rod.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "curtain rod"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "11",
+        "target_name": "night_lamp",
+        "caption": "the lamp is located on top of the nightstand. the lamp is also to the left of the bed.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "nightstand",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "the table is in front of the glass door. the table is also directly in front of the zebra print curtains.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "glass door",
+                "zebra print curtains"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "9",
+        "target_name": "backpack",
+        "caption": "the black backpack is directly in front of the nightstand. the backpack is also directly to the left of the bed.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "nightstand",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "20",
+        "target_name": "trash_can",
+        "caption": "the tras can is directly to the left of the wooden dresser. the trash can is also directly to the right of the shelves and in front of the rear wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wooden dresser",
+                "shelves",
+                "rear wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "2",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is directly to the right of the zebra curtains. the bookshelf is also located along the rear wall of the room.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "zebra curtains"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "the dresser is located along the rear wall of the room. the dresser is also wooden and located directly beneath the mirror.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "mirror"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "the wooden dresser is located along the rear wall of the room. the dresser is also located directly beneath the mirror.",
+        "parsed_query": {
+            "Target": "wooden dresser",
+            "Anchor": "mirror"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "2",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is located along the far wall. the bookshelf is also located directly to the right of the zebra curtains.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "far wall",
+                "zebra curtains"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "the dresser is located along the rear wall of the room. the dresser is directly beneath the mirror.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "rear wall of the room",
+                "mirror"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "the pillow is located in front of the headboard. the pillow is also located directly on top of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "headboard",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "the pillow is at the head of the bed and is on the right hand side.  this blue checkered and there is a chair to the right of it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "the dresser is against the wall and has many things on top of it including a surge protector.  there is a bed directly in front of it.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "the pillow is at the top of the bed at the head end.  there is another pillow directly to the left of it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "2",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is in the corner of the room, the right side and back touch walls.  there is a window to the left of it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "8",
+        "target_name": "pillow",
+        "caption": "the pillow is located on top of the bed up against the far wall of the room. the pillow is also in front of the wooden headboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "far wall",
+                "wooden headboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is directly to the right of the bed along the back wall. the chair is also directly to the left of the window with the zebra curtains.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "window with zebra curtains"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "11",
+        "target_name": "night_lamp",
+        "caption": "the lamp is sitting on top of the nightstand. the lamp is to the left of the bed.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "nightstand",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "the pillow is located on top of the bed directly to the right of the lamp. the pillow is also the left most pillow on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "the pillow is located directly to the right of the lamp on the bed. the pillow is the left most pillow on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "lamp",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "9",
+        "target_name": "backpack",
+        "caption": "it is a white piece of clothing.  it is on the floor in front of the night stand.",
+        "parsed_query": {
+            "Target": "white piece of clothing",
+            "Anchor": "night stand"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "2",
+        "target_name": "bookshelf",
+        "caption": "it is a brown wooden bookcase.  it is against the wall next to the light switch.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": "light switch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "20",
+        "target_name": "trash_can",
+        "caption": "it is a small waste basket with a plastic bag inserted.  it is between the night stand and the bookcase.",
+        "parsed_query": {
+            "Target": "waste basket",
+            "Anchor": [
+                "night stand",
+                "bookcase"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "3",
+        "target_name": "curtain",
+        "caption": "they are zebra patterned curtains.  they are hung on the window.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "it is a brown nightstand.  it is between the bed and the wall.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "it is a bed with white sheets and two pillows. it's head board is in form of a shelf .",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "it is a window partially covered by window curtains. it faces the side of the bed present in the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window curtains",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "it is window covered partially by a  window curtain with  zebra like pattern. it faces the side of the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window curtain with zebra like pattern",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "its a nightstand placed on the left side of the bed. it has a bedside lamp placed on it.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "it is a bed covered with a bed sheet. it has two pillows on it with a tablet and a cloth.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "3",
+        "target_name": "curtain",
+        "caption": "the curtains are on the windows. they are to the left of the dresser.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "windows",
+                "dresser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "11",
+        "target_name": "night_lamp",
+        "caption": "the night lamp is red. it is to the left of the bed.",
+        "parsed_query": {
+            "Target": "night lamp",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "the nightstand is small and brown. it is to the left of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "the window is behind the curtains. it is to the right of the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "curtains",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "9",
+        "target_name": "backpack",
+        "caption": "the backpack is black and on the floor. it is to the left of the bed.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "floor",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "20",
+        "target_name": "trash_can",
+        "caption": "this trash can is in the middle. it is brown.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "this nightstand is on the left. it is brown.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "11",
+        "target_name": "night_lamp",
+        "caption": "this night lamp is on the table. it is brown.",
+        "parsed_query": {
+            "Target": "night lamp",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "this pillow is on the bed. it is on the left side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "2",
+        "target_name": "bookshelf",
+        "caption": "this bookshelf is on the left. it is facing the viewer.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this chair is facing down and right. it is against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "3",
+        "target_name": "curtain",
+        "caption": "this curtain is on the left. it is open.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "9",
+        "target_name": "backpack",
+        "caption": "this backpack is on the floor. it is black.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this bed is white. its in the middle.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "there is a cylindrical table. it is next to a curtain.",
+        "parsed_query": {
+            "Target": "cylindrical table",
+            "Anchor": "curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "20",
+        "target_name": "trash_can",
+        "caption": "there is a gray trash can. it is next to a wooden dresser.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "wooden dresser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "there is a square brown nightstand. it is left of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "9",
+        "target_name": "backpack",
+        "caption": "there is a black backpack. it is left of the bed in front of the nightstand.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "bed",
+                "nightstand"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "there is a round table. it is in front of the window.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "this dresser is made out of wood and is rectangular in shape. it has 8 drawers. it is located at the foot of the bed in the room, and would be to the right of someone entering through the brown door.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "brown door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "there is a set of two pillows on the bed. this particular pillow is on the left, next to the night stand with the red lamp. there is a striped pillow case over it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "night stand with the red lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this chair is to the right of the bed. it is made of wood with a fabric seat cushion. there is also a black bag on the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "11",
+        "target_name": "night_lamp",
+        "caption": "this lamp is on top of the bedside table to the left of the bed. the base is red with gold accents. there is a red lamp shade.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bedside table",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0580_00",
+        "target_id": "20",
+        "target_name": "trash_can",
+        "caption": "there is a small trash can to the left of the wooden dresser. it is also in front of the bookcase.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wooden dresser",
+                "bookcase"
+            ]
+        },
+        "unique": true
+    }
+]

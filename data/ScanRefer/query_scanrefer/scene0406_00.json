@@ -1,0 +1,854 @@
+[
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "there is one folded white bath towel sitting on top of the toilet tank lid.  the toilet is next to the tub.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet tank lid"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "there is a sliding cream colored door that leads from the bathroom.  the door is open slightly.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "there is a modern type colorful picture hanging in the bathroom.  it hangs above the toilet.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "there is a white porcelean sink in the bathroom.  it is next to some personal care products.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "personal care products"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "29",
+        "target_name": "towel",
+        "caption": "there is a white bath towel hanging on the side of the tub.  it is next to the shower curtain near the tub faucet.",
+        "parsed_query": {
+            "Target": "bath towel",
+            "Anchor": [
+                "tub",
+                "shower curtain",
+                "tub faucet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "10",
+        "target_name": "towel",
+        "caption": "there is a towel on the left side of the shelf. it is on the second shelf from the bottom under the right side of the countertop.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shelf",
+                "countertop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "16",
+        "target_name": "towel",
+        "caption": "there are folded towels on the bottom shelf. they are under the counter to the left of the wastebasket.",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "bottom shelf",
+                "counter",
+                "wastebasket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "this is a multicolored picture. it is above the toilet.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "there is a white towel. it is on top of the toilet tank.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet tank"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "3",
+        "target_name": "toilet",
+        "caption": "this is a white toilet. it is to the right of the toilet paper.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "toilet paper"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "this is a silver trash can. it is below the toilet paper.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet paper"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "10",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is on the top shelf.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "top shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "21",
+        "target_name": "towel",
+        "caption": "there is a white towel. it is hanging on the edge of the bathtub to the left of the shower curtain.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "bathtub",
+                "shower curtain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "5",
+        "target_name": "bathtub",
+        "caption": "there is a white bathtub. it is to the right of the toilet with a shower curtain hanging in front of it.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": [
+                "toilet",
+                "shower curtain"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "3",
+        "target_name": "toilet",
+        "caption": "this is a white toilet. it is to the left of the bathtub.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "4",
+        "target_name": "counter",
+        "caption": "there is a black countertop. it has a white sink in the middle of it.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "black countertop"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "21",
+        "target_name": "towel",
+        "caption": "there is a towel hanging in the edge of the bathtub. it is to the left of the shower curtain.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "bathtub",
+                "shower curtain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "16",
+        "target_name": "towel",
+        "caption": "there are white towels on the shelf. they are on the bottom shelf below the counter.",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": [
+                "shelf",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "there is a picture with a black frame on the wall. it is to the left of the shower.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "shower"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "the picture is in a black frame. it is above the toilet.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "3",
+        "target_name": "toilet",
+        "caption": "the toilet is to the left of the bathtub. there is a trash can to the left of it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "10",
+        "target_name": "towel",
+        "caption": "the towel is in the top shelf under the sink. it is white and next to a black towel.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "top shelf",
+                "sink",
+                "black towel"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "29",
+        "target_name": "towel",
+        "caption": "the towel is hanging above the bathtub. it is white.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "bathtub"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "0",
+        "target_name": "shower_curtain",
+        "caption": "this is a curtain in the middle. it is gold and ridged.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "19",
+        "target_name": "toilet_paper",
+        "caption": "this is a toilet roll on a holder. it is to the left of a toilet.",
+        "parsed_query": {
+            "Target": "toilet roll",
+            "Anchor": [
+                "holder",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "3",
+        "target_name": "toilet",
+        "caption": "this is a toilet that is closed. it is porcelain.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "3",
+        "target_name": "toilet",
+        "caption": "this is a toilet that is closed. it is tan.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "this is a sink that is empty. it has a faucet and basin.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "29",
+        "target_name": "towel",
+        "caption": "there is a large white towel. it is hanging in the shower next to the shower curtain.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shower",
+                "shower curtain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "5",
+        "target_name": "bathtub",
+        "caption": "there is a large white bathtub. it has a towel hanging on it and a faucet above it on the wall.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": [
+                "towel",
+                "faucet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "21",
+        "target_name": "towel",
+        "caption": "there is a towel hanging on the edge of the bathtub. it is on the left side of the shower curtain.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "bathtub",
+                "shower curtain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "0",
+        "target_name": "shower_curtain",
+        "caption": "there is a long brown shower curtain. it is hanging in front of the bathtub.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "there is a gray trash can. it is on the floor to the left of the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "this is a white door in a bathroom.  it is across from the toilet and to the right of the tub.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "toilet",
+                "tub"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "this is a brown trash can in a bathroom.  it is on the floor between the toilet and bathtub.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "toilet",
+                "bathtub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "0",
+        "target_name": "shower_curtain",
+        "caption": "this is a brown shower curtain. it is in the bathroom over the tub and to the right of the toilet.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "tub",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "19",
+        "target_name": "toilet_paper",
+        "caption": "this is white toilet paper in a bathroom.  it is above the trash can and next to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "trash can",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "8",
+        "target_name": "picture",
+        "caption": "this is a black portrait. it has colors in the middle.",
+        "parsed_query": {
+            "Target": "portrait",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "this is a brown trash bin. it is on the floor.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "floor"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "0",
+        "target_name": "shower_curtain",
+        "caption": "this is a gold curtain. it has ridges.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "this is a white towel in the bathroom.  it is sitting on the back of the toilet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "29",
+        "target_name": "towel",
+        "caption": "this is a white curtain surface. it has ridges on it.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "0",
+        "target_name": "shower_curtain",
+        "caption": "this is a curtain on the middle of the bath tub. it is facing the viewer.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bath tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "16",
+        "target_name": "towel",
+        "caption": "this is a tissue holder on the right. it is below another.",
+        "parsed_query": {
+            "Target": "tissue holder",
+            "Anchor": "tissue holder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "10",
+        "target_name": "towel",
+        "caption": "this is a tissue holder on the right. it is above another.",
+        "parsed_query": {
+            "Target": "tissue holder",
+            "Anchor": "tissue holder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "this is a towel object on the toilet. it is white.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "9",
+        "target_name": "towel",
+        "caption": "this is a black object in the corner. it is by a towel holder.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": "towel holder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "this is a white door. it is to the right of the bathtub.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathtub"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "16",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is below another towel.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "towel"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "this is a white sink. it is below a mirror.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "mirror"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "5",
+        "target_name": "bathtub",
+        "caption": "this is a white bathtub. it is behind a shower curtain.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "shower curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "9",
+        "target_name": "towel",
+        "caption": "this is a black towel. it is to the right of a white towel.",
+        "parsed_query": {
+            "Target": "black towel",
+            "Anchor": "white towel"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "21",
+        "target_name": "towel",
+        "caption": "a white towel. it is hanging on the bathtub.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "bathtub"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "19",
+        "target_name": "toilet_paper",
+        "caption": "white toilet paper. it is above a bin.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "bin"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "5",
+        "target_name": "bathtub",
+        "caption": "a white bathtub. it is behind a shower curtain.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "shower curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "a white sink. it is in a vanity.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "vanity"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "4",
+        "target_name": "counter",
+        "caption": "a black counter. it is below a sink.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "9",
+        "target_name": "towel",
+        "caption": "this is a black towel. it is above a white towel.",
+        "parsed_query": {
+            "Target": "black towel",
+            "Anchor": "white towel"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "4",
+        "target_name": "counter",
+        "caption": "this is a black counter. it is above towels.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "towels"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "19",
+        "target_name": "toilet_paper",
+        "caption": "this is white toilet paper. it is above a trash can.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "19",
+        "target_name": "toilet_paper",
+        "caption": "this is white toilet paper. it is to the left of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is on the back of the toilet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "this is an inlay vanity sink. it is in the bathroom and has a metal faucet.",
+        "parsed_query": {
+            "Target": "inlay vanity sink",
+            "Anchor": "bathroom"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "10",
+        "target_name": "towel",
+        "caption": "this is a folded white towel. it is to the left of the toilet in the top left cabinet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "toilet",
+                "top left cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "this is a wooden entrance door to the bathroom. it is white and is also a sliding door.",
+        "parsed_query": {
+            "Target": "entrance door",
+            "Anchor": "bathroom"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "5",
+        "target_name": "bathtub",
+        "caption": "this is a plastic bathtub in the bathroom. it has a draped shower curtain as well.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "this is a small trash bin next to the toilet. it has a metal finish.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "29",
+        "target_name": "towel",
+        "caption": "this is a white hanging towel in the bathroom. it is hanging next to the shower curtain on the dowel rod.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shower curtain",
+                "dowel rod"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "4",
+        "target_name": "counter",
+        "caption": "this is a vanity counter in the bathroom. it has a white porcelain inlay sink as well.",
+        "parsed_query": {
+            "Target": "vanity counter",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "16",
+        "target_name": "towel",
+        "caption": "these are a stack of folded towels. it is to the left of the toilet in the bottom cabinet.",
+        "parsed_query": {
+            "Target": "stack of folded towels",
+            "Anchor": [
+                "toilet",
+                "bottom cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "4",
+        "target_name": "counter",
+        "caption": "this is the marble counter top next to the inlay sink. it appears to be black in color.",
+        "parsed_query": {
+            "Target": "marble counter top",
+            "Anchor": "inlay sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0406_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "this is the sliding white door to the bathroom. it is the entrance door and to the left of the sink.",
+        "parsed_query": {
+            "Target": "sliding white door",
+            "Anchor": "sink"
+        },
+        "unique": false
+    }
+]

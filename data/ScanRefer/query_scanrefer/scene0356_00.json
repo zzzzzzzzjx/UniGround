@@ -1,0 +1,795 @@
+[
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "13",
+        "target_name": "radiator",
+        "caption": "a small storage compartment at the end of the bed. there is a bed in front of it along with one window.",
+        "parsed_query": {
+            "Target": "storage compartment",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "9",
+        "target_name": "shelf",
+        "caption": "a small wooden cabinet. there is three small bins near it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "bins"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "15",
+        "target_name": "dresser",
+        "caption": "a small document organizer with shelves. there is a door entry near it.",
+        "parsed_query": {
+            "Target": "document organizer",
+            "Anchor": "door entry"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "17",
+        "target_name": "trash_bin",
+        "caption": "there is a white plastic basket. placed between another same baskets.",
+        "parsed_query": {
+            "Target": "white plastic basket",
+            "Anchor": [
+                "basket",
+                "basket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "18",
+        "target_name": "compost_bin",
+        "caption": "there is a green basket. placed  on the right to another same baskets.",
+        "parsed_query": {
+            "Target": "green basket",
+            "Anchor": "baskets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "15",
+        "target_name": "dresser",
+        "caption": "there is a light brown wooden cabinet. placed on the corner of the room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "12",
+        "target_name": "door",
+        "caption": "there is a brown wooden door. placed on the left to the beige cabinet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "beige cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "a black work chair. there is a bed behind it in a small bedroom.",
+        "parsed_query": {
+            "Target": "work chair",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "0",
+        "target_name": "recycling_bin",
+        "caption": "a small blue cabinet. there is a chair and bed near it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "chair",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "0",
+        "target_name": "recycling_bin",
+        "caption": "the object is a blue colored storage tote. it is directly across from the bed sitting on the desk and it is the left tote from the wall the one that's the farthest away.",
+        "parsed_query": {
+            "Target": "storage tote",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "8",
+        "target_name": "window",
+        "caption": "it is a window with a brown frame. is directly above the bed on the left side.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "it is a black adjustable desk chair. it is pushed up under the desk table that is against the wall from the left side of the bed.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": [
+                "desk table",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "15",
+        "target_name": "dresser",
+        "caption": "it is a small wooden storage dresser. it is located in the corner of the room below the telephone.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "telephone"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "0",
+        "target_name": "recycling_bin",
+        "caption": "the object is a blue tote connected to two other color totes. it is sitting on the desk table that is in front of the window across from the bed.",
+        "parsed_query": {
+            "Target": "blue tote",
+            "Anchor": [
+                "desk table",
+                "window",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there is a black office chair. it is between a table and a bed.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "12",
+        "target_name": "door",
+        "caption": "there is a rectangular brownd door. it is next to a beige cabinet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "beige cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "15",
+        "target_name": "dresser",
+        "caption": "there is a rectangular beige dresser. it is next to the door.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "1",
+        "target_name": "desk",
+        "caption": "there is a rectangular brown desk. it is next to a dark office chair and has boxes on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "office chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "1",
+        "target_name": "desk",
+        "caption": "there is a rectangular brown desk. it is has boxes on top of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "18",
+        "target_name": "compost_bin",
+        "caption": "the compost bin is green with a white handle. it sits on a table and is to the right of the trash can.",
+        "parsed_query": {
+            "Target": "compost bin",
+            "Anchor": [
+                "table",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "13",
+        "target_name": "radiator",
+        "caption": "the radiator is white and tall. it sits on the wall across from the end of the bed.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is black and is pushed into the desk. it is located pushed into the desk across from the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "8",
+        "target_name": "window",
+        "caption": "the window has 4 pains and has a wood frame. it is on the far wall above the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "1",
+        "target_name": "desk",
+        "caption": "the desk is made of wood and has bins on top of it. it is in the corner to the left of the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "10",
+        "target_name": "bed",
+        "caption": "the bed is in the back left corner of the room. it is to the right of the window on the left wall.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "0",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is on the desk. it is the one closest to the front.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "9",
+        "target_name": "shelf",
+        "caption": "the shelf is on the desk. it is behind the recycling bin.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "recycling bin"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "a door sits partially open to the right of a wooden cabinet. to the doors left is another door with a window.",
+        "parsed_query": {
+            "Target": "partially open door",
+            "Anchor": [
+                "wooden cabinet",
+                "door with a window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "10",
+        "target_name": "bed",
+        "caption": "a bed sits on the floor opposite a wooden desk. at the bed's head is a window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "wooden desk",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "12",
+        "target_name": "door",
+        "caption": "a wooden door with a window sits to the left of a wooden cabinet with three drawers. to the doors left is another door that is ever so slightly open.",
+        "parsed_query": {
+            "Target": "wooden door with a window",
+            "Anchor": [
+                "wooden cabinet with three drawers",
+                "slightly open door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "a door sits partially open but not so open you can see beyond it. it's between a door with a window and a bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "door with a window",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "1",
+        "target_name": "desk",
+        "caption": "a desk is in the corner with a chair in front of it. the desk has three recycling bins on it.",
+        "parsed_query": {
+            "Target": "recycling bins",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "18",
+        "target_name": "compost_bin",
+        "caption": "the compost bin is on the desk.  it is the bin furthest in the back closest to the window.",
+        "parsed_query": {
+            "Target": "compost bin",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "12",
+        "target_name": "door",
+        "caption": "the door is in the back middle of the room. it is brown.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "there is a rectangular brown door. it is next to a cabinet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "10",
+        "target_name": "bed",
+        "caption": "there is a rectangular dark bed. it is next to a cabinet and against the wall.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "cabinet",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "9",
+        "target_name": "shelf",
+        "caption": "there is a rectangular brown shelf. it is on a table next to boxes.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "table",
+                "boxes"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "there is a rectangular door. it is next to a cabinet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there is a dark office chair. it is at a table with a shelf.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "shelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "0",
+        "target_name": "recycling_bin",
+        "caption": "it is blue and on the desk. it has a handle.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "8",
+        "target_name": "window",
+        "caption": "it is a window in the corner. it has a wood frame.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "it is to the left of the main door. it is white and has a dark handle on the left side.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "main door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "it is light colored and opens into a closet. it is to the left of the main door.",
+        "parsed_query": {
+            "Target": "closet door",
+            "Anchor": "main door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "10",
+        "target_name": "bed",
+        "caption": "it is a small bed. it has a blue mattress and a wood frame.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "9",
+        "target_name": "shelf",
+        "caption": "there is a rectangular brown shelf. it is on a table and next to a window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "15",
+        "target_name": "dresser",
+        "caption": "there is a rectangular brown dresser. it is on the floor in a corner.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "18",
+        "target_name": "compost_bin",
+        "caption": "there is a rectangular green compost bin. it is on a table and next to a window.",
+        "parsed_query": {
+            "Target": "compost bin",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "13",
+        "target_name": "radiator",
+        "caption": "there is a rectangular radiator. it is on the wall next to a bed.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "17",
+        "target_name": "trash_bin",
+        "caption": "there is a rectangular gray trash bin. it is the middle bin on top of a table.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "13",
+        "target_name": "radiator",
+        "caption": "there is a white radiator placed in front of the bed.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "the door is a brown wooden door that opens inward to another room or closet. it is in the middle of the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "1",
+        "target_name": "desk",
+        "caption": "the desk is a wooden desk across from a bed. it has a blue bin and a white bin on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "17",
+        "target_name": "trash_bin",
+        "caption": "the bin is on a desk across from a bed. it is in between a blue and green bin.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "desk",
+                "bed",
+                "blue bin",
+                "green bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "23",
+        "target_name": "door",
+        "caption": "the door is a brown wooden door opening into a room or closet. it opens inward and is in the middle of a wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "17",
+        "target_name": "trash_bin",
+        "caption": "the bin is on a desk across from a bed. it is in between a blue one and a green one.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "desk",
+                "bed",
+                "blue one",
+                "green one"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "13",
+        "target_name": "radiator",
+        "caption": "the radiator is affixed to the wall. it is just beyond the foot of the bed.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "9",
+        "target_name": "shelf",
+        "caption": "the shelf sits atop the desk. it is behind the blue, white, and green bins.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "blue bin",
+                "white bin",
+                "green bin"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "17",
+        "target_name": "trash_bin",
+        "caption": "the trash bin is white and sits atop the desk. it is between the blue and green bins.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": [
+                "desk",
+                "blue bin",
+                "green bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "the door is to the right of the bed. the door has brass hardware, and the door appears to be shut.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "12",
+        "target_name": "door",
+        "caption": "the door is on the far wall. it is to the left of the cabinet and also to the left of the telephone.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "cabinet",
+                "telephone"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "8",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is next to the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "8",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is on the wall left of the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "18",
+        "target_name": "compost_bin",
+        "caption": "there is a rectangular green compost bin. it is on top of the table.",
+        "parsed_query": {
+            "Target": "compost bin",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0356_00",
+        "target_id": "10",
+        "target_name": "bed",
+        "caption": "there is a rectangular bed with a black mattress. it is against the wall.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "wall"
+        },
+        "unique": true
+    }
+]

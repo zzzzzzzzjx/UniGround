@@ -1,0 +1,271 @@
+[
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "7",
+        "target_name": "urinal",
+        "caption": "it is a white urinal. it is to the right of the sink.",
+        "parsed_query": {
+            "Target": "urinal",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "it is a white sink. it is next tho the urinal.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "urinal"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "7",
+        "target_name": "urinal",
+        "caption": "it is a white urinal. it is right in the middle.",
+        "parsed_query": {
+            "Target": "urinal",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "4",
+        "target_name": "bathroom_stall_door",
+        "caption": "it is a white bathroom stall door. it is the first thing on the left.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "8",
+        "target_name": "toilet",
+        "caption": "it is a toilet. it is right in the center.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "7",
+        "target_name": "urinal",
+        "caption": "this is a urinal on the wall. it is the first from the left sink.",
+        "parsed_query": {
+            "Target": "urinal",
+            "Anchor": [
+                "wall",
+                "left sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "8",
+        "target_name": "toilet",
+        "caption": "this is a porcelain toilet. it is closed in the middle.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "8",
+        "target_name": "toilet",
+        "caption": "this is a toilet. it is near the right wall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "right wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "this is a trash can. it is in the upper left corner.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "this is a gray trash can. it has a black bag.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "the small metal trash can is located on the back wall in the left corner of the room. the trash can is located outside the bathroom area.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom area"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "7",
+        "target_name": "urinal",
+        "caption": "to the left of the urinal is the bathroom sink. to the right of the urinal is the bathroom toilet.",
+        "parsed_query": "{\"Target\": \"bathroom sink\", \"Anchor\": \"urinal\"}\n{\"Target\": \"bathroom toilet\", \"Anchor\": \"urinal\"}",
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "4",
+        "target_name": "bathroom_stall_door",
+        "caption": "the bathroom stall door leads you to the toilet area. across from the bathroom stall door is a small trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom stall door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "above the bathroom sink is a mirror. to the left side of the sink is the bathroom door.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "bathroom sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "4",
+        "target_name": "bathroom_stall_door",
+        "caption": "across from the bathroom stall door is a trash can. on the other side of the bathroom stall door is the sink.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom stall door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "8",
+        "target_name": "toilet",
+        "caption": "to the left of the toilet is the bathroom sink. to the right of the toilet is the toilet paper dispenser.",
+        "parsed_query": "{\"Target\": \"bathroom sink\", \"Anchor\": \"toilet\"}\n{\"Target\": \"toilet paper dispenser\", \"Anchor\": \"toilet\"}",
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "4",
+        "target_name": "bathroom_stall_door",
+        "caption": "the bathroom stall door connects the sink area and toilet area. across from the bathroom stall door is a metal trashcan.",
+        "parsed_query": {
+            "Target": "metal trashcan",
+            "Anchor": "bathroom stall door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "to the left of the sink is the paper towel dispenser. above the sink is the bathroom mirror.",
+        "parsed_query": "{\"Target\": \"paper towel dispenser\", \"Anchor\": \"sink\"}\n{\"Target\": \"bathroom mirror\", \"Anchor\": \"sink\"}",
+        "unique": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "8",
+        "target_name": "toilet",
+        "caption": "the toilet is on the right side of the bathroom. to the right side of the toilet is a toilet paper dispenser.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "above the bathroom sink is a mirror. to the left of the sink is a paper towel dispenser.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "bathroom sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "there is a waste basket on the far wall in the bathroom. it is light brown and has a black bag in it.",
+        "parsed_query": {
+            "Target": "waste basket",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "this is the bathroom sink. it is to the left of the urinal.",
+        "parsed_query": {
+            "Target": "bathroom sink",
+            "Anchor": "urinal"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "there is a waste basket, light brown in color. it is in the bathroom.",
+        "parsed_query": {
+            "Target": "waste basket",
+            "Anchor": "bathroom"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "4",
+        "target_name": "bathroom_stall_door",
+        "caption": "this is the door to the toilet in the bathroom. it is much like the type you see in public bathrooms.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0441_00",
+        "target_id": "7",
+        "target_name": "urinal",
+        "caption": "this is the urinal in the bathroom. it looks much like public restroom urinals.",
+        "parsed_query": {
+            "Target": "urinal",
+            "Anchor": "bathroom"
+        },
+        "unique": false
+    }
+]

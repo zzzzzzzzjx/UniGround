@@ -1,0 +1,1099 @@
+[
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "47",
+        "target_name": "table",
+        "caption": "this is two desks. aoane is dark brown one is tan. there are two blue chairs at the desks. these desks are at the top of the room.",
+        "parsed_query": {
+            "Target": "desks",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a gbrown hair with shiny metal legs. it is sitting by itself ,away from the desk in the middle of the room.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "this is a red chair with wheels,there is a blue square of paper in front of iot on the desk. it is at a light colored desk.",
+        "parsed_query": {
+            "Target": "red chair",
+            "Anchor": [
+                "light colored desk",
+                "blue square of paper"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "52",
+        "target_name": "armchair",
+        "caption": "this is the brown easy chair at the back of the room where the two chalk boards meet. it is a brown easy chair.",
+        "parsed_query": {
+            "Target": "brown easy chair",
+            "Anchor": [
+                "chalk board",
+                "chalk board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "there are two chalk boards . one is short and has a short table in front of is the other is longer and the table in front of it is as long as it is. it is as long as the room. the table has many chairs around it. standing behind the table and counting from the left this is the third  chair it has wheels and is blue it is situated between two chairs with no wheels.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "two chairs with no wheels"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this chair is closest to the first book shelf closest to the door. this is not an arm chair. there is a arm chair close to the shelves and the door,but this is not an arm chair and it is at the table . it is the first chair from the right and its back  faces the  first book shelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "book shelf",
+                "door",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "48",
+        "target_name": "table",
+        "caption": "this is a table. this table is front of the book shelves,the book shelves it is in front of are the second and the third from the left. the third book shelf from the left is shorter than all the rest.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "second bookshelf from the left",
+                "third bookshelf from the left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "in the corner of the room are boxes. the first two book shelves in the corner to the right of the boxes are the bookshelves we are looking for.",
+        "parsed_query": {
+            "Target": "book shelves",
+            "Anchor": "boxes"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "20",
+        "target_name": "bookshelf",
+        "caption": "this is the small bookshelf. the small book shelf is to the right of the door.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is the brown arm chair that is at the end of the chalk board. to the left of it there is a small bookshelf,it is brown . to the right of it and at the table is a blue chair. . the brown chair is not under the table it is just next to the table. .",
+        "parsed_query": {
+            "Target": "brown arm chair",
+            "Anchor": [
+                "chalk board",
+                "small bookshelf",
+                "blue chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "20",
+        "target_name": "bookshelf",
+        "caption": "this is a small book shelf. the book shelf is on the right of the door. it is to the left of a brown chair.",
+        "parsed_query": {
+            "Target": "book shelf",
+            "Anchor": [
+                "door",
+                "brown chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "19",
+        "target_name": "bookshelf",
+        "caption": "this is a small bookshelf. it is in the corner of the room  . there is a window behind it with white blinds. on the wall is the corner of the chalk board. this shelf is on the right end of the chalk board.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "window",
+                "chalk board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "lot of chairs can be seen on the scene. in front of the chair a green board can also be seen.",
+        "parsed_query": {
+            "Target": "green board",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is at a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "52",
+        "target_name": "armchair",
+        "caption": "this is a brown armchair. it is in a corner of the room.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a tan chair. it is at a rectangular table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "rectangular table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a tan chair. it is next to a burgundy chair.",
+        "parsed_query": {
+            "Target": "tan chair",
+            "Anchor": "burgundy chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "20",
+        "target_name": "bookshelf",
+        "caption": "this is a brown bookshelf. it is against a wall next to a door.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "50",
+        "target_name": "table",
+        "caption": "this is a desk .  the desk is under the chalkboard .  there are two chairs at the desk , one is brown one is blue .  the desk is white .",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "chalkboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "19",
+        "target_name": "bookshelf",
+        "caption": "ths is a bookshelf.  it is next to the chalkboard .  there are books on it .  on the top shelf of the bookshelf there are two red books .",
+        "parsed_query": {
+            "Target": "two red books",
+            "Anchor": "bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a wooden chair in black with arms. this chair is second to the corner left chair.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "corner left chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "51",
+        "target_name": "table",
+        "caption": "this is a wide wooden table. this is kept at the center in between the chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "47",
+        "target_name": "table",
+        "caption": "this is a broad brown plain table. this is placed at the center.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "this is rolling chair which is rotatable. it is kept at third place from the corner chair.",
+        "parsed_query": {
+            "Target": "rolling chair",
+            "Anchor": "corner chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "a broad brown chair with arms.  it is in the corner of one side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "a broad brown chair with arms. it is very close to the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "a brown with no arms. it is kept at the corner of one side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "52",
+        "target_name": "armchair",
+        "caption": "a cushion sofa in brown color. it is near the wall.",
+        "parsed_query": {
+            "Target": "cushion sofa",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "50",
+        "target_name": "table",
+        "caption": "a plain table long table. it is kept at the corner of the wall.",
+        "parsed_query": {
+            "Target": "long table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "there is a brown chair near the center of the room at a brown table. its left side faces the window to the room.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "brown table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "there is a blue office style chair with wheels facing a chalk board. the windows in the room are to its right.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "chalk board",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "52",
+        "target_name": "armchair",
+        "caption": "there is a brown recliner in the corner of the room. its between the intersection of the 2 chalk boards.",
+        "parsed_query": {
+            "Target": "recliner",
+            "Anchor": [
+                "chalk board",
+                "chalk board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "51",
+        "target_name": "table",
+        "caption": "there is a brown table in the center of the room. this table is a bit larger and darker than the other table next to it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "there is a light brown chair at the right end of a table with windows directly to its right. it is at the opposite corner of the entry to the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "windows",
+                "entry to the room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "blue office chair is placed in a table lying parallel to a lengthy green board on the wall. lot of other chairs are also seen in that room.",
+        "parsed_query": {
+            "Target": "blue office chair",
+            "Anchor": [
+                "table",
+                "green board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "19",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is placed in one corner. lengthy green board can also be seen in the scene.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "52",
+        "target_name": "armchair",
+        "caption": "arm chair is placed in one corner. the adjacent walls have two green boards.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "green board",
+                "green board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "48",
+        "target_name": "table",
+        "caption": "this is a brown table with two chairs.  there is a third chair at this table that looks as though someone forgot to push back in.  this table is in the rear of the room by the book shelves.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "book shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is the first blue chair on the left hand side upon entering the door.  it is located at a white table directly below the chalkboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "white table",
+                "chalkboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a brown leather chair located in the aisle in the middle of the room.  it is located by the dark brown table immediately inside the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "dark brown table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a brown leather chair located under the first dark brown table immediately inside the door.  it is on the middle side of the room, relative to the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "first dark brown table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "19",
+        "target_name": "bookshelf",
+        "caption": "this is a three shelf bookcase with books on all shelves and a binder on top. it is located in one corner of the room, between the windows and the chalkboard.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": [
+                "windows",
+                "chalkboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "tall bookshelf in the corner of the room next to the window with blinds on it. the bookshelf is a double bookshelf and if packed fairly full with books.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "short blue chair with wheels situated at a desk. walking into the room the chair on the left of a desk on the right closest to the right hand corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "medium height blue chair with four wooden legs. walking into the room it facing away from you on the desk closest to the further corner on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "wooden double bookcase filled with books. walking into the room it is in the right hand most corner next to the window.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "red felt office chair with plastic wheels. walking into the room the chair is faced away from you in between a cream chair and a blue chair at the desk furthest away from the entrance.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "cream chair",
+                "blue chair",
+                "desk",
+                "entrance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "47",
+        "target_name": "table",
+        "caption": "the table is a very long rectangular table. there are chairs around the room facing the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is the only chair in the middle of the room. there is a bookcase on the wall to the right of the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is in the far right corner of the room. it is behind and to the right of the table.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is located at the left end of the table. it is facing the bookshelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is in the corner of the room, on the left side. it is beyond the table and chair. there are many books stored on the bookshelf.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is pushed away from the desk.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "49",
+        "target_name": "table",
+        "caption": "this is a long table. it is above some boxes.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "boxes"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "20",
+        "target_name": "bookshelf",
+        "caption": "this is a brown bookshelf. it is across from a brown chair.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "49",
+        "target_name": "table",
+        "caption": "this is a long table. it is under the window.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in the center of the room, pushed out from the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "47",
+        "target_name": "table",
+        "caption": "this is a long table. it is across from a chalkboard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chalkboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "49",
+        "target_name": "table",
+        "caption": "this is a long table. it is against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in front of a bookcase.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "bookcase"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a tan chair. it is at a tan table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a brown chair. it is at a brown table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is at a white desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is next to a brown chair.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "brown chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "48",
+        "target_name": "table",
+        "caption": "this is a rectangular table. it is in front of many bookshelves.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is at a brown table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "48",
+        "target_name": "table",
+        "caption": "this is a tan table. it is against a brown table.",
+        "parsed_query": {
+            "Target": "tan table",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "50",
+        "target_name": "table",
+        "caption": "table is placed closed to the wall. green colored board can be seen on both sides of the wall. a single seat sofa can also be seen besides the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "single seat sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "this office chair is placed facing a green board. an l shaped arrangement of the tables can be seen in the same room.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "green board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "it is a reddish chair on caster wheels and is tucked under a table except for its backrest.  to its left is a similar chair but blue in color.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "blue chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "51",
+        "target_name": "table",
+        "caption": "it is a wooden table with a stapler and a book on it.  there is a chair tucked in under it on both of its long sides.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "stapler",
+                "book",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "20",
+        "target_name": "bookshelf",
+        "caption": "it is a grayish bookshelf filled with three rows of books on it.  it is on a corner of a room next to a blue trash bin.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "blue trash bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "it is a gray chair with a backrest.  to the left of it is a blue chair on caster wheels.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": "blue chair on caster wheels"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "it is a brown chair with armrests and four legs.  it is directly under a blackboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blackboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is placed near the table lying parallel to the book shelves. a total of five bookshelves can be seen in the scene.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "book shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "blue chair is placed under a white  table lying parallel and close to the wall. a green lengthy board can also be seen on the wall in front of the chair.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": [
+                "white table",
+                "green lengthy board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "51",
+        "target_name": "table",
+        "caption": "this is the table on the right in front of the book cases. it is also in front of the door. it is long and brown.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "book cases",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is brown and the 5th chair. the chair is pushed into a long table and has another chair in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "long table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "the is chair is black leather. when you walk into the door it will be the first chair on your right. there is a book shelve behind it and another chair in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "book shelf",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "47",
+        "target_name": "table",
+        "caption": "this table is in front of a chalk board. it has seven chairs pushed under it. the chairs are blue and auburn in color. the table is light brown and rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chalk board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is under the chalk board. the chair is auburn. it is between a white table and a book shelve. there is also a blue trash can to the left of this chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chalk board",
+                "white table",
+                "book shelve",
+                "blue trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "51",
+        "target_name": "table",
+        "caption": "this is a brown table. it is in front of a shelf.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "48",
+        "target_name": "table",
+        "caption": "this is a brown table. there are several tall bookshelves behind it.",
+        "parsed_query": {
+            "Target": "bookshelves",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a chair with no arms. it is facing several large bookshelves.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "19",
+        "target_name": "bookshelf",
+        "caption": "this is a brown bookshelf. it is next to a green chalkboard.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "chalkboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "50",
+        "target_name": "table",
+        "caption": "this is a rectangular table. it is against a wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "49",
+        "target_name": "table",
+        "caption": "this is a long table. it is below windows.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a chair with arms. it is at a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is across from large bookshelves.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "large bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0030_00",
+        "target_id": "50",
+        "target_name": "table",
+        "caption": "this is a tan table. it is below a chalkboard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chalkboard"
+        },
+        "unique": false
+    }
+]

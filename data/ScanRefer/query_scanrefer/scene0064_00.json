@@ -1,0 +1,499 @@
+[
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this is a black leather loveseat in a library.  if you were sitting in it, the long, short bookshelf would be on your right and the tall book shelf, opposite you across the room. .",
+        "parsed_query": {
+            "Target": "black leather loveseat",
+            "Anchor": [
+                "short bookshelf",
+                "tall bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "10",
+        "target_name": "bookshelf",
+        "caption": "it is a brown wooden square shelf. divided on squares, on the side of the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "it is a brown arm chair. made of leather and placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "it is a brown leather armchair. placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "is is a brown wooden square table. placed in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "0",
+        "target_name": "bookshelf",
+        "caption": "it is a long brown wooden shelf. on the side of the room.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "3",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is to the left of the black armchair. it is to the right of the brown armchair.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "black armchair",
+                "brown armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "3",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is between the two chairs that are facing each other. there is a bookshelf behind the coffee table.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "5",
+        "target_name": "couch",
+        "caption": "the couch is towards the center of the room. there is a coffee table in front of the couch. there are book cases on the walls behind, and to the right of the couch.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "0",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is the length of the room. there is another bookshelf to it's left. the bookshelf is behind several couches, chairs, and tables.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "bookshelf",
+                "couches",
+                "chairs",
+                "tables"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "10",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is behind and to the left of the couch. the bookshelf has four shelves filled with books.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "the armchair is located to the right of the table. the armchair has it's back against an identical armchair to it's right.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "table",
+                "armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "8",
+        "target_name": "armchair",
+        "caption": "the armchair is facing the table to it's right. the armchair is to the right of a similar armchair, and the bookshelf is in the background.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "table",
+                "similar armchair",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "10",
+        "target_name": "bookshelf",
+        "caption": "there is a brown bookcase against the wall in a room and is adjacent to a black couch. the bookshelf is perpendicular to another smaller bookshelf on the back wall of the room.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": [
+                "black couch",
+                "smaller bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "brown coffee table in the center of the room. it is parallel to the black couch in the center of the room.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "5",
+        "target_name": "couch",
+        "caption": "black couch perpendicularly to the right from the small bookshelf on the wall. the couch is in front of the bigger bookcase.",
+        "parsed_query": {
+            "Target": "black couch",
+            "Anchor": [
+                "small bookshelf",
+                "bigger bookcase"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "8",
+        "target_name": "armchair",
+        "caption": "brown chair is directly behind another brown chair. there is a table in front of the brown chair with another chair across from that table.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "brown chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "3",
+        "target_name": "coffee_table",
+        "caption": "brown table in the center of two black couches. the couches are adjacent to each other with the table in the center.",
+        "parsed_query": {
+            "Target": "brown table",
+            "Anchor": [
+                "black couch",
+                "black couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "this is a brown coffee table. it sets in the middle of the living room floor.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "this is a brown arm chair. it sets a little ways away from the coffee table.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "this is a light brown coffee table. it has a few magazines setting on top of it.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this is a black couch. it sets quite close to the coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "8",
+        "target_name": "armchair",
+        "caption": "this is a brown arm chair. it faces toward the coffee table.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "0",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is on the right side of the room. it is to the right of where the chairs are. at the far end, another bookshelf joins it at the corner.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "chairs",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "8",
+        "target_name": "armchair",
+        "caption": "the armchair is to the left of the coffee table. the armchair has it's back to a similar armchair that is facing the opposite direction.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "coffee table",
+                "armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "10",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is behind the couch. it is to the left of the other shorter bookshelf.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "couch",
+                "shorter bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this is a black couch. it is facing a brown table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "5",
+        "target_name": "couch",
+        "caption": "this is a black couch. it is in front of several bookshelves.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "0",
+        "target_name": "bookshelf",
+        "caption": "this is a long bookshelf. it is next to some brown armchairs.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "brown armchairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "this is a brown table. it is in front of a black couch and brown armchair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "black couch",
+                "brown armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "3",
+        "target_name": "coffee_table",
+        "caption": "this is a brown table. the end of the table is facing bookshelves.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "5",
+        "target_name": "couch",
+        "caption": "this is a black couch. it is facing a wooden table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "10",
+        "target_name": "bookshelf",
+        "caption": "this is a wooden bookshelf. it is behind a black couch.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "0",
+        "target_name": "bookshelf",
+        "caption": "this is a long bookshelf. it runs length -wise to tables and chairs.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "tables",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this is a black couch. it is facing a wooden table.",
+        "parsed_query": {
+            "Target": "black couch",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "8",
+        "target_name": "armchair",
+        "caption": "this is a brown armchair. it is back-to-back with another armchair and is facing a table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "armchair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "this is a tan leather chair in a library.  if you were sitting in it, you would be facing the tall book shelf and the long short bookshelf would be on your right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "tall book shelf",
+                "long short bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "3",
+        "target_name": "coffee_table",
+        "caption": "this is a small end table with a book or magazine laying on it.  if you were sitting in the black loveseat facing the end table, the short, long bookshelf would be on your right.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "black loveseat",
+                "short, long bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this is a black leather loveseat.  if you were sitting in it, the long, short bookshelf would be on the right.",
+        "parsed_query": {
+            "Target": "loveseat",
+            "Anchor": "bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0064_00",
+        "target_id": "5",
+        "target_name": "couch",
+        "caption": "this is a black leather loveseat.  there is a tall bookshelf directly in back of it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "black leather loveseat"
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,318 @@
+[
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "9",
+        "target_name": "curtain",
+        "caption": "there is gray curtain. it is next to the table with a sewing machine on it.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "table with a sewing machine on it"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "7",
+        "target_name": "curtain",
+        "caption": "there is gray curtain. it is facing a ladder next to a table.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "ladder",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "0",
+        "target_name": "table",
+        "caption": "there is a white table. it is near the side of the room and has a sewing machine on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "sewing machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "6",
+        "target_name": "tray_rack",
+        "caption": "there is a dark tray rack. it is near the table and in front of a curtain.",
+        "parsed_query": {
+            "Target": "tray rack",
+            "Anchor": [
+                "table",
+                "curtain"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "11",
+        "target_name": "clothing_rack",
+        "caption": "there is a dark clothing rack. it is next to a stack of plastic containers.",
+        "parsed_query": {
+            "Target": "clothing rack",
+            "Anchor": "stack of plastic containers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "9",
+        "target_name": "curtain",
+        "caption": "the curtain is by the white table. the curtain is gray.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "7",
+        "target_name": "curtain",
+        "caption": "the curtain is black. the curtain is long and it touches the floor.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is in front of a white table. the chair is by the white curtain.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white table",
+                "white curtain"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "9",
+        "target_name": "curtain",
+        "caption": "the curtain is by the white table lamp. the curtain is by the white sewing machine.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "white table lamp",
+                "white sewing machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "6",
+        "target_name": "tray_rack",
+        "caption": "this tray rack is placed besides a table. on left a curtain wall is present.",
+        "parsed_query": {
+            "Target": "tray rack",
+            "Anchor": [
+                "table",
+                "curtain wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "0",
+        "target_name": "table",
+        "caption": "the table is white and has a tape on it. the table doesn't have a sewing machine on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "tape",
+                "sewing machine"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "11",
+        "target_name": "clothing_rack",
+        "caption": "a table is present in front of this clothing rack. pillows are lying besides this rack.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "clothing rack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "6",
+        "target_name": "tray_rack",
+        "caption": "the tray rack is placed near the table. on left a chair is present near the table.",
+        "parsed_query": {
+            "Target": "tray rack",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this chair is kept under the table. a tray rack is present on right on another side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "0",
+        "target_name": "table",
+        "caption": "it is a very large white table with two supports on either side, there are many objects on the top. the table is in the middle of the room on the right hand wall, there is a large rug underneath as well.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "right hand wall",
+                "rug"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "6",
+        "target_name": "tray_rack",
+        "caption": "this a white mesh tray rack with three shelves, starting from the bottom the shelves get progressively smaller. the tray rack is near the center of the room on the right hand side fo the table. it is sitting on top of a carpet.",
+        "parsed_query": {
+            "Target": "tray rack",
+            "Anchor": [
+                "table",
+                "carpet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "11",
+        "target_name": "clothing_rack",
+        "caption": "the clothing rack is very thin, there is a place to hang cloting at the top, and objects can be placed on the bottom rack. the cloting rack is placed in the back left hand cornor of the room, there a stack of three small boxes to the right of the rack.",
+        "parsed_query": {
+            "Target": "clothing rack",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "7",
+        "target_name": "curtain",
+        "caption": "it is a large two tone curtain, the bottom half being black and the top dark brown. the curtain is ruffled. the curtain is sitting aginst the right hand wall of the room. underneith the curtain is a wooden floor.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "right hand wall of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "11",
+        "target_name": "clothing_rack",
+        "caption": "the clothing rack is next to the two white boxes. there are two pillows on the bottom rung.",
+        "parsed_query": {
+            "Target": "clothing rack",
+            "Anchor": "two white boxes"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "0",
+        "target_name": "table",
+        "caption": "the table is white. it is placed next to the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "11",
+        "target_name": "clothing_rack",
+        "caption": "the clothing rack is next to the two white boxes. on the bottom rung is two white pillows.",
+        "parsed_query": {
+            "Target": "clothing rack",
+            "Anchor": "two white boxes"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "9",
+        "target_name": "curtain",
+        "caption": "the curtain is white. it is hung by the window on the left of the desk.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "window",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "0",
+        "target_name": "table",
+        "caption": "the table is in the middle of the room. the table is a white square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "9",
+        "target_name": "curtain",
+        "caption": "the curtain is hung by the window on the right of the desk. it is white.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "window",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "7",
+        "target_name": "curtain",
+        "caption": "the curtain is north of the white table at center. the curtain is brown and wavy.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0256_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is on the right side of the white table. the chair is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white table"
+        },
+        "unique": true
+    }
+]

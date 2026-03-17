@@ -1,0 +1,757 @@
+[
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "on the wall that is half blue, half white are several square-shaped shelves. they are at different heights and vary in color. most have objects in them such as books.",
+        "parsed_query": {
+            "Target": "square-shaped shelves",
+            "Anchor": "half blue, half white wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "there is a black office chair with mesh backing directly in front of the white desk. to its right is another black chair that has a yellow backpack hanging on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "office chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "there is a white desk against the back wall. there are two black chairs in front of it, and there are some office supplies on top of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "back wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "8",
+        "target_name": "drawer",
+        "caption": "there is a set of white drawers in the upper right hand corner of the room. it is between the white desk and blue wall.",
+        "parsed_query": {
+            "Target": "drawers",
+            "Anchor": [
+                "white desk",
+                "blue wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "there is a large reddish colored, l-shaped couch in the room. its back is against the wall and it is on top of a black and white rug.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall",
+                "black and white rug"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "the tv is black and rectangular. it is on top of a shelf.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "shelf"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "there are multiple shelves on the wall. the shelves are white squares.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "13",
+        "target_name": "cabinet",
+        "caption": "the cabinet is white. it is to the left of the tv and shelf.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "tv",
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "10",
+        "target_name": "pillow",
+        "caption": "the pillow is black. the pillow is on the orange couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "orange couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "the couch is orange and l shaped. it is to the right of the end tables.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "end tables"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "the shelf are brown and white. they are surrounding the tv.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "tv"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is white. the coffee table is in front of the orange couch.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "orange couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "13",
+        "target_name": "cabinet",
+        "caption": "the cabinet is tall and white. it is to the left of the shelf.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "16",
+        "target_name": "backpack",
+        "caption": "the backpack is yellow. the backpack is on the back of the black chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "black chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "18",
+        "target_name": "pillow",
+        "caption": "the pillow is white. the pillow is on the orange couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "orange couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "this shelf is against the wall. it is filled.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "this desk is white. it is in the middle.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "this office chair is facing viewer. it is dark.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "this desk is white. it is in the middle and is rectangular.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "this desk has objects on it. it is bright.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "there is a gray and yellow office chair. it is at a table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "there is a rectangular beige coffee table of two joined square surfaces. it is next to a red couch.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "red couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "18",
+        "target_name": "pillow",
+        "caption": "there is a rectangular pillow. it is in the corner of a red couch.",
+        "parsed_query": {
+            "Target": "rectangular pillow",
+            "Anchor": "red couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "10",
+        "target_name": "pillow",
+        "caption": "there is a rectangular black pillow. it is near the corner of a red couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "red couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "13",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular cabinet. it is to the left of a black shelf.",
+        "parsed_query": {
+            "Target": "rectangular cabinet",
+            "Anchor": "black shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "there is a tv set. it is on the black shelf behind the chair.",
+        "parsed_query": {
+            "Target": "tv set",
+            "Anchor": [
+                "black shelf",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "this is a tv. it is black and on a black shelf by the square boxes.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "black shelf",
+                "square boxes"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "there is a chair at the desk. it has a yellow jacket on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "8",
+        "target_name": "drawer",
+        "caption": "this is a small square filing cabinet. it has a paper wrapper on top of it.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "this is a pair of chalkboards. they are above the white table.",
+        "parsed_query": {
+            "Target": "chalkboards",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "the couch is orange with pillows. it is to the right of the table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "the cabinet is above the desk. there are two sides.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "8",
+        "target_name": "drawer",
+        "caption": "the drawer is white. it is to the right of the chair.",
+        "parsed_query": {
+            "Target": "drawer",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "10",
+        "target_name": "pillow",
+        "caption": "the pillow is black and rectangular. it is on the orange couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "orange couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "the cabinet is grey and white. it is on the wall above the desk.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "18",
+        "target_name": "pillow",
+        "caption": "it is a brown pillow. the brown pillow sits at the back right of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "8",
+        "target_name": "drawer",
+        "caption": "it is a brown drawer. the brown drawer sits at the back end if the table closer to the left wall.",
+        "parsed_query": {
+            "Target": "brown drawer",
+            "Anchor": [
+                "table",
+                "left wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "13",
+        "target_name": "cabinet",
+        "caption": "it is a white cabinet. the white cabinet sits next to the far left corner of the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "1",
+        "target_name": "shelf",
+        "caption": "it is a white shelf. the white shelf sits at the bottom left side of the cabinet.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "13",
+        "target_name": "cabinet",
+        "caption": "a cabinet sits against the wall. it's to the left of a tv.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "tv"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "a coffee table sits on the floor. it's to the left of a red couch.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "red couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "a cabinet hangs on the wall above a desk. it's to the right of some cubbies on the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "desk",
+                "cubbies"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "a tv faces us on a stand. square cubbies hang on the wall around it.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "stand"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "an office chair sits pulled under a desk. it's to the left of another office chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "office chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "this couch is orange. it is on the bottom right.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "this cabinet is attached to the wall. it has tan  borders.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "this coffee table is sturdy. it is in the middle.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "this tv is on the left wall. it is black.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "left wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "9",
+        "target_name": "coffee_table",
+        "caption": "this coffee table is white. it is in the middle.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "it is a white desk. the white desk sits on the right wall of the room.",
+        "parsed_query": {
+            "Target": "white desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "8",
+        "target_name": "drawer",
+        "caption": "it is a white drawer. the white drawer sits in the corner between the white table on the left and the wall on the right.",
+        "parsed_query": {
+            "Target": "white drawer",
+            "Anchor": [
+                "white table",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "16",
+        "target_name": "backpack",
+        "caption": "it is a yellow and white back pack. the yellow and white backpack sits on the front black chair that is next to the white table.",
+        "parsed_query": {
+            "Target": "yellow and white back pack",
+            "Anchor": [
+                "front black chair",
+                "white table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "10",
+        "target_name": "pillow",
+        "caption": "it is a black pillow. the black pillow sits on the orange couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "orange couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "it is a black chair. the black chair  is the second chair that sits next to the other black chair with the yellow and white backpack.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "black chair with the yellow and white backpack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "this chair is on the left. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "18",
+        "target_name": "pillow",
+        "caption": "this pillow is on the right side of the sofa. it is soft.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "sofa"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "10",
+        "target_name": "pillow",
+        "caption": "this brown pillow is on the sofa. it is in front of another pillow.",
+        "parsed_query": {
+            "Target": "brown pillow",
+            "Anchor": [
+                "sofa",
+                "pillow"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "this office chair is on the top right. it is facing inward.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "this office chair is brown. its on the corner.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "16",
+        "target_name": "backpack",
+        "caption": "the backpack is yellow. it is sitting on the chair that is facing the desk. there is an orange sofa to the right of it.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "chair",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "16",
+        "target_name": "backpack",
+        "caption": "the backpack is yellow. it is on the chair that is to the right of the other chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "chair",
+                "other chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "the couch is a two piece sectional couch. it is orange and faces a white coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "white coffee table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "the office chair is facing right. it is facing the desk. there is a black and white patterned rug on the floor behind it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "rug"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0518_00",
+        "target_id": "16",
+        "target_name": "backpack",
+        "caption": "the backpack is on the chair on the right of the other chair. the backpack is yellow in color.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "chair",
+                "other chair"
+            ]
+        },
+        "unique": false
+    }
+]

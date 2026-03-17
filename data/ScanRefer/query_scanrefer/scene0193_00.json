@@ -1,0 +1,371 @@
+[
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this is a black ,rolling office chair. this chair sits at the desk,at the end of the bed.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this is a wood frame twin bed. the bed is in the corner of the room,by the window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this is a wood frame, twin size bed with a maroon mattress on it. this bed is in the corner of the room.",
+        "parsed_query": {
+            "Target": "twin size bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this is a rolling office chair. this office chair is in front of the window.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "6",
+        "target_name": "trash_can",
+        "caption": "this is a small tan trash can. this trash can is in the corner,across from the bed.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door is to the east of the red bed. the door is white and rectangular.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "red bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed is west of the door and north of the curtain. the bed has a red mattress.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "door",
+                "curtain"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "6",
+        "target_name": "trash_can",
+        "caption": "the trash can is leaning on the wall next to the door. the trash can is a rectangular cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the door is to the left of the desk with the drawer. the door is white and has a metal handle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "desk with the drawer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the door is west of the wooden desk. the door is white and rectangular.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wooden desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "8",
+        "target_name": "desk",
+        "caption": "this wooden desk in in an alcove between the solid wall and a window. the desk has drawers to the left of the chair legs, and a couple of shelves for books behind the writing surface.",
+        "parsed_query": {
+            "Target": "wooden desk",
+            "Anchor": [
+                "solid wall",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "this patio door is along the longer side of a rectangular work table. the door is in an open positian to aireate the work room.",
+        "parsed_query": {
+            "Target": "patio door",
+            "Anchor": "rectangular work table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "this open door is behind the  work table and opens to the outdoors. it expands the space in the crowded room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "work table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this closed door is to the left of the desk. it is a solid door to protect the workroom from invaders from outside the area.",
+        "parsed_query": {
+            "Target": "closed door",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "8",
+        "target_name": "desk",
+        "caption": "this ornate wooden desk is beyond the large rectangular work table. there is a sturdy door to the left and full length windows to the right for great lighting.",
+        "parsed_query": {
+            "Target": "ornate wooden desk",
+            "Anchor": "large rectangular work table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "6",
+        "target_name": "trash_can",
+        "caption": "the trash can is leaning against a wall north of the bed. the trash can is a rectangular cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the door is to the left of the wooden drawer and desk. the door is a white rectangle with a gray handle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "wooden drawer",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "the office chair is next to the wooden table and next to the bed. the office chair has a curved backside and four legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "wooden table",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "the office chair is south of the wooden table. the office chair has a black color and curved backrest.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "wooden table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "the door to the right of the bed and north of the trash can. the door is rectangular and brown.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bed",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "6",
+        "target_name": "trash_can",
+        "caption": "the trash can is to the right of the bed. the trash can is a gray rectangular cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed is in front of the entrance. the bed is a rectangle with a red mattress.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "entrance"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "the office chair is between the bed and the desk. the office chair is black and has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "6",
+        "target_name": "trash_can",
+        "caption": "the trash can is east of the bed. the trash can is gray and has a hollow center.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed is in front of the entrance door. the bed has a brown color and four legs.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "entrance door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "8",
+        "target_name": "desk",
+        "caption": "in the room there is a brown desk with a black chair sitting in front of it. the brown desk is in between the door that is white and the bed with the red sheet on top of it.",
+        "parsed_query": {
+            "Target": "brown desk",
+            "Anchor": [
+                "white door",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "8",
+        "target_name": "desk",
+        "caption": "the object he is a brown wooden desk. the desk is located beside the white door and has a black chair sitting in front of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "white door",
+                "black chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "13",
+        "target_name": "door",
+        "caption": "in the room there is a white cabinet with a door on it the object is a door. the door is located on the white cabinet sitting right beside the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "white cabinet",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the object is a door,a white door. the door is located to the left side of the brown desk with the black chair in front of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "brown desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0193_00",
+        "target_id": "8",
+        "target_name": "desk",
+        "caption": "next to the window in front of the bed there is a desk. the desk is brown and has a black chair sitting in front of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": true
+    }
+]

@@ -1,0 +1,467 @@
+[
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "there is a black chair. it is the second chair from the right in the first row of chairs.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "first row of chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a purple wire chair. the wire chair is beside a door with a metal bar.",
+        "parsed_query": {
+            "Target": "wire chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "there is a black chair with a brown desk. the chair is in the front row, the second one from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "second chair from the right on the first row. the desk is in the front row two seats in.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the second chair from left in the front row. the chair is in the front row two seats in.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "32",
+        "target_name": "chair",
+        "caption": "chair located directly behid the green chair. chair is next to the stairs behind the green chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "green chair",
+                "stairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "desks and chairs in this room. they are all facing the same direction . we only care  about the very first row . throw there are 7 desks we want the desk that is in the middle it is the fourth in the front row  from the left  and it is the 4th desk in the front row from the right .",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "there is one purple chair in the room the purple chair is in front of a brown wooden door .  the wooden door is the item  we are looking for . the brown wooden door has shiny brass hardware . the purple chair and the brown wooden door are to the  right of the big desk in front of all the little desks in the room .",
+        "parsed_query": {
+            "Target": "brown wooden door",
+            "Anchor": [
+                "purple chair",
+                "big desk",
+                "little desks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "in between the blue chair and the purple chair is a big desk . in front of  the big desk  is a white table.   the white table is the item we are looking for",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": "big desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "34",
+        "target_name": "door",
+        "caption": "behind the purple chair that is in front of the wooden door with the metal hardware is another door. this door has a small knob . this store is the item we are looking for",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "purple chair",
+                "wooden door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "34",
+        "target_name": "door",
+        "caption": "behind the purple chair that is right in front of the big brown door with the big handle is another brown wooden door with a small handle. the brown door with a small handle is the item we're looking for. the purple chair is   blocking the wooden door with the big handle the wooden door with the little handle is behind the purple chair it is not blocking that door .",
+        "parsed_query": {
+            "Target": "brown wooden door with a small handle",
+            "Anchor": "purple chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "the table is right of the green chair. the table is a white rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "green chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is right of the sink. the chair is purple with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is left of the white table. the chair is green and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "the door is right of the purple chair. the door is a brown rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "purple chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "32",
+        "target_name": "chair",
+        "caption": "the chair is north of the green chair. the chair is black and has five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "green chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "the door is right of the pink chair. the door is a brown rectangular object.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "pink chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "cushioned object used for sitting. object is located to the right of the stairs.",
+        "parsed_query": {
+            "Target": "cushioned object",
+            "Anchor": "stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair is the second-most left one in the front row of chairs. the chair has a table and curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "34",
+        "target_name": "door",
+        "caption": "the door is behind the purple chair. the door is a brown rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "purple chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "object used for sitting in with a flat surface used for holding objects connected. object is in the corner on the front row all the way on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "object used for sitting in with a flat surface attached for holding other objects. object is located in the middle of the front row.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "wooden object used to separate one room from another. this object is located on the right side of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "32",
+        "target_name": "chair",
+        "caption": "black cushioned object used for sitting in. this object is located at the top-left corner of the room.",
+        "parsed_query": {
+            "Target": "black cushioned object",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "black object used for sitting in with wooden flat object connected for holding objects. object is in front row at the right end of desks.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "desks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "black object used for sitting with flat, wooden object used for holding objects attached. object is located in front row on left end.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is the fourth one to the left in the front row of chairs. the chair has a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "front row of chairs",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair is the second left-most one in the front row. the chair has a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is left of the white table. the chair is green and has armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "the black chair,it is placed in the middle, on the right is two black chairs of the same type, on the left is a chair of the same type. it is arranged in the top row.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "black chair on the left",
+                "two black chairs on the right"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the pink chair,it is placed near the door. on the left is a sink, behind is another door.",
+        "parsed_query": {
+            "Target": "pink chair",
+            "Anchor": [
+                "door",
+                "sink",
+                "another door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the pink chair,it is located near the door, on the left there is a fire extinguisher. on the right is a brown door.",
+        "parsed_query": {
+            "Target": "pink chair",
+            "Anchor": [
+                "door",
+                "fire extinguisher",
+                "brown door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "the white table, behind is a sink, to the right is a pink chair. to the left of a blue armchair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "sink",
+                "pink chair",
+                "blue armchair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "a black chair,it is placed in the middle, right on the top row. to the right and to the left is the same black chair of the same type.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "black chair",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "a white table,behind is a sink, to the right is a pink chair. to the left of a blue armchair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "sink",
+                "pink chair",
+                "blue armchair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the black chair,it is placed in the middle, right on the top row. to the right are 3 chairs of the same type and on the left is a chair of the same type.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the blue chair,it is placed in the middle. on the left is a white table and a sink, on the right is a staircase and a door.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": [
+                "white table",
+                "sink",
+                "staircase",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0257_00",
+        "target_id": "32",
+        "target_name": "chair",
+        "caption": "the black chair,it is placed in the middle. on the left is a white table and a sink, on the right is a staircase and a door. behind is a black board, above is a blue chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "white table",
+                "sink",
+                "staircase",
+                "door",
+                "black board",
+                "blue chair"
+            ]
+        },
+        "unique": false
+    }
+]

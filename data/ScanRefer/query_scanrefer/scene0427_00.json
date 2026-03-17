@@ -1,0 +1,432 @@
+[
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is black with wheels. it is to the right of the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "the door is wooden. it is to the right of the trash can.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "the trashcan is small and black. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is against the wall. it is the first chair from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "the door is brown with a silver handle. it is to the right of the table.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "the round table has a black top. there are two black office chairs round the table.",
+        "parsed_query": {
+            "Target": "office chairs",
+            "Anchor": "round table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "the round table with the black top is in the corner of the room. two black office chairs around the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is an outlet in the wall next to the black office chair. the office chair is next to a round table.",
+        "parsed_query": {
+            "Target": "outlet",
+            "Anchor": [
+                "wall",
+                "black office chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in front of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "this is a black trash can. it is on the floor.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "floor"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is beside a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in front of a whiteboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "it is a black office chair. the chair is to the left of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "it is a tan door. the door is to the right of the trash can.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "it is a tan door. the door is behind the chairs.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "the window is behind the trash can. the window is to the left of the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "trash can",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is black. the chair is to the right of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular black trash can. it is in front of a window.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular black trash can. it is left of a door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "there is a black chair. it is in the corner and faces another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "there is a black chair. it is alone in the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "there is a circular table. it is in the center of the room.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "this is a steel surface. it is touching a bin in front of it.",
+        "parsed_query": {
+            "Target": "steel surface",
+            "Anchor": "bin"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a black chair with five legs. it is facing the view.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a black chair facing left. it has five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "this is a brown table that is round. it has a black circular center.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "this is a wooden surface in the corner. it has a handle on it.",
+        "parsed_query": {
+            "Target": "wooden surface",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "this is a long window. it is behind a trash can.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "this is a long window. it is behind a chair.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is facing another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in front of another black chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "black chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in a corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "this is a small glass panel window. it is to the left of the doorway near a trash can.",
+        "parsed_query": {
+            "Target": "glass panel window",
+            "Anchor": [
+                "doorway",
+                "trash can"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a black swivel office chair. it is facing away from a round table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "this is a small black trash bin. it is near the doorway in front of a window.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": [
+                "doorway",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "this is a round table top in the meeting room. there are two office chairs around it.",
+        "parsed_query": {
+            "Target": "round table top",
+            "Anchor": "office chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0427_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a black office chair on a swivel. it is next to a regular chair near the corner.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    }
+]

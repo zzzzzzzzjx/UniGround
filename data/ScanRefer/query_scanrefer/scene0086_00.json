@@ -1,0 +1,909 @@
+[
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "10",
+        "target_name": "bathroom_stall_door",
+        "caption": "this is a rectangle shaped tan/brown bathroom door for a stall. from this angle, it appears slightly to the left.",
+        "parsed_query": {
+            "Target": "stall door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "this is a tan paper towel dispenser. it's a mostly square shape and is to the right of both sinks.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "sink",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "17",
+        "target_name": "paper_towel_dispenser",
+        "caption": "this is another paper towel dispenser. this one is above the tan one, is mostly square and to the right of the two sinks.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "tan paper towel dispenser",
+                "two sinks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "this is an average looking rectangle white door for an office building or an apartment for the outer doors maybe to the stairs. it's to the left of the bathroom stall.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": "bathroom stall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "this is an average looking white toilet like what you would find in an office building or store. it is round and below the rail in the stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "rail"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispenser is orange and on the wall. it is right of the sink.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "wall",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispener is orange and left of the trash can. it is in the middle of the wall.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "22",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "the toilet paper dispenser is black and on the left of the stall. it is above the toilet in height.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "stall",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "the door is tan with a metal grating. the door is in the left corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "the door is beige with a dark bottom. the door is in the middle of a white wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "white wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "19",
+        "target_name": "sink",
+        "caption": "a white lavatory. it is attached in the wall with the other one.",
+        "parsed_query": {
+            "Target": "lavatory",
+            "Anchor": [
+                "wall",
+                "lavatory"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "20",
+        "target_name": "sink",
+        "caption": "a white lavatory. it is in between with the other lavatory and a brown machine attached to the wall.",
+        "parsed_query": {
+            "Target": "lavatory",
+            "Anchor": [
+                "other lavatory",
+                "brown machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "21",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "a tissue holder inside the comfort room. it is right behind the toilet bowl.",
+        "parsed_query": {
+            "Target": "tissue holder",
+            "Anchor": "toilet bowl"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "19",
+        "target_name": "sink",
+        "caption": "a white lavatory. it is attached to the wall.",
+        "parsed_query": {
+            "Target": "lavatory",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "21",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "a double tissue holder. it is above a metal like handle.",
+        "parsed_query": {
+            "Target": "double tissue holder",
+            "Anchor": "metal like handle"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "17",
+        "target_name": "paper_towel_dispenser",
+        "caption": "hanging on the far wall directly in from of you is a brown paper towel dispenser. it is in between a sink and the wall-attached garbige bin.  beneath it is a hand dryer.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "sink",
+                "wall-attached garbage bin",
+                "hand dryer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "directly in front of you is a door with a silver handle. to the left is a large square vent inserted into the bottom of the wall.",
+        "parsed_query": {
+            "Target": "vent",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "29",
+        "target_name": "bathroom_stall_door",
+        "caption": "a bathrom stall door sits to the left of two sinks. just behind it is a toilet with a toilet-paper dispenser to its left, hangin on the wall.",
+        "parsed_query": {
+            "Target": "toilet-paper dispenser",
+            "Anchor": [
+                "toilet",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "a trash can hangs on the far wall in between the corner of the room and a paper towell dispenser. sinks are to the left of the dispenser.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "corner of the room",
+                "paper towel dispenser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "in the first stall just to the left of two sinks is a toilet. just before it is a door to the stall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "first stall",
+                "two sinks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "20",
+        "target_name": "sink",
+        "caption": "a white lavatory. it is in between another lavatory and a brown machine attached in the wall.",
+        "parsed_query": {
+            "Target": "white lavatory",
+            "Anchor": [
+                "lavatory",
+                "brown machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "a white door. it is in between walls.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "walls"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "22",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "a black tissue holder. it is right next to the toilet bowl.",
+        "parsed_query": {
+            "Target": "tissue holder",
+            "Anchor": "toilet bowl"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "a white toilet bowl. it under a tissue holder.",
+        "parsed_query": {
+            "Target": "toilet bowl",
+            "Anchor": "tissue holder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "10",
+        "target_name": "bathroom_stall_door",
+        "caption": "this is a tan bathroom stall door. it is facing a toilet.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "5",
+        "target_name": "toilet_seat_cover_dispenser",
+        "caption": "this is a white toilet seat cover dispenser. it is above the toilet on the wall.",
+        "parsed_query": {
+            "Target": "toilet seat cover dispenser",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "this is a white toilet. it is under a white toilet seat cover dispenser.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "toilet seat cover dispenser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "this is a square paper towel dispenser. it is to the right of the sink.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "20",
+        "target_name": "sink",
+        "caption": "this is a white sink. it is to the right of another sink.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "29",
+        "target_name": "bathroom_stall_door",
+        "caption": "it is a white bathroom stall door. the stall door is on the stall that is closest to the sinks.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "sinks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "22",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "it is a plastic, wall mount toilet paper dispenser. the toilet paper dispenser is on the wall of the stall that is closest to the sinks.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "stall",
+                "sinks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "it is a white wall mounted toilet. the toilet is in the stall to the far left.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "stall to the far left"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "12",
+        "target_name": "soap_dispenser",
+        "caption": "it is a black plastic, wall mounted soap dispenser. the soap dispenser is mounted on the wall above the two sinks.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "wall",
+                "two sinks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "21",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "it is a wall mounted toilet paper dispenser. the toilet dispenser is on the wall next to the toilet, in the last stall to the left.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "wall",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "19",
+        "target_name": "sink",
+        "caption": "sink is wall mounted . another sink can be seen besides this sink.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "wall-mounted sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "20",
+        "target_name": "sink",
+        "caption": "this sink is between another sink and a paper towel dispenser. a wall mounted trash can can also be seen besides the paper towel dispenser.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "sink",
+                "paper towel dispenser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "12",
+        "target_name": "soap_dispenser",
+        "caption": "soap dispenser is wall mounted. it is mounted between two sinks.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "sink",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "17",
+        "target_name": "paper_towel_dispenser",
+        "caption": "it is wall mounted black paper dispenser above hand drier. a wall mounted trash can can be seen besides it.",
+        "parsed_query": {
+            "Target": "paper dispenser",
+            "Anchor": [
+                "hand drier",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "12",
+        "target_name": "soap_dispenser",
+        "caption": "it is on the wall in between two sinks. a paper towel dispenser and a hand drier can be seen on the seen.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "sink",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "19",
+        "target_name": "sink",
+        "caption": "the white sink is in the  corner of the room. it is to the left of the other sink and liquid soap dispenser.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "other sink",
+                "liquid soap dispenser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "the white door is located in the corner of the room. it is on the opposite side of the hand towel dispenser.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "hand towel dispenser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "19",
+        "target_name": "sink",
+        "caption": "the white sink is in the corner next to the wall of the bathroom stall. it is next to the sink on the right .",
+        "parsed_query": {
+            "Target": "white sink",
+            "Anchor": [
+                "bathroom stall wall",
+                "sink on the right"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "17",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispenser is to the right of the sinks. it is dark colored and to the left of the trash can.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "sinks",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "the trash an is stainless steel. it is opposite to the door and to the right of the hand towel dispenser.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "hand towel dispenser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "the door is the rightmost door on the wall directly across from the sinks. its handle is on the right side of the door, and it has a small white grate over the gray kickplate at the bottom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sinks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispenser is a darkish tan color and has some gray stickers on it. it is hanging on the wall in between the silver trash can and the porcelain sink.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "silver trash can",
+                "porcelain sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "12",
+        "target_name": "soap_dispenser",
+        "caption": "the soap dispenser is black and has a dark  gray handle. it is hanging on the wall in between the two porcelain sinks, but it is to the right side of center between the two.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "wall",
+                "porcelain sinks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "the door is the furthest door on the left side of the bathroom. it has a large gray and white grate on the bottom half of it, above the silver kickplate at the base.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "12",
+        "target_name": "soap_dispenser",
+        "caption": "the soap dispenser is black and has a push nozzle dispenser on the bottom. it is hanging on the wall in between the two sinks.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "sink",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "5",
+        "target_name": "toilet_seat_cover_dispenser",
+        "caption": "it is wall mounted.  a toilet can be seen under this.",
+        "parsed_query": {
+            "Target": "towel rack",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "door is present in front of the sinks. a  wall mounted trash can can also be seen in the scene.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sinks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "5",
+        "target_name": "toilet_seat_cover_dispenser",
+        "caption": "the highlighted object is wall mounted. a handle and a toilet can be seen under it.",
+        "parsed_query": {
+            "Target": "highlighted object",
+            "Anchor": [
+                "handle",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "21",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "this is a wall mounted toilet paper dispenser. this toilet paper dispenser is mounted on the wall next to the toilet. this toilet paper dispenser is in the stall with the window.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "toilet",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "10",
+        "target_name": "bathroom_stall_door",
+        "caption": "this is a tan bathroom stall door. this bathroom stall door is for the stall with the window.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": [
+                "stall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "5",
+        "target_name": "toilet_seat_cover_dispenser",
+        "caption": "this is a white, wall mounted toilet seay cover dispenser. this toilet seat cover dispenser hangs above the toilet ,in the stall with the window.",
+        "parsed_query": {
+            "Target": "toilet seat cover dispenser",
+            "Anchor": [
+                "toilet",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "22",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "this is a plastic,wall mounted toilet paper dispenser. this toilet paper dispenser is on the wall next to the toilet, in the stall to the left of the sinks.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "toilet",
+                "sinks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "this is a white toilet. this toilet is in the stall to the left of the sinks.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "stall",
+                "sinks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "17",
+        "target_name": "paper_towel_dispenser",
+        "caption": "this is a black,plastic,wall mounted paper towel dispenser. this paper towel dispenser is on the wall ,above the tan dispenser and, to the right of the sinks.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "tan dispenser",
+                "sinks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "29",
+        "target_name": "bathroom_stall_door",
+        "caption": "this is a tan bathroom stall door. this bathroom stall door is on the first stall to the left of the sinks.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "sinks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "29",
+        "target_name": "bathroom_stall_door",
+        "caption": "this is a tan bathroom stall door. this bathroom stall door is on the stall closest to the sinks.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "sinks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "this is a stainless steel, wall mounted trash can. this trash can is on the wall to the right of the sinks and the tan dispenser.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sinks",
+                "tan dispenser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "10",
+        "target_name": "bathroom_stall_door",
+        "caption": "this is a tan bathroom stall door. this bathroom stall door is on the last stall to the left.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "bathroom stall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "5",
+        "target_name": "toilet_seat_cover_dispenser",
+        "caption": "there is a white toilet seat cover dispenser box within the bathroom stall. the box is on the wall, behind the toilet and directly above it.",
+        "parsed_query": {
+            "Target": "toilet seat cover dispenser box",
+            "Anchor": [
+                "wall",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "10",
+        "target_name": "bathroom_stall_door",
+        "caption": "the door is wider than the other bathroom stall doors. the door is beige colored and opens to the handicapped stall.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": [
+                "bathroom stall doors",
+                "handicapped stall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "20",
+        "target_name": "sink",
+        "caption": "the bathroom sink is white and squared off in the front for use while standing. the sink is located between the soap dispenser and paper towel dispenser.",
+        "parsed_query": {
+            "Target": "bathroom sink",
+            "Anchor": [
+                "soap dispenser",
+                "paper towel dispenser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "21",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "the toilet paper dispenser is a rectangular black and gray box with rolls of toilet paper at the base. the dispenser is on the tiled wall beside the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": [
+                "tiled wall",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "the trash can is square and metallic. the trash can is mounted on the wall in the corner of the bathroom.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "the door with decoration. the fancy door is in the corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "the toilet in the stall. the toilet is by the toilet paper roll.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "stall",
+                "toilet paper roll"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "the toilet in the corner. the toilet is in the open in the corner.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "29",
+        "target_name": "bathroom_stall_door",
+        "caption": "the big bathroom stall door. the door is next to the toilet.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0086_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "the trash can in the wall. the trash can is next to the paper towel dispenser.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "paper towel dispenser"
+        },
+        "unique": false
+    }
+]

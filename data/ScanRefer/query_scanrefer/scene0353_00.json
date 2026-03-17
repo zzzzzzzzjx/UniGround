@@ -1,0 +1,1147 @@
+[
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "11",
+        "target_name": "couch",
+        "caption": "the object is a black couch . it has a chair with a orange blanket draped over it in front of it and a shelf to the left of it against the wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "chair with an orange blanket",
+                "shelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "47",
+        "target_name": "bed",
+        "caption": "it is a bed above a brown desk. the bed is made from wood.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "brown desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair has an orange shirt on it. the chair is made out of a dark wood.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "orange shirt"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "10",
+        "target_name": "mini_fridge",
+        "caption": "the mini fridge is located next to the drawers. it is a black fridge.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "drawers"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair has blue fabric and is made out of wood. it is located next to the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the wooden chair with navy blue fabric on it is to the left of another chair.  it has a white or cream throw over it and is pulled out away from the desk.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": [
+                "chair",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "30",
+        "target_name": "wardrobe_cabinet",
+        "caption": "the dark wooden, wardrobe cabinet is located to the immediate right of the bunk beds.  it has several items hanging off of the open wardrobe doors including a blue towel. both doors that are immediately to the right of the bunk beds are open. one door has the blue towel on it, the other has a grey garment.",
+        "parsed_query": {
+            "Target": "wardrobe cabinet",
+            "Anchor": "bunk beds"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "13",
+        "target_name": "dresser",
+        "caption": "the dresser is made of wood and has 3 drawers. it is located under the left side of the desk to the left of the red backpack.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "desk",
+                "red backpack"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "48",
+        "target_name": "pillow",
+        "caption": "the pillow is blue and white and is on the bed. it is on the far side of the bed on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a black office style chair to the right of a wooden chair with blue fabric.  the chair has wheels and is facing a bunk bed platform that has a laptop on it.  there are a pair of sneakers on the ground to the right of the black chair.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": [
+                "wooden chair with blue fabric",
+                "bunk bed platform"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "the shelf has 3 rows on the far wall. it is on the upper part of the wall above the couch.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "far wall",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "48",
+        "target_name": "pillow",
+        "caption": "the pillow is blue and white. it is located on the far side of the bed on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "17",
+        "target_name": "desk",
+        "caption": "there is a wooden platform that is part of a bunk bed configuration.  on the dark wooden platform are many items including a laptop and a water bottle.  there is a black office style chair to the left of the wooded platform.  the platform is part of a desk and cubicle system.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "wooden platform"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "8",
+        "target_name": "bookshelf",
+        "caption": "there is a wooden bookshelf that is to the left of a black sofa.  the bookshelf is up against a wall and holds many things on its three shelves.  immediately to the left of the bookshelf on the floor is a small trashcan.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "black sofa"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "a straight backed chair sits to the left of a couch. it has an orange piece of clothing hanging off the back.",
+        "parsed_query": {
+            "Target": "straight backed chair",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "a trash can sits between the wall and a chair with an orange coat hanging off of it. it is to the left of a bookcase.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wall",
+                "chair with an orange coat",
+                "bookcase"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "10",
+        "target_name": "mini_fridge",
+        "caption": "a mini fridge sits to the left of a dresser. it is to the right of an office chair.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": [
+                "dresser",
+                "office chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "17",
+        "target_name": "desk",
+        "caption": "a very messy desk sits to the right of an office chair. it has a laptop on top of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "office chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "an office chair sits to the right of a squarish chair with blue cushions. it is to the left of a desk and is almost pulled under it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "squarish chair with blue cushions",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "15",
+        "target_name": "whiteboard",
+        "caption": "there is a rectangular whiteboard. it is between a couch and a shelf.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "couch",
+                "shelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "15",
+        "target_name": "whiteboard",
+        "caption": "there is a rectangular whiteboard. it is in front of a shelf.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "shelf"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "13",
+        "target_name": "dresser",
+        "caption": "there is a rectangular dark dresser. it is under a table and next to a chair.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a dark office chair. it is at a table next to a blue chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "blue chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "30",
+        "target_name": "wardrobe_cabinet",
+        "caption": "a large wooden wordrobe.  one door has a blue towel hanging on it.",
+        "parsed_query": {
+            "Target": "wardrobe",
+            "Anchor": "blue towel"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "a small throw pillow sitting in the middle of the couch.  it is turned on it's face and has the dark side facing up and the lighter side facing the couch.",
+        "parsed_query": {
+            "Target": "throw pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "48",
+        "target_name": "pillow",
+        "caption": "a pillow on the bed that is to the left of the window.  the pillow is blue and at the very head of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "10",
+        "target_name": "mini_fridge",
+        "caption": "a small black mini fridge sitting across the room from the couch.  it is at the foot of the bed that is to the right of the window.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": [
+                "couch",
+                "bed",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "28",
+        "target_name": "pillow",
+        "caption": "the pillow is dark and square. when looking at the couch, it is on the left side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is black and oriented beside another surface. it is spatially facing about 330 degrees in relation to the viewer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this object is orange and is an article of clothing covering another object out of view. it is facing 180 degrees away from the observer and is not in close proximity such that it is contained.",
+        "parsed_query": {
+            "Target": "orange article of clothing",
+            "Anchor": [
+                "another object",
+                "observer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "10",
+        "target_name": "mini_fridge",
+        "caption": "this object is black, with some white specs on it and is oriented diagonally in relation to the closest surface to it. it is either hollow or filled, and has another object on top of it.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "6",
+        "target_name": "curtain",
+        "caption": "the curtain is between the two beds. it is split in the middle and covers the window.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "two beds",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "it is facing the wall. it is dark colored and has an orange shirt hanging on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "13",
+        "target_name": "dresser",
+        "caption": "the dresser is under the desk. it is dark colored and on the left side when looking at it from the front.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "13",
+        "target_name": "dresser",
+        "caption": "the dresser is under the desk. it is on the left and has a backpack leaning against it.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "desk",
+                "backpack"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "49",
+        "target_name": "shelf",
+        "caption": "the shelf is on the desk. it has two shelves and is against the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "17",
+        "target_name": "desk",
+        "caption": "the desk is wood and has many items on it. there is a chair in front of it and a dresser under it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "there are three shelves. it is on the wall and there are items on the bottom two shelves.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "11",
+        "target_name": "couch",
+        "caption": "the couch is dark colored. it is against the wall and there are two pillows on it. there are three cushions.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "50",
+        "target_name": "desk",
+        "caption": "it is against the wall. there are many objects on it and a chair in front of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "13",
+        "target_name": "dresser",
+        "caption": "it is under the desk on the left side. it is made of wood and has a backpack against it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "it is against the bookcase to the left. it is rectangular and dark colored.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": "bookcase"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "17",
+        "target_name": "desk",
+        "caption": "the desk is wood and flat. it has many objects on it and chairs in front.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "50",
+        "target_name": "desk",
+        "caption": "it has a lamp and a plate on it. there are shelves on the back side of it.",
+        "parsed_query": {
+            "Target": "it",
+            "Anchor": [
+                "lamp",
+                "plate",
+                "shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "the object is a set of three  wall shelves. they're found directly above the gray chairs against the wall with the calendar above them.",
+        "parsed_query": {
+            "Target": "wall shelves",
+            "Anchor": [
+                "gray chairs",
+                "calendar"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "47",
+        "target_name": "bed",
+        "caption": "the object is a blue bed it is a top bunk bed. it has a red bag hanging from the corner of the bed.",
+        "parsed_query": {
+            "Target": "top bunk bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "49",
+        "target_name": "shelf",
+        "caption": "the object is a small set of shelves. it is sitting under the top bunk bed that has the red bag hanging on the corner of it.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": "top bunk bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "15",
+        "target_name": "whiteboard",
+        "caption": "the object is a small attachable writing board. it is on the left end of the black couch in front of the shelf.",
+        "parsed_query": {
+            "Target": "writing board",
+            "Anchor": [
+                "black couch",
+                "shelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "this object is a black pillow located on the black couch. this pillow is on the middle cushion of the black couch. directly to the left of the couch is a hanging orange sweater and some shelves with knickknacks",
+        "parsed_query": {
+            "Target": "black pillow",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "11",
+        "target_name": "couch",
+        "caption": "the object referenced here is a long black couch against a wall in the room. it has various pillows on it and is near a hanging orange sweater and a whiteboard.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "hanging orange sweater",
+                "whiteboard"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "47",
+        "target_name": "bed",
+        "caption": "the object here is a bunk bed style bed with a wooden frame about 8 feet in height. the bottom portion of the bunk bed appears to be a cluttered desk. and the upper portion of the bunk bed is a mattress with blue sheets.",
+        "parsed_query": {
+            "Target": "bunk bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "49",
+        "target_name": "shelf",
+        "caption": "this object is on the desk on the lower portion of the bunk bed set up. it is 2 black shelves stacked on top of each other, it is located on the cluttered desk.",
+        "parsed_query": {
+            "Target": "two black shelves",
+            "Anchor": [
+                "desk",
+                "bunk bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this object is a black desk chair with a gray piece of clothing drapped over it. it is to the right of the cluttered brown desk. but is not facing the desk. the back of the chair is to the desk.",
+        "parsed_query": {
+            "Target": "black desk chair",
+            "Anchor": "cluttered brown desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "8",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf has 3 shelves full of stuff. it is located against the far wall to the left of the black couch.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "far wall",
+                "black couch"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "48",
+        "target_name": "pillow",
+        "caption": "the pillow is blue and white. it sits on the far side of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "15",
+        "target_name": "whiteboard",
+        "caption": "the white board has a grey frame and is clean. it is stood up between the couch and the shelves.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": [
+                "couch",
+                "shelves"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "30",
+        "target_name": "wardrobe_cabinet",
+        "caption": "the wardrobe cabinet has multiple doors open with towels thrown over them. it is to the right of the bed and left of the open door.",
+        "parsed_query": {
+            "Target": "wardrobe cabinet",
+            "Anchor": [
+                "bed",
+                "open door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "the pillow is black and is laying on its side. it is located on the right side of the black couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "6",
+        "target_name": "curtain",
+        "caption": "these are burgundy colored curtains.  they are on either side of the window.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "6",
+        "target_name": "curtain",
+        "caption": "these are a burgundy colored curtains.  they are on either side of the window by the bunk beds.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "window",
+                "bunk beds"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "30",
+        "target_name": "wardrobe_cabinet",
+        "caption": "the object is a large brown storage cabinet / dresser. it is located directly across from the gray chairs against the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "gray chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "8",
+        "target_name": "bookshelf",
+        "caption": "the object is a small storage shelf. it is located next to the black couch to the left against the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "black couch",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "49",
+        "target_name": "shelf",
+        "caption": "this is a two tiered desk shelf.  it is on top of the bottom bunk which is being used for a desk and is left of the window.",
+        "parsed_query": {
+            "Target": "desk shelf",
+            "Anchor": [
+                "bottom bunk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "6",
+        "target_name": "curtain",
+        "caption": "the object is a set of window curtains. they are found hanging from the window that is in between the two beds.",
+        "parsed_query": {
+            "Target": "window curtains",
+            "Anchor": [
+                "window",
+                "beds"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "11",
+        "target_name": "couch",
+        "caption": "the object is a black three-person couch. it is located next to the bookshelf that is to the left of it against the wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "bookshelf"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "these are boards attached to the wall to make shelving.  they are above the couch.",
+        "parsed_query": {
+            "Target": "boards",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "the pillow is on the couch. it is in the middle of it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "the trash can is to the left of the bookshelf. it is behind the chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "bookshelf",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "10",
+        "target_name": "mini_fridge",
+        "caption": "the mini fridge is to the right of the desk. there is a box on top of it.",
+        "parsed_query": {
+            "Target": "mini fridge",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "28",
+        "target_name": "pillow",
+        "caption": "the pillow is on the couch. it is on the far left side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "11",
+        "target_name": "couch",
+        "caption": "the couch is in the back of the room. it is black.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "30",
+        "target_name": "wardrobe_cabinet",
+        "caption": "these are brown wooden wardrobe cabinets with towels hanging all over it.  they are to the left of the door.",
+        "parsed_query": {
+            "Target": "wardrobe cabinets",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair has wheels. the chair is right in front of the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "17",
+        "target_name": "desk",
+        "caption": "the desk has a laptop on it. the desk has a water bottle on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "laptop",
+                "water bottle"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "15",
+        "target_name": "whiteboard",
+        "caption": "the white board is leaning against a shelf. the white board is by the sofa.",
+        "parsed_query": {
+            "Target": "white board",
+            "Anchor": [
+                "shelf",
+                "sofa"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "8",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf has a white board leaning on it. the bookshelf has 3 layers.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "white board"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "47",
+        "target_name": "bed",
+        "caption": "the bed is above the table. the bed has blue bed sheet on it.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "8",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf has 3 shelves that are bull. it is located on the far wall behind the couch.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is blue with a white shirt thrown over the back. it is the chair on the right that is closes to the far wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "far wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "the trash can is black and has a black bag in it. it is located to the right of the door frame and left of the bookshelf.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door frame",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "50",
+        "target_name": "desk",
+        "caption": "the desk is made of wood and is cluttered with school stuff. it is located under the bed on the left side of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "the trash can is small and black. it is located to the left of the chair with the orange towel on the back.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "the shelf has 3 rows. it is located on the far wall to the left of the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "28",
+        "target_name": "pillow",
+        "caption": "the pillow is black and is laid horizontally. it is on the far left side of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "28",
+        "target_name": "pillow",
+        "caption": "the pillow is black and is on its side. it is on the left side of the couch to the left of the blue shirt.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch",
+                "blue shirt"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "44",
+        "target_name": "shelf",
+        "caption": "the shelf has 2 rows that are full of stuff. it is on the middle of the desk to the left of the monitor.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "44",
+        "target_name": "shelf",
+        "caption": "the shelf is underneath a lofted bed. it is underneath the bed on the right side of the room.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "lofted bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "it is a black or dark pillow. it is on the middle cushion of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "48",
+        "target_name": "pillow",
+        "caption": "the pillow is on the bed on the left side of the room. it is blue in color and the only one on that bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "44",
+        "target_name": "shelf",
+        "caption": "the shelf is underneath a lofted bed. it is under the bed on the right side of the room.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "lofted bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is facing a desk.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is behind a black chair.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "black chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "49",
+        "target_name": "shelf",
+        "caption": "this is a brown shelf. it is on the desk.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0353_00",
+        "target_id": "6",
+        "target_name": "curtain",
+        "caption": "this is an open curtain. it is in front of a window.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "window"
+        },
+        "unique": true
+    }
+]

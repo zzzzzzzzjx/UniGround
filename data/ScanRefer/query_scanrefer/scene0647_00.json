@@ -1,0 +1,739 @@
+[
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "13",
+        "target_name": "stool",
+        "caption": "this is a small red stool with a silver metallic base. it is to the left of the round table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "this is a black flat screen tv. it is mounted to the wall above the round table.",
+        "parsed_query": {
+            "Target": "flat screen tv",
+            "Anchor": [
+                "wall",
+                "round table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this is a small round metallic table. it is located between two red stools.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red stool",
+                "red stool"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "13",
+        "target_name": "stool",
+        "caption": "this is a red and silver stool. it is located to the left of the round table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "12",
+        "target_name": "stool",
+        "caption": "this is a red and silver metallic round stool. it is located to the right of the round table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "there is a black couch by the corner. it is the one closest to the orange stool.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "orange stool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "there is a silver table by the wall. it is next to the tv.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "tv"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "8",
+        "target_name": "stool",
+        "caption": "there is an orange stool by the door.  it is farthest from the corner.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "5",
+        "target_name": "ping_pong_table",
+        "caption": "there is a ping pong table in the room. it is near the door.",
+        "parsed_query": {
+            "Target": "ping pong table",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "5",
+        "target_name": "ping_pong_table",
+        "caption": "there is a ping pong table in the center of the area. behind are the furniture.",
+        "parsed_query": {
+            "Target": "ping pong table",
+            "Anchor": "furniture"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "a white top square table in the corner of the room.  there are two bench style seats around the sides of the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "0",
+        "target_name": "stool",
+        "caption": "a small orange seat stool.  this one is in the corner closest to the wall, under the television.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "television"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "a round white table in the corner next to the television.  there are two orange stools beside the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "television"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "a television mounted to the wall.  it is in the corner across from the large flower painting.",
+        "parsed_query": {
+            "Target": "television",
+            "Anchor": [
+                "wall",
+                "large flower painting"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "0",
+        "target_name": "stool",
+        "caption": "the stool that is closest to the television in the corner.  it is orange and sits beside a round table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "television",
+                "round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the metallic grey table is circular and in between two orange stools. it is in the corner of the room to the left of the door way.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "orange stools",
+                "doorway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "the circular metal table is in the corner of the room to the right of the white door. it is in between two orange stools.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "white door",
+                "orange stools"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "the metal square table is in the corner of the room to the right of the door way. it has a blue sofa chair around two side of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "door way",
+                "blue sofa chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "12",
+        "target_name": "stool",
+        "caption": "the orange stool is just to the left of the door way. it is directly to the right of the metal circular table.",
+        "parsed_query": {
+            "Target": "orange stool",
+            "Anchor": [
+                "doorway",
+                "metal circular table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "8",
+        "target_name": "stool",
+        "caption": "the orange stool is to the right of the white door. it is in front of the metal table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "white door",
+                "metal table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a brown wood chair with no arms and a high back. it is next to the wall, below the picture and to the right of the backpack on the floor.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "picture",
+                "backpack"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this is a round metallic table with a single pole base. it is located between two red stools and against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "red stools",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "20",
+        "target_name": "couch",
+        "caption": "a brunch style bench in the corner of the room beside the white square table.  there is a backpack on the floor to the right of the couch.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "white square table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "5",
+        "target_name": "ping_pong_table",
+        "caption": "a large blue top ping pong table.  it is in the corner by the large floral picture.",
+        "parsed_query": {
+            "Target": "ping pong table",
+            "Anchor": "large floral picture"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "the armless couch beside the entryway.  it is under the square white table.",
+        "parsed_query": {
+            "Target": "armless couch",
+            "Anchor": [
+                "entryway",
+                "square white table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "20",
+        "target_name": "couch",
+        "caption": "this is a blue bench sofa. it is against the wall and to the right of an identical bench sofa and to the right of the square table.",
+        "parsed_query": {
+            "Target": "bench sofa",
+            "Anchor": [
+                "wall",
+                "bench sofa",
+                "square table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "a wooden armless chair.  it is facing the backpack on the floor.",
+        "parsed_query": {
+            "Target": "wooden armless chair",
+            "Anchor": "backpack"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "a wooden armless chair facing the corner couch.  it is in front of the grey backpack on the floor.",
+        "parsed_query": {
+            "Target": "wooden armless chair",
+            "Anchor": [
+                "corner couch",
+                "grey backpack"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this is a metallic round table with a base of one pole. it is below the picture on the wall and between two red stools.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "picture",
+                "stools"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a brown wood chair with a slatted back. it is next to the wall and to the right of the sofa and table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "sofa",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "8",
+        "target_name": "stool",
+        "caption": "it is the orange stool closer to the door. it is across the room from the large orange flower painting, near the television.",
+        "parsed_query": {
+            "Target": "orange stool",
+            "Anchor": [
+                "door",
+                "large orange flower painting",
+                "television"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "the grey single-legged table is in the corner with the booth seating. it is across from both tables with stools.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "booth seating",
+                "tables with stools"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "12",
+        "target_name": "stool",
+        "caption": "this chair is on the left. it is red and furthest from viewer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "12",
+        "target_name": "stool",
+        "caption": "this red chair is second from the left. it is red and round.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "5",
+        "target_name": "ping_pong_table",
+        "caption": "this ping pong table is rectangular. it is blue.",
+        "parsed_query": {
+            "Target": "ping pong table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "this table is on the top left. it is circular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "it is one half of the couch for the corner booth. it is the couch closest to the door.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "corner booth",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "20",
+        "target_name": "couch",
+        "caption": "this couch is facing the viewer. it is green.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "13",
+        "target_name": "stool",
+        "caption": "this stool is on the top left. it is red.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "this tv is against the wall. it is black and off.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "13",
+        "target_name": "stool",
+        "caption": "this stool is left and is standing. it is red.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "the small round table is with the two orange stools by the television. it is across the room from the orange flower art piece.",
+        "parsed_query": {
+            "Target": "small round table",
+            "Anchor": [
+                "two orange stools",
+                "television",
+                "orange flower art piece"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "5",
+        "target_name": "ping_pong_table",
+        "caption": "this ping pong table is in the middle. it is blue.",
+        "parsed_query": {
+            "Target": "ping pong table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "this tv is on the far wall. it is black and off.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "the couch is on the left, closest to the doorway. the couch is part of the larger booth that takes up an entire corner of the room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "doorway",
+                "booth"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "8",
+        "target_name": "stool",
+        "caption": "this is an orange stool. it is to the left of the table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "this is a square table. it is in front of a blue seat.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": "blue seat"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "12",
+        "target_name": "stool",
+        "caption": "this is an orange stool. it is to the right of the table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "this is a square table. it is by the backpack.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "backpack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "20",
+        "target_name": "couch",
+        "caption": "this is a blue couch. it is behind the table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "20",
+        "target_name": "couch",
+        "caption": "the couch is green. the couch is on the right of the other couch.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "other couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "8",
+        "target_name": "stool",
+        "caption": "the stool is orange. the stool is on the left of the other stool.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "other stool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "15",
+        "target_name": "tv",
+        "caption": "the tv is black. the tv is mounted above the table.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "the couch is green patterned. the couch is on the left of the table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is brown. the chair is to the right of the grey square table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "grey square table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "0",
+        "target_name": "stool",
+        "caption": "this stool is orange and circular. it is on the far side of the around table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "0",
+        "target_name": "stool",
+        "caption": "this stool is on the far wall. it is orange and at the round table.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "far wall",
+                "round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "0",
+        "target_name": "stool",
+        "caption": "this is one of two stools at the round table. it is orange. it has a footrest. it is the farther stool and against the wall.",
+        "parsed_query": {
+            "Target": "orange stool",
+            "Anchor": [
+                "round table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this is a round table. it has two stools on either side of it. it is against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0647_00",
+        "target_id": "13",
+        "target_name": "stool",
+        "caption": "this stool is orange. it is in the corner. it is round and is on the left side.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

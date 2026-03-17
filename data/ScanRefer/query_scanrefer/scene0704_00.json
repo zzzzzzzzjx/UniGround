@@ -1,0 +1,895 @@
+[
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "5",
+        "target_name": "cabinets",
+        "caption": "there are brown rectangular cabinets. they are under black counters.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "counters"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "there are brown cabinets. they are hanging over a black counter.",
+        "parsed_query": {
+            "Target": "brown cabinets",
+            "Anchor": "black counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "14",
+        "target_name": "cabinets",
+        "caption": "there are wooden cabinets. they are located over a black counter.",
+        "parsed_query": {
+            "Target": "wooden cabinets",
+            "Anchor": "black counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "18",
+        "target_name": "trash_can",
+        "caption": "the trash can is actually a special trash can called a paper shredder for destroying confidential documents. it is sitting between the cabinets and the copying machine.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "cabinets",
+                "copying machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "0",
+        "target_name": "cart",
+        "caption": "the light tan rolling cart is great for moving small office boxes or copy paper around the office place. the cart is located between the tan cabinet and the water refill jugs.",
+        "parsed_query": {
+            "Target": "rolling cart",
+            "Anchor": [
+                "tan cabinet",
+                "water refill jugs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "the trash can is small and black. the trash can is sitting in front of a water cooler machine, beside a table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "water cooler machine",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "25",
+        "target_name": "picture",
+        "caption": "the picture is on the same wall as the bulletin board. the picture is directly behind the copier machine.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "bulletin board",
+                "copier machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "0",
+        "target_name": "cart",
+        "caption": "the cart is in the center of the room. the cart is gray and rectangular.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "0",
+        "target_name": "cart",
+        "caption": "the cart is in the center of the room. the cart is dark gray and rectangular.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "5",
+        "target_name": "cabinets",
+        "caption": "the cabinets are north of the entrance door. the cabinets are l-shaped and boxy.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "the cabinets are on the top right of the \"l\" shaped, corner cabinets. the cabinets are above the paper-cutter.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "l shaped corner cabinets",
+                "paper-cutter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "10",
+        "target_name": "picture",
+        "caption": "the picture is west and above the printer. the picture is square and has brown edges.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "printer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "this is a tan table. it is in between trash cans.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "trash cans"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "this is a black shelf. it is to the right of the water dispenser.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "water dispenser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "this is a black trash can. it is under the table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "17",
+        "target_name": "counter",
+        "caption": "this is a black counter. it is above cabinets.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "18",
+        "target_name": "trash_can",
+        "caption": "this is a black trash can. it is in front of a gray and blue trash can.",
+        "parsed_query": {
+            "Target": "black trash can",
+            "Anchor": "gray and blue trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "18",
+        "target_name": "trash_can",
+        "caption": "the black trash can is sitting against the wall and behind the office bed. there are moving tray tables to the left of it.",
+        "parsed_query": {
+            "Target": "black trash can",
+            "Anchor": [
+                "wall",
+                "office bed",
+                "moving tray tables"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "25",
+        "target_name": "picture",
+        "caption": "the picture is hanging to the left side of the wall. there is a large bulletin board to the right of it.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "an open brown door has a black handle on it. it is to the right of the silver tray table in the middle of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "silver tray table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "20",
+        "target_name": "recycling_bin",
+        "caption": "this recycling bin is in the middle. it is blue.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "11",
+        "target_name": "picture",
+        "caption": "a picture is on the wall to the right of two others. it is smaller in size to the one on the right.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "20",
+        "target_name": "recycling_bin",
+        "caption": "this recycling bin is facing right. it is blue.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "20",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is north of the black one. the recycling bin is blue and rectangular.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "black one"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "11",
+        "target_name": "picture",
+        "caption": "this picture is on the wall. it is square.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "1",
+        "target_name": "cart",
+        "caption": "the cart is in the center of the room. the cart is a gray rectangle.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "this table is brown. it is hard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this trash can is on the floor. it is empty or filled.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "the table is next to the printer. the table is brown and square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "printer"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "0",
+        "target_name": "cart",
+        "caption": "the silver cart is in the middle of the room with a black trash can behind it. there is a larger cart to the left of it.",
+        "parsed_query": {
+            "Target": "silver cart",
+            "Anchor": [
+                "black trash can",
+                "larger cart"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "the shelf is on the northwest corner of the room. the shelf is black and rectangular.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "1",
+        "target_name": "cart",
+        "caption": "the cart is in the middle of the room. the cart is a gray rectangle.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "14",
+        "target_name": "cabinets",
+        "caption": "the cabinets are above the printers. the cabinets are tan colored and rectangular.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "printers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "5",
+        "target_name": "cabinets",
+        "caption": "the cabinets are north of the door. the cabinets are l-shaped and brown.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "the table is right of the copier machine. the table is a brown square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "copier machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "25",
+        "target_name": "picture",
+        "caption": "the picture is on the wall north of the copier. the picture is square.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "1",
+        "target_name": "cart",
+        "caption": "the cart is in the middle of the room. the cart is a gray rectangular shape.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this is a tan door. it is to the left of the printer.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "printer"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this is a tan door. it is to the left of the cabinet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "20",
+        "target_name": "recycling_bin",
+        "caption": "this is a blue recycle bin. it is behind a trash can.",
+        "parsed_query": {
+            "Target": "recycle bin",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "20",
+        "target_name": "recycling_bin",
+        "caption": "this is a blue recycle bin. it is in front of brooms.",
+        "parsed_query": {
+            "Target": "recycle bin",
+            "Anchor": "brooms"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "14",
+        "target_name": "cabinets",
+        "caption": "these are tan cabinets. they are above the printer.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "printer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the light brown door has a dark brown handle. it is located in the right corner of the room past the cabinet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "the rectangular brown trash can is on the floor. it is located under the right side of the tan desk.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "tan desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "25",
+        "target_name": "picture",
+        "caption": "the tan picture is on the wall on the right side of the room. it is located right above the copier.",
+        "parsed_query": {
+            "Target": "tan picture",
+            "Anchor": [
+                "wall",
+                "copier"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "11",
+        "target_name": "picture",
+        "caption": "the small picture is located on the wall of three pictures.  it is the picture on the left hand side of the 3 pictures hanging.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "10",
+        "target_name": "picture",
+        "caption": "the picture is on the back wall. it is one of 3 pictures hanging on that wall and its the one in the middle.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "11",
+        "target_name": "picture",
+        "caption": "framed picture hanging on the wall, third on the left in a group of three.  the picture is on the wall above a dolly.",
+        "parsed_query": {
+            "Target": "framed picture",
+            "Anchor": [
+                "wall",
+                "dolly"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "it is a black trash can. the black trash can is on the right side of the room, in front of the water cooler.",
+        "parsed_query": {
+            "Target": "black trash can",
+            "Anchor": [
+                "water cooler"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "small black garbage can near the middle of the room.  it is to the left of a shelf filled with large water jugs.",
+        "parsed_query": {
+            "Target": "garbage can",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "11",
+        "target_name": "picture",
+        "caption": "it is a purple and white picture. the purple and white picture is the picture on the left of the three pictures on the middle wall, at the left of the right wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "middle wall",
+                "right wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "25",
+        "target_name": "picture",
+        "caption": "it is a large purple and white picture. the large purple and white picture on the left wall, above the copier.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "left wall",
+                "copier"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "14",
+        "target_name": "cabinets",
+        "caption": "light brown/beige upper cabinets with 4 doors and metal handles.  the cabinets are directly above some office equipment on the very left of the room, inside the door.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "office equipment"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "0",
+        "target_name": "cart",
+        "caption": "it is a grey cart. the grey cart is the cart that is in front of the water bottle shelf at the right side of the room.",
+        "parsed_query": {
+            "Target": "grey cart",
+            "Anchor": "water bottle shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "it is the black shelf. the black shelf is the water bottle shelf on the right wall, next to the bulletin board.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bulletin board"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "9",
+        "target_name": "trash_can",
+        "caption": "small round black trash can near the middle of the room.  the trash can is under a table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "there is a rectangular black shelf. it has jugs of water in it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular trash can. it is next to a gray cabinet.",
+        "parsed_query": {
+            "Target": "rectangular trash can",
+            "Anchor": "gray cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "1",
+        "target_name": "cart",
+        "caption": "there is a rectangular metal cart. it is next to a cardboard box.",
+        "parsed_query": {
+            "Target": "rectangular metal cart",
+            "Anchor": "cardboard box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "5",
+        "target_name": "cabinets",
+        "caption": "there are wooden cabinets. they are under a black counter.",
+        "parsed_query": {
+            "Target": "wooden cabinets",
+            "Anchor": "black counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "5",
+        "target_name": "cabinets",
+        "caption": "there are beige wooden cabinets. they are beneath a black counter.",
+        "parsed_query": {
+            "Target": "beige wooden cabinets",
+            "Anchor": "black counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "14",
+        "target_name": "cabinets",
+        "caption": "these are tan cabinets. they are above the counters.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "counters"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "these are tan cabinets. they are above the counter.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "7",
+        "target_name": "shelf",
+        "caption": "this is a black shelf. it is behind the cart.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "cart"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this is a tan door. it is to the left of the counter.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "18",
+        "target_name": "trash_can",
+        "caption": "this is a black trash can. it is to the left of the blue trash can.",
+        "parsed_query": {
+            "Target": "black trash can",
+            "Anchor": "blue trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "17",
+        "target_name": "counter",
+        "caption": "the counter is north of the door. the counter is an l-shaped rectangle.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "17",
+        "target_name": "counter",
+        "caption": "the counter is on the northwest side of the room. the counter is black and rectangular.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "10",
+        "target_name": "picture",
+        "caption": "the picture is the middle one on the northeast corner of the room. the picture is a square.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "the table is east of the copier machine. the table is a yellow square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "copier machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "the trash can is between the copier and the table. the trash can is a gray rectangular prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "copier",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "1",
+        "target_name": "cart",
+        "caption": "this cart is in the center. it is light on its top.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "these cabinets are in the corner. they are brown in color.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "10",
+        "target_name": "picture",
+        "caption": "this picture is on the wall. it is in between two other pictures at a higher elevation.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "two other pictures"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "18",
+        "target_name": "trash_can",
+        "caption": "this black trash can is in the center. it is empty or filled.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0704_00",
+        "target_id": "10",
+        "target_name": "picture",
+        "caption": "this is the second picture on the wall. it has a dark brown border.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

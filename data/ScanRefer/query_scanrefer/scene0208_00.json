@@ -1,0 +1,694 @@
+[
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "10",
+        "target_name": "rack_stand",
+        "caption": "silver magazine rack is at the end of the book shelf closest to the wall, it is next to a black magazine rack. they are across from a table that is covered in books.",
+        "parsed_query": {
+            "Target": "silver magazine rack",
+            "Anchor": [
+                "book shelf",
+                "black magazine rack",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "9",
+        "target_name": "book_rack",
+        "caption": "black magazine rack, next to so a silver magazine rack. both are at the end of the bookshelf closest to the wall.",
+        "parsed_query": {
+            "Target": "black magazine rack",
+            "Anchor": [
+                "silver magazine rack",
+                "bookshelf",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "0",
+        "target_name": "bookshelf",
+        "caption": "bookshelf with 7 shelves and 4 sections. it is on the wall opposite the table that has books on it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "table that has books on it"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the front of the table on the right, when viewed from in front the two rows of bookshelves, facing the table. above the gray, purple, green swatch of carpet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "two rows of bookshelves",
+                "gray, purple, green swatch of carpet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "106",
+        "target_name": "bookshelf",
+        "caption": "there are some bookshelves full of books. they are to the right of the bench.",
+        "parsed_query": {
+            "Target": "bookshelves",
+            "Anchor": "bench"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "9",
+        "target_name": "book_rack",
+        "caption": "there is a rotating book rack that stands on the floor. it is directly to the left of the front most bookshelf.",
+        "parsed_query": {
+            "Target": "rotating book rack",
+            "Anchor": "front most bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "15",
+        "target_name": "book_rack",
+        "caption": "there is a book rack. it is to the right of the bookshelf.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": "bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "15",
+        "target_name": "book_rack",
+        "caption": "the book rack is the furthest to the right in the scene. it has black shelves on it and wooden sides.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "15",
+        "target_name": "book_rack",
+        "caption": "the book rack is the furthest one to the right of the entire assortment. it has black shelves and brown stands on each side.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "1",
+        "target_name": "bookshelf",
+        "caption": "the large bookshelf is to the left of the corner in the room. there are three sections of black shelves for the bookshelf.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "10",
+        "target_name": "rack_stand",
+        "caption": "the rack stand is at the end of the book shelf row. the stand is white with dog books placed in it.",
+        "parsed_query": {
+            "Target": "rack stand",
+            "Anchor": "book shelf row"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the light brown with black legs table is holding a collection of books on it. it is the further left table in the image.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "13",
+        "target_name": "book_rack",
+        "caption": "the book rack is next to a right-angle shaped pair of bookcases. the book rack is black and has five legs.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": "right-angle shaped pair of bookcases"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "0",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is to the right of a long bookshelf. the bookshelf has four sections and is rectangular.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "long bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "106",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is on the center of the northernmost wall in the room. the bookshelf has five sections shaped like rectangles.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "northernmost wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "13",
+        "target_name": "book_rack",
+        "caption": "the book rack is to the left of two bookshelves that look like a right angle. the book rack is a thin metal pole with books attached to it.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is to the north of the two bookshelves in the center of the room. the table is a long, creamy brown rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "12",
+        "target_name": "rack_stand",
+        "caption": "the rack stand is north of the rightmost bookshelf in the center of the room. the rack stand is shaped like a hollowed out cylinder.",
+        "parsed_query": {
+            "Target": "rack stand",
+            "Anchor": "rightmost bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "1",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is between a rack stand and another bookshelf in a corner of the room. the bookshelf has three sections that looks like rectangles.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "rack stand",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "106",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is against the left wall. it consists of five sections vertically. it is located to the left of the table.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "left wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "0",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is located on the right wall. it extends the length of the wall, and meets another bookshelf in the corner that extends perpendicular to it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "right wall",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "106",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is against the left wall. it is to the left of the table, and is filled with books.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "left wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table has some boxes under it. the table is to the immediate left of another table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "the bench is on the left side of the room. there are bookshelves to the right of it, and beyond it on the other wall.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "9",
+        "target_name": "book_rack",
+        "caption": "the book rack is the rightmost one in front of the leftmost bookcase in the center of the room. the book rack is a black pole.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": "leftmost bookcase"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "12",
+        "target_name": "rack_stand",
+        "caption": "the rack stand is located at the right end of the bookshelf. the rack stand is to the left of the table.",
+        "parsed_query": {
+            "Target": "rack stand",
+            "Anchor": [
+                "bookshelf",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table has pieces of literature atop it. it is to the immediate right of another table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "12",
+        "target_name": "rack_stand",
+        "caption": "the rack stand is at the end of the bookshelf. it is to the left of a similar rack stand.",
+        "parsed_query": {
+            "Target": "rack stand",
+            "Anchor": [
+                "bookshelf",
+                "rack stand"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "11",
+        "target_name": "rack_stand",
+        "caption": "the rack stand is located to the right of a similar rack stand. it is located at the near end of the bookshelf.",
+        "parsed_query": {
+            "Target": "rack stand",
+            "Anchor": [
+                "rack stand",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "9",
+        "target_name": "book_rack",
+        "caption": "the book rack is located to the left of the bookshelf. it is also located to the right of the table.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": [
+                "bookshelf",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "15",
+        "target_name": "book_rack",
+        "caption": "a book rack against the back wall. the book rack is to the right of a large bookshelf.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": [
+                "back wall",
+                "large bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "15",
+        "target_name": "book_rack",
+        "caption": "the book rack is in the northwest corner of the room. the book rack is black and has five legs.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "13",
+        "target_name": "book_rack",
+        "caption": "the book rack is located to the left of a book shelf. it is between a table of books and the bookshelf.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": [
+                "bookshelf",
+                "table of books"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "9",
+        "target_name": "book_rack",
+        "caption": "the book rack is located to the right of another rack. it is on the end of an aisle of book shelves.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": [
+                "rack",
+                "book shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table is covered in books. it is located across from all of the bookshelves.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "10",
+        "target_name": "rack_stand",
+        "caption": "the rackstand is located behind the book rack. it is across from a table of books.",
+        "parsed_query": {
+            "Target": "rackstand",
+            "Anchor": [
+                "book rack",
+                "table of books"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "the bench is located in the back left corner of the room. it is across from bookshelves.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "there is a light brown table. the light brown table is covered in books and is to the right of a similar table.",
+        "parsed_query": {
+            "Target": "light brown table",
+            "Anchor": "similar table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "3",
+        "target_name": "bookshelf",
+        "caption": "there is a long, brown bookshelf. the bookshelf is the first one from the left of the two bookshelves in the middle of the floor.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "3",
+        "target_name": "bookshelf",
+        "caption": "the brown bookshelf is covered in books. it is the second bookshelf from the right.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "0",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is behind the two bookcases in the center of the room. the bookshelf is rectangular and has four sides.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "bookcases"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "1",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is between a book stand and a bookshelf. the bookshelf is rectangular and has three sections.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "book stand",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table is in front of the two bookshelves in the center of room. the table is a rectangular one with four legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "the bench is between two large bookshelves. the bench is rectangular and red brown in color.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "large bookshelf",
+                "large bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "the bench is between two large bookshelves. the bench is rectangular and red-brown colored.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "large bookshelf",
+                "large bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "1",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is between a book stand and another bookshelf. the bookshelf is rectangular and has three sections.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "book stand",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "7",
+        "target_name": "bench",
+        "caption": "the bench is between two bookshelves. the bench is a red brown rectangle.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": [
+                "bookshelf",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "106",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is to the right of the red brown bench. the bookshelf is rectangular and has five sections.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "red brown bench"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is in front of the two bookshelves in the center. the table is a light brown rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "1",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is between the book stand and another bookshelf. the bookshelf is rectangular with many books inside it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "book stand",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "13",
+        "target_name": "book_rack",
+        "caption": "the book rack is to the left of an angled bookshelf. the book rack is black and has a round bottom.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": "angled bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "11",
+        "target_name": "rack_stand",
+        "caption": "the rack stand is the second rack stand in from the left. it is in the centre of the room.",
+        "parsed_query": {
+            "Target": "rack stand",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "10",
+        "target_name": "rack_stand",
+        "caption": "this rack stand is the second rack stand in from the right. it is in front of the right bookshelf.",
+        "parsed_query": {
+            "Target": "rack stand",
+            "Anchor": "right bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "12",
+        "target_name": "rack_stand",
+        "caption": "the rack stand is the rightmost one that is in front of the rightmost bookshelf in the center. the rack stand is black and has a round bottom.",
+        "parsed_query": {
+            "Target": "rack stand",
+            "Anchor": "bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "13",
+        "target_name": "book_rack",
+        "caption": "the book rack is left of the bookshelf that looks like a right angle with another. the book rack is black and has as circular bottom.",
+        "parsed_query": {
+            "Target": "book rack",
+            "Anchor": "bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "12",
+        "target_name": "rack_stand",
+        "caption": "the rack stand is the rightmost one that is in front of the rightmost bookshelf in the center. the rack stand is a pole with two circles on each end.",
+        "parsed_query": {
+            "Target": "rack stand",
+            "Anchor": "rightmost bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0208_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is in front of the two bookshelves in the center. the table has a light tan color and is rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bookshelves"
+        },
+        "unique": false
+    }
+]

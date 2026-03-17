@@ -1,0 +1,1167 @@
+[
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "there is a monitor sitting on the left side of a desk.  the desk is smaller and curved of the two desks sitting back to back next to the window.  the monitor is more of a light gray, where the second one nearest the window is yellowed a little bit.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "30",
+        "target_name": "keyboard",
+        "caption": "the keyboard is sitting on top of the desk. it is in front of the left-side monitor.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "left-side monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "the cabinet is next to the couch. it is located on the right side of the couch, against the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "couch",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "30",
+        "target_name": "keyboard",
+        "caption": "the keyboard sits atop the workstation desk. it is located in front of the left-side monitor.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "workstation desk",
+                "left-side monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "it is a dark colored two seater futon located by the door. it is located underneath a whiteboard.",
+        "parsed_query": {
+            "Target": "futon",
+            "Anchor": [
+                "door",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "the highlighted object is a door that is light brown and rectangular. it is the the right of a set of shelves and a black fan.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "set of shelves",
+                "black fan"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "this is a silver and black monitor. it is the farthest left on a tan colored desk and closest to a whiteboard.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "tan colored desk",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "it is a white and black computer monitor shaped like a rectangle with a smaller, rectangular base. the monitor is the the right of another, taller computer monitor and in front of a desk chair.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "taller computer monitor",
+                "desk chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "0",
+        "target_name": "monitor",
+        "caption": "this is an off-white and black monitor. it is on the right closely to an all white monitor that is similar in size.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "white monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "12",
+        "target_name": "office_chair",
+        "caption": "this is a black rolling office chair with a high back. it is behind a tan colored desk with the back facing a wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "tan colored desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "the object is a white side table that is about waist height. it is to the right of the blue sofa and in front of a white wall.",
+        "parsed_query": {
+            "Target": "side table",
+            "Anchor": [
+                "blue sofa",
+                "white wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "the highlighted object is a deck with a slight curve. it is to the right of a desk chair and on top of the desk is a variety of office supplies such as computer monitors and a mouse.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "desk chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "this is an white and black monitor. it is behind an all black keyboard on a tan desk. it is close to an off white and black monitor of similar size.",
+        "parsed_query": {
+            "Target": "white and black monitor",
+            "Anchor": [
+                "all black keyboard",
+                "tan desk",
+                "off white and black monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "41",
+        "target_name": "pillow",
+        "caption": "it is a small pillow located on the coutch.  you can notice it directly on your left when walking through the door into the room.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "38",
+        "target_name": "file_cabinet",
+        "caption": "it is a file cabinet located on the left side of the wheeled chair. it is white colored and located in the fron of the wall.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "wheeled chair",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "it is a black sofa. it is located to the wall behind the fan.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": [
+                "wall",
+                "fan"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "36",
+        "target_name": "shelf",
+        "caption": "it is a black semi-opened computer case. located on the left-side of the office desk.",
+        "parsed_query": {
+            "Target": "computer case",
+            "Anchor": "office desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "34",
+        "target_name": "keyboard",
+        "caption": "it is a white keyboard, located on the desk. you will find next to it a bottle of water and a bottle of coke.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "bottle of water",
+                "bottle of coke"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "there is a large, gray, bookshelf in the corner of the room by the door.  it has a small couch sitting up next to it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "door",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "0",
+        "target_name": "monitor",
+        "caption": "there's a monitor with yellowed bezel sitting on a small curved desk.  the monitor is on the smaller of the two desks and sitting to the right of another monitor.  the monitor is the one sitting nearest the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "small curved desk",
+                "another monitor",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "34",
+        "target_name": "keyboard",
+        "caption": "there is a white keyboard sitting on the smaller of two desks.  it's sitting nearest the window, with a black keyboard sitting to it's left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "smaller desk",
+                "window",
+                "black keyboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "16",
+        "target_name": "cabinet",
+        "caption": "there's a small cabinet sitting underneath the window behind the larger of the trow desks.  it has various items in the upper part, and a light-tan looking drawer in the bottom.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "window",
+                "larger desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "41",
+        "target_name": "pillow",
+        "caption": "this is a square gray throw pillow. it is placed flat on the right corner of a dark blue sofa and the sofa is placed in the corner of the room.",
+        "parsed_query": {
+            "Target": "throw pillow",
+            "Anchor": "dark blue sofa"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this is a small dark sofa; the sofa looks black. it is placed in the corner of a room.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "9",
+        "target_name": "desk",
+        "caption": "this is a brown office desk, slightly curved at the front. the desk contains two computer monitors, a keyboard, a bottle of water, a bottle of coke and a few other miscellaneous items.",
+        "parsed_query": {
+            "Target": "office desk",
+            "Anchor": [
+                "computer monitors",
+                "keyboard",
+                "bottle of water",
+                "bottle of coke"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a small, black sofa. it is sitting in front of a gray bookcase. the bookcase is placed in a corner to the left of the door to the room, when facing the door from the inside.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": "gray bookcase"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this is a small black couch. there is a gray pillow laying flat on the left of the sofa (when facing the sofa). the sofa is placed in the corner of the room to the right of the door to the room (when facing the door from the inside).",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": "door to the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "12",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair on wheels. it is located behind the desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "this is a gray shelf with five levels of shelving, not including the top. it is located against a wall next to a couch.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "34",
+        "target_name": "keyboard",
+        "caption": "this is a white keyboard. it is located on the desk in front of a computer monitor.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "computer monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "0",
+        "target_name": "monitor",
+        "caption": "this is a white computer monitor. it is located on a desk next to a white keyboard and another computer monitor.",
+        "parsed_query": {
+            "Target": "white computer monitor",
+            "Anchor": [
+                "desk",
+                "white keyboard",
+                "computer monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "0",
+        "target_name": "monitor",
+        "caption": "this is a white computer monitor. it is located on a desk next to a white keyboard.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "desk",
+                "white keyboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "this is a gray computer monitor. it is located on a desk with a yellow sticky note attached to it.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "this is a gray computer monitor. it is located on a desk with a white computer monitor next to it.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "desk",
+                "white computer monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "this is a gray shelf. it is in a corner next to a black couch.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a black couch. it is located next to a tall shelf and there is a fan in front of it.",
+        "parsed_query": {
+            "Target": "black couch",
+            "Anchor": [
+                "tall shelf",
+                "fan"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "this is a long tan desk. it is located near a wall and a small cabinet.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall",
+                "small cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "9",
+        "target_name": "desk",
+        "caption": "this is a long tan desk. it is located next to a black office chair.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "office chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "36",
+        "target_name": "shelf",
+        "caption": "this is a black short black shelf. it is located against a wall next to a table.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a black couch. it is against a wall and is next to a shelf and a white table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "shelf",
+                "white table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "41",
+        "target_name": "pillow",
+        "caption": "this is a small square gray pillow. it is located on a black couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "black couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "41",
+        "target_name": "pillow",
+        "caption": "this is a small gray pillow that is crumpled up. it is in the corner of a black couch, near a wooden door.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "black couch",
+                "wooden door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "12",
+        "target_name": "office_chair",
+        "caption": "this is a black chair with wheels. it is between a wall and a desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "this is a gray computer monitor that is turned off.  it is on a desk next to another monitor and a yellow sticky note.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "desk",
+                "monitor",
+                "yellow sticky note"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "this is a white small cabinet. it is next to a black couch against the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "a black couch in the corner of the room. there is an information board above it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "information board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "a black computer screen is sitting on the desk. it is next to a black framed computer screen and to the left of it.",
+        "parsed_query": {
+            "Target": "black computer screen",
+            "Anchor": [
+                "desk",
+                "black framed computer screen"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "a light brown door beside a tall shelf. a black couch is to the right of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "tall shelf",
+                "black couch"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "17",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is under a curved desk in the middle of the room. the file cabinet is shaped like a rectangular prism and has a brownish color.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "curved desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "38",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is in the middle of the northern side of the room, under a whiteboard attached onto the wall. the file cabinet is to the left of a black couch and the cabinet is shaped like a silver cube.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "whiteboard",
+                "black couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "9",
+        "target_name": "desk",
+        "caption": "the desk is in the middle of the room and to the right of a crescent shaped desk. the desk has a light cream color and there is a bottle of soda on top of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "crescent shaped desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "41",
+        "target_name": "pillow",
+        "caption": "the pillow is on a black couch that is placed in the northern corner of the room with a whiteboard above it. it has a dirty silver color and is shaped like a rectangular prism with one of the sides caved in.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "black couch",
+                "whiteboard"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "there is a table in the middle of the room that is to the north west of a silver, cube shaped file cabinet. the table has a light cream color and has four legs and is curved on the right side.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "silver, cube shaped file cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "28",
+        "target_name": "telephone",
+        "caption": "there is a telephone on top of a grey box on the left side of a table with a curved right side in the middle of the room. the telephone is shaped like a trapezoidal prism and has a gray color.",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": [
+                "grey box",
+                "table with a curved right side"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "36",
+        "target_name": "shelf",
+        "caption": "there is a shelf on the northeastern corner of the room, and it is on top of a table on the right side of the middle of the room. the shelf is shaped like a black rectangular cube.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "16",
+        "target_name": "cabinet",
+        "caption": "there is a cabinet on the northwestern corner of the room, and it is next to a table in the left side of the middle of the room. the cabinet is brown colored, is shaped like a rectangular prism, and has books inside it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "34",
+        "target_name": "keyboard",
+        "caption": "this is a white keyboard. it is located below the computer screen on the right.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "computer screen"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "this is a white ottoman. it is located to the right of the black couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "this is a large cluttered book case. it is located to the left of the door.",
+        "parsed_query": {
+            "Target": "book case",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "this is a light brown computer desk. it has a slight downward curve to the right.",
+        "parsed_query": {
+            "Target": "computer desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "13",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is located behind a cluttered desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "cluttered desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "there is cabinet in the northern corner of the wall next to a black couch. the cabinet is shaped like a gray cube.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "there is a door in the middle of the northern wall next to a metal cabinet. the door is shaped like a brown rectangle and as a dark yellow colored doorknob.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "northern wall",
+                "metal cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "9",
+        "target_name": "desk",
+        "caption": "there is a desk in the middle of the room that is to the right of a much larger desk. the desk has a light tan color and is curved on the left side.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "much larger desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "28",
+        "target_name": "telephone",
+        "caption": "there is a telephone on top of a gray metal box that is on top of the left side of a curved table. the telephone has a trapezoidal shape and is gray colored.",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": [
+                "gray metal box",
+                "curved table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "13",
+        "target_name": "office_chair",
+        "caption": "there is a chair to the right of the rightmost table in the center of the room. the chair has three legs and is the color black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "rightmost table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "the monitor is located on top of the desk, and to the left of the other monitor facing the chair. there is a keyboard in front of the monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "other monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "the door is located to the right of the shelving. it is also located to the left of the couch.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "shelving",
+                "couch"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "28",
+        "target_name": "telephone",
+        "caption": "the telephone is located on the left side of the desk. it is sitting atop an item, and to the left of the chair.",
+        "parsed_query": {
+            "Target": "telephone",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "13",
+        "target_name": "office_chair",
+        "caption": "the office chair is located between the desk and the wall. it has casters for wheels, and is pulled out from the desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "36",
+        "target_name": "shelf",
+        "caption": "the shelf is located behind the office chair. it is to the right of the monitor and to the right of the desktop.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "office chair",
+                "monitor",
+                "desktop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "12",
+        "target_name": "office_chair",
+        "caption": "a black chair is sitting at the desk. it is in front of an information board on the wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "desk",
+                "information board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "12",
+        "target_name": "office_chair",
+        "caption": "a black office chair is sitting under the desk. there is a computer mouse in front of it.",
+        "parsed_query": {
+            "Target": "computer mouse",
+            "Anchor": "office chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "13",
+        "target_name": "office_chair",
+        "caption": "a black desk chair is sitting near a key pad. there is two empty bottles of coke behind it.",
+        "parsed_query": {
+            "Target": "bottles of coke",
+            "Anchor": "black desk chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "38",
+        "target_name": "file_cabinet",
+        "caption": "a white cabinet is sitting on the floor next to the wall. it is to the left of the couch.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "floor",
+                "wall",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "30",
+        "target_name": "keyboard",
+        "caption": "a black keyboard placed  a desk. there are earphones in front of them.",
+        "parsed_query": {
+            "Target": "earphones",
+            "Anchor": [
+                "keyboard",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "28",
+        "target_name": "telephone",
+        "caption": "a white work phone sitting on a desk. there is a table lamp to the right of it.",
+        "parsed_query": {
+            "Target": "phone",
+            "Anchor": [
+                "desk",
+                "table lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "9",
+        "target_name": "desk",
+        "caption": "a table leg on the bottom of the table. it is in front and to the left of the chair.",
+        "parsed_query": {
+            "Target": "table leg",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "17",
+        "target_name": "file_cabinet",
+        "caption": "a brown cabinet under the table. it is to the right of the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "16",
+        "target_name": "cabinet",
+        "caption": "a cabinet is sitting next to the computer desk. it is behind an information board hung on the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "computer desk",
+                "information board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "7",
+        "target_name": "door",
+        "caption": "a brown door is beside the black couch. there is a floor fan in front of it.",
+        "parsed_query": {
+            "Target": "floor fan",
+            "Anchor": "brown door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "inside the room, directly beside the door is a black or dark colored couch. there is a floor model fan in front of the couch as well.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "13",
+        "target_name": "office_chair",
+        "caption": "the office chair is pulled out from the desktop. the keyboard is on the desk to the left of it. the chair has casters for wheels.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desktop",
+                "keyboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "38",
+        "target_name": "file_cabinet",
+        "caption": "upon entering the room on the right side against the wall is a couch. just past the couch is a cream colored filing cabinet on the floor.",
+        "parsed_query": {
+            "Target": "filing cabinet",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "the couch is located in the corner of the room. it is to the right side of the door.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "11",
+        "target_name": "shelf",
+        "caption": "in the front corner away from the office desk is a tall shelf, or storage cabinet. directly beside the shelf, is a door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "shelf",
+                "office desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "30",
+        "target_name": "keyboard",
+        "caption": "the keyboard sits atop the desk. it is in front of the left side monitor that is also on the desk.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "left side monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "38",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is located to the left of the couch.  the file cabinet is also located to the right of the chair.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": [
+                "couch",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "walking into the room, a large office desk is in the middle of the room. on the right side of the desk, there is a computer monitor on the table, specifically the one on the left side, closest to the door.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "desk",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0025_00",
+        "target_id": "17",
+        "target_name": "file_cabinet",
+        "caption": "the file cabinet is located underneath the desk. it is under the left side of the desk, and there are assorted files above it.",
+        "parsed_query": {
+            "Target": "file cabinet",
+            "Anchor": "desk"
+        },
+        "unique": false
+    }
+]

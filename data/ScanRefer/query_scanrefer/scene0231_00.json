@@ -1,0 +1,2017 @@
+[
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this is single painting. its on a wall.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "39",
+        "target_name": "chair",
+        "caption": "this is wooden chair. its a kitchen chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "77",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a kitchen cabinet . its hanging up in a kitchen.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "37",
+        "target_name": "rice_cooker",
+        "caption": "this is  a mini cooker. its a portable stove top.",
+        "parsed_query": {
+            "Target": "mini cooker",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "58",
+        "target_name": "kitchen_cabinets",
+        "caption": "there is a brown wooden kitchen cabinet unit. it is located directly under the kitchen sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "kitchen sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "61",
+        "target_name": "kitchen_cabinets",
+        "caption": "there is a brown wooden cabinet on the wall.  it is located directly to the right of the exhaust hood.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "exhaust hood"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "84",
+        "target_name": "shelf",
+        "caption": "there is a wooden shelf filled with many objects. it is located to the left of the white door.",
+        "parsed_query": {
+            "Target": "wooden shelf",
+            "Anchor": "white door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "the window is in between a desk and a hanging painting. it appears to be closed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desk",
+                "hanging painting"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "there is a black trash can on the floor.  it is located to the right of the cushioned chair and in front of the pole.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "cushioned chair",
+                "pole"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "59",
+        "target_name": "kitchen_cabinet",
+        "caption": "the brown kitchen cabinet is on the right of the stove. there is a cutting board or cookbook on top of it.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "31",
+        "target_name": "trash_can",
+        "caption": "the trashcan is black with a white nylon bag in it. it is placed next to a stack of books.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "stack of books"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "84",
+        "target_name": "shelf",
+        "caption": "the shelf is put in between the walls. there are papers and boxes on the shelf racks.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "walls"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "66",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is in the far right corner. it is first in from the right & is brown.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "69",
+        "target_name": "cabinet",
+        "caption": "the cabinet is on the far wall. it is the smallest cabinet & is brown. it is also the furthest left cabinet on the far wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "62",
+        "target_name": "kitchen_cabinets",
+        "caption": "this kitchen cabinet is the leftmost cabinet on the far wall. it is brown.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "58",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are below the kitchen counter on the far wall. they are the furthest left cabinets.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "kitchen counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "84",
+        "target_name": "shelf",
+        "caption": "the shelf is in the far left corner. there are six shelves.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "16",
+        "target_name": "picture",
+        "caption": "the picture is on the far wall. it is above the chair.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "80",
+        "target_name": "armchair",
+        "caption": "the chair is on the far wall on the left. it has a floral design.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "68",
+        "target_name": "microwave",
+        "caption": "the microwave is on the far wall on the right above the kitchen counter. it is silver & black.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "kitchen counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "41",
+        "target_name": "chair",
+        "caption": "there is a brown wooden chair. it is to the left of the red chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "red chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "65",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is on the far wall on the right. it is the second cabinet in from the right.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "40",
+        "target_name": "chair",
+        "caption": "this chair is red. it is the middle chair at the desk in the middle of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "46",
+        "target_name": "kitchen_cabinets",
+        "caption": "there are dark brown kitchen cabinet. they are beneath the counter directly to the left of the doorway.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "counter",
+                "doorway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "62",
+        "target_name": "kitchen_cabinets",
+        "caption": "there are brown kitchen cabinets. they are above the counter to the left of the range hood.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "counter",
+                "range hood"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "4",
+        "target_name": "desk",
+        "caption": "there is desk. it is to the right of the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "10",
+        "target_name": "pillow",
+        "caption": "there is a pillow. it is sitting on the left side of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "65",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a kitchen cabinet, with two doors and a drawer, and located just to right of the refrigerator.  it is a lower cabinet with countertop on it.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "67",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is located above the microwave. the kitchen cabinet is located to the right of the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "microwave",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "this is a window, with four panes and horizontal blinds.  it is located to the right of the fireplace, behind the greenish armchair.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "fireplace",
+                "greenish armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "38",
+        "target_name": "stool",
+        "caption": "this is a barstool with black/dark seat.  it is pushed in under a counter, and is positioned between a brown chair and a closet wall.  it appears to have a floor vent beneath it.",
+        "parsed_query": {
+            "Target": "barstool",
+            "Anchor": [
+                "counter",
+                "brown chair",
+                "closet wall",
+                "floor vent"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "10",
+        "target_name": "pillow",
+        "caption": "this is a dingy, reddish-brown pillow.  it is on the left side of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "this is a trash can on the floor, on one side of a blue rug.  it has a greenish chair to the left, a desk to the right, and a floor lamp behind it.  it appears to be full of trash.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue rug",
+                "greenish chair",
+                "desk",
+                "floor lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "39",
+        "target_name": "chair",
+        "caption": "this is a wooden chair placed under a table. a red chair is on the left of this chair.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "4",
+        "target_name": "desk",
+        "caption": "this desk is placed close with the wall. a chair is present in front of this desk facing the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "40",
+        "target_name": "chair",
+        "caption": "this chair is red in color. it is placed in between two wooden chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wooden chair",
+                "wooden chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "2",
+        "target_name": "breakfast_bar",
+        "caption": "four chairs are placed under this breakfast bar. a red chair, two wooden chairs and a black circular stool are present under this breakfast bar.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "breakfast bar"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "74",
+        "target_name": "door",
+        "caption": "a fridge is present in front of this door. a black circular stool is present on the left of this door.",
+        "parsed_query": {
+            "Target": "fridge",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "79",
+        "target_name": "armchair",
+        "caption": "it is a black armchair, against the wall. it is situated between a couch and another chair.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "wall",
+                "couch",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "59",
+        "target_name": "kitchen_cabinet",
+        "caption": "it is a cabinet to the right of the oven. it is dark brown and has a counter on top. it's directly across from the kitchen island.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "oven",
+                "kitchen island"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "67",
+        "target_name": "kitchen_cabinet",
+        "caption": "the cabinet is to the right of the refrigerator, and is colored brown. a microwave is built into the cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "46",
+        "target_name": "kitchen_cabinets",
+        "caption": "it is a dark wooden cabinet next to the set of four drawers. while entering the kitchen it is the first cabinet on the right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "set of four drawers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "49",
+        "target_name": "kitchen_cabinet",
+        "caption": "it is a set of four drawers, directly to the right of the dishwasher. coming into the kitchen, it is the second cabinet on the right side.",
+        "parsed_query": {
+            "Target": "set of four drawers",
+            "Anchor": "dishwasher"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "68",
+        "target_name": "microwave",
+        "caption": "this is a microwave. it is mounted in the cabinet to the right of the refrigerator.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "cabinet",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "49",
+        "target_name": "kitchen_cabinet",
+        "caption": "it is a dark brown cabinet with four drawers. it is to the right of the dishwasher and under the windows to the right of the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "dishwasher",
+                "windows",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "85",
+        "target_name": "refrigerator",
+        "caption": "this is a stainless steel finish refrigerator. it is inside the cabinet to the immediate left of the microwave in the kitchen.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": [
+                "cabinet",
+                "microwave"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "63",
+        "target_name": "kitchen_cabinet",
+        "caption": "these are brown wooden kitchen cabinets. they are on the floor and wall to the immediate left of the oven.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "oven"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "77",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a brown wooden kitchen cabinet. it is hanging to the left of the window above the kitchen sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "64",
+        "target_name": "kitchen_cabinet",
+        "caption": "it is a brown cabinet in the corner. it is on the upper level and directly to the right of the microwave.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "microwave"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "79",
+        "target_name": "armchair",
+        "caption": "this is a dark gray recliner. it is placed on the wall in the living room farthest from the kitchen.",
+        "parsed_query": {
+            "Target": "recliner",
+            "Anchor": "kitchen"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "37",
+        "target_name": "rice_cooker",
+        "caption": "it is a white appliance on the counter, against the wall. it has an open top and is under the wall clock.",
+        "parsed_query": {
+            "Target": "appliance",
+            "Anchor": [
+                "counter",
+                "wall clock"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "10",
+        "target_name": "pillow",
+        "caption": "the pillow is on the love seat. it is brown and on the left side corner when standing in front of the love seat.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "love seat"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "4",
+        "target_name": "desk",
+        "caption": "the desk is dark brown and against the wall. it has a chair in front of it and a lamp to the left of it. there are many objects on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall",
+                "chair",
+                "lamp"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "85",
+        "target_name": "refrigerator",
+        "caption": "this is a large, shiny, metallic refrigerator with three doors.  it is located along one wall of the kitchen, with a small two-door brown cabinet above it.  to the left of this refrigerator is an entry way into the kitchen, and to the right are kitchen cabinets and a cabinet-mounted microwave oven.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": [
+                "two-door brown cabinet",
+                "entry way",
+                "kitchen cabinets",
+                "cabinet-mounted microwave oven"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "this is a four-paned window behind a armchair and a floor lamp.  this window has picture hanging on the wall to the left, and the wall to the right is mostly bare.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "armchair",
+                "floor lamp",
+                "picture"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "31",
+        "target_name": "trash_can",
+        "caption": "this is a trash can on the floor in one corner of the room.  this trash can is located behind and to the side of a office chair at a desk.  a colorful file rack is mounted on the wall above the trash can.  to the right of this trash can is a stack of papers/books and an open cabinet full of office supplies.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "office chair",
+                "file rack",
+                "stack of papers/books",
+                "open cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "68",
+        "target_name": "microwave",
+        "caption": "this is a black/dark color microwave oven, mounted above the kitchen counter.  there is a large metallic refrigerator just to the left of this microwave.",
+        "parsed_query": {
+            "Target": "microwave oven",
+            "Anchor": [
+                "kitchen counter",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this is a wall-mounted picture with a brown wood frame.  it sits in the middle of a diagonal corner wall, just above a fireplace.  there is a window to the right of this picture.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "fireplace",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "4",
+        "target_name": "desk",
+        "caption": "the black desk that's against the wall. this desk has a chair in front of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "68",
+        "target_name": "microwave",
+        "caption": "the microwave that is below the cabinet. this microwave is next to a refrigerator.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "cabinet",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "77",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet that's by the window near the sink. this kitchen cabinet doesn't have a glass window on it.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "window",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "69",
+        "target_name": "cabinet",
+        "caption": "the cabinet is above refrigerator. this cabinet is smaller than other cabinet in the kitchen.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "46",
+        "target_name": "kitchen_cabinets",
+        "caption": "this is a cabinet. its the first one from the door entry when you make a right.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door entry"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "78",
+        "target_name": "couch",
+        "caption": "this is a couch. its tan with colored patterns on it. its against the wall first one on the left from the entry.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "entry"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "58",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are below the sink. these two kitchen cabinets have one drawer at top and two doors below for each of them.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "16",
+        "target_name": "picture",
+        "caption": "this is a picture. its on the wall and is above a recliner single sofa. not the big picture, the smaller picture.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "recliner single sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "78",
+        "target_name": "couch",
+        "caption": "this is a grey patterned couch. its on the wall where the entry way is on the left.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "entry way"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "31",
+        "target_name": "trash_can",
+        "caption": "this is a black trash can. its located under colored organizers on the wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "colored organizers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "28",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair in the bedroom. when you walk in the door it is to your left.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "40",
+        "target_name": "chair",
+        "caption": "this is a red swivel stool that is pushed up to the bar in a kitchen. it is the only red stool there.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "bar"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "63",
+        "target_name": "kitchen_cabinet",
+        "caption": "this brown kitchen cabinet is in the kitchen.  it is to the left of the stove on the bottom.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "58",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinet is under the sink. the kitchen cabinet is to the left of the dishwasher.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "sink",
+                "dishwasher"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "this is a white metal trashcan that sits to the right of the paisley chair. it is also sitting in front of the steel floor lamp.",
+        "parsed_query": {
+            "Target": "white metal trashcan",
+            "Anchor": [
+                "paisley chair",
+                "steel floor lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "65",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is to the right of the refrigerator. the kitchen cabinet is under the microwave.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "refrigerator",
+                "microwave"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "52",
+        "target_name": "kitchen_cabinet",
+        "caption": "this wooden and glass kitchen cabinet is hanging on the wall. it is to the right of the sink and windows on the wall.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "sink",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "67",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is above the microwave. the kitchen cabinet is to the right of the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "microwave",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "64",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is to the right of the microwave. the kitchen cabinet is on the top row.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "microwave"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "52",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet has clear glass on the door. the kitchen cabinet is the right of the windows.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "3",
+        "target_name": "kitchen_island",
+        "caption": "in the center of the kitchen is an island. it is brown and wide and has a few glass items on it.",
+        "parsed_query": {
+            "Target": "island",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "62",
+        "target_name": "kitchen_cabinets",
+        "caption": "there are three cabinets of dark wood on the right side of the kitchen above the sink, to the left of the stove hood light. it has long narrow pulls on the right of each cabinet.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "sink",
+                "stove hood light"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "the window is above the olive green armchair. the window has four sections and is rectangular.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "olive green armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "41",
+        "target_name": "chair",
+        "caption": "the chair is the leftmost one on the southern side of the table. the chair is brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "80",
+        "target_name": "armchair",
+        "caption": "the armchair is right of a couch and below a window. the armchair has four legs and is green.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "couch",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "59",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is right of the oven. the kitchen cabinet is a dark brown rectangle.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "oven"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "in the center of the bedroom there is a hamper with clothing in it. it is on your right of the armchair and appears to be black.",
+        "parsed_query": {
+            "Target": "hamper",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "74",
+        "target_name": "door",
+        "caption": "there is a white door in the center of the room. it has a copper doorknob at the left of the scene and further left there is a breakfast bar with stools. there is also a decor piece on the wall to the right of the door.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "80",
+        "target_name": "armchair",
+        "caption": "there is a vintage-looking armchair in the center of the room. it appears to be dark green with wooden feet and to its direct right is a canopy bed wooden pole.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "canopy bed wooden pole"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "38",
+        "target_name": "stool",
+        "caption": "this is a bar stool. its at a kitchen table.",
+        "parsed_query": {
+            "Target": "bar stool",
+            "Anchor": "kitchen table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "2",
+        "target_name": "breakfast_bar",
+        "caption": "the breakfast bar is located in the middle of the two rooms. the breakfast bar is to the left of the living room rug.",
+        "parsed_query": {
+            "Target": "breakfast bar",
+            "Anchor": [
+                "two rooms",
+                "living room rug"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "80",
+        "target_name": "armchair",
+        "caption": "the armchair is located in front of the window. the armchair is located to the left of the trash can and lamp.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "window",
+                "trash can",
+                "lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "59",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is right of the oven. the kitchen cabinet is square and medium brown.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "oven"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "31",
+        "target_name": "trash_can",
+        "caption": "the trash can is in front of the open cabinet. the trash can is an open cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "open cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "79",
+        "target_name": "armchair",
+        "caption": "the armchair is between two couches. the armchair is green and has a big seat.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "couch",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "39",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is to the right of a red chair.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "red chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "28",
+        "target_name": "office_chair",
+        "caption": "this is a black office chair. it is at a desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "3",
+        "target_name": "kitchen_island",
+        "caption": "this is a wooden kitchen island. it is below a tan counter top.",
+        "parsed_query": {
+            "Target": "kitchen island",
+            "Anchor": "tan counter top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "2",
+        "target_name": "breakfast_bar",
+        "caption": "there is a rectangular dark brown breakfast bar. it is at the center of the room and next to a chair.",
+        "parsed_query": {
+            "Target": "breakfast bar",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "2",
+        "target_name": "breakfast_bar",
+        "caption": "there is a rectangular dark brown breakfast bar. it is at the center of the room and behind a bunch of cabinets.",
+        "parsed_query": {
+            "Target": "breakfast bar",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "39",
+        "target_name": "chair",
+        "caption": "there is a brown chair. it is at a kitchen counter and between a red chair and a stool.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "kitchen counter",
+                "red chair",
+                "stool"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "64",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a brown kitchen cabinet. it is directly next to the microwave and at the side of the room.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "microwave"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "85",
+        "target_name": "refrigerator",
+        "caption": "there is a rectangular silver refrigerator. it is at the side of the room and next to brown cabinets.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "brown cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "28",
+        "target_name": "office_chair",
+        "caption": "the office chair is in front of a desk. the office chair is on a blue and gold rug.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "blue and gold rug"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "66",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is to the right of the refrigerator. the kitchen cabinet is in the corner.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "78",
+        "target_name": "couch",
+        "caption": "a two seat couch against the wall. the couch is touching a blue and gold rug.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall",
+                "blue and gold rug"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "61",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinet is on the top row. the kitchen cabinet has 3 doors. the kitchen cabinet is to the right of the stove.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "40",
+        "target_name": "chair",
+        "caption": "it is a red chair with wheels. the chair is in between two other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "52",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular brown kitchen cabinet. it is at the side of the room and over plastic containers and next to a window.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "plastic containers",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "60",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular brown kitchen cabinet. it is one cabinet away from the stove, beneath the window.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "stove",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "67",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a rectangular brown kitchen cabinet. it is over the microwave and at the side of the room.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "microwave"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "there is a rectangular picture. it is on the side of the room to the left of the window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "28",
+        "target_name": "office_chair",
+        "caption": "this item is used for sitting. it has four coasters for rolling.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "22",
+        "target_name": "trash_can",
+        "caption": "this is a round receptacle. it is used for trash disposal.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "2",
+        "target_name": "breakfast_bar",
+        "caption": "this item is long and medium height. it is used for serving.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "60",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet sits in the corner of the counter, on the side away from the sink.  it sits parallel to the window and below the countertop.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "counter",
+                "sink",
+                "window",
+                "countertop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "61",
+        "target_name": "kitchen_cabinets",
+        "caption": "three long rectangular wooden cabinets hang on the wall to the right of the stove hood.  they are to the left of the window.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "stove hood",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "77",
+        "target_name": "kitchen_cabinet",
+        "caption": "wooden cabinets are on the wall to the left of the kitchen sink.  they are in the corner, to the left of the windows that sit above the sink.",
+        "parsed_query": {
+            "Target": "wooden cabinets",
+            "Anchor": [
+                "kitchen sink",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "46",
+        "target_name": "kitchen_cabinets",
+        "caption": "two wooden cupboards share the same countertop as the kitchen sink. they are closest to the exit of the kitchen, to the right of the drawers.",
+        "parsed_query": {
+            "Target": "wooden cupboards",
+            "Anchor": [
+                "kitchen sink",
+                "kitchen exit",
+                "drawers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this is a picture. its above the fireplace and is brown, tan in color.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "fireplace"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "4",
+        "target_name": "desk",
+        "caption": "a dark rectangular desk sits in the corner across from the door.  there is a chair in front of it and various objects on top of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "49",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a cherry wooden cabinet . its next to the dish washer.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "dish washer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "41",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. its brown and oak and is on the left of the entry way.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "entry way"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "63",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a kitchen cabinet. its cherry wood and is on the left of the stove.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "10",
+        "target_name": "pillow",
+        "caption": "this is a pillow. its pink in color and is on top of the pattered sofa.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "pattered sofa"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "40",
+        "target_name": "chair",
+        "caption": "the bright red chair is located at the breakfast bar. the red chair is located between two brown chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "breakfast bar",
+                "brown chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "37",
+        "target_name": "rice_cooker",
+        "caption": "this is a white rice cooker. it is on a counter top.",
+        "parsed_query": {
+            "Target": "rice cooker",
+            "Anchor": "counter top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this is a black table. it is to the right of a couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "39",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is to the left of a bar stool.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "bar stool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "69",
+        "target_name": "cabinet",
+        "caption": "this is a wooden kitchen cabinet. it is above the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "61",
+        "target_name": "kitchen_cabinets",
+        "caption": "these are wooden kitchen cabinets. they are to the right of the oven hood.",
+        "parsed_query": {
+            "Target": "wooden kitchen cabinets",
+            "Anchor": "oven hood"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "31",
+        "target_name": "trash_can",
+        "caption": "the trash can is in front of the open cabinet. the trash can is a black cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "open cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "3",
+        "target_name": "kitchen_island",
+        "caption": "the kitchen island is in the middle of the room. the kitchen island is a brown rectangular prism.",
+        "parsed_query": {
+            "Target": "kitchen island",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "78",
+        "target_name": "couch",
+        "caption": "the couch is southwest of the olive green armchair. the couch is green and rectangular.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "olive green armchair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "80",
+        "target_name": "armchair",
+        "caption": "this is a armchair. its white with patterns on it. its closest to the window in the room.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "46",
+        "target_name": "kitchen_cabinets",
+        "caption": "this is a cherry wood kitchen cabinet. its to the right of the entry way.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "entry way"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "84",
+        "target_name": "shelf",
+        "caption": "this is a storage shelf. its wooden and is behind the lamp shadow wall.",
+        "parsed_query": {
+            "Target": "storage shelf",
+            "Anchor": "lamp shadow wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "84",
+        "target_name": "shelf",
+        "caption": "this is a wooden storage shelf. its behind the lamp shadow wall.",
+        "parsed_query": {
+            "Target": "wooden storage shelf",
+            "Anchor": "lamp shadow wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "25",
+        "target_name": "window",
+        "caption": "this is a window. its white in color and is the only one in the room. it cant be missed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "64",
+        "target_name": "kitchen_cabinet",
+        "caption": "there is a small brown cabinet in kitchen. the cabinet is located between two other cabinets above the countertop.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinet",
+                "cabinet",
+                "countertop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "61",
+        "target_name": "kitchen_cabinets",
+        "caption": "there is a two door cabinet above countertop. the cabinet is located right side above black and gray stove.",
+        "parsed_query": {
+            "Target": "two door cabinet",
+            "Anchor": [
+                "countertop",
+                "black and gray stove"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "68",
+        "target_name": "microwave",
+        "caption": "there is a microwave in kitchen underneath cabinet. the microwave is located above countertop.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "cabinet",
+                "countertop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "38",
+        "target_name": "stool",
+        "caption": "this is a brown stool. it is to the right of a wooden chair.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "wooden chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "38",
+        "target_name": "stool",
+        "caption": "this is a wooden stool. it is at a bar.",
+        "parsed_query": {
+            "Target": "wooden stool",
+            "Anchor": "bar"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this is a square picture. it is to the left of the window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "38",
+        "target_name": "stool",
+        "caption": "this is a wooden stool. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "66",
+        "target_name": "kitchen_cabinet",
+        "caption": "this is a brown kitchen cabinet. it is below the counter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "3",
+        "target_name": "kitchen_island",
+        "caption": "the kitchen island is in the center of the room. the kitchen island is a brown square.",
+        "parsed_query": {
+            "Target": "kitchen island",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "28",
+        "target_name": "office_chair",
+        "caption": "the office chair is south of a desk with two drawers. the office chair is black and has a curved backside.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk with two drawers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "52",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is above the bucket of flowers. the kitchen cabinet is a brown rectangle.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "bucket of flowers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "85",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is left of the kitchen cabinet. the refrigerator is a gray box.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "kitchen cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "59",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is right of the oven. the kitchen cabinet is a dark brown cube.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "oven"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "77",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is left of the leftmost window. the kitchen cabinet is a brown box.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "leftmost window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "16",
+        "target_name": "picture",
+        "caption": "the picture is above the green armchair. the picture is a square.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "green armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "41",
+        "target_name": "chair",
+        "caption": "there is a office chair located on right side of kitchen table. the chair is left of the open kitchen door.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "kitchen table",
+                "open kitchen door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "62",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets have four handles. the kitchen cabinets are near kitchen fan.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "kitchen fan"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "41",
+        "target_name": "chair",
+        "caption": "the chair has a hat on it. the chair is on the left of a red chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "red chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "79",
+        "target_name": "armchair",
+        "caption": "the armchair has one seat. the armchair is by a rounded coffee table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "rounded coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "49",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet has four drawers. the kitchen cabinet is by a two door cabinet.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": "two door cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "37",
+        "target_name": "rice_cooker",
+        "caption": "the rice cooker is white. the rice cooker has two cups by it.",
+        "parsed_query": {
+            "Target": "rice cooker",
+            "Anchor": "cups"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "37",
+        "target_name": "rice_cooker",
+        "caption": "the rice cooker is on the northern side of the table in the middle of the room. the rice cooker is a round box with an opening.",
+        "parsed_query": {
+            "Target": "rice cooker",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "79",
+        "target_name": "armchair",
+        "caption": "the armchair is between two couches. the armchair has two armrests and one seat.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "couch",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "74",
+        "target_name": "door",
+        "caption": "the door is left of the refrigerator. the door is a white rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "16",
+        "target_name": "picture",
+        "caption": "the picture is above the chair. the picture is to the left of the window.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "chair",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "74",
+        "target_name": "door",
+        "caption": "the door is to the right of the clock. the door is to the left of the refrigerator.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "clock",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "65",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is under the microwave. the kitchen cabinet is to the right of the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "microwave",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "58",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinet is below the sink. the kitchen cabinet is to the left of the dishwasher.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "sink",
+                "dishwasher"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0231_00",
+        "target_id": "67",
+        "target_name": "kitchen_cabinet",
+        "caption": "the kitchen cabinet is above the microwave. the kitchen cabinet to the right of the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "microwave",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    }
+]

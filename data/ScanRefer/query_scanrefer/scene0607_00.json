@@ -1,0 +1,833 @@
+[
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this chair is facing the table. it is black and solid.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "21",
+        "target_name": "soap_dispenser",
+        "caption": "this is a white soap dispenser. it is above the counter.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "this is a brown cabinet. it is to the left of more cabinets.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this chair is facing left. it is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this brown chair is facing left. it is in the middle.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "3",
+        "target_name": "refrigerator",
+        "caption": "this fridge is on the left. it is brown in color.",
+        "parsed_query": {
+            "Target": "fridge",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is a sturdy surface.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "2",
+        "target_name": "kitchen_counter",
+        "caption": "the kitchen counter has silver-grey colored top and two sinks. there are cups to the right of the sinks.",
+        "parsed_query": {
+            "Target": "cups",
+            "Anchor": [
+                "sinks"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "21",
+        "target_name": "soap_dispenser",
+        "caption": "this is a white soap dispenser. it is to the right of the paper towel dispenser.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "paper towel dispenser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "16",
+        "target_name": "sink",
+        "caption": "the silver sink is on the right side of the two. there is two cups to the right of it.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "cups"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "2",
+        "target_name": "kitchen_counter",
+        "caption": "this is a white kitchen counter. it is above the cabinets.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "4",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are long rectangles shaped with a brown wood color. there is a refrigerator to the right of them.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "16",
+        "target_name": "sink",
+        "caption": "the sink is on the kitchen counter top on the right side of the two. there is a dispenser on the left of it and above.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "kitchen counter top"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "a long wooden rectangle table is sitting in the middle of the room. there are several chairs on each side.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "21",
+        "target_name": "soap_dispenser",
+        "caption": "this soap dispenser is on the right side. it is tan and smooth.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this chair is on the left table. it is black and facing left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "left table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "20",
+        "target_name": "paper_towel_dispenser",
+        "caption": "this paper towel dispenser is on the wall. it is tan and dark.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this chair is in the middle of the table. it is brown and facing away.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is brown and rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "4",
+        "target_name": "kitchen_cabinets",
+        "caption": "these are brown kitchen cabinets in a kitchen.  they are under the counter with the sink in it.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "17",
+        "target_name": "sink",
+        "caption": "this is a silver sink in a kitchen.  it is on the counter above the cabinets.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "counter",
+                "cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "3",
+        "target_name": "refrigerator",
+        "caption": "this is a brown refrigerator in a kitchen. it is against the wall to the right of the sink.",
+        "parsed_query": {
+            "Target": "brown refrigerator",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "this is a brown cabinet in a kitchen. it is in the right corner to the left of the counter with the sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "21",
+        "target_name": "soap_dispenser",
+        "caption": "this is a white soap dispenser in a kitchen.  it is on the wall above the counter and to the right of the sink.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "wall",
+                "counter",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is the first chair on the table. it is facing the kitchen.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "4",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are under the kitchen counter. they have silver handles.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "kitchen counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "17",
+        "target_name": "sink",
+        "caption": "the sink is on the counter. it has a yellow sponge on it.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "4",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are in front of the dining table. they are between the ovens and the fridge.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "dining table",
+                "ovens",
+                "fridge"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "it is the first chair on the right of the room. it is close to the kitchen.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "kitchen"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "20",
+        "target_name": "paper_towel_dispenser",
+        "caption": "there is a rectangular paper towel dispenser. it is behind a sink.",
+        "parsed_query": {
+            "Target": "rectangular paper towel dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "20",
+        "target_name": "paper_towel_dispenser",
+        "caption": "there is a rectangular paper towel dispenser. it is next to a soap dispenser on the wall.",
+        "parsed_query": {
+            "Target": "rectangular paper towel dispenser",
+            "Anchor": "soap dispenser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "there is a black chair. it is the rightmost on the long side of a table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular cabinet. it is the bottom and leftmost cabinet.",
+        "parsed_query": {
+            "Target": "rectangular cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is at the left end of a table.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "there are black plastic chairs around the kitchen table. look for the one closest to the refrigerator.",
+        "parsed_query": {
+            "Target": "black plastic chair",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "17",
+        "target_name": "sink",
+        "caption": "there is a stainless steel sink with two basins. look for the side of the sink furthest from the refrigerator.",
+        "parsed_query": {
+            "Target": "side of the sink",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "3",
+        "target_name": "refrigerator",
+        "caption": "a french door refrigerator is at the end of the counter top. it has a wood pattern finish to match the cabinets.",
+        "parsed_query": {
+            "Target": "french door refrigerator",
+            "Anchor": "counter top"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "there are six black chairs around the kitchen table. look for the one furthest from the refrigerator.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "there are six black chairs around the dining room table. look for the chair furthest from the refrigerator.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is the middle one on the south side of the table. the chair is black with a curved back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is the center one on the southern part of the table. the chair is black wit ha curved back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "17",
+        "target_name": "sink",
+        "caption": "the sink is north of the table in the center. the sink is rectangular and metallic.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "3",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is east of the sink. the refrigerator is brown and boxy.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is the center one in the northern side of the table. the chair is black with a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "there is a rectangular gray chair. it is the second from the left in a row at a table.",
+        "parsed_query": {
+            "Target": "rectangular gray chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a rectangular gray chair. it is the rightmost at a row at a table.",
+        "parsed_query": {
+            "Target": "rectangular gray chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "16",
+        "target_name": "sink",
+        "caption": "there is a rectangular sink. it is embedded in a counter.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "20",
+        "target_name": "paper_towel_dispenser",
+        "caption": "there is a rectangular paper towel dispenser. it is over a counter.",
+        "parsed_query": {
+            "Target": "rectangular paper towel dispenser",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "there is a rectangular wooden table. it is surrounded by chairs.",
+        "parsed_query": {
+            "Target": "rectangular wooden table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "21",
+        "target_name": "soap_dispenser",
+        "caption": "the soap dispenser is above the sink. the soap dispenser is a white box.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "the cabinet is left of the counter top. the cabinet is a brown box.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "counter top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "16",
+        "target_name": "sink",
+        "caption": "the sink is a metallic rectangle. the sink is located above the kitchen counter.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "kitchen counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is the left-most one on the southern side of the table. the chair is black with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "17",
+        "target_name": "sink",
+        "caption": "the sink is below the paper towel dispenser. the sink is metallic and rectangular.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "paper towel dispenser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a black chair in a break room. it is the first chair on the right side of the table by the cabinets.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "cabinets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a black chair in a break room. it is the first chair on the left side of table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a black chair in an office break room. it is the middle chair on the left side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a brown table in a break room. it is wood and in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "this is a brown cabinet in a break room. it is on the right side of the wall in the far corner.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "3",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is right of the sink. the refrigerator is brown and rectangular.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is the left-most one on the southern side of the table. the chair is black and has two legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is the right-most one on the southern side of the table. the chair is black and has two legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is the middle one on the southern side of the table. the chair is black with a curved back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "16",
+        "target_name": "sink",
+        "caption": "this is the right sink. it is in the counter. there is a fridge to the right of it.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "counter",
+                "fridge"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "2",
+        "target_name": "kitchen_counter",
+        "caption": "this counter is on the right wall. there are sinks in it. it is dark colored. there are cabinets below it.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "20",
+        "target_name": "paper_towel_dispenser",
+        "caption": "this paper towel dispenser is on the back wall. it is above the left sink. it is silver and rectangular",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "back wall",
+                "left sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "4",
+        "target_name": "kitchen_cabinets",
+        "caption": "these are wood and below the counter and sink. they open up and are against the wall. they are brown.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "counter",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is the right-most one on the southern side of the table. the chair is black with two legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "2",
+        "target_name": "kitchen_counter",
+        "caption": "the kitchen counter is left of the refrigerator. the kitchen counter is a black rectangle.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "refrigerator"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "2",
+        "target_name": "kitchen_counter",
+        "caption": "the kitchen counter west of the refrigerator. the kitchen counter is a black rectangle.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "refrigerator"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is the middle one on the southern side of the table. the chair is black with a curved back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0607_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the chair is the left-most one on the southern side of the table. the chair is black with two legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "1",
+        "target_name": "sofa_chair",
+        "caption": "this is a blue sofa chair. it is the second chair from the window.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "this is a brown coffee table. it is in front of two blue chairs.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "blue chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "2",
+        "target_name": "sofa_chair",
+        "caption": "it is a blue sofa chair. it is diagonal to the coffee table.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "2",
+        "target_name": "sofa_chair",
+        "caption": "this is a blue sofa chair. it is against a yellow wall.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "yellow wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "2",
+        "target_name": "sofa_chair",
+        "caption": "it is a blue sofa chair. it is close to the glass door.",
+        "parsed_query": {
+            "Target": "blue sofa chair",
+            "Anchor": "glass door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is located near the middle of the room. there are two chairs to the right of it.",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": "coffee table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "2",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is one of two that are against the wall. it is the one on the left.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "2",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair has its back against the wall. there is another sofa chair to the right of it.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "sofa chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "the coffee table has an upholstered look to it. there are two sofa chairs facing the coffee table.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "sofa chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is near the center of the room. there are two sofa chairs facing the coffee table.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "1",
+        "target_name": "sofa_chair",
+        "caption": "this blue sofa chair is on the right side. across from the blue sofa chair is a pink seat.",
+        "parsed_query": {
+            "Target": "seat",
+            "Anchor": "blue sofa chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "1",
+        "target_name": "sofa_chair",
+        "caption": "the blue sofa chair is located on the back yellow wall. this chair is located on the right side of the room.",
+        "parsed_query": {
+            "Target": "blue sofa chair",
+            "Anchor": "back yellow wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "4",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is in the middle of the room. this coffee table is located directed across the blue sofa chair furtherest away from the window.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "blue sofa chair",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "1",
+        "target_name": "sofa_chair",
+        "caption": "the blue sofa chair is located across from the coffee table. the sofa chair is on the right side farthest away from the window.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "coffee table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0432_00",
+        "target_id": "1",
+        "target_name": "sofa_chair",
+        "caption": "the blue sofa chair has a matching chair located to its left. this sofa chair is leaning against a yellow wall.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": [
+                "matching chair",
+                "yellow wall"
+            ]
+        },
+        "unique": false
+    }
+]

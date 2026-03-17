@@ -1,0 +1,683 @@
+[
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "a door, on the right hand side is a small washbasin  . the left hand side is nothing.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "small washbasin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "19",
+        "target_name": "soap_dispenser",
+        "caption": "a soap dispenser is on the wall in the laundry room.  it is to the right of the brown door. door",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "brown door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "19",
+        "target_name": "soap_dispenser",
+        "caption": "a soap dispenser, on the right is a hand sanitizer. c on the left is a door.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "hand sanitizer",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "there is a gray wooden cabinet. placed next to the door of the laundry room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "laundry room door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "there is a rectangular white self with two compartments right about the sink and the washing machine. to the left of the cabinet there is soap and tissue dispenser.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "sink",
+                "washing machine"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "26",
+        "target_name": "washing_machine",
+        "caption": "there is a white washing machine right next to the sink area. there is an orange box of drying fabric on top of this washing machine.",
+        "parsed_query": {
+            "Target": "orange box of drying fabric",
+            "Anchor": "washing machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "24",
+        "target_name": "sink",
+        "caption": "there is a white squared shaped sink right next to the door. below the sink there is small white trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "under the sink there is a small white trash can. the trash can is right next to the door of the room.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink",
+                "door of the room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "24",
+        "target_name": "sink",
+        "caption": "there is a sink right under the soap and the tissue dispenser. below the sink there is a small white trash container.",
+        "parsed_query": {
+            "Target": "trash container",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "0",
+        "target_name": "clothes_dryer",
+        "caption": "this is a white clothes dryer. it is to the right of a table.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "25",
+        "target_name": "table",
+        "caption": "this is a white table. it is to the left of a clothes dryer.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "clothes dryer"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "this is a gray cabinet. it is on the far wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "this is a white shelf. it is above a sink.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "25",
+        "target_name": "table",
+        "caption": "this is a white table. it is against the wall in a corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "the white door has a brown handle. it has a white laundry tub on the right side of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "white laundry tub"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "19",
+        "target_name": "soap_dispenser",
+        "caption": "the soap dispenser is on the wall. beside it on the right, is a towel dispenser and to its left is a door. the laundry tub is under it.",
+        "parsed_query": {
+            "Target": "laundry tub",
+            "Anchor": "soap dispenser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "1",
+        "target_name": "washing_machine",
+        "caption": "this is a white washing machine. it is to the left of a table.",
+        "parsed_query": {
+            "Target": "washing machine",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "6",
+        "target_name": "clothes_dryer",
+        "caption": "this is a white clothes dryer. it is on top of another clothes dryer.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": "clothes dryer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "1",
+        "target_name": "washing_machine",
+        "caption": "the washing machine is stainless steel and is front opening. it is on the left side of the similar appearing dryer. on its right side is a table for folding laundry.",
+        "parsed_query": {
+            "Target": "washing machine",
+            "Anchor": [
+                "dryer",
+                "table for folding laundry"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this is a white door. it is to the left of a sink.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "0",
+        "target_name": "clothes_dryer",
+        "caption": "this is a white clothes dryer. it is below another clothes dryer.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": "clothes dryer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "this is a gray cabinet. it is to the right of a clothes dryer.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "clothes dryer"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "25",
+        "target_name": "table",
+        "caption": "the table has folding legs and is located on the right side of a white, front loading washing machine.  the table is against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "washing machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the paper towel dispenser has a black front and dispense towels from the bottom. it is on the wall with shelves to the right of it, and a soap dispenser on its left. a laundry tub is under it on the floor.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "wall",
+                "shelves",
+                "soap dispenser",
+                "laundry tub"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "straight ahead is a silver cabinet built into the wall. just above it and to the left is a ceiling duct. a washer and dryer stand to the left just before it.",
+        "parsed_query": {
+            "Target": "ceiling duct",
+            "Anchor": "silver cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "straight ahead on the far wall hangs a shelf with two cubbyholes. just beneath it is a sink followed by washing machines from left to right.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "shelf"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "in the far left corner, above the sink and hanging on the left wall, is a paper towel dispenser. a door, placed in the same wall, is just before it.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "sink",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "straight ahead, in the far wall, is a white door with a silver handle. to the right of it is a sink with a paper towel dispenser hanging above it, on the same wall as the door.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "white door",
+                "paper towel dispenser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "6",
+        "target_name": "clothes_dryer",
+        "caption": "straight ahead, in the far right corner of the room, a clothes dryer is rest upon its twin beneath it, against the far wall. to the left is a table.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": [
+                "clothes dryer",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "0",
+        "target_name": "clothes_dryer",
+        "caption": "this is a white clothes dryer. it is in  corner of the room.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "19",
+        "target_name": "soap_dispenser",
+        "caption": "this is a white soap dispenser. it is above a sink.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "1",
+        "target_name": "washing_machine",
+        "caption": "this is a white washing machine. it is to the right of another washing machine.",
+        "parsed_query": {
+            "Target": "washing machine",
+            "Anchor": "washing machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "6",
+        "target_name": "clothes_dryer",
+        "caption": "this is a white clothes dryer. it is in a corner of the room.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "this is a white trash can. it is below the sink.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "26",
+        "target_name": "washing_machine",
+        "caption": "a washing machine, it is placed near the door, the left hand side is a small washbasin. if considering from right to left it is the 2nd washing machine.",
+        "parsed_query": {
+            "Target": "washing machine",
+            "Anchor": [
+                "door",
+                "washbasin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "19",
+        "target_name": "soap_dispenser",
+        "caption": "this is a plastic,gray,wall mounted soap dispenser. the soap dispenser is on the wall next to the paper towel dispenser and, above the sink.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": [
+                "paper towel dispenser",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "a shelf, at the bottom of which are two washing machines . on the left is a paper shelf and a hand sanitizer.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "washing machines",
+                "paper shelf",
+                "hand sanitizer"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "25",
+        "target_name": "table",
+        "caption": "this is a long white plastic table. the table is along the wall,between the laundry machines.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "laundry machines"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "a paper towel dispenser, at the bottom are 2 washing machines. on the left is a hand washing shelf, the right is a shelf.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "washing machines",
+                "hand washing shelf",
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "6",
+        "target_name": "clothes_dryer",
+        "caption": "it is a white clothes dryer. the clothes dryer is along the wall,to the right of the white table. the clothes dryer is stacked on top of a washer.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": [
+                "white table",
+                "washer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "a trash can, on top is a small sink, has a water pipe of the machine. on the left is a door, on the right is a washing machine.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink",
+                "door",
+                "washing machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "24",
+        "target_name": "sink",
+        "caption": "it is a white, plastic,utility room sink. the sink is in the corner of the room,next to the soap and paper towel dispensers.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "soap dispenser",
+                "paper towel dispenser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "0",
+        "target_name": "clothes_dryer",
+        "caption": "the clothes dryer is in the northeast corner of the room. the clothes dryer has a white color and a half circle mirror in the center.",
+        "parsed_query": {
+            "Target": "clothes dryer",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "there is a paper towel dispenser to the left of the soap dispenser. the paper towel dispenser is shaped like a black and gray rectangular prism.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": "soap dispenser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "25",
+        "target_name": "table",
+        "caption": "a white table is in the laundry room against the wall.  it is under a window.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "24",
+        "target_name": "sink",
+        "caption": "a sink is in the corner of a laundry room.  it is under the soap dispenser.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "soap dispenser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "a double shelf is on the wall in the laundry room.  it is above the sink and next to towel dispenser.",
+        "parsed_query": {
+            "Target": "double shelf",
+            "Anchor": [
+                "sink",
+                "towel dispenser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "6",
+        "target_name": "clothes_dryer",
+        "caption": "this silver clothes dryer is in the laundry room.  it is on top of another dryer and next to a table.",
+        "parsed_query": {
+            "Target": "silver clothes dryer",
+            "Anchor": [
+                "dryer",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "26",
+        "target_name": "washing_machine",
+        "caption": "a washing machine . the right is a washing machine, the left is a sink, looking from left to right, it is the first one.",
+        "parsed_query": {
+            "Target": "washing machine",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "a door, on the right is a sink, in front of the door is 2 washing machines. there are 2 shelves on the sink.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "a trash can ,on the top is a sink, on the right is a washing machine. it is close to the wall, near the entrance.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink",
+                "washing machine",
+                "wall",
+                "entrance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "a cabinet,on the left are two washing machines stacked up, above a ventilation duct. the cabinet is arranged close to the entrance.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "entrance"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "18",
+        "target_name": "paper_towel_dispenser",
+        "caption": "there is a black hand dryer placed next to the soap dispenser.",
+        "parsed_query": {
+            "Target": "hand dryer",
+            "Anchor": "soap dispenser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "24",
+        "target_name": "sink",
+        "caption": "there is a white square sink placed on the corner of the bathroom.",
+        "parsed_query": {
+            
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "0",
+        "target_name": "clothes_dryer",
+        "caption": "there is a white washing clothes machine placed under another machine.",
+        "parsed_query": {
+            "Target": "washing machine",
+            "Anchor": "another machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0139_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "there is a square white bin placed under the sink.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "sink"
+        },
+        "unique": false
+    }
+]

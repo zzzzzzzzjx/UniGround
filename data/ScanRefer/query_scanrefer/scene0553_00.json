@@ -1,0 +1,448 @@
+[
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "2",
+        "target_name": "toilet",
+        "caption": "a white toilet. hanging on the wall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "11",
+        "target_name": "door",
+        "caption": "a wooden door. on he side of the bathroom.",
+        "parsed_query": {
+            "Target": "wooden door",
+            "Anchor": "bathroom"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "5",
+        "target_name": "trash_bin",
+        "caption": "a silver bin. hanging on the wall.",
+        "parsed_query": {
+            "Target": "silver bin",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "11",
+        "target_name": "door",
+        "caption": "a brown wooden door. on side of the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "9",
+        "target_name": "dispenser",
+        "caption": "a sliver plate. placed on the wall on the left to the bin.",
+        "parsed_query": {
+            "Target": "silver plate",
+            "Anchor": "bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "15",
+        "target_name": "soap_dispenser",
+        "caption": "there is a rectangular black soap dispenser. it is to the left of a white sink.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "white sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "2",
+        "target_name": "toilet",
+        "caption": "there is an oval white toilet. it is next to a roll of toilet paper.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "roll of toilet paper"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "19",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "there is a rectangular toilet paper dispenser. it is beside the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "19",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "there is a rectangular toilet paper dispenser. it is at a side wall from the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "15",
+        "target_name": "soap_dispenser",
+        "caption": "there is a rectangular black soap dispenser. it is at the left end of the room.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "9",
+        "target_name": "dispenser",
+        "caption": "this dispenser is on the left side. it is brown.",
+        "parsed_query": {
+            "Target": "dispenser",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "this toilet paper is in the holder. it is rolled.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "holder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "this toilet paper is rolled up. it is on the right of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "15",
+        "target_name": "soap_dispenser",
+        "caption": "this soap dispenser is on the left. it is black.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "5",
+        "target_name": "trash_bin",
+        "caption": "this trash bin is on the left. it is black.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "3",
+        "target_name": "sink",
+        "caption": "the square bathroom sink. the sink is next to the toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "9",
+        "target_name": "dispenser",
+        "caption": "there is a rectangular dispenser. it is next to a trash bin.",
+        "parsed_query": {
+            "Target": "rectangular dispenser",
+            "Anchor": "trash bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "5",
+        "target_name": "trash_bin",
+        "caption": "the wall trash bin. the trashbin is on the wall by the door.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "11",
+        "target_name": "door",
+        "caption": "there is a rectangular brown door. it has a backpack hanging on it.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "15",
+        "target_name": "soap_dispenser",
+        "caption": "there is a rectangular soap dispenser. it is next to a white sink.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "19",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "there is a rectangular toilet paper dispenser. it is next to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "11",
+        "target_name": "door",
+        "caption": "there is a rectangular brown door. it is next to a light switch.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "light switch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "5",
+        "target_name": "trash_bin",
+        "caption": "the rectangle trash bin. the trash bin is opposite of the sink.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "3",
+        "target_name": "sink",
+        "caption": "there is a rectangular white sink. it is next to a toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "19",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "there is a rectangular toilet paper dispenser. it is beside the white toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "white toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "9",
+        "target_name": "dispenser",
+        "caption": "there is a rectangular dispenser. it is to the left of a trash bin.",
+        "parsed_query": {
+            "Target": "dispenser",
+            "Anchor": "trash bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "11",
+        "target_name": "door",
+        "caption": "there is a rectangular door. it is next to a light switch.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "light switch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "there is a roll of toilet paper. it is next to the toilet.",
+        "parsed_query": {
+            "Target": "roll of toilet paper",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "5",
+        "target_name": "trash_bin",
+        "caption": "the tall trash bin. the trash bin is by the door.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "3",
+        "target_name": "sink",
+        "caption": "the bathroom sink. the sink is next to the toilet.",
+        "parsed_query": {
+            "Target": "bathroom sink",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "2",
+        "target_name": "toilet",
+        "caption": "the toilet is white. it is hanging on the back wall, to the left is a silver toilet paper dispenser.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "toilet paper dispenser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "15",
+        "target_name": "soap_dispenser",
+        "caption": "the soap dispenser is small and black. it is above the sink, to the left.",
+        "parsed_query": {
+            "Target": "soap dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is white and cylindrical. it is inside a silver dispenser, located diagonally to the right of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "silver dispenser",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "3",
+        "target_name": "sink",
+        "caption": "the sink is white and square. it is located beneath the mirror and to the lower right of the black soap dispenser.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "mirror",
+                "black soap dispenser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "3",
+        "target_name": "sink",
+        "caption": "the sink is white. it is located to the upper front and left of the toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "19",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "it is the toilet paper dispenser.  located on the back white wall.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "back white wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "9",
+        "target_name": "dispenser",
+        "caption": "it is the dispenser.  its the small silver machine against the wall.",
+        "parsed_query": {
+            "Target": "dispenser",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "it is the toilet paper. it's in the toilet paper holder on the far wall.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet paper holder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "2",
+        "target_name": "toilet",
+        "caption": "its the toilet. it is coming out from the wall.  the lid is white in color.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0553_00",
+        "target_id": "2",
+        "target_name": "toilet",
+        "caption": "it the toilet.  its located near the corner and white in color.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": true
+    }
+]

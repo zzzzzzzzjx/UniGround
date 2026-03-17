@@ -1,0 +1,516 @@
+[
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "9",
+        "target_name": "keyboard",
+        "caption": "the keyboard is located on the table in front of a monitor. it is the furthest keyboard to the right.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "0",
+        "target_name": "furniture",
+        "caption": "the furniture is north of the round table. the furniture is curved and has many bars.",
+        "parsed_query": {
+            "Target": "furniture",
+            "Anchor": "round table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "the office chair is the southeastern-most one next to the round table. the office chair is brown and has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "the monitor is on top of the round table. the monitor is gray and rectangular.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "0",
+        "target_name": "furniture",
+        "caption": "this piece of furniture is brown with oval holes. it is behind a black rolling chair.",
+        "parsed_query": {
+            "Target": "piece of furniture",
+            "Anchor": "black rolling chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "the monitor is black and square. it is behind the lamp.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "lamp"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "11",
+        "target_name": "keyboard",
+        "caption": "the keyboard is black and rectangular.  it is in front of the monitor with the display.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "the chair is black with wheels. it is to the right of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "9",
+        "target_name": "keyboard",
+        "caption": "the keyboard is below the monitor. it is on top of the table.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "monitor",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "the office chair is pushed into the desk in front of a monitor.  it is the furthest chair to the right.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "there is a brown office chair. it is near the round table in front of the other office chair.",
+        "parsed_query": {
+            "Target": "brown office chair",
+            "Anchor": [
+                "round table",
+                "other office chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "the office chair is black and is pushed out from the desk. the chair is the second from the right.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "9",
+        "target_name": "keyboard",
+        "caption": "there is a black computer keyboard. it is on the left side of the table in front of the screen.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table",
+                "screen"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "the chair is pushed into the desk and is in front of a monitor. the chair is the furthest to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "there is a brown office chair with wheels. it is between the table and the room divider.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "room divider"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "11",
+        "target_name": "keyboard",
+        "caption": "there is a computer keyboard. it is on the table in front of the middle chair.",
+        "parsed_query": {
+            "Target": "computer keyboard",
+            "Anchor": [
+                "table",
+                "middle chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "0",
+        "target_name": "furniture",
+        "caption": "there is a piece of brow furniture. it is between the wheeled office chair and the wall.",
+        "parsed_query": {
+            "Target": "brown furniture",
+            "Anchor": [
+                "wheeled office chair",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "the office chair is north of the round table. the office chair is gray and has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table is in the center of the room. the table is round and brown.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "the monitor is on top of the round table. the monitor is black and rectangular.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "the office chair is the southwestern-most one next to the round table. the office chair is black and has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "the office chair is north of the round table. the office chair has two armrests and is gray.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "10",
+        "target_name": "monitor",
+        "caption": "the monitor is the southern-most one on the round table. the monitor is black and has a green center.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "the monitor is the east-most one on top of the round table. the monitor is black and rectangular.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "10",
+        "target_name": "monitor",
+        "caption": "the monitor is has a landscape background and is facing the left wall. it is the furthest monitor to the left thats on the desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "left wall",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "0",
+        "target_name": "furniture",
+        "caption": "the furniture is against the far wall. it is brown and has a lot of slats cut out.",
+        "parsed_query": {
+            "Target": "furniture",
+            "Anchor": "far wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "the chair is pushed out from the desk and is facing the near wall. it is the 2nd chair from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "near wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "the black chair is pushed out from the desk and is facing the near wall. it is the second chair from the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the desk is made of wood and is circular. it is in the center of the room with monitors on it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "the office chair is north of the round table. the office chair is black and has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "the monitor is on the desk facing the right wall. it is the furthest monitor to the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "right wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "11",
+        "target_name": "keyboard",
+        "caption": "there is a rectangular keyboard. it is on a table in front of a chair.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "11",
+        "target_name": "keyboard",
+        "caption": "the keyboard is on the desk in front of the monitor. it is the keyboard furthest to the left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "there is a circular brown table. it is next to some chairs and has lamps on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "lamps"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "11",
+        "target_name": "keyboard",
+        "caption": "the keyboard is black and is on the desk in front of the monitor. it is the keyboard that is furthest to the left.",
+        "parsed_query": {
+            "Target": "keyboard",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "there is a brown office chair. it is next to a circular table and farthest from the window.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "circular table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "0",
+        "target_name": "furniture",
+        "caption": "the furniture is on the far wall behind the chair. it is dark brown and has open slates.",
+        "parsed_query": {
+            "Target": "furniture",
+            "Anchor": [
+                "far wall",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "there is a rectangular dark monitor. it is on a circular table in front of a lamp.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "circular table",
+                "lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "10",
+        "target_name": "monitor",
+        "caption": "there is a rectangular dark monitor. it is on a circular table and second closest to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "circular table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "10",
+        "target_name": "monitor",
+        "caption": "the monitor is the south-most one on top of the round table. the monitor is black and rectangular.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0314_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "the monitor is the left-most one on top of the round table. the monitor is rectangular and gray.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "round table"
+        },
+        "unique": false
+    }
+]

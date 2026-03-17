@@ -1,0 +1,857 @@
+[
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a brown wooden chair. in the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "a brown wooden door. on the side of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a beige wooden arm chair. in front of a round table.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a beige wooden arm chair. next to the table in the corner.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "a black chair. next to the round table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "a black chair sits with it's back to us to the right of a brown chair. it's sitting by a radiator.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "brown chair",
+                "radiator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "a chair sits by a circular white table. it's got a radiator above it on the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "circular white table",
+                "radiator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "a table sits in the corner by a brightly colored wall. it's got two chairs facing it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "brightly colored wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "a chair sits alone in the middle of the floor. it's got it's back to us and it's facing a white table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "a garbage sits to the left of a recycling bin. it's to the right of the couch.",
+        "parsed_query": {
+            "Target": "garbage",
+            "Anchor": [
+                "recycling bin",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a light colored chair. it is in front of a fireplace and near another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "fireplace",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "this is a dark colored chair. it is one of two positioned around a round table.",
+        "parsed_query": {
+            "Target": "dark colored chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "3",
+        "target_name": "window",
+        "caption": "this is a double window. it is in the corner of the room next to some child's artwork.",
+        "parsed_query": "{\"Target\": \"double window\", \"Anchor\": \"child\"s artwork\"}",
+        "unique": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a round table. it is in the corner of the room and there is a lamp on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "lamp"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "the trash can is the gray one to the right of the couch. the trash can is a white rectangular prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is the gray one to the right of the northwest-most table. the chair has four legs and two arms.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "northwest-most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "the door is on the northwest corner of the room. the door is a dark brown rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is the center northern-most one next to the window. the table is a white circle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is the one directly south of the fireplace. the chair is blue and has five legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "fireplace"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this is a brown door to the room. it has a metal handle and is near the recycling and trash bin.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "recycling bin",
+                "trash bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "20",
+        "target_name": "radiator",
+        "caption": "this is a floor mounted wall heater radiator. it is along the side of the room with the windows.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a chair at the round table in the corner of the room. it is near the vacuum cleaner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "vacuum cleaner"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "this is a chair at one of the round tables. it is off blue in color and in front of the two sofas and in the center of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "sofas"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "this is the round table in the room in front of the window. it has a grey top and a four pegged leg.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "20",
+        "target_name": "radiator",
+        "caption": "there is a wall length beige radiator in this room.  it is behind two tables.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "two tables"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "there is a full trash can on the right side of the room as you enter from the door.  it is between a comfortable looking chair and a recycling bin.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "chair",
+                "recycling bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "20",
+        "target_name": "radiator",
+        "caption": "the radiator in this room is the length of the entire wall.  it runs underneath a window and a mural painted on the wall.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "window",
+                "mural"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a black chair at the table on the left side of the room.  it is between a wooden chair and the wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "table",
+                "wooden chair",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "31",
+        "target_name": "lamp",
+        "caption": "there is a lamp on the table in the corner of the room.  it has an interesting base with a large opening in it.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular gray trash can. it is next to a blue bin.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "blue bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "there is a gray office chair. it is at a round table with its back towards a door.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "round table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "8",
+        "target_name": "armchair",
+        "caption": "there is a square brown armchair. it is the one directly right of the door.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "there is a square brown armchair. it is the one directly left of a gray trash can.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "gray trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "3",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is over the radiator.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "radiator"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is by the radiator heater between the two round tables.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "radiator heater",
+                "round tables"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this is a black door with a metal handle. it is the entrance to the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a round table. it is in the corner of the room and has one wooden chair and a black chair sitting next to it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wooden chair",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "1",
+        "target_name": "trash_can",
+        "caption": "this is a small trash can. it is against the wall and is blue in color.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "1",
+        "target_name": "trash_can",
+        "caption": "this is a blue trash can. it is next to the gray trash can.",
+        "parsed_query": {
+            "Target": "blue trash can",
+            "Anchor": "gray trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "the armchair is the second closest one to the door. the armchair is a yellow brown one with two armrests.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "the armchair is right of the one closest to the door. the armchair is a yellow brown with square seat.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is the center northern-most one. the table is a white circle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "20",
+        "target_name": "radiator",
+        "caption": "the radiator is below the window. the radiator is a long white, rectangular prism.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "31",
+        "target_name": "lamp",
+        "caption": "the lamp is in the rightmost corner from the door. the lamp has a gray cone and circular body.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "8",
+        "target_name": "armchair",
+        "caption": "there is a square armchair. it is to the left of another armchair.",
+        "parsed_query": {
+            "Target": "square armchair",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "there is a wooden brown chair. it is next to a gray chair and at a circular table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "gray chair",
+                "circular table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "8",
+        "target_name": "armchair",
+        "caption": "there is a square beige armchair. it is to the left of another armchair.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "there is a white circular table. it is next to a radiator.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "radiator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "20",
+        "target_name": "radiator",
+        "caption": "there is a white radiator. it is below a wall with a floral pattern.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "wall with a floral pattern"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "it is a wooden door that opens inward. it is to the left of the colorful bulletin wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "colorful bulletin wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "it is a grey table in the corner of the room. there is a lamp on top of it.",
+        "parsed_query": {
+            "Target": "grey table",
+            "Anchor": "lamp"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "it is a mesh chair nearest to the fire place. it is facing towards two large chairs on the wall opposite the round table.",
+        "parsed_query": {
+            "Target": "mesh chair",
+            "Anchor": [
+                "fire place",
+                "two large chairs",
+                "round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "it is a grey circular table in the corner of the room. there is a lamp on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "lamp"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "it is a greyish waste bin next to a grey plush chair. it i to the left of the blue recycle bin.",
+        "parsed_query": {
+            "Target": "greyish waste bin",
+            "Anchor": [
+                "grey plush chair",
+                "blue recycle bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the black chair is sitting against the wall in the corner of the room. there is a brown chair to the left of it.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "7",
+        "target_name": "armchair",
+        "caption": "a brown armchair is against the wall with another beside it. there is a round table to the left of it.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "brown armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "a chair is placed beside the round table. there are armchairs to the left of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "armchairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is sitting with a round table behind it. there are two armchairs behind it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "armchairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a brown chair is in the corner of the room by a round table. there is a colorful wall behind it also.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "round table",
+                "colorful wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "31",
+        "target_name": "lamp",
+        "caption": "this  is the lamp on the round table.  it is by the corner.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "round table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "3",
+        "target_name": "window",
+        "caption": "this is the window by the wall. it is across the table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "8",
+        "target_name": "armchair",
+        "caption": "this is a brown chair on the left.  it is farthest to the picture frame.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "picture frame"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "31",
+        "target_name": "lamp",
+        "caption": "this is the lamp by the wall. it sits in the table.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "31",
+        "target_name": "lamp",
+        "caption": "the lamp is on a circle table. it is in the back corner of the room.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "circle table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is grayish. it is on the right side of the circle table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "circle table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "1",
+        "target_name": "trash_can",
+        "caption": "the trash can is blue. it is on the right of the white trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "white trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "3",
+        "target_name": "window",
+        "caption": "the window is rectangular. it is above the circular table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "circular table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is grey. it is in front of the vacuum cleaner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "vacuum cleaner"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "this is a white round table in a lounge. it is the closest table by the window.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "3",
+        "target_name": "window",
+        "caption": "this is a white framed window in a lounge. it is to the left of the vacuum cleaner.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "vacuum cleaner"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a white chair in a lounge. it is the chair in front of the fireplace.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "fireplace"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0616_00",
+        "target_id": "1",
+        "target_name": "trash_can",
+        "caption": "this is a small grey trashcan in a lounge. it is the one closest to the door.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "door"
+        },
+        "unique": false
+    }
+]

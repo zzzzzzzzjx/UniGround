@@ -1,0 +1,792 @@
+[
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "a white curtain. covering the door.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "a white wooden shelf. on the side of the room.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "a light green curtain. on the left window.",
+        "parsed_query": {
+            "Target": "light green curtain",
+            "Anchor": "left window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "a black monitor. on the left to the other same monitor.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "16",
+        "target_name": "mouse",
+        "caption": "it is a white computer mouse. the white computer mouse is connected to the computer keyboard that is on the left of the desk. .",
+        "parsed_query": {
+            "Target": "computer mouse",
+            "Anchor": "computer keyboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "0",
+        "target_name": "blinds",
+        "caption": "these blinds are brown. they are against the far wall.",
+        "parsed_query": {
+            "Target": "blinds",
+            "Anchor": "far wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is brown.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this chair is facing away. it is green.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "this window is on the top left. it is light blue.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this gray chair is facing up and left. it is in the corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a grey chair. it is in the first row and it is the first one close to the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "16",
+        "target_name": "mouse",
+        "caption": "this is a white mouse. it is in the first row close to the book shelves.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": "book shelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a grey chair. it is right in front of a purple back pack.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "purple back pack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "0",
+        "target_name": "blinds",
+        "caption": "these are wooden blinds. they are on the back of the room behind the computers.",
+        "parsed_query": {
+            "Target": "blinds",
+            "Anchor": "computers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "this is a big wooden table. it is surrounded by five grey chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "grey chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "this is a square window. it is between the blinds and the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "blinds",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "this is a wooden table. it has a back pack on top.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "0",
+        "target_name": "blinds",
+        "caption": "these are wooden blinds. they are close to the door.",
+        "parsed_query": {
+            "Target": "wooden blinds",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a grey chair. it is under the table in front of the first computer closest to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "computer",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "1",
+        "target_name": "blinds",
+        "caption": "these are wooden blinds. they are horizontally hanging.",
+        "parsed_query": {
+            "Target": "blinds",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is white. it is to the right of the table.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "the window goes from the floor to the ceiling. they are on the right side of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "the table is wooden. it is surrounded by chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the table is white. it contains two computer monitors.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "computer monitors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "16",
+        "target_name": "mouse",
+        "caption": "the mouse is white. it is on the table connected to the left monitor.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "table",
+                "left monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "3",
+        "target_name": "monitor",
+        "caption": "it is a black computer monitor. the black computer monitor sits on the far right of the desk.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "it is a gray chair. the gray chair sits at the front left of the brown table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "it is a white window. the white window on the wall at the middle-back of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "it is a gray chair. the gray chair sits at the front right of the brown table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "this window is on the other side. it is opaque.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "this bookshelf is against the wall. it is stacked.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "3",
+        "target_name": "monitor",
+        "caption": "this monitor is on the desk. it is black and off.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "1",
+        "target_name": "blinds",
+        "caption": "these blinds are brown. they are ridged.",
+        "parsed_query": {
+            "Target": "blinds",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is wooden.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "0",
+        "target_name": "blinds",
+        "caption": "these blinds are on the far side. they are ridged.",
+        "parsed_query": {
+            "Target": "blinds",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is tan.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this chair is facing away. it is dark.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "16",
+        "target_name": "mouse",
+        "caption": "the mouse is sitting on the table between two apple computers.  there is a keyboard directly to the left of it.",
+        "parsed_query": {
+            "Target": "mouse",
+            "Anchor": [
+                "table",
+                "apple computers",
+                "keyboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is grey and has no arms on it.  it is pushed under the table and is in front of an apple computer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "apple computer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is grey with no arm rests.  its sitting on the left end of the table pushed in.  there is an apple computer in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "apple computer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is at the end of a wooden table pushed under the table.  there is another chair to the right of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the table is long and white and at the back of the room.  there are two computer stations sitting on the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this is a white table in an office. it is the table with the two chairs up against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "two chairs",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "this is a black monitor in an office. it is the first one on the left on the table against the wall.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "1",
+        "target_name": "blinds",
+        "caption": "these are brown wood blinds in an office.  it is on the right of the wall above the desk.",
+        "parsed_query": {
+            "Target": "blinds",
+            "Anchor": [
+                "wall",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "1",
+        "target_name": "blinds",
+        "caption": "these are brown wood blinds in a classroom.  it is the last one above the second monitor on the desk against the wall.",
+        "parsed_query": {
+            "Target": "blinds",
+            "Anchor": [
+                "second monitor",
+                "desk",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "this is a black monitor in a classroom. it is the first one on the left on the desk under the blinds.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "blinds"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is pulled into the table. it is facing the table and keyboard.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "keyboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is facing the table. the chair is also facing the monitor atop the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is facing the table. the chair is to the right of the other chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "other chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "the window is located on the right side of the room. the glass is marbled. there is a table and chair opposite the far end of the window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "0",
+        "target_name": "blinds",
+        "caption": "the blinds are on the right side of the room. they are behind and above the monitors.",
+        "parsed_query": {
+            "Target": "blinds",
+            "Anchor": "monitors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "there is a rectangular monitor. it is on a desk left of another monitor.",
+        "parsed_query": {
+            "Target": "rectangular monitor",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "there is a rectangular monitor. it is on a desk with another monitor on the right.",
+        "parsed_query": {
+            "Target": "rectangular monitor",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "3",
+        "target_name": "monitor",
+        "caption": "there is a rectangular monitor. it is on a desk right of another monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. it is at a table with a backpack to its left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. it is set at a table with a backpack to its left side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "3",
+        "target_name": "monitor",
+        "caption": "this is a computer monitor placed to the right of another computer monitor. it is black and rests on a stand on the white desk in front of a chair.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "computer monitor",
+                "white desk",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "this is a window looking out of the building. it covers the majority of the wall and lies to the left of the room when walking through the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "this is a bookshelf standing against the right wall of the room when entering from the door. it has white shelves with wooden beams.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "this is a bookshelf that lies against the wall in front of the conference table. it has white shelves and wooden beams holding the shelves.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "wall",
+                "conference table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the fancy grey chair. the grey chair is at the corner of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the fancy grey chair. the chair is at the left side of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the nice grey chair. the chair is on the right under the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "3",
+        "target_name": "monitor",
+        "caption": "the nice big computer monitor. the monitor is on the right of the desk.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0598_00",
+        "target_id": "1",
+        "target_name": "blinds",
+        "caption": "the horizontal blinds. the blinds are above the monitor on the right.",
+        "parsed_query": {
+            "Target": "horizontal blinds",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    }
+]

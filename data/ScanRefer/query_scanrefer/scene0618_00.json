@@ -1,0 +1,982 @@
+[
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the is located in the corner between a table with black chairs and a bump out in the wall. . it is a tall brown chair and it is the chair closest to the bump out in the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table with black chairs",
+                "bump out in the wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "there is the brown chair with its back against a black chair. it is the brown chair farthest from the white wall. .",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "black chair",
+                "white wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "a gray plastic chair with steel legs.  it is backed against a wall between the window (on the left) and a table (on the right).",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "a tall, round bar table.  it is against the wall between two chairs.  there is another table and chairs on the right, and yet another on the left.",
+        "parsed_query": {
+            "Target": "bar table",
+            "Anchor": [
+                "wall",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "a long, narrow side table up against the wall. there is an electrical outlet to the left. the pool table is visible to the right.",
+        "parsed_query": {
+            "Target": "side table",
+            "Anchor": [
+                "electrical outlet",
+                "pool table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "a long window set high in the wall, above a ac or heating unit.  a long narrow table is to the left. a bar table and chairs are to the right.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "ac or heating unit",
+                "long narrow table",
+                "bar table",
+                "chairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "a tall brown plastic and steel chair sits next to a tall bar table.  it is the second chair from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tall bar table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "19",
+        "target_name": "radiator",
+        "caption": "the radiator is a cream color. it is attached to the wall. it is between a long table and a table with tall chairs.  there are two pipes coming from the radiator.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "long table",
+                "table with tall chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "17",
+        "target_name": "pool_table",
+        "caption": "the pool table is in the center of the room. the top is green and the legs and the border around the top are wood.",
+        "parsed_query": {
+            "Target": "pool table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "the table is tall and is dark in color. it is in the center of one of the green walls. it is between a light colored table and chairs in the corner and a dark set of table and chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "green wall",
+                "light colored table and chairs",
+                "dark set of table and chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is brown. it is sitting in the corner between a set of dark table and chairs and a bump out in the wall. it is the chair that is closer to the bump out in the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "set of dark table and chairs",
+                "bump out in the wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "a tall, brown plastic and steel tube chair.  it is to the left of a tall bar table and another, similar chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bar table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a tall chair, of brown plastic and steel tube, against the white wall.  it is next to a tall corner table, and it is the first chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white wall",
+                "tall corner table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "the chair to the left of the tall bar table.  it is brown plastic and steel tube.  there is a long table farther to the right, against the white wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tall bar table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "a long gray table stands alone against the white wall.  to the left is a bar table and two tall chairs in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "white wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this is the second chair from the left.  it is a tall bar chair in dark plastic and steel tube.  it is to the right of a tall table.",
+        "parsed_query": {
+            "Target": "bar chair",
+            "Anchor": "tall table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "24",
+        "target_name": "table",
+        "caption": "this is a grey table in a pool room.  it is on the left side of the pool table in the left corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "pool table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a grey chair in a pool room. it is on the right side of the pool table and against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "pool table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "17",
+        "target_name": "pool_table",
+        "caption": "this is a green and brown pool table in a pool room. it is in the middle of the room.",
+        "parsed_query": {
+            "Target": "pool table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "the highlighted object is the chair on the left in this view of the room. it is a light brown. there is a table in the corner to the right of the chair. on the left, it appears there is a pool cue on the green wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "this is a gray table that is against the wall. to its right is a radiator. to the left is a light brown chair in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "radiator",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "20",
+        "target_name": "table",
+        "caption": "the highlighted object is the circular table that is in the far right corner of the room. it is between two light brown chairs. it is in front of a dark green wall.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": [
+                "light brown chairs",
+                "dark green wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a set of dark colored chairs with a circular table between them that are centered to the back wall. the highlighted object is the chair in this set that is on the left. it is in front of the dark green wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "dark green wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is sitting on the wood floor with a table and chair to the right of it. there is a pool table in front of the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wood floor",
+                "table",
+                "chair",
+                "pool table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "a table is sitting on the left side of the room with two chairs on each side. the pool table is in front of the table.",
+        "parsed_query": {
+            "Target": "pool table",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "24",
+        "target_name": "table",
+        "caption": "the small table is against the left wall in the room with chair around it. the table is to the left of the pool table.",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": [
+                "left wall",
+                "pool table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "the pedestal table is against the green wall. there is three chairs and another table to the right of it.",
+        "parsed_query": {
+            "Target": "pedestal table",
+            "Anchor": "green wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "17",
+        "target_name": "pool_table",
+        "caption": "the pool table is in the middle of the room with a green top. the pool table has an air vent and a white wall to the right of it.",
+        "parsed_query": {
+            "Target": "pool table",
+            "Anchor": [
+                "air vent",
+                "white wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "it is a brown chair. the brown chair is the chair sitting in the left corner of the room, beside the black wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "black wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "21",
+        "target_name": "chair",
+        "caption": "the chair is the northeast-most one in the room. the chair has four legs and is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "19",
+        "target_name": "radiator",
+        "caption": "the radiator is north of the green table. the radiator is a brown rectangular box.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "green table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is left of the table north of the green table. the chair is brown with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "green table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "27",
+        "target_name": "table",
+        "caption": "the table is the northeast-most one in the room. the table is a gray circle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is the center northern-most one in the room. the chair is gray with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "it is a black chair. the black chair is the second black chair in the middle of the black wall, closer to the pool table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "black wall",
+                "pool table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "it is a black chair. the black chair is the first black chair, on the left wall, closer to the back left of pool table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "left wall",
+                "pool table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "20",
+        "target_name": "table",
+        "caption": "there is a circular table. it is between two brown chairs.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": [
+                "brown chair",
+                "brown chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "there is a square tall brown chair. it is to the left of a circular table in the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "circular table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "21",
+        "target_name": "chair",
+        "caption": "there is a square tall brown chair. it is to the right of a circular table in the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "circular table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a tall brown chair. it is to the right of a circular table in the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "circular table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "there is a brown chair by the dark wall. it is near a black chair.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "dark wall",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "there is a black table by the wall. it is near the chair .",
+        "parsed_query": {
+            "Target": "black table",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a black chair by the wall. it is closest to the corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "there is a brown table that sits high. it is near a chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "19",
+        "target_name": "radiator",
+        "caption": "this is a floor heater or radiator. it is by the pool table.",
+        "parsed_query": {
+            "Target": "floor heater or radiator",
+            "Anchor": "pool table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "27",
+        "target_name": "table",
+        "caption": "this is a long bar like table. it sits in the corner of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "this is a high chair. it is brown and by the tall table.",
+        "parsed_query": {
+            "Target": "high chair",
+            "Anchor": "tall table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a gray plastic and metal chair. it is to the right of the heater.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "heater"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "there is a high slender table. it is brown with a steel base on the wall opposite the heater.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "heater"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "this is a brown chair. it is to the left of a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "this table is on the far side. it is standing.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this chair is on the left side. it has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "27",
+        "target_name": "table",
+        "caption": "this table is on the left side. it is hard.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "20",
+        "target_name": "table",
+        "caption": "this table is on the left wall. it is circular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "24",
+        "target_name": "table",
+        "caption": "this table is on the left side. it is sturdy.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a tall chair. it is to the left of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "this is a tall table. it is in between two chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "20",
+        "target_name": "table",
+        "caption": "this is a tall table. it is in between two chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "17",
+        "target_name": "pool_table",
+        "caption": "this is a green table. it is in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "24",
+        "target_name": "table",
+        "caption": "this table is on the left side. it is against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "this window is on the left side. it is opaque.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "21",
+        "target_name": "chair",
+        "caption": "this chair is on the top left. it is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this chair is on the top left. it is against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this chair is on the top left corner. it is facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a tall chair. it is to the left of a tall table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tall table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "21",
+        "target_name": "chair",
+        "caption": "this is a tall chair. it is to the right of the tall table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this is a tall chair. it is to the right of the round table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "21",
+        "target_name": "chair",
+        "caption": "this is a grey chair in a pool room. it is to the right of the pool table and is in the very corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "pool table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "19",
+        "target_name": "radiator",
+        "caption": "this is a white radiator in a pool room. it is to the right of the pool table and is against the wall.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "pool table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "this is a square window. it is on the far wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "far wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a tall chair. it is to the right of the round table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "there is a wooden bar table. it is to the right of the pool table.",
+        "parsed_query": {
+            "Target": "wooden bar table",
+            "Anchor": "pool table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "19",
+        "target_name": "radiator",
+        "caption": "there is a gray radiator on the wall. it is to the left of the pool table.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "pool table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a black chair against the wall. it is to the right of the table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "17",
+        "target_name": "pool_table",
+        "caption": "there is a wooden pool table with green felt. it is in the middle of the room.",
+        "parsed_query": {
+            "Target": "pool table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "the table is northwest of the green table. the table is a gray rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "green table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "the window is directly north of the green table. the window is a clear rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "green table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is north of the green table. the chair is brown with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "green table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "the window is north of the green table. the window is a clear rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "green table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is north of the green table. the table is brown and round.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "green table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0618_00",
+        "target_id": "24",
+        "target_name": "table",
+        "caption": "there is a bar table against the wall. it is between the two chairs.",
+        "parsed_query": {
+            "Target": "bar table",
+            "Anchor": [
+                "wall",
+                "chairs"
+            ]
+        },
+        "unique": false
+    }
+]

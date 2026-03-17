@@ -1,0 +1,97 @@
+[System] You are a helpful assistant designed to identify objects based on image and descriptions.
+
+[User]
+[Image 1: Global render - stitched multi-view]
+[Image 2: Candidate ID 2 stitched image]
+[Image 3: Candidate ID 3 stitched image]
+[Image 4: Candidate ID 10 stitched image]
+...
+
+{image_note}
+The first image is a stitched global render (multiple views side-by-side) with object IDs and box for spatial context. Then follow stitched candidate images grouped by ID.
+
+{anchor_note}
+Global renders may include a red triangle marking the anchor bbox center (no ID). If anchor bbox is unknown, there will be no marker. Use it to reason about spatial relations when relevant.
+
+{axis_note}
+Axes overlay (if present): X is red, Y is green, Z is blue. Arrows originate at the anchor center to visualize the coordinate directions.
+Direction mapping:
+- left = +X (X larger -> more left), right = -X (X smaller -> more right)
+- If A is to the right of B, then X_A < X_B. If A is to the left of B, then X_A > X_B.
+- Front/back mapping: front = -Y (Y smaller -> more front), back = +Y (Y larger -> more back)
+- If A is in front of B, then Y_A < Y_B. If A is behind B, then Y_A > Y_B.
+- Up/down mapping: up = +Z (Z larger -> more up), down = -Z (Z smaller -> more down)
+- If A is above B, then Z_A > Z_B. If A is below B, then Z_A < Z_B.
+
+{crop_note}
+Candidate stitched images include a red box around the object in each view. Each stitched image places up to three different views left-to-right.
+
+{group_text}
+Candidate ID 2: stitched image with up to 6 views (left-to-right).
+Candidate ID 3: stitched image with up to 6 views (left-to-right).
+Candidate ID 10: stitched image with up to 6 views (left-to-right).
+...
+
+{decision_note}
+Decision protocol: identify each candidate by visual attributes (color/material/shape) from stitched candidate images first, then verify spatial relations with global renders and 3D coordinates. If there is conflict, prefer the visual match when the description is appearance-based.
+
+{fallback_note}
+Fallback rule: if the target name is missing from Candidate Names, or appears for multiple IDs, extract the anchor object from the query and use spatial relations (e.g., 'next to', 'left of') to choose the target. Locate the anchor ID via Candidate Names, then pick the candidate whose 3D bbox best matches the relation; confirm with the global renders.
+
+{anchor_name_note}
+Anchor hint: use the Anchor name(s) above to identify the anchor ID if possible. If the anchor is a room/area rather than a single object, use it only as a coarse spatial cue.
+
+{NAMING_INFO}
+Before choosing the target, name every candidate ID using only its stitched candidate image. Do not use global renders for naming. Use the stitched views (left-to-right) to confirm details. Avoid 'unknown' unless the object is truly unrecognizable. Do not omit any response fields.
+
+{naming_note}
+You must provide Candidate Names for every ID in this list: 2, 3, 10, 31, 34. Use 'unknown' if unclear.
+
+{anchor_context}
+Target name (from task): chair
+Anchor name(s) (from task): window
+Anchor bbox window: Center X 1.23, Y -2.45, Z 1.50, Size W 1.20, L 0.10, H 1.80
+
+Object IDs and their 3D spatial information are as follows:
+Object ID: 2, Score: 0.850, Center: X 1.50, Y -1.20, Z 0.45, Size: W 0.60, L 0.60, H 0.90
+Object ID: 3, Score: 0.720, Center: X 2.30, Y -1.50, Z 0.40, Size: W 0.55, L 0.55, H 0.85
+Object ID: 10, Score: 0.680, Center: X 1.80, Y -2.10, Z 0.50, Size: W 0.65, L 0.65, H 0.95
+...
+
+{COOR_INFO}
+The 3D spatial coordinate system is defined as follows: X-axis and Y-axis represent horizontal dimensions, Z-axis represents the vertical dimension.
+
+{ASK_INFO}
+Please review the provided image(s) and object 3D spatial descriptions, then select the object ID that best matches the given description.
+
+{REASONING_INFO}
+Think step-by-step to yourself. When reporting, provide a concise but include both appearance cue and spatial cue. If multiple candidates appear plausible, use elimination based on appearance and spatial relations, in the global renders, each candidate object is labeled with an ID, which helps you to further locate and reason.
+
+{RESPONSE_FORMAT}
+Respond in the format:
+Predicted ID: <ID>
+Explanation: <concise reasoning>
+Candidate Names: <ID -> short descriptive phrase (3-8 words: include color/material/part if visible), comma-separated>
+Target name matches?: <yes/no>
+Anchor ID: <ID or unknown>
+Relation used: <relation or none>
+
+The given description is: the white chair near the window
+
+说明：
+    当前配置：
+    1.一张全局场景渲染图（三视角拼接）
+    2.多张候选对象渲染图（每个候选对象三个不同视角拼接）
+    prompt输入：
+    1. 图像说明 (what you see)
+    2. 视觉辅助说明 (how to interpret)
+    3. 候选信息 (what to consider)
+    4. 决策协议 (how to decide)
+    5. 回退规则 (what if unclear)
+    6. 命名要求 (what to output)
+    7. 空间信息 (numerical data)
+    8. 坐标系统 (coordinate system)
+    9. 任务描述 (what to find)
+    10. 推理指导 (how to reason)
+    11. 输出格式 (how to respond)
+    12. 查询内容 (the query)

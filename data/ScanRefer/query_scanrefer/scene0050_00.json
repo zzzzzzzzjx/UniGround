@@ -1,0 +1,1174 @@
+[
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "6",
+        "target_name": "tissue_box",
+        "caption": "this is a white box of tissues. it is on a brown leather ottoman. there is also a black back pack on the brown leather ottoman. it is infront of a brown leather sofa . the sofa and the ottoman are the same color.",
+        "parsed_query": {
+            "Target": "box of tissues",
+            "Anchor": "brown leather ottoman"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "12",
+        "target_name": "piano_bench",
+        "caption": "this is a brown wooden piano bench. it is in front of a piano. there is a blue  tool box and a red tool box next to the piano that the bench is in front of.",
+        "parsed_query": {
+            "Target": "piano bench",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "30",
+        "target_name": "toolbox",
+        "caption": "this is a green tool box. . the green tool box is in front of a red tool box on the floor next to a piano.",
+        "parsed_query": {
+            "Target": "green tool box",
+            "Anchor": [
+                "red tool box",
+                "piano"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "30",
+        "target_name": "toolbox",
+        "caption": "to the right of the door is a red tool box. this is the green tool box in front of the red tool box,to the right of this tool box is a piano.",
+        "parsed_query": {
+            "Target": "piano",
+            "Anchor": "green tool box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "11",
+        "target_name": "ottoman",
+        "caption": "this is a brown ottoman in front of a brown sofa. the ottoman has a black back pack,and a black duffel bag,and a box of tissues.",
+        "parsed_query": {
+            "Target": "brown ottoman",
+            "Anchor": "brown sofa"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "0",
+        "target_name": "toolbox",
+        "caption": "in the corner there is piano. to the left of the piano there is two tool boxes,this is the red tool box behind the green tool box.",
+        "parsed_query": {
+            "Target": "red tool box",
+            "Anchor": [
+                "piano",
+                "green tool box"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "12",
+        "target_name": "piano_bench",
+        "caption": "this is a piano bench. the piano bench is in front of the piano. it is wooden and brown.",
+        "parsed_query": {
+            "Target": "piano bench",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "5",
+        "target_name": "desk",
+        "caption": "the brown desk is right next to the window by the chair. the desk is also right in front of the door.",
+        "parsed_query": {
+            "Target": "brown desk",
+            "Anchor": [
+                "window",
+                "chair",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "6",
+        "target_name": "tissue_box",
+        "caption": "the tissue box is in front of the brown two seat couch. it is between the two black bags.",
+        "parsed_query": {
+            "Target": "tissue box",
+            "Anchor": [
+                "brown two seat couch",
+                "two black bags"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "0",
+        "target_name": "toolbox",
+        "caption": "the toolbox is on the left of the piano. the toolbox is bright red.",
+        "parsed_query": {
+            "Target": "toolbox",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "3",
+        "target_name": "armchair",
+        "caption": "the armhair is in front of the desk. the armhair is brown.",
+        "parsed_query": {
+            "Target": "armhair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "12",
+        "target_name": "piano_bench",
+        "caption": "it is a brown rectangular sitting piano bench. it is between a piano and a couch, next to the wall.",
+        "parsed_query": {
+            "Target": "piano bench",
+            "Anchor": [
+                "piano",
+                "couch",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "13",
+        "target_name": "couch",
+        "caption": "it is a brown leather 2 person couch. it is sitting between a piano bench and the window.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "piano bench",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "14",
+        "target_name": "backpack",
+        "caption": "it is a small black backpack. it is sitting on a small table between the couch and the leather chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "small table",
+                "couch",
+                "leather chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "15",
+        "target_name": "printer",
+        "caption": "it is a black computer printer. it's sitting on the computer desk, next to the wall.",
+        "parsed_query": {
+            "Target": "computer printer",
+            "Anchor": [
+                "computer desk",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "it is a brown wooden chair, with a cloth seat and back. it has multicolored flower patterns on the seat, and back. it is sitting next to the window, between the couch and the computer desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "couch",
+                "computer desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "25",
+        "target_name": "laptop",
+        "caption": "there is a laptop on the desk in the corner of the room. the laptop is in front of a single person brown leather armchair couch.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "desk",
+                "single person brown leather armchair couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "16",
+        "target_name": "shelf",
+        "caption": "the shelving unit is located on the wall next to the window. the shelving unit is above the desk.",
+        "parsed_query": {
+            "Target": "shelving unit",
+            "Anchor": [
+                "window",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "28",
+        "target_name": "laptop",
+        "caption": "there is a laptop on the desk facing away from the corner of the room. the laptop is open near the window.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "29",
+        "target_name": "stool",
+        "caption": "the stool is located next to the piano in the corner of the room. the stool has some tool boxes on top.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair has its back to the windows. the chair is next to the desk in the corner of the room facing the brown armchair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "windows",
+                "desk",
+                "brown armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "11",
+        "target_name": "ottoman",
+        "caption": "this is a brown leather ottoman.  there is a black backpack on it.  there is a box of tissues on it.  as a purple piece of paper on it.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "16",
+        "target_name": "shelf",
+        "caption": "white shelf in the wall on top of the desk. is next to the window",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "16",
+        "target_name": "shelf",
+        "caption": "there is a cream-colored shelf with various household items and cleaning products on it's shelves. the shelf is up against the wall to the left of the dark grey breaker box.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "dark grey breaker box"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "18",
+        "target_name": "backpack",
+        "caption": "there is a black backpack on the brown ottoman in front of the couch. the backpack is to the immediate left of a box of tissue.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "ottoman",
+                "couch",
+                "box of tissue"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "16",
+        "target_name": "shelf",
+        "caption": "there's a shelf against the wall with a circuit breaker box to it's right, and a desk in front of it.  to the left is a set of windows.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "circuit breaker box",
+                "desk",
+                "windows"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this door is to the left of another door, with it's doorknob on the left side of the door.  this door is the nearest to the desk which is on the left wall, and the chair in front of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "door",
+                "desk",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "13",
+        "target_name": "couch",
+        "caption": "there is a couch on the left wall.  the couch is sitting perpendicular to the windows and is almost up against them.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "left wall",
+                "windows"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "15",
+        "target_name": "printer",
+        "caption": "there's a brown printer sitting on the right side of a desk.  the printer is nearest to the door on the left.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "desk",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "28",
+        "target_name": "laptop",
+        "caption": "there's laptop facing toward the left on a desk.  the laptop is also sitting in front of a desk lamp.  the desk is sitting up against the side of the wall where the two doors are.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "desk",
+                "desk lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "1",
+        "target_name": "piano",
+        "caption": "this is a brown piano. it is in a corner of the room.",
+        "parsed_query": {
+            "Target": "piano",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "0",
+        "target_name": "toolbox",
+        "caption": "this is a red toolbox. it is in a stack with other boxes next to the piano.",
+        "parsed_query": {
+            "Target": "toolbox",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "12",
+        "target_name": "piano_bench",
+        "caption": "this is a brown piano bench.  it is in front of the piano.",
+        "parsed_query": {
+            "Target": "piano bench",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "6",
+        "target_name": "tissue_box",
+        "caption": "this is a white tissue box. it is sitting between two black bags.",
+        "parsed_query": {
+            "Target": "tissue box",
+            "Anchor": [
+                "black bag",
+                "black bag"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "5",
+        "target_name": "desk",
+        "caption": "this is a silver and white desk. it is against the wall, in front of an armchair.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "armchair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "this is a brown door. it is to the right of another door.",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "18",
+        "target_name": "backpack",
+        "caption": "this is a black backpack. it is in front of a couch.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "25",
+        "target_name": "laptop",
+        "caption": "this is a ray laptop. it is on a desk.",
+        "parsed_query": {
+            "Target": "ray laptop",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "14",
+        "target_name": "backpack",
+        "caption": "this is a black backpack. it is on a footrest.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "footrest"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "13",
+        "target_name": "couch",
+        "caption": "this is a brown couch. it is near the window.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this is a brown door. it is to the left of another door.",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "3",
+        "target_name": "armchair",
+        "caption": "this is a brown armchair. it is across from a desk.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "29",
+        "target_name": "stool",
+        "caption": "this is a brown stool. it has a red toolbox on top of it.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "toolbox"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "this is a brown door. it is located next to an outlet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "outlet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "3",
+        "target_name": "armchair",
+        "caption": "this is a brown armchair. it is near a footstool.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "footstool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "28",
+        "target_name": "laptop",
+        "caption": "this is a silver and black laptop. it is on a desk.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "0",
+        "target_name": "toolbox",
+        "caption": "this is a red toolbox. it is next to a piano.",
+        "parsed_query": {
+            "Target": "toolbox",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "25",
+        "target_name": "laptop",
+        "caption": "this is a silver laptop. it is across from an armchair.",
+        "parsed_query": {
+            "Target": "silver laptop",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this is a brown door. it is the closest door to the armchair.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "18",
+        "target_name": "backpack",
+        "caption": "this is a black backpack. it is the closest backpack to the couch.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "1",
+        "target_name": "piano",
+        "caption": "this is a brown piano. it is next to a red toolbox.",
+        "parsed_query": {
+            "Target": "piano",
+            "Anchor": "toolbox"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "13",
+        "target_name": "couch",
+        "caption": "this is a brown couch. it is next to a window.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "25",
+        "target_name": "laptop",
+        "caption": "this is an open laptop. it is across from a brown armchair.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "16",
+        "target_name": "shelf",
+        "caption": "this is a tall shelf. it is next to the power box.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "power box"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "30",
+        "target_name": "toolbox",
+        "caption": "this is a blue toolbox. it is in front of a red toolbox.",
+        "parsed_query": {
+            "Target": "blue toolbox",
+            "Anchor": "red toolbox"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "3",
+        "target_name": "armchair",
+        "caption": "the armchair is facing the desk. the armchair is located to the right of the couch, in the middle of the room. the armchair is to the left of the wall that has two doors.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "desk",
+                "couch",
+                "wall that has two doors"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "29",
+        "target_name": "stool",
+        "caption": "the stool is located on the floor to the left of the piano. it has two boxes on top of it.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "18",
+        "target_name": "backpack",
+        "caption": "the backpack is sitting on top the ottoman. the backpack is to the right of the piano.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": [
+                "ottoman",
+                "piano"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "the door is located at the far wall, and to the right of the door next to it. the door is beyond the chair, to the right.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "door",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "6",
+        "target_name": "tissue_box",
+        "caption": "the tissue box is located on top the ottoman. it is sitting between two backpacks on top of the ottoman.",
+        "parsed_query": {
+            "Target": "tissue box",
+            "Anchor": [
+                "ottoman",
+                "backpacks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "15",
+        "target_name": "printer",
+        "caption": "the grey printer is in the right corner of the room. it is on top and in the the right corner of the grey desk.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "grey desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "1",
+        "target_name": "piano",
+        "caption": "the brown piano is to the right of the double doors. there are a red and blue case to the left of the piano.",
+        "parsed_query": {
+            "Target": "case",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "5",
+        "target_name": "desk",
+        "caption": "the grey desk is in front of the brown leather chair. the grey desk has a red cooler underneath it.",
+        "parsed_query": {
+            "Target": "grey desk",
+            "Anchor": [
+                "brown leather chair",
+                "red cooler"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "13",
+        "target_name": "couch",
+        "caption": "the brown couch is in between the piano and the glass double doors. the brown couch is against the white wall.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "piano",
+                "glass double doors",
+                "white wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the floral printed chair is in front of the glass double doors. the floral printed chair is to the left of the grey desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "glass double doors",
+                "grey desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "18",
+        "target_name": "backpack",
+        "caption": "there is a black knapsack resting on a brown leather ottoman placed in front of a matching sofa. the sofa is against a wall but otherwise in the middle of the room. to the left of both the sofa and ottoman is a black piano in the corner.",
+        "parsed_query": {
+            "Target": "knapsack",
+            "Anchor": [
+                "ottoman",
+                "sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "14",
+        "target_name": "backpack",
+        "caption": "a black knapsack rests upon a brown leather ottoman. to its left is a matching brown leather sofa place against a wall. in front of it are some glass doors with a desk on the right.",
+        "parsed_query": {
+            "Target": "black knapsack",
+            "Anchor": "brown leather ottoman"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "28",
+        "target_name": "laptop",
+        "caption": "a black and silver laptop computer sits on the left edge of a messy desk. the desk is against a wall with a glass and wood doorway.",
+        "parsed_query": {
+            "Target": "laptop computer",
+            "Anchor": "messy desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "11",
+        "target_name": "ottoman",
+        "caption": "a brown ottomon with two black knapsacks and a tissue box on it sits in front of a matching brown leather sofa, which is up against a wall. to its left is a black piano.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "sofa",
+                "piano"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "14",
+        "target_name": "backpack",
+        "caption": "a black backsack sits on the right edge of a brown leather ottoman, along woth a tissue box and another black backsack to its left respectively. there is a leopard striped rug underneath it, covering part of the wooden floor.",
+        "parsed_query": {
+            "Target": "backsack",
+            "Anchor": [
+                "brown leather ottoman",
+                "tissue box",
+                "another black backsack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a wooden chair with a cushioned seat and back sits in fronts of a wall with wood and glass doors. a desk is to its right. a brown leather sofa is to its left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall with wood and glass doors",
+                "desk",
+                "brown leather sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "5",
+        "target_name": "desk",
+        "caption": "a cluttered desk sits just ahead of a wall that has glass doors in it to the left. ther is space for a chair between the desk and wall.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "11",
+        "target_name": "ottoman",
+        "caption": "a brown leather ottoman sits in front of a matching sofa to its right, which is against a wall. directly beyond the ottomon is a piano in a corner.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "sofa",
+                "piano"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "30",
+        "target_name": "toolbox",
+        "caption": "a green toolbox rests on a wooden pedestal it shares with the red toolbox behind it. the pedistal is against a wall as is a piano to the right.  to the left are curtained glass doors.",
+        "parsed_query": {
+            "Target": "green toolbox",
+            "Anchor": [
+                "wooden pedestal",
+                "red toolbox"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "0",
+        "target_name": "toolbox",
+        "caption": "a red toolbox sits atop a wooden pedistal it shares with a green toolbox in front of it. it is against a wall between a piano and a door.",
+        "parsed_query": {
+            "Target": "toolbox",
+            "Anchor": [
+                "wooden pedistal",
+                "green toolbox",
+                "piano",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "11",
+        "target_name": "ottoman",
+        "caption": "this is a brown ottoman. it is in front of a couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "29",
+        "target_name": "stool",
+        "caption": "this is a brown stool. it is beneath a red toolbox and a blue toolbox.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "red toolbox",
+                "blue toolbox"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "25",
+        "target_name": "laptop",
+        "caption": "this is a silver laptop. it is on a desk, across from an armchair.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "desk",
+                "armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "28",
+        "target_name": "laptop",
+        "caption": "this is a silver laptop. it is on a desk facing a chair.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "30",
+        "target_name": "toolbox",
+        "caption": "this is a blue toolbox. it is in front of a red toolbox, on a brown stool.",
+        "parsed_query": {
+            "Target": "toolbox",
+            "Anchor": [
+                "red toolbox",
+                "brown stool"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "1",
+        "target_name": "piano",
+        "caption": "in the corner of the room to the right of the door is a piano. to the left of the piano is a green tool box, behind the green tool box is a red tool box.",
+        "parsed_query": {
+            "Target": "tool box",
+            "Anchor": "green tool box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "1",
+        "target_name": "piano",
+        "caption": "the piano is against the wall in the corner of the room. the piano is to the immediate right of a blue toolbox and a red toolbox on the floor.",
+        "parsed_query": {
+            "Target": "piano",
+            "Anchor": [
+                "blue toolbox",
+                "red toolbox"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "3",
+        "target_name": "armchair",
+        "caption": "there is a brown leather reclining chair in front of a grey desk. there is a red cooler on the floor directly in front of it, and a door to the immediate right of the chair.",
+        "parsed_query": {
+            "Target": "reclining chair",
+            "Anchor": [
+                "grey desk",
+                "red cooler",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "5",
+        "target_name": "desk",
+        "caption": "there is a grey and silver desk in front of a brown chair. the desk has a cooler under it. the desk has two laptops on top of it, with a printer, various office items, and a teal coffee cup.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "brown chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "this is a brown door. it is next to another brown door.",
+        "parsed_query": {
+            "Target": "brown door",
+            "Anchor": "brown door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "10",
+        "target_name": "door",
+        "caption": "this is a brown door. it is across from an armchair.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "6",
+        "target_name": "tissue_box",
+        "caption": "this is a rectangular tissue box. it is across from a couch.",
+        "parsed_query": {
+            "Target": "tissue box",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this is a brown door. it is next to a desk.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this is a brown door. it is to the side of an armchair.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "12",
+        "target_name": "piano_bench",
+        "caption": "this is a brown piano bench. it is in front of a piano.",
+        "parsed_query": {
+            "Target": "piano bench",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "14",
+        "target_name": "backpack",
+        "caption": "this is a black backpack. it is next to a tissue box.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "tissue box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "15",
+        "target_name": "printer",
+        "caption": "this is a gray printer. it is on a desk.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "15",
+        "target_name": "printer",
+        "caption": "this a gray printer. it is against a wall.",
+        "parsed_query": {
+            "Target": "gray printer",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0050_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a chair with arms. it is next to the side of a desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,630 @@
+[
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "4",
+        "target_name": "toilet_paper",
+        "caption": "there is a full roll of toilet paper on the top right of the toilet. this toilet paper roll is to the right of another toilet paper roll.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "toilet",
+                "toilet paper roll"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "there is a large window with bars on the glass. the window is right above the toilet and to the left of the shower.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "toilet",
+                "shower"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "24",
+        "target_name": "toilet_paper",
+        "caption": "there is a toilet paper roll on top of the left side of the toilet. this roll is situated to the left of another toilet paper roll.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "toilet",
+                "toilet paper roll"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "1",
+        "target_name": "bathroom_vanity",
+        "caption": "there is a medium brown bathroom vanity in the corner of the room. the vanity is to the right of the shower.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "shower"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "14",
+        "target_name": "towel",
+        "caption": "there is a slightly beige towel hanging on the wall. to the right of the towel is a ladder and to the left is the vanity and sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "wall",
+                "ladder",
+                "vanity",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "there is a marble sink, inside of a vanity or counter, with drawers. it is up against the wall.",
+        "parsed_query": {
+            "Target": "marble sink",
+            "Anchor": [
+                "vanity",
+                "counter",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "an off white porcelain toilet with the seat up. this is close to the wall, but not against the wall, near the shower.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "wall",
+                "shower"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "24",
+        "target_name": "toilet_paper",
+        "caption": "white toilet paper. stationed next to another roll of toilet paper. on the back of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet paper",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "there is a trash can. it is inside the shower stall on the right side.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "shower stall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "14",
+        "target_name": "towel",
+        "caption": "there is a white towel. it is hanging on a towel bar to the right of the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel bar",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "there is a sink. it is underneath the mirror.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "mirror"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "there is a trash can. it is stacked in the shower stall on the right side.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "shower stall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "5",
+        "target_name": "toilet_paper",
+        "caption": "there is a roll of toilet paper. it is on the wall to the left of the toilet.",
+        "parsed_query": {
+            "Target": "roll of toilet paper",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this is a black bin. it is to the right of the toilet.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "this is a blue window. it is on the far surface.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "4",
+        "target_name": "toilet_paper",
+        "caption": "this is a toilet roll on the toilet top. it is the right one.",
+        "parsed_query": {
+            "Target": "toilet roll",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "this is a toilet. it is made of porcelain.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "4",
+        "target_name": "toilet_paper",
+        "caption": "this is a toilet roll on the toilet. it is to the right of another.",
+        "parsed_query": {
+            "Target": "toilet roll",
+            "Anchor": [
+                "toilet",
+                "toilet roll"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "the toilet appears to be porcelain but looks almost gold. sits near the wall with moderate space on both sides. the toilet is near a trash can and shower.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "trash can",
+                "shower"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "4",
+        "target_name": "toilet_paper",
+        "caption": "white toilet paper to the right. to the left is another roll. seated on the back of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "roll"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "14",
+        "target_name": "towel",
+        "caption": "the towel is hung on the left side of the room. it is hung on a rack that is affixed to the wall to the right of the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "rack",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "14",
+        "target_name": "towel",
+        "caption": "the towel is hung on a rack on the wall. it is located to the left of the ladder.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "rack",
+                "ladder"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "14",
+        "target_name": "towel",
+        "caption": "the towel is hung on the left wall. there is a ladder beyond it. the door is also beyond it.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "left wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "the sink is within the bathroom vanity. it is to the right of the shower, and to the left of the towel.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "bathroom vanity",
+                "shower",
+                "towel"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "5",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is hung on the left wall. it is to the left of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "left wall",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "a tall black trash can inside the shower glass.  it is sitting to the left of the sink.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "shower glass",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "a black trash can sitting inside the shower.  it is between a box and the sink.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "shower",
+                "box",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "a black trash can to the left of the sink.  it is inside the shower doors.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "sink",
+                "shower doors"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "5",
+        "target_name": "toilet_paper",
+        "caption": "a roll of toilet paper on the dispernser.  it is to the right of the toilet.",
+        "parsed_query": {
+            "Target": "roll of toilet paper",
+            "Anchor": [
+                "dispenser",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "1",
+        "target_name": "bathroom_vanity",
+        "caption": "a small vanity with a sink in the corner of the bathroom.  it is to the right of the shower.",
+        "parsed_query": {
+            "Target": "vanity",
+            "Anchor": "shower"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this is a brown trash can in the back right of the room. it is empty.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "this is a large window. it is on the back surface.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "this is a window by the back right corner. it is blue and has ridges.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "24",
+        "target_name": "toilet_paper",
+        "caption": "this is a toilet troll on the toilet. it is to the left of one roll.",
+        "parsed_query": {
+            "Target": "toilet roll",
+            "Anchor": [
+                "toilet",
+                "roll"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "5",
+        "target_name": "toilet_paper",
+        "caption": "this is a toilet roll on the left wall. it is held by a holder.",
+        "parsed_query": {
+            "Target": "toilet roll",
+            "Anchor": "holder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "5",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is to the left of the toilet. the white toilet paper is to the right of the door.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "the black trash can is to the right of the toilet. the trash can has a white liner inside.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "24",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is on top of the toilet. the toilet paper is placed on the tank to the left of the trash can.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "7",
+        "target_name": "window",
+        "caption": "the window is on a white and half tile wall. the window has wood trim and bars on it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "white and half tile wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "the black trash can is to the left side of the shower and sink. the toilet has a trash can to the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "shower",
+                "sink",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "1",
+        "target_name": "bathroom_vanity",
+        "caption": "it is a brown bathroom vanity with a light colored counter top. it is sitting by the corner of the bathroom.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "it is a white toilet with a trash can by the side. it has 2 toilet paper rolls on top of the lid.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "4",
+        "target_name": "toilet_paper",
+        "caption": "it is the toilet paper closest to the trash can. it is sitting on top of the toilet lid.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "trash can",
+                "toilet lid"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "6",
+        "target_name": "toilet",
+        "caption": "it is the toilet close to the trash can. it has toilet paper rolls on top of the toilet lid.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "1",
+        "target_name": "bathroom_vanity",
+        "caption": "it is the bathroom vanity with gold knobs. it is sitting on the corner.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "1",
+        "target_name": "bathroom_vanity",
+        "caption": "there is a rectangular brown and beige bathroom vanity. it is next to a towel.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "towel"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "there is an oval white sink. it is on top of the bathroom vanity.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "bathroom vanity"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "there is a cylindrical black trash can. it is next to the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "13",
+        "target_name": "sink",
+        "caption": "there is an oval white sink. it is on top of the bathroom vanity counter.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "bathroom vanity counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0458_00",
+        "target_id": "24",
+        "target_name": "toilet_paper",
+        "caption": "there is a cylindrical roll of toilet paper. it is on top of the toilet and to its left side.",
+        "parsed_query": {
+            "Target": "cylindrical roll of toilet paper",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    }
+]

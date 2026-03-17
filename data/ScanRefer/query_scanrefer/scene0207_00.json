@@ -1,0 +1,2132 @@
+[
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "there is a white wooden window. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "65",
+        "target_name": "bathtub",
+        "caption": "there is a white plastic bath tub. placed on the side of the bathroom.",
+        "parsed_query": {
+            "Target": "bath tub",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "there is a white wooden cabinet. placed on the upper side of the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "19",
+        "target_name": "kitchen_counter",
+        "caption": "a beige colored counter with various items on it, flat and smooth and l shaped. . it is in the kitchen area to the right of the stove.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "stove"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "18",
+        "target_name": "toilet",
+        "caption": "the toilet is between the bathtub and the sink. the toilet is white and has a oval shape.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "bathtub",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "45",
+        "target_name": "kitchen_cabinets",
+        "caption": "the white cabinets are underneath the sink. they are to the right of the stove and refrigerator.",
+        "parsed_query": {
+            "Target": "white cabinets",
+            "Anchor": [
+                "sink",
+                "stove",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "the white open door leads into the bathroom. it is across from some bathroom cabinets.",
+        "parsed_query": {
+            "Target": "white open door",
+            "Anchor": "bathroom cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "58",
+        "target_name": "mirror",
+        "caption": "the bathroom mirror is above the sink. it is on the wall in the corner of the room.",
+        "parsed_query": {
+            "Target": "bathroom mirror",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "58",
+        "target_name": "mirror",
+        "caption": "the reflective bathroom mirror is above the bathroom sink. it is on the wall in the corner of the bathroom.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "sink",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the brown desk is covered with many items, including a laptop. the desk is adjacent to a bed.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "8",
+        "target_name": "rack",
+        "caption": "a four layered shelf mounted on the wall and brown in color. it is just to the left of the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "19",
+        "target_name": "kitchen_counter",
+        "caption": "this kitchen counter is l shaped and beige. it has a white sink to the right when looking at the counter.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": "white sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "this cabinet is hanging on the wall of the table and to the right of the stove. the cabinet doors are open.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "table",
+                "stove"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "26",
+        "target_name": "monitor",
+        "caption": "this is a black computer monitor that is sitting on a desk. the monitor is facing a black chair.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "desk",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "63",
+        "target_name": "shower_curtain",
+        "caption": "this white shower curtain is the the back of the bathroom when you walk in. it is to the right of the toilet.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "36",
+        "target_name": "dresser",
+        "caption": "this is a brown wooden dresser. it is inside the closet in the bedroom.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "closet",
+                "bedroom"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "26",
+        "target_name": "monitor",
+        "caption": "this is a large computer monitor. it is on the desk in the center of the room, immediately behind the laptop.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "desk",
+                "laptop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "60",
+        "target_name": "cabinet",
+        "caption": "this is a white medicine cabinet. it is hanging on the wall above the toilet in the bathroom.",
+        "parsed_query": {
+            "Target": "medicine cabinet",
+            "Anchor": [
+                "wall",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "43",
+        "target_name": "recycling_bin",
+        "caption": "this is a blue recycling bin. it is underneath the countertop in the kitchen across from the fridge.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "countertop",
+                "fridge"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "41",
+        "target_name": "stool",
+        "caption": "this is a brown kitchen/bar stool. it is in the living room in the corner.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "there is a window. it is to the left of the desk and shelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desk",
+                "shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "53",
+        "target_name": "table",
+        "caption": "there is a brown hallway table. it is behind the vacuum cleaner.",
+        "parsed_query": {
+            "Target": "hallway table",
+            "Anchor": "vacuum cleaner"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "54",
+        "target_name": "microwave",
+        "caption": "there is a white microwave. it is on the right side of the table near the door.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "41",
+        "target_name": "stool",
+        "caption": "there is a wooden stool. it is closest to the wall on the left side of the couch.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a black chair. it is sitting in front of the green couch.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "green couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "57",
+        "target_name": "sink",
+        "caption": "the sink is in the bathroom in the left corner. it isto the left of the toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "the window is in the back of the room. it is to the right of the bookcase.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bookcase"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "54",
+        "target_name": "microwave",
+        "caption": "the microwave is to the left of the door. it is also across from the refridgerator.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "door",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "44",
+        "target_name": "trash_can",
+        "caption": "the trashcan is black and under the tiled peninsula. it is to the right of the sink.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "tiled peninsula",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "the window is in the back of the room behind the bed. it is to the right of the book shelf.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed",
+                "book shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "41",
+        "target_name": "stool",
+        "caption": "there is a brown, circular stool. it is next to the couch.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "50",
+        "target_name": "door",
+        "caption": "there is a white, rectangular door. it is next to the refrigerator.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "36",
+        "target_name": "dresser",
+        "caption": "there is a brown, rectangular dresser. it is next to the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "there is a rectangular bed. it is next to the television.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "television"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "44",
+        "target_name": "trash_can",
+        "caption": "there is a black, rectangular trash can. it is below the table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "28",
+        "target_name": "printer",
+        "caption": "the printer is on top of a desk between two windows. the printer is a white box.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "desk",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "17",
+        "target_name": "sink",
+        "caption": "the sink is on top of a kitchen cabinet right of the oven. the sink has a dull, metallic gray color.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "kitchen cabinet",
+                "oven"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed is on the furthest northeast corner of the room. the bed has a white mattress and a yellow pillow on top.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is between a table and a couch. the chair has a round top and four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk is between the bed and a black chair. the desk has a caramel brown color.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "black chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "18",
+        "target_name": "toilet",
+        "caption": "this is a standard off-white toilet. it is placed between a small vanity sink and a wall in a full bathroom.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "vanity sink",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "28",
+        "target_name": "printer",
+        "caption": "the objectg is a black and off-white printer. it sits on a cluttered desk behind a computer monitor.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "cluttered desk",
+                "computer monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "50",
+        "target_name": "door",
+        "caption": "this is a door at the end of a galley-style kitchen. it is set into the wall next to a white refrigerator.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "white refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "57",
+        "target_name": "sink",
+        "caption": "this is an off-white sink set into a small vanity in a bathroom. above it is a mirror-fronted cabinet, below a set of double-doored cabinets, and to the side is the toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "small vanity",
+                "mirror-fronted cabinet",
+                "double-doored cabinets",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "17",
+        "target_name": "sink",
+        "caption": "this is a standard, metallic kitchen sink. on one side is a small section of empty counter space and on the other a small black appliance.",
+        "parsed_query": {
+            "Target": "kitchen sink",
+            "Anchor": [
+                "counter space",
+                "appliance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "45",
+        "target_name": "kitchen_cabinets",
+        "caption": "there are tan kitchen cabinets. the cabinets mounted under the sink and run along the center of the room next to the refrigerator.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "sink",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "this is a dark wooden nightstand. it is placed between the bed and desk.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "the shelf is tan colored. it is located within the wardrobe across from the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wardrobe",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "16",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is below the sink. the bathroom vanity is cream colored and boxy.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "17",
+        "target_name": "sink",
+        "caption": "there is a stainless steel sink . it is located above a white cabinet to the right of the stove.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "white cabinet",
+                "stove"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "45",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are between the stools and the refrigerator. the kitchen cabinet has a caramel brown color.",
+        "parsed_query": {
+            "Target": "kitchen cabinet",
+            "Anchor": [
+                "stools",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is left of the couch and in front of another chair. the chair has four legs and a round top.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "couch",
+                "another chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "58",
+        "target_name": "mirror",
+        "caption": "the mirror is above the bathroom sink. the mirror is a clear rectangle.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": "bathroom sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "6",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is to the left of the oven. the refrigerator is a white rectangular box.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "oven"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "43",
+        "target_name": "recycling_bin",
+        "caption": "there is a small dark blue recycling bin. it is place underneath the bar near the entrance to the kitchen.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "bar",
+                "entrance to the kitchen"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "65",
+        "target_name": "bathtub",
+        "caption": "the bathtub is right of the toilet. the bathtub is a white, hollowed out box.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "8",
+        "target_name": "rack",
+        "caption": "the rack is between two windows. the rack has a brown shape and four sections.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": [
+                "window",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "8",
+        "target_name": "rack",
+        "caption": "the rack is in the middle of the two windows. the rack has a orange brown color and a rectangular shape.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": [
+                "window",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "the nightstand is between the desk and the bed. the nightstand looks like a dark brown rectangular box.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "the couch is between the two stools and the window. the couch looks dark olive green.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "two stools",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "8",
+        "target_name": "rack",
+        "caption": "the rack is between tow windows. the rack has four sections shaped like rectangles.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": [
+                "window",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "6",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is in a corner and left of the oven. the refrigerator is a white, boxy prism.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "oven"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "28",
+        "target_name": "printer",
+        "caption": "the printer is on top of a table between two windows. the printer looks like a curved, white box.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "table",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "65",
+        "target_name": "bathtub",
+        "caption": "the bathtub is to the right of the toilet. the bathtub looks like a hollowed out rectangular prism.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "36",
+        "target_name": "dresser",
+        "caption": "the dresser is between the bed and the bathroom. the dresser is a brown box with three sections.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "bathroom"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "60",
+        "target_name": "cabinet",
+        "caption": "the cabinet is above the toilet and left of the bathtub. the cabinet looks like a white box.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "toilet",
+                "bathtub"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "54",
+        "target_name": "microwave",
+        "caption": "the microwave is to the left of the entrance door. the microwave looks like a white rectangular prism.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "26",
+        "target_name": "monitor",
+        "caption": "the monitor is on top of a desk between two windows. the monitor is gray and has a blank screen.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "6",
+        "target_name": "refrigerator",
+        "caption": "there is a white refrigerator. it is in the kitchen by the side of the room.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "kitchen"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "16",
+        "target_name": "bathroom_vanity",
+        "caption": "there is a rectangular bathroom vanity. it is up against the wall and next to a toilet.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": [
+                "wall",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "30",
+        "target_name": "radiator",
+        "caption": "there is a beige radiator. it is against the wall next to a desk.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "wall",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "30",
+        "target_name": "radiator",
+        "caption": "there is a rectangular radiator. it is against the wall underneath a window.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "there is a gray cabinet. it is up against the wall above a sink.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "19",
+        "target_name": "kitchen_counter",
+        "caption": "there is a beige wooden cabinet. placed on the side of the kitchen.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a black arm chair. placed in front of the working table.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "working table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "the nightstand is between the desk and the bed. the nightstand is a dark brown square box.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "60",
+        "target_name": "cabinet",
+        "caption": "there is a white cabinet. it is located above the toilet bowl .",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "toilet bowl"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "there is a white door. the door opens into the bathroom and is in front of the sink.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bathroom",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "44",
+        "target_name": "trash_can",
+        "caption": "there is a black trash can. the trash can is found underneath the bar table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bar table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "53",
+        "target_name": "table",
+        "caption": "there is a brown, wooden table. the table is found beside the black vacuum cleaner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "vacuum cleaner"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "63",
+        "target_name": "shower_curtain",
+        "caption": "there is a white shower curtain. the shower curtain hangs above the tub.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "8",
+        "target_name": "rack",
+        "caption": "there is a rectangular brown shelf. it is on a wall at the side of the room and near a table.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "43",
+        "target_name": "recycling_bin",
+        "caption": "there is a rectangular blue recycling bin. it is next to a stool and near the center of the room.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "stool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "a four layered shelf and brown in color. it is at the foot of the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "36",
+        "target_name": "dresser",
+        "caption": "there is a brown rectangular dresser. it is next to a basket at the corner of the room.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "basket"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "65",
+        "target_name": "bathtub",
+        "caption": "there is a rectangular beige bathtub. it is next to the toilet at the corner and side of the room.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "43",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is in front of the table between the stools and the kitchen countertop. the recycling bin is blue.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "table",
+                "stools",
+                "kitchen countertop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "50",
+        "target_name": "door",
+        "caption": "the door is between the shelf and the refrigerator. the door is white and has a metallic handle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "shelf",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "50",
+        "target_name": "door",
+        "caption": "a section of the wall that is beige in color and possible damaged. it is to the right of the microwave.",
+        "parsed_query": {
+            "Target": "wall",
+            "Anchor": "microwave"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "53",
+        "target_name": "table",
+        "caption": "the table is on the opposite side from the refrigerator. the table is brown and has four legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "refrigerator"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "36",
+        "target_name": "dresser",
+        "caption": "there is a brown rectangular dresser. it is at the corner of the room behind a basket.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "basket"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "the couch is between the stools and the window. the couch is a dark olive green.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "stools",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "the window is the leftmost one in the room. the window is a clear rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "30",
+        "target_name": "radiator",
+        "caption": "it is baseboard for the wall, larger than most standard baseboard, thicker and taller. it is behind the chair and just under and to the left of the shelf.",
+        "parsed_query": {
+            "Target": "baseboard",
+            "Anchor": [
+                "chair",
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "20",
+        "target_name": "door",
+        "caption": "this is the closet doors in the corner of the room. a bed is present in front of the closet.",
+        "parsed_query": {
+            "Target": "closet doors",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "this is a small circular wooden chair. another similar chair is present besides this chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "53",
+        "target_name": "table",
+        "caption": "this is a rectangular wooden table lying parallel and close with the wall. a vacuum cleaner is kept besides this table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "16",
+        "target_name": "bathroom_vanity",
+        "caption": "this bathroom vanity has one sink on it. toilet is on the right side of the vanity.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "bathroom vanity"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "28",
+        "target_name": "printer",
+        "caption": "this printer is near the wall on one end the table. table is lying parallel to the bed.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk is between the black chair and the bed. the desk is long, rectangular, and light brown.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "black chair",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "the shelf is between the bathroom and the bed. the shelf has two rectangular sections.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bathroom",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "20",
+        "target_name": "door",
+        "caption": "the door is between the bed and the closet. the door has two brown rectangles.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bed",
+                "closet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "the cabinet is above the kitchen sink. the cabinet is white and has three sections.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "kitchen sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "50",
+        "target_name": "door",
+        "caption": "the door is between the shelf and refrigerator. the door is a white rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "shelf",
+                "refrigerator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "a bathroom vanity and a toilet is present in front of this door. a vacuum cleaner is present on the right side out side this door.",
+        "parsed_query": {
+            "Target": "vacuum cleaner",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this bed is lying close and parallel to the wall. pillow and the comforter are present on the bed.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "this is a small night stand kept close to the wall. a table on the left and bed on the right are kept close to it.",
+        "parsed_query": {
+            "Target": "night stand",
+            "Anchor": [
+                "wall",
+                "table",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "this desk is lying parallel to the bed. a chair is present in front of this table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "19",
+        "target_name": "kitchen_counter",
+        "caption": "a sink is present on this counter. cabinet/shelf is present above this sink.",
+        "parsed_query": {
+            "Target": "cabinet/shelf",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "41",
+        "target_name": "stool",
+        "caption": "the stool is left of the couch and behind another stool. the stool has rounded top and four legs.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "couch",
+                "stool"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "44",
+        "target_name": "trash_can",
+        "caption": "the trash can is left of two stools and below a table. the trash can is black and curved.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "stools",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "14",
+        "target_name": "desk",
+        "caption": "the desk is between a bed and black chair. the desk is a light brown rectangle.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "black chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "6",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is left of the oven. the refrigerator is a white rectangular box.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": "oven"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "17",
+        "target_name": "sink",
+        "caption": "the sink is above the kitchen counter top. the sink is a dull metallic hollowed out box.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "kitchen counter top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "63",
+        "target_name": "shower_curtain",
+        "caption": "the shower curtain is on top of the bathtub. the shower curtain is white and wavy.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "18",
+        "target_name": "toilet",
+        "caption": "the toilet is left of the bathtub. the toilet has a round, white seat.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "the window is between a shelf and a couch. the window is a clear rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "shelf",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "17",
+        "target_name": "sink",
+        "caption": "the sink is above the kitchen cabinet. the sink is a dull, metallic gray hollowed out box.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "kitchen cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "63",
+        "target_name": "shower_curtain",
+        "caption": "a white shower curtain pulled back to the back of the tub. it is next to the toilet.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "tub",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "a small wall mounted shelf with about three levels. it is on the far wall in the bathroom.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "26",
+        "target_name": "monitor",
+        "caption": "this is a computer monitor on top of the desk. it is near the bed.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "60",
+        "target_name": "cabinet",
+        "caption": "the cabinet is above the toilet. the cabinet is a white box.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "60",
+        "target_name": "cabinet",
+        "caption": "the cabinet is between the curtain and the mirror. the cabinet is a white rectangular prism.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "curtain",
+                "mirror"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is between the couch and the desk. the chair is black and has a round seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "couch",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "26",
+        "target_name": "monitor",
+        "caption": "a computer monitor that looks standard in size. it is on top of the desk near the bed.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "28",
+        "target_name": "printer",
+        "caption": "the printer is on top of a desk between two windows. the printer is a white rectangular box.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "desk",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "44",
+        "target_name": "trash_can",
+        "caption": "the trash can is to the left of two stools. the trash can is black and cylindrical.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "two stools"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "58",
+        "target_name": "mirror",
+        "caption": "rectangle mirrir located above the sink. mirrir is above the sink and cabinet.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "sink",
+                "cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "bathroom door leading in and out of bathroom. door to bathroom.",
+        "parsed_query": {
+            "Target": "bathroom door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "a coffee table with a few items on it and it has two levels. its between the bed and the desk with the computer monitor on it.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "57",
+        "target_name": "sink",
+        "caption": "sink is below the mirror and next to the toilet in the bathroom. bathroom sink with cuboard underneath.",
+        "parsed_query": {
+            "Target": "bathroom sink",
+            "Anchor": [
+                "mirror",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "43",
+        "target_name": "recycling_bin",
+        "caption": "blue recycling bin on white rug. blue recycling bin next to dining area and kitchen island.",
+        "parsed_query": {
+            "Target": "blue recycling bin",
+            "Anchor": [
+                "white rug",
+                "dining area",
+                "kitchen island"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "this is a shelf inside the open closet. the closet is on the beige wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "open closet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "door entering and exiting the bathroom. batheroom door.",
+        "parsed_query": {
+            "Target": "bathroom door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a black rolling desk chair. it is in the center of the bedroom, in between the bed and the desk.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this appears to be a full-size bed. it is on the other side of the room from the smaller bed, behind the desk and under the small window.",
+        "parsed_query": {
+            "Target": "full-size bed",
+            "Anchor": [
+                "smaller bed",
+                "desk",
+                "small window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "16",
+        "target_name": "bathroom_vanity",
+        "caption": "this is a white bathroom vanity. it has the bathroom sink. when you walk in the bathroom, it is directly in front of you to the left of the toilet.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": [
+                "entrance door",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "20",
+        "target_name": "door",
+        "caption": "these are double closet doors. they are at the foot of the full-size bed on the beige wall.",
+        "parsed_query": {
+            "Target": "double closet doors",
+            "Anchor": [
+                "full-size bed",
+                "beige wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "30",
+        "target_name": "radiator",
+        "caption": "the radiator is below the leftmost window. the radiator is a white rectangular box.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "leftmost window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "41",
+        "target_name": "stool",
+        "caption": "the stool is left of the couch and behind another stool. the stool is brown and has four legs.",
+        "parsed_query": {
+            "Target": "stool",
+            "Anchor": [
+                "couch",
+                "stool"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "58",
+        "target_name": "mirror",
+        "caption": "the mirror is above the sink and left of the cabinet. the mirror is rectangular and clear.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "sink",
+                "cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "6",
+        "target_name": "refrigerator",
+        "caption": "the refrigerator is between the door and oven. the refrigerator is a white rectangular box.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": [
+                "door",
+                "oven"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed is in front of the rightmost window. the bed has white and black mattresses with four legs.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "rightmost window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "the window is tall and has a brown frame. the window is on the right of another one.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "the window is a double pane window. the window is in front of a bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "65",
+        "target_name": "bathtub",
+        "caption": "the bathtub is beige and wide. the bathtub is behind a toilet.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "54",
+        "target_name": "microwave",
+        "caption": "the microwave is a top a counter. the microwave is left of the wall.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "counter",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "63",
+        "target_name": "shower_curtain",
+        "caption": "the shower curtain is white and on the left of the tub. the curtain is folded.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "18",
+        "target_name": "toilet",
+        "caption": "the toilet is left of the bathtub. the toilet has a round, oval seat.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "19",
+        "target_name": "kitchen_counter",
+        "caption": "the kitchen counter is below the seat and right of the oven. the kitchen counter is white and rectangular.",
+        "parsed_query": {
+            "Target": "kitchen counter",
+            "Anchor": [
+                "seat",
+                "oven"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "45",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are right of the oven. the kitchen cabinets are boxy and cream colored.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "oven"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "54",
+        "target_name": "microwave",
+        "caption": "the microwave is left of the door. the microwave is a white rectangular prism.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "18",
+        "target_name": "toilet",
+        "caption": "the toilet is between the sink and the bathtub. the toilet is white and has a rounded shape.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "sink",
+                "bathtub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "57",
+        "target_name": "sink",
+        "caption": "the sink is above the bathroom cabinet and left of the toilet. the sink is white and has a hollowed out center.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "bathroom cabinet",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "45",
+        "target_name": "kitchen_cabinets",
+        "caption": "the kitchen cabinets are right of the oven. the kitchen cabinets are box shaped and cream colored.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": "oven"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "9",
+        "target_name": "cabinet",
+        "caption": "the cabinet is above the kitchen sink. the cabinet is white and has three rectangular sections.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "kitchen sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "20",
+        "target_name": "door",
+        "caption": "the door is between the closet and bed. the door has two brown rectangles.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "closet",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "57",
+        "target_name": "sink",
+        "caption": "the sink is below the mirror and above the bathroom cabinet. the sink has a hollowed out circular shape.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "mirror",
+                "bathroom cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "the couch has two stools to its left and a black chair in front. the couch is dark green and has two seats.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "stool",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "16",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is left of the toilet. the bathroom vanity is a white box with drawers.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "the couch is between two stools and a window. the couch is olive green colored with two large seats.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "two stools",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "13",
+        "target_name": "window",
+        "caption": "the window is the rightmost one above the bed. the window is a rectangle with a clear center.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is between a couch and the desk. the chair is black with a curved seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "couch",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is left of the couch and northwest of the backpack. the stool has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "couch",
+                "backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "10",
+        "target_name": "chair",
+        "caption": "the chair is left of the coach and northwest of the black backpack. the stool has a round top and four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "coach",
+                "black backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "53",
+        "target_name": "table",
+        "caption": "the table is on the opposite side from the refrigerator. the table is brown and a hollow rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "refrigerator"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "the window is the leftmost window. the window is rectangular and as a clear middle area.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "30",
+        "target_name": "radiator",
+        "caption": "the radiator is below the leftmost window. the radiator is a white rectangular prism.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "leftmost window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0207_00",
+        "target_id": "20",
+        "target_name": "door",
+        "caption": "the door is between the closet and the bed. the door consists of two brown rectangular prisms.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "closet",
+                "bed"
+            ]
+        },
+        "unique": false
+    }
+]

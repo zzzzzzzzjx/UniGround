@@ -1,0 +1,779 @@
+[
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "26",
+        "target_name": "curtain",
+        "caption": "a white curtain. covering the window.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "a blue wooden chair. next to the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "19",
+        "target_name": "shelf",
+        "caption": "a brown wooden shelf. on the side of the room.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "a green wooden table. next to the window.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is to the left of another blue chair.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "blue chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is facing a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a round chair. it is in front of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "26",
+        "target_name": "curtain",
+        "caption": "this is a white curtain. it is above the table.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "20",
+        "target_name": "shelf",
+        "caption": "this is a rectangular shelf. it is set against the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "this is a 4 shelf bookshelf. it is rectangular and fit against the wall.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this is an l shaped couch. it is in front of a table.",
+        "parsed_query": {
+            "Target": "l shaped couch",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "this is a green top table. it has 4 legs and is set against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is next to the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "20",
+        "target_name": "shelf",
+        "caption": "the shelf contains toys and coloured baskets. the shelf is under the angled ceiling.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "angled ceiling"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "7",
+        "target_name": "tv_stand",
+        "caption": "the tv stand is grey. the tv stand is under the tv.",
+        "parsed_query": {
+            "Target": "tv stand",
+            "Anchor": "tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is blue. the chair is under the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is foldable and round. the chair is in front of the table below the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "26",
+        "target_name": "curtain",
+        "caption": "the curtains are on the window between the angled ceiling. the curtains are white on top and patterned at the bottom.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "window",
+                "angled ceiling"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "17",
+        "target_name": "shelf",
+        "caption": "there is a rectangular shelf. it is mounted on the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "8",
+        "target_name": "tv",
+        "caption": "there is a rectangular tv. it is on a stand next to a trash can.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "stand",
+                "trash can"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "19",
+        "target_name": "shelf",
+        "caption": "there is a rectangular brown shelf. it is under a shelf mounted to the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "shelf mounted to the wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "there is a square blue chair. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "7",
+        "target_name": "tv_stand",
+        "caption": "there is a rectangular gray tv stand. it is next to a coffee table.",
+        "parsed_query": {
+            "Target": "tv stand",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "20",
+        "target_name": "shelf",
+        "caption": "this is a shoe shelf. it is right beneath an incline wall.",
+        "parsed_query": {
+            "Target": "shoe shelf",
+            "Anchor": "incline wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "this is a green top table. it has 4 legs and is placed against 2 walls.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "this is a 4 legs table. it is placed in front of the tv and couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "tv",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a flip open chair. it is blue and has a net seat.",
+        "parsed_query": {
+            "Target": "flip open chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a chair. it is closer to the shelf and sits against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "shelf",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "20",
+        "target_name": "shelf",
+        "caption": "there is a rectangular shelf. it is the one closest to the curtain.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "curtain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "19",
+        "target_name": "shelf",
+        "caption": "there is a rectangular shelf. it is the one under a shelf on the wall.",
+        "parsed_query": {
+            "Target": "rectangular shelf",
+            "Anchor": "shelf on the wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "19",
+        "target_name": "shelf",
+        "caption": "there is a rectangular wooden shelf. it is under a shelf on the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "there is a square blue chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "square blue chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "19",
+        "target_name": "shelf",
+        "caption": "there is a rectangular brown wooden shelf. it is under a shelf mounted on the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "shelf mounted on the wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "it is a silver table. the silver table is to the left of the red couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "red couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "it is a red couch. the red couch is to the right of the silver table.",
+        "parsed_query": {
+            "Target": "red couch",
+            "Anchor": "silver table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a small, red and blue chair. it is in front of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "it is black bookshelf. the black bookshelf is at end of the wall on the left.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "wall on the left"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "there is a large, red velvet couch. it is on the right side of the room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "there is a large wooden bookshelf in the corner. it is against the left wall.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "there is a blue and wooden arm chair. it is the chair on the left.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "26",
+        "target_name": "curtain",
+        "caption": "this curtain is fully covering a large window. it is very colorful, with red, orange and green stripes on the bottom, with animal and nature designs as well. to the bottom right of the curtain is a small green table that has some toys on it.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "large window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "8",
+        "target_name": "tv",
+        "caption": "this is a large, black tv that is on top of a television stand. directly across from the tv is a coffee table and a red couch.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "television stand",
+                "coffee table",
+                "red couch"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "there are two blue chairs that are in front of a bookshelf, and to the left of a play mat with a road drawn on it. this specific chair is the chair on the right, the one closet to the play mat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bookshelf",
+                "play mat"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a small blue chair next to a small green desk. this little blue chair is also under the colorful window curtain on the right hand side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "small green desk",
+                "colorful window curtain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "this specific table is on the floor between the large television and the large red couch. the table has a beige colored border. there is also a tissue box on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "large television",
+                "large red couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "8",
+        "target_name": "tv",
+        "caption": "there is a tv on the television stand. it is to the right of the flower curtains.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "television stand",
+                "flower curtains"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "this table is on the far side. it is rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "8",
+        "target_name": "tv",
+        "caption": "this tv is on a stand. it is turned off.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "stand"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "8",
+        "target_name": "tv",
+        "caption": "this tv is facing the viewer. it is black.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "this chair is against the wall. it is on the right side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this couch is red and is l-shaped. it is in the middle.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "7",
+        "target_name": "tv_stand",
+        "caption": "this tv stand is on the left. it has a tv on it.",
+        "parsed_query": {
+            "Target": "tv stand",
+            "Anchor": "tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "this bookshelf is on the left. it is filled.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "4",
+        "target_name": "couch",
+        "caption": "this couch is on the right side. it is red and large.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "9",
+        "target_name": "table",
+        "caption": "this table is rectangular. it is in the middle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "26",
+        "target_name": "curtain",
+        "caption": "this curtain is curved. it is bright.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "7",
+        "target_name": "tv_stand",
+        "caption": "there is a rectangular gray tv stand. it is under the tv.",
+        "parsed_query": {
+            "Target": "tv stand",
+            "Anchor": "tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "there is a rectangular green table. it is next to a blue chair.",
+        "parsed_query": {
+            "Target": "rectangular green table",
+            "Anchor": "blue chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "there is a rectangular black bookshelf. it is beside two blue chairs.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "two blue chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "there is a blue chair. it is to the left of another blue chair.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "blue chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "there is a square green table. it is next to a tiny blue chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "0",
+        "target_name": "chair",
+        "caption": "the object is a chair. it is the second chair away from the bookshelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "17",
+        "target_name": "shelf",
+        "caption": "the object is a shelf. it is the shelf on the hanging on the wall on the right side of the small play rug against the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "small play rug"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "17",
+        "target_name": "shelf",
+        "caption": "the object is a shelf. it is the shelf that is hanging on the wall above the two shelves in the corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "two shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the object is a chair. it is the chair that is opposite the side of the table that is against the window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0568_00",
+        "target_id": "17",
+        "target_name": "shelf",
+        "caption": "the object is a shelf. it is the shelf hanging on the wall above the shelf in the corner on the right side of the yellow picture.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "shelf",
+                "yellow picture"
+            ]
+        },
+        "unique": false
+    }
+]

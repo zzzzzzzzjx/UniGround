@@ -1,0 +1,164 @@
+[
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "this is a round table. it is in between two couches.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "two couches"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "this is a large couch. it is facing a table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "this is a brown round table. it is in the center of couches.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couches"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a gray couch. it is to the left of a red pillow.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "red pillow"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a gray couch. it is facing the round table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "this is a sectional couch. it is facing a round table.",
+        "parsed_query": {
+            "Target": "sectional couch",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "this is a gray couch. it is facing a round table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "this is a round table. it is by the sectional.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": "sectional"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a gray couch. it is by the sectional couch.",
+        "parsed_query": {
+            "Target": "gray couch",
+            "Anchor": "sectional couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "this is a sectional couch. it is by the couch.",
+        "parsed_query": {
+            "Target": "sectional couch",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "the couch is the northern-most one in the room. the couch is gray and has three seats.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "the couch is north of the round coffee table. the couch has three seats and two armrests.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "round coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "the table is surrounded by couches. the table is a round brown shape.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couches"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0701_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "the table is surrounded by couches. the table is a round cylinder.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "couches"
+            ]
+        },
+        "unique": true
+    }
+]

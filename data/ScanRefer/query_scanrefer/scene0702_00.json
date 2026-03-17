@@ -1,0 +1,499 @@
+[
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "the toilet is right of the bathtub. the toilet is white and round.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "7",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is right of the toilet. the toilet paper is white and round.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "9",
+        "target_name": "bathtub",
+        "caption": "the white bath tub against the wall. it is to the left of the toilet.",
+        "parsed_query": {
+            "Target": "bath tub",
+            "Anchor": [
+                "wall",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "7",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is east of the toilet. the toilet paper is a white cylinder.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is right of the toilet. the toilet paper is a white cylinder.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "there is a brown door opening into the bathroom. the door is open and to the right of the toilet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "bathroom",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "11",
+        "target_name": "shower_curtain",
+        "caption": "the shower curtain is above the bathtub. the shower curtain is a white, wavy shape.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "there is a brown door opening into the bathroom. it is to the right of the toilet paper hanging on the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "toilet paper"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "10",
+        "target_name": "picture",
+        "caption": "there is a picture hanging on the wall above the toilet. it is to the right of the bathtub.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "toilet",
+                "bathtub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "11",
+        "target_name": "shower_curtain",
+        "caption": "there is a shower curtain hanging between the toilet and bathtub. it is to the left of the toilet.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "toilet",
+                "bathtub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "10",
+        "target_name": "picture",
+        "caption": "the picture is on the back wall of the room. it is to the right of the shower curtain.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "shower curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "the trash can is in the back corner of the room. it is to the right of the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "7",
+        "target_name": "toilet_paper",
+        "caption": "the highlighted object is the toilet paper roll in the top position of the two. it is in a dispenser on the wall. when you enter the bathroom through the open door, it will be directly to your right, and to the right of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "dispenser",
+                "wall",
+                "door",
+                "bathroom"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is to the right of the toilet. it is mounted on the wall to the right of the trash can.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "toilet",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "the highlighted object is the wooden door that leads into the bathroom. it has a metal doorknob on the left side. when fully open, there will be a telephone on the wall to the immediate left of the open door.",
+        "parsed_query": {
+            "Target": "wooden door",
+            "Anchor": [
+                "bathroom"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "the door is to the right of the telephone. it is brown and has a doorknob.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "telephone"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "the highlighted object is the toilet. it is an ivory color. on the left side is the bathtub/shower, and on the right is a small trash can on the floor. the seat on the toilet is down.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "bathtub/shower",
+                "trash can"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper is mounted on the wall to the right of the trash can. it is the bottom roll.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": [
+                "wall",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "9",
+        "target_name": "bathtub",
+        "caption": "the highlighted object is the bathtub. it is an ivory color. the faucet is made of metal. it also has a shower curtain on one side, and a metal grab bar on the wall on the wall side.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": [
+                "faucet",
+                "shower curtain",
+                "metal grab bar"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "the trash can is white. it is to the right of the toilet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "the highlighted object is the small trash can. it is lined with plastic. to its left is the toilet. to the right is the wall of the bathroom.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "toilet",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "10",
+        "target_name": "picture",
+        "caption": "the picture is square. it is above the toilet.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "the toilet is white. it is to the right of the tub.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "9",
+        "target_name": "bathtub",
+        "caption": "the bathtub is white. it is to the left of the toilet.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "the trash can is to the right of the toilet. the trash can is under the toilet paper.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "toilet",
+                "toilet paper"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "10",
+        "target_name": "picture",
+        "caption": "the small square picture. the picture is above the toilet.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "the average bathroom toilet. the toilet is next to the tub.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "10",
+        "target_name": "picture",
+        "caption": "the tiny square hanging picture. the picture is hung above the toilet.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "9",
+        "target_name": "bathtub",
+        "caption": "the white bathtub is behind the white toilet. there is a shower curtain hanging on the right side.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "white bathtub",
+                "white toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "a trash can is sitting in the corner to the right of the toilet. there is two toilet tissues on the wall in front of it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "the small wall toilet paper roll. the roll is on the side of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "11",
+        "target_name": "shower_curtain",
+        "caption": "the hanging shower curtain. the shower curtain is next to the toilet.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "a white toilet is behind the brown door. the toilet is between the white tub and trashcan.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "door",
+                "tub",
+                "trashcan"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "11",
+        "target_name": "shower_curtain",
+        "caption": "the shower curtain is hanging on the right side of the tub. it is to the left of the toilet.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "tub",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "7",
+        "target_name": "toilet_paper",
+        "caption": "two rolls of toilet paper are on the wall the the right of the trash can. there is a brown door to the right of the toilet paper.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "toilet paper"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "9",
+        "target_name": "bathtub",
+        "caption": "there is a bathtub against the wall. it is on the left side of the toilet.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "11",
+        "target_name": "shower_curtain",
+        "caption": "there is a white curtain in the shower. it is on the right side of the shower.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": "shower"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "there is a brown, wooden door. it is to the right of the toilet paper holder.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "toilet paper holder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "8",
+        "target_name": "toilet_paper",
+        "caption": "there is a toilet paper roll in the holder on the wall. it is on the right side of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0702_00",
+        "target_id": "7",
+        "target_name": "toilet_paper",
+        "caption": "there is a toilet paper roll on the holder on the wall. it is the toilet paper roll on top.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": "holder"
+        },
+        "unique": false
+    }
+]

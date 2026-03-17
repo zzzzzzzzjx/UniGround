@@ -1,0 +1,772 @@
+[
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "this is a pillow in white color. the pillow is on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is next to a long table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "long table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "24",
+        "target_name": "picture",
+        "caption": "there is a rectangular picture. it is hanging over a bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "there is a rectangular wooden table. it is next to a window.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is next to a wooden table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is next to a rectangular wooden table.",
+        "parsed_query": {
+            "Target": "rectangular window",
+            "Anchor": "rectangular wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "a long cabinet sitting under the window that has an air conditioner in it.  there is a box of tissues on the cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "22",
+        "target_name": "window",
+        "caption": "a widow that sits above the dresser cabinet.  there is an air conditioner in the window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "dresser cabinet",
+                "air conditioner"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "a wooden table with white legs.  it is to the left of hte bed and has various items on it.  there is a water bottle sitting on the corner next to the bed.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "a wooden top table with white legs.  it sits in front of a window and has a chair beside it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "8",
+        "target_name": "blanket",
+        "caption": "a green a white blanket bunched up on the bed.  it the comforter and has a patter made of large green shapes with white borders.",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "24",
+        "target_name": "picture",
+        "caption": "this is a picture with wooden frame. the picture is hanged on wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "this is a chair with no arms. the chair is near the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "this is a square shape night stand. the night stand is next to wall.",
+        "parsed_query": {
+            "Target": "night stand",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this is a white wooden door. the door is opened next to bed.",
+        "parsed_query": {
+            "Target": "white wooden door",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "12",
+        "target_name": "bed",
+        "caption": "the highlighted object in this room is a bed. it has a gray head board and white pillows on it. there is also at least one patterned blanket on it as well.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "the highlighted object is the nightstand to the right of the bed. it is mostly made of wood. there are several objects on top of it including a plastic bag, and a wooden box.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "12",
+        "target_name": "bed",
+        "caption": "there is a large bed in this room. it is the highlighted object. there is a gray head board, and two white pillows. there is also a patterned blanket that is somewhat crumpled near the foot of the bed.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "this is a white pillow on the bed. it is near the headboard and end table at the corner of the room.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "headboard",
+                "end table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "8",
+        "target_name": "blanket",
+        "caption": "this is a used blanket comforter. it is on the bed near the window.",
+        "parsed_query": {
+            "Target": "blanket comforter",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "24",
+        "target_name": "picture",
+        "caption": "this is a framed picture. it is above the headboard of the bed.",
+        "parsed_query": {
+            "Target": "framed picture",
+            "Anchor": "headboard of the bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "26",
+        "target_name": "pillow",
+        "caption": "this is a pillow on the left side of the bed. it is near the headboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "headboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "22",
+        "target_name": "window",
+        "caption": "this is a window. it has an ac unit installed in it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "ac unit"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "12",
+        "target_name": "bed",
+        "caption": "the object is a bed. it is the only bed in the room.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the object is a table. it is the table in front of the window to the left of the bed.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "the object is a pillow. it is the pillow next  to the nightstand beside the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "nightstand",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "the object is a toilet. it can be found in the room at the foot of the bed on the left hand side against the wall.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "bed",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "19",
+        "target_name": "hamper",
+        "caption": "the object is a hamper. it is found in front of the table against the wall.",
+        "parsed_query": {
+            "Target": "hamper",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "the door is white. the door is open. it has a gold handle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "24",
+        "target_name": "picture",
+        "caption": "the picture has a brown frame. the picture is above the bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "the cabinet is white. it is under the window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "the toilet is white. it is in the other room.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "the nightstand is brown. it is to the right of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "22",
+        "target_name": "window",
+        "caption": "the window is right of the bed. the window is clear and rectangular.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table is right of the white chair. the table is a yellow rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "white chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "the pillow is the right-most one on the bed. the pillow is a white rectangle.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "22",
+        "target_name": "window",
+        "caption": "the window is right of the bed. the window is a clear rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "it is a white toilet. the white toilet is to the right is to the right of the room door.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "room door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "12",
+        "target_name": "bed",
+        "caption": "it is a white bed. the white bed is in the middle of the room and it has grey headboard.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "8",
+        "target_name": "blanket",
+        "caption": "it is a grey blanket. the grey blanket is in the bed.",
+        "parsed_query": {
+            "Target": "grey blanket",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "19",
+        "target_name": "hamper",
+        "caption": "it is a white hamper. the white hamper is next to the left wall, beside the brown and white table in the far left corner.",
+        "parsed_query": {
+            "Target": "white hamper",
+            "Anchor": [
+                "left wall",
+                "brown and white table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "it is a white door. the white door is directly across from the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is facing a wooden desk.",
+        "parsed_query": {
+            "Target": "rectangular window",
+            "Anchor": "wooden desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "19",
+        "target_name": "hamper",
+        "caption": "there is a rectangular white hamper. it is next to a bag on the floor and a desk.",
+        "parsed_query": {
+            "Target": "hamper",
+            "Anchor": [
+                "bag",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "there is a round white chair. it is at a wooden desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wooden desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "26",
+        "target_name": "pillow",
+        "caption": "there is a rectangular pillow. it is on the left side of the bed.",
+        "parsed_query": {
+            "Target": "rectangular pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is facing the right side of a bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "19",
+        "target_name": "hamper",
+        "caption": "this hamper is on the left. it is plain.",
+        "parsed_query": {
+            "Target": "hamper",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "19",
+        "target_name": "hamper",
+        "caption": "this hamper is on the left. it is white.",
+        "parsed_query": {
+            "Target": "hamper",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "this cabinet is in the middle. it is grey.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "8",
+        "target_name": "blanket",
+        "caption": "this blanket is in the middle. it is crumpled.",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "this nightstand is straight ahead. it is brown.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "22",
+        "target_name": "window",
+        "caption": "this window is on the left. it is silver.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this door is on the left. it is tan.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "26",
+        "target_name": "pillow",
+        "caption": "this pillow is white. it is on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "8",
+        "target_name": "blanket",
+        "caption": "this blanket is on the left. it is grooved.",
+        "parsed_query": {
+            "Target": "blanket",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "a wood cabinet that is up against the wall. a kleenex box is sitting on top of it and it is below a wall ac unit.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "kleenex box",
+                "wall ac unit"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "a porcelain toilet that is just inside the bathroom doorway to the right. walk thru doorway straight ahead and then thru bathroom doorway on the left following that.",
+        "parsed_query": {
+            "Target": "porcelain toilet",
+            "Anchor": "bathroom doorway"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "a white wood bedroom door with a gold metal doorknob. the door is propped open and past the foot end of the bed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "a white porcelain toilet. can be reached by going thru the doorway ahead and to the left, and thru the next doorway ahead and to the left.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "doorway ahead and to the left",
+                "next doorway ahead and to the left"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "11",
+        "target_name": "cabinet",
+        "caption": "a wooden cabinet up against the wall that is to the right. a kleenex box sits on top and it is to the right of the bed.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "the chair is directly north of the closet. the chair is white and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "closet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "12",
+        "target_name": "bed",
+        "caption": "the bed is next to the window. the bed is a white rectangle.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "the chair is north of the closet. the chair is white and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "closet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "0",
+        "target_name": "nightstand",
+        "caption": "the nightstand is right of the bed. the nightstand is brown with four legs.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0699_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "the chair is south of the desk next to the window. the chair is white with a curved seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": true
+    }
+]

@@ -1,0 +1,744 @@
+[
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "an office chair faces the wall. it's got it's back to us from this vantage point.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "a tv hangs from the wall. it's to the right of another tv just like it.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "wall",
+                "tv"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "a long table sits in the center of the room. it's got two tv's hanging on the wall closest to the far side of the table.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "a chair sits in a row of like chairs. it's second from the right in the line of chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "line of chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "15",
+        "target_name": "door",
+        "caption": "it is a white door. the white door sits behind the table with chairs.",
+        "parsed_query": {
+            "Target": "white door",
+            "Anchor": "table with chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "it is a brown office chair. the brown office chair is the second office chair at the left of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "15",
+        "target_name": "door",
+        "caption": "it is a white door.  the white door sits to the left of the right wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "right wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "it is a brown office chair. the brown office chair sits at the top right of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "this is a black chair in the office. it is placed to the right of the green chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "green chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "this is a black chair in the office. it is  the first chair  to the right of the green chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "green chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "this is a black chair in the office.  it is the closest chair in front of the tv screen.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "tv screen"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "this is a black chair in the meeting room. the chair is located  before the chair in the corner that is the closest to the  tv .",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "tv"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "the office table is located directly in front of the 3 black office chairs. the table is also located to the right of the wall mounted tv.",
+        "parsed_query": {
+            "Target": "office table",
+            "Anchor": [
+                "3 black office chairs",
+                "wall mounted tv"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "the black desk chair is to the right of another black desk chair. the chair is also sitting in front of a dry erase board tray that is located along the far wall of the room.",
+        "parsed_query": {
+            "Target": "black desk chair",
+            "Anchor": [
+                "black desk chair",
+                "dry erase board tray"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "the trash can is located along the far wall. the trash can is also located directly to the right of the outlet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "outlet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "the black office chair is located directly to the right of the bright green chair. the black desk chair is also to the left of the trash can.",
+        "parsed_query": {
+            "Target": "black office chair",
+            "Anchor": [
+                "bright green chair",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "the trash can is located along the rear wall of the room. the trash can is also located directly to the right of the electrical outlet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "electrical outlet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "13",
+        "target_name": "tv",
+        "caption": "the television is large and has a black bezel. the television is on a orange wall with a corner to the left.",
+        "parsed_query": {
+            "Target": "television",
+            "Anchor": "orange wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "the table is located evenly in the center of the room. it is long in size, and made up of a baze laminated material.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "the television is large in nature with a black bazel. it is located on the orange wall with a white wall on the right side.",
+        "parsed_query": {
+            "Target": "television",
+            "Anchor": [
+                "orange wall",
+                "white wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "there is a green office chair. it is in the corner of the room next to a red wall and a white wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "red wall",
+                "white wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "the black office chair is made up of a meshed back, and fabric seat. it is located in front of the televison  directly across from the green office chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "television",
+                "green office chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "there is a gray office chair. it is in the corner of the left side of the table on the long side of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "13",
+        "target_name": "tv",
+        "caption": "there is a rectangular black tv. it is on the wall to the left of another monitor.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "wall",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "there is a green office chair. it is in the corner where a red and white wall meet.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "red wall",
+                "white wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "there is a square gray office chair. it is in the corner of the left side of the table on the long side.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "the chair pulled up to the table, it is green with sliver trim. it is located closest to the meeting room door, on the side of the windows.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "meeting room door",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "3",
+        "target_name": "office_chair",
+        "caption": "it is a black office chair in front of the wooden desk.  its is the one in the middle.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "wooden desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "a rolling office chair on the right side of the table from the head chair.  it is the second to last chair.",
+        "parsed_query": {
+            "Target": "rolling office chair",
+            "Anchor": [
+                "table",
+                "head chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "15",
+        "target_name": "door",
+        "caption": "a white door with a glass center.  it is in the corner of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "15",
+        "target_name": "door",
+        "caption": "the entry door.  it is white framed and has blinds in the center of it.",
+        "parsed_query": {
+            "Target": "entry door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "13",
+        "target_name": "tv",
+        "caption": "a tv monitor on the back wall.  it is on the left side of the wall, with another monitor to it's right.",
+        "parsed_query": {
+            "Target": "tv monitor",
+            "Anchor": [
+                "back wall",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "a green rolling chair at the head of the table.  it's back faces the entry way.",
+        "parsed_query": {
+            "Target": "rolling chair",
+            "Anchor": [
+                "table",
+                "entry way"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "this trash can is against the wall. it is black.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "this table is tan. it is in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "this tv is facing viewer. it is turned off.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "this chair is facing away. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "2",
+        "target_name": "office_chair",
+        "caption": "this chair is facing down and left. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "this is the 3rd black chair from the orange wall.  located about in the middle.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "orange wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "13",
+        "target_name": "tv",
+        "caption": "this is the flat screen tv on the orange wall.  it is the one on my left.",
+        "parsed_query": {
+            "Target": "flat screen tv",
+            "Anchor": "orange wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "it is the office chair at the corner end. its on my right hand side.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "it is the office chair right beside the corner chair.  its on my right hand side.  so it would be the second one on this side.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "corner chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "the green chair is sitting next to the gray wall. it has black rolling wheels on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "gray wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "the brown table is in the middle of the floor. it has office chairs all the way around it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "office chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "13",
+        "target_name": "tv",
+        "caption": "the flat screen tv is on the wall. it is the tv on the left side of the wall the one without anything below it.",
+        "parsed_query": {
+            "Target": "flat screen tv",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "the black office chair is sitting beside the table. it is the chair at the far end of the table opposite to the end with the tvs on the wall.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "tvs on the wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "the black office chair is at the table. it is on the left side of the table at the very end. it doesn't have arms on it",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "15",
+        "target_name": "door",
+        "caption": "a white door with a glass center.  it is the only door in the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "a rolling office chair.  it is in the corner farthest away from the door.",
+        "parsed_query": {
+            "Target": "rolling office chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "a small black trash bin at the front of the room.  it is in the middle of the wall, straight in front of the door.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "one of two large tv monitors on the orange wall.  it is the one on the right.",
+        "parsed_query": {
+            "Target": "tv monitor",
+            "Anchor": "orange wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "it is a black office chair. the black office chair sits at the front left of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "11",
+        "target_name": "trash_can",
+        "caption": "it is a gray trash can. the gray trash can sits on the wall across from the beige table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "beige table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "7",
+        "target_name": "office_chair",
+        "caption": "it is a black office chair. the black office chair is at the front left of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "5",
+        "target_name": "office_chair",
+        "caption": "it is a black office chair. the black office chair is the forth office chair on the left side of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "a black desk chair. it is the one closest to the black bin.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "black bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "a black desk chair facing a table. it is in the middle of the three facing the table.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "0",
+        "target_name": "office_chair",
+        "caption": "a green desk chair. it is in the corner facing a wall.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "19",
+        "target_name": "tv",
+        "caption": "a tv mounted on the wall. it is on the right.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "1",
+        "target_name": "office_chair",
+        "caption": "it is the office chair in front of the table.  the one in the middle.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "6",
+        "target_name": "office_chair",
+        "caption": "it is the office chair.  the one in the middle at the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "it is the green office chair.  it is located at the corner of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0575_00",
+        "target_id": "4",
+        "target_name": "office_chair",
+        "caption": "it is the green office chair.  the one at the corner of the table.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    }
+]

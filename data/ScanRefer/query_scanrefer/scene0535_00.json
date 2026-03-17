@@ -1,0 +1,544 @@
+[
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a black chair. in front of the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a black chair. in front of the brown shelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "11",
+        "target_name": "desk",
+        "caption": "a white wooden desk. next to the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "a window. next to the white desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "white desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "a white wooden shelf. in front of the desk.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "4",
+        "target_name": "cabinet",
+        "caption": "it is a brown cabinet. the cabinet is to the left of the desk.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "it is an open window. the window is to the right of the other window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "it is a window on the right. the window is above the desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "11",
+        "target_name": "desk",
+        "caption": "it is a white desk. the desk is under the right window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "right window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "the window is on the right. the window is above the white desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "white desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the black chair is located in front of the wooden door. the chair is also located to the right of a white shelving unit.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wooden door",
+                "white shelving unit"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "12",
+        "target_name": "window",
+        "caption": "the window is located on the far wall. the window is the farthest window to the right on the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "far wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "the white desk is located along the far wall. the desk is behind a black desk chair.",
+        "parsed_query": {
+            "Target": "white desk",
+            "Anchor": [
+                "far wall",
+                "black desk chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "the white bookshelf is on the left wall. the bookshelf is located to the left of the window.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "the chair is located on the rear wall. the chair is to the right of a shelf made out of wood.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "rear wall",
+                "wooden shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "11",
+        "target_name": "desk",
+        "caption": "the desk is white. it is to the right of the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "6",
+        "target_name": "shelf",
+        "caption": "the shelf is dark brown. it is to the left of the chair.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "the window has a wood frame. it is to the right of the shelf.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "the window is at the rear of the room at the end of the wall near a desk.  there is a shelving unit to the left of it on the adjoining wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desk",
+                "shelving unit"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "the book shelf is in the back corner of the room.  there is a window to the right of it on the adjoining wall and a desk in front of it.",
+        "parsed_query": {
+            "Target": "book shelf",
+            "Anchor": [
+                "window",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "the window is in the far corner of the room with a plant sitting on the sill.  there is another window to the right of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is in the far corner of the room.  there is a window to the right of it and several plastic bins to the left.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "window",
+                "plastic bins"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "the chair is against the wall in the back of the room.  its grey and black and has wooden arms and sits next to a desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "26",
+        "target_name": "chair",
+        "caption": "the chair is near the desk in the back. it is the furthest chair towards the back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "the desk is in the back. it is the one on the furthest right.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "26",
+        "target_name": "chair",
+        "caption": "the chair is towards the back of the room. there is another chair in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "11",
+        "target_name": "desk",
+        "caption": "the desk is closest to the back. it is right in front of windows.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "26",
+        "target_name": "chair",
+        "caption": "the chair is closest to the back. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "this desk is against the wall. it is light colored with a small shelf on the right side. there is a chair in front of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "13",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is in a corner. it s high and has many objects in it. there is a window to the right of it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "26",
+        "target_name": "chair",
+        "caption": "this chair is at the white desk. it has no arms, and there is a window behind it. it is dark colored.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "white desk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "this is the left window. the bookshelf is to the left of it. it has a wood frame.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "left window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "4",
+        "target_name": "cabinet",
+        "caption": "this cabinet is under the window on the right. it is small and to the left of the desk.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "window",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "4",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular cabinet. it is beside a long table.",
+        "parsed_query": {
+            "Target": "rectangular cabinet",
+            "Anchor": "long table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "6",
+        "target_name": "shelf",
+        "caption": "there is a rectangular brown shelf. it is next to a black and white spotted chair.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "black and white spotted chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "there is a black and white spotted chair. it is next to a shelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "10",
+        "target_name": "desk",
+        "caption": "there is a rectangular desk. it is has a chair with its back towards it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "rectangular desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. it is next to the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "6",
+        "target_name": "shelf",
+        "caption": "a brown multiple rack shelf. it is kept near the chair.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a small cushion chair. it is located near the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "4",
+        "target_name": "cabinet",
+        "caption": "the object is a cabinet. it is directly at the end under the table that is next to the window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "6",
+        "target_name": "shelf",
+        "caption": "the object has a small shelf. it is beside the chair against wall.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": [
+                "chair",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "the object is a chair. it is against the wall and directly behind the chair that has the jacket hanging on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "chair with jacket hanging on it"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "26",
+        "target_name": "chair",
+        "caption": "the object is a chair. is the second chair from the window on the right side of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "1",
+        "target_name": "window",
+        "caption": "a narrow clear window. it is attached to the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0535_00",
+        "target_id": "11",
+        "target_name": "desk",
+        "caption": "a compact and comfortable desk. it is near the wall.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "wall"
+        },
+        "unique": false
+    }
+]

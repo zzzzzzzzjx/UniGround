@@ -1,0 +1,938 @@
+[
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "47",
+        "target_name": "chair",
+        "caption": "the chair is the second south-most one on the left side of the table. the chair has a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a black chair with black armrests.  this chair is placed at one end of a very long group of tables in the middle of the room.  this chair is the only chair at this end of the group of tables.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "group of tables"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is right of the purple chair. the chair is blue with a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "purple chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "38",
+        "target_name": "chair",
+        "caption": "the chair is the leftmost on on the northern end of the table. the chair is blue with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "27",
+        "target_name": "trash_can",
+        "caption": "the trash can is right of the yellow table. the trash can is a gray cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "yellow table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a black chair with black armrests, positioned at one end of a long group tables in the middle of the room.  there is a free-standing white erase board nearby to the left of this chair.  this chair is the only chair along this short side of the rectangular group of tables.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "group of tables",
+                "white erase board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "45",
+        "target_name": "chair",
+        "caption": "this is a black chair placed at a long group of tables in the middle of the room.  this chair is one of many chairs along one long side of the rectangular group of tables, and is the right most chair on this side.  there is a red chair to the left of this chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "group of tables",
+                "red chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "22",
+        "target_name": "folded_table",
+        "caption": "this is folded table has a brown underside and gray metallic legs.  it is folded and lined against a wall of a storage nook at one corner of the room.  the storage nook that contains this table also contains many stacked chairs and a large blue trash can.  the large blue trash can is nearby to the right of this folded table, and a smaller trash can sits right under the left side of this folded table.",
+        "parsed_query": {
+            "Target": "folded table",
+            "Anchor": "storage nook"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "24",
+        "target_name": "table",
+        "caption": "this very long table is composed of smaller tables grouped together in the middle of the room.  this table is brown on the top, with many chairs arrayed around it.  this table is clean and shiny, with nothing on it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "22",
+        "target_name": "folded_table",
+        "caption": "the folded table is left of a white door. the folded table is rectangular and has two legs.",
+        "parsed_query": {
+            "Target": "folded table",
+            "Anchor": "white door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is between two red chairs. the chair is gray and has a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "red chair",
+                "red chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is between a brown board and a chair. the chair is brown and has armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown board",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "28",
+        "target_name": "trash_can",
+        "caption": "this is a white trash can. it is on the floor.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "38",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at the far end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at the far end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "38",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "47",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in between two other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "28",
+        "target_name": "trash_can",
+        "caption": "the trash can is left of the curtains. the trash can is a gray cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "curtains"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is the southern-most on out of a group of chairs in the northwest area. the chair is gray and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "group of chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "25",
+        "target_name": "table",
+        "caption": "the table is in the southwest corner of the room. the table is light brown rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "the trash can is left of a folded up table. the trash can is gray and has a plastic bag over it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "folded up table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is the middle one on the right side of the table. the chair is blue and has a curved back.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "38",
+        "target_name": "chair",
+        "caption": "the chair is the left-most one on the northern end of the table. the chair has four legs and two armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is the third most north one that is on the left side of the table. the chair is blue and has a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "49",
+        "target_name": "chair",
+        "caption": "the chair is the red one on the northern right side of the table. the chair has a curved backside and four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is the fifth one from the north on the right side of the table. the chair is blue and has armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "this is a black chair. its in front of the whiteboard in the room segregated.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "whiteboard"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "24",
+        "target_name": "table",
+        "caption": "this is a wooden table. its in the center of the room surrounded by chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "this is a trash can. its blue and is on the left of a brown box.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "brown box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this is a black chair. its to the right of a red office chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "red office chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a brown chair. it is to the left of the recycle trash can.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "recycle trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "the trash can is left of a leaning brown board. the trash can is a blue rectangle.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "leaning brown board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the chair is the northeastern-most one next to the table. the chair is gray and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "24",
+        "target_name": "table",
+        "caption": "the table is in the center of the room. the table is a long rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "22",
+        "target_name": "folded_table",
+        "caption": "this is a folded table. its brown in color and is on the right of the entry door way.",
+        "parsed_query": {
+            "Target": "folded table",
+            "Anchor": "entry door way"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is a chair. its blue in color and is in the center of the room 5th from each corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "25",
+        "target_name": "table",
+        "caption": "this is a wooden table. its tan in color and is next to a trash can to the left.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a grey chair. its in the center of the room out of place.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "this is a recycling trash can. its blue and white in color and is on the left of a box.",
+        "parsed_query": {
+            "Target": "recycling trash can",
+            "Anchor": "box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a grey chair. its at the end of the shorter table closest to the window.",
+        "parsed_query": {
+            "Target": "grey chair",
+            "Anchor": [
+                "shorter table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a grey chair. its in the corner of the room next to the black trash can.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "black trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "23",
+        "target_name": "trash_can",
+        "caption": "this is a blue and white recycling trash can. its next to a brown box in front of the entry way.",
+        "parsed_query": {
+            "Target": "recycling trash can",
+            "Anchor": [
+                "brown box",
+                "entry way"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is right of the blue trash can. the chair is brown and has armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "blue trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "49",
+        "target_name": "chair",
+        "caption": "the chair is the only red one on the right side of the table. the chair has four legs and curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the chair is the northwestern-most one on the right side of the table. the chair is gray and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "27",
+        "target_name": "trash_can",
+        "caption": "the trash can is south of the northeastern-most table. the trash can has gray cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "northeastern-most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "36",
+        "target_name": "trash_can",
+        "caption": "the trash can is in the southeastern corner of the room. the trash can is a cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "27",
+        "target_name": "trash_can",
+        "caption": "the trash can is south of the table in the northeastern corner. the trash can is a black cylinder.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is the fifth northern-most one on the right side of the table. the chair is blue and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the chair is the northern-most one on the right of the table. the chair is grey and has armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "this is a round trash can. it is on the floor.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is facing the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "24",
+        "target_name": "table",
+        "caption": "this is a long table. it is in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "this is a round trash can. it is across from a white chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "white chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "47",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in between two other black chairs.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "black chair",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the object is the bottom rightmost of chairs surrounding a conference table.  the chair is made of plastic, with metal legs and a pair of thin arm rests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "conference table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "49",
+        "target_name": "chair",
+        "caption": "the object is the bottom middle-most chair in a set of chairs. the seat and back rest are red, and the legs are black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "45",
+        "target_name": "chair",
+        "caption": "the object is the top rightmost chair in a set of chairs. it is sitting next to a red chair, and is mostly pulled out from the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "red chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the object is a lone chair sitting at the rightmost end of the conference table. it has no other chairs next to it, and is pulled out from the table diagonally.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "conference table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "49",
+        "target_name": "chair",
+        "caption": "there is a purple chair in conference room. it place in front of the long table left of the black chair.",
+        "parsed_query": {
+            "Target": "purple chair",
+            "Anchor": [
+                "long table",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "this is a black office chair. its on the corner of the table closest to the whiteboard.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "27",
+        "target_name": "trash_can",
+        "caption": "this is a trash can. its black and is next to a wooden table with silver legs in the corner.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "24",
+        "target_name": "table",
+        "caption": "this is a wooden table. its located in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "27",
+        "target_name": "trash_can",
+        "caption": "there is a trash can beside the wall. it place on the right side below the table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "25",
+        "target_name": "table",
+        "caption": "this is a wooden table with silver legs. its in the corner of the room.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "45",
+        "target_name": "chair",
+        "caption": "the chair is the farthest north one that is next to the left side of the table. the chair has four legs and armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "30",
+        "target_name": "trash_can",
+        "caption": "there is a gray trash can at the corner of the room. it is located left of the table legs and below the table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "table legs",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is the middle one out of the row of chairs on the left side of the room. the chair is grey and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "row of chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "22",
+        "target_name": "folded_table",
+        "caption": "the folded table is right of a trash can. the folded table is rectangular.",
+        "parsed_query": {
+            "Target": "folded table",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "22",
+        "target_name": "folded_table",
+        "caption": "the folded table is east of the trash can. the folded table has two legs.",
+        "parsed_query": {
+            "Target": "folded table",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the black chair,it is placed in the middle. on the left is a brown table. on top are 2 brown chairs.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "brown table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "36",
+        "target_name": "trash_can",
+        "caption": "the black trash can ,it was placed close to the wall and the door. on the left were 3 brown chairs that were placed close to the wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the black chair, at the back there are many chairs, above is a table that is folded and placed against the wall. there is a trash bin on the right.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "table",
+                "trash bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the black chair, it is placed near a brown table, to the right is a black chair. behind is a wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "brown table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "47",
+        "target_name": "chair",
+        "caption": "the black chair,it was placed near a brown table, to the left was a black chair. to the right was a black chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "brown table",
+                "black chair",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "12",
+        "target_name": "chair",
+        "caption": "the black chair,it was placed near a brown table, positioned right on top of the table, near the wall. to the right was a white table.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "brown table",
+                "wall",
+                "white table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "the black chair, it is located near the wall, on the right is a small trash bin. on the right are 2 brown chairs.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "wall",
+                "small trash bin",
+                "brown chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the black chair,it is placed in the middle, on the right is a brown chair, on the left is a black chair. behind the wall is a lot of chairs.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": [
+                "brown chair",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0249_00",
+        "target_id": "36",
+        "target_name": "trash_can",
+        "caption": "the black trash can ,t is placed near the wall, in front is a brown table with many chairs. on the right is a black chair near the wall.",
+        "parsed_query": {
+            "Target": "black trash can",
+            "Anchor": [
+                "wall",
+                "brown table",
+                "black chair"
+            ]
+        },
+        "unique": false
+    }
+]

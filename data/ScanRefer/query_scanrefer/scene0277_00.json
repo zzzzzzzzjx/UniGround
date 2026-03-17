@@ -1,0 +1,541 @@
+[
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "the white bookshelf is above the brown desk, beside the telephone.  it is attached to the wall in the corner.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "desk",
+                "telephone"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the gray trash can is beside the blue recycle bin, and near the brown desk in the corner of the room. the trashcan is empty.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue recycle bin",
+                "brown desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "the white telephone is attached to the wall in the corner of the room.  it is between the white bookshelf and the window.",
+        "parsed_query": {
+            "Target": "white telephone",
+            "Anchor": [
+                "white bookshelf",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "it is a two-level shelf on top of a desk. the shelf is to the right of the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "12",
+        "target_name": "radiator",
+        "caption": "it is a radiator underneath a window. the radiator is to the right of the bed.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "8",
+        "target_name": "dresser",
+        "caption": "it is a brown three drawer dresser. the dresser is underneath the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "it is a black computer desk chair. the chair is rolled underneath the desk.",
+        "parsed_query": {
+            "Target": "computer desk chair",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "1",
+        "target_name": "bed",
+        "caption": "it is a brown bed with a blue mattress. the bed is to the left of the window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "1",
+        "target_name": "bed",
+        "caption": "the bed is made from wood. the mattress has a navy cover on it.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the beige bin on the right of the blue bin. it has a plastic bag inside.",
+        "parsed_query": {
+            "Target": "beige bin",
+            "Anchor": "blue bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "the cabinet is by the door. it has a mirror on it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "13",
+        "target_name": "recycling_bin",
+        "caption": "the blue trash can. it is larger than the beige trash can.",
+        "parsed_query": {
+            "Target": "blue trash can",
+            "Anchor": "beige trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "2",
+        "target_name": "desk",
+        "caption": "the wooden desk. it has three draws.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "this shelf is wall mounted in one corner of the room. a table an be seen under this shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "12",
+        "target_name": "radiator",
+        "caption": "this radiator is attached to the wall under the window. two trash cans are present in front of this.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this chair is placed under the table in the corner of the room. two trash can are present behind the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "13",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is blue color. a radiator is present behind this recycling bin.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "recycling bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a wall mounted shelf is in front of this chair. a radiator and trash can are present behind this chair. is pres",
+        "parsed_query": {
+            "Target": "wall mounted shelf",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "there is a gray trash can. it is in front of the radiator at the side of the room.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "radiator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "2",
+        "target_name": "desk",
+        "caption": "there is a rectangular brown and gray desk. it is at the corner of the room and next to the radiator.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "radiator"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular gray trash can. it is in front of the radiator and next to a chair.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "radiator",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "2",
+        "target_name": "desk",
+        "caption": "there is a rectangular gray and brown desk. it is at the corner of the room next to the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "1",
+        "target_name": "bed",
+        "caption": "there is a black and brown bed. it is at the side of the room next to the table.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "the cabinet is wooden and is the color brown. it is located at the right side of the room when you walk in. it is spaced on the right side against the wall facing outwards",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "10",
+        "target_name": "window",
+        "caption": "the window is clear and the color of the frame is white. it is located at the back of the room on the wall. is is spaced between two walls and is on the very back wall of the room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "13",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is the color blue. it is located at the back of the room on the floor. it is spaced beside the trash bin and is on the floor at the back of the room",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "trash bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "10",
+        "target_name": "window",
+        "caption": "the window is clear and the color of the frame is white. it is located at the back of the room on the wall. it is spaced between the two walls and is on the back wall of the room",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "back wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "the cabinet is wooden and is the color brown. it is located at the front of the room on the right side. it is spaced against the wall on the right side as you walk in the door",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "10",
+        "target_name": "window",
+        "caption": "this is a window. its clear and allows sun to enter the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "10",
+        "target_name": "window",
+        "caption": "these are windows. they are clear and allow sunlight to enter the room.",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "2",
+        "target_name": "desk",
+        "caption": "this is a wooden desk. its brown in color and has a chair tucked under it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "13",
+        "target_name": "recycling_bin",
+        "caption": "this is a recycle bin. its blue in color and is under the window.",
+        "parsed_query": {
+            "Target": "recycle bin",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "8",
+        "target_name": "dresser",
+        "caption": "this is a dresser. its brown in color and is under the mattress.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "mattress"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a black desk chair. it has wheels.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "a black desk chair. it has wheels at the bottom.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "13",
+        "target_name": "recycling_bin",
+        "caption": "a blue recycling bin. it has a clear bin bag inside.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "5",
+        "target_name": "cabinet",
+        "caption": "a wooden cabinet. it has a mirror attached.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "12",
+        "target_name": "radiator",
+        "caption": "a radiator attached to the wall. it is white.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "12",
+        "target_name": "radiator",
+        "caption": "the radiator is under the window. the radiator is behind the blue trash can.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "window",
+                "blue trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "12",
+        "target_name": "radiator",
+        "caption": "the radiator is to the right of the bed. the radiator is to the left of the desk.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "it is a grey trash can in front of the radiator. the grey trash can is to the right of a blue trash can.",
+        "parsed_query": {
+            "Target": "grey trash can",
+            "Anchor": [
+                "radiator",
+                "blue trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "8",
+        "target_name": "dresser",
+        "caption": "the dresser has 3 drawers. the dresser is underneath the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "8",
+        "target_name": "dresser",
+        "caption": "the dresser is to the left under the bed. the dresser is to the right of the door.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "10",
+        "target_name": "window",
+        "caption": "the window is above a radiator. the window is a rectangle with two sections.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "radiator"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "1",
+        "target_name": "bed",
+        "caption": "the bed is on the northwest side of the room. the bed is a rectangle with blue mattress.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0277_00",
+        "target_id": "15",
+        "target_name": "shelf",
+        "caption": "the shelf is on top of the desk. the shelf is a white rectangle.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "desk"
+        },
+        "unique": true
+    }
+]

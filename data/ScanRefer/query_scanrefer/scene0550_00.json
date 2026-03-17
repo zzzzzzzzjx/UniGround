@@ -1,0 +1,678 @@
+[
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "22",
+        "target_name": "shower_curtain",
+        "caption": "a white curtain. on side of the bath tub.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": "bath tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "a gray bin. next to the heater of the bath.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "heater of the bath"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "a dark brown door. on the ending of the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "22",
+        "target_name": "shower_curtain",
+        "caption": "a white curtain. in front of the toilet.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "a dark brown wooden door. on the hall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "hall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "10",
+        "target_name": "radiator",
+        "caption": "a white heater. on the side of the wall.",
+        "parsed_query": {
+            "Target": "heater",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "6",
+        "target_name": "window",
+        "caption": "a window. on the side of the bathroom.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bathroom"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "a wooden door. on the end of the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "a white sink. on the side of the bathroom.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "bathroom"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "a black and white toilet. on the left to the bathroom.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "bathroom"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "a black and white toilet. on the corner of the bathroom.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "10",
+        "target_name": "radiator",
+        "caption": "a white heater. next to the bin.",
+        "parsed_query": {
+            "Target": "heater",
+            "Anchor": "bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "a black door. on the side of the bathroom on the left to the paper box.",
+        "parsed_query": {
+            "Target": "black door",
+            "Anchor": [
+                "bathroom",
+                "paper box"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "10",
+        "target_name": "radiator",
+        "caption": "a white heater. next to the two windows.",
+        "parsed_query": {
+            "Target": "heater",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "22",
+        "target_name": "shower_curtain",
+        "caption": "a white curtain. next to the bath cabin.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bath cabin"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "6",
+        "target_name": "window",
+        "caption": "two windows. on the side of the bathroom.",
+        "parsed_query": {
+            "Target": "windows",
+            "Anchor": "bathroom"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "a brown wooden door. on the left to the paper box.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "paper box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "a gray bin. next to the white heater.",
+        "parsed_query": {
+            "Target": "gray bin",
+            "Anchor": "white heater"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "11",
+        "target_name": "paper_towel_dispenser",
+        "caption": "a paper box. on the right to the brown door.",
+        "parsed_query": {
+            "Target": "paper box",
+            "Anchor": "brown door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "11",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the black paper towel dispenser. the dispenser is on the wall by the window.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "the white and black toilet. the toilet is in the stall in the corner.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "stall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "the over flowing trash can. the trash can is next to the radiator.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "radiator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "the small oval sink. the sink is the one on the right.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "14",
+        "target_name": "sink",
+        "caption": "the tiny oval sink. the sink is the one on the left side.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "22",
+        "target_name": "shower_curtain",
+        "caption": "this is a shower curtain. it is drawn and adjacent to a yellow wall.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "yellow wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "this is a overfilled trashcan. it is in front of a radiator.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": "radiator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "6",
+        "target_name": "window",
+        "caption": "this is an open window. it is above the radiator.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "radiator"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "11",
+        "target_name": "paper_towel_dispenser",
+        "caption": "this is a paper towel dispenser. it is mounted to the wall and next to a door.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "8",
+        "target_name": "bathroom_vanity",
+        "caption": "this is a bathroom vanity. it has 2 sinks and is facing the mirror.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "mirror"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "12",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "it is a silver toilet paper dispenser. the silver toilet paper dispenser is to the left of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "8",
+        "target_name": "bathroom_vanity",
+        "caption": "there is a white bathroom vanity. it is against the wall on the right side.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "it is a  brown bathroom stall door. the brown bathroom stall door is directly across from the sink.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "6",
+        "target_name": "window",
+        "caption": "there is a window. it is to the right of the paper towel dispenser.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "paper towel dispenser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "there is a black and white toilet. it is to the left of the bathroom stall door.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "bathroom stall door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "8",
+        "target_name": "bathroom_vanity",
+        "caption": "there is a white bathroom vanity. it is to the right of the window.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "10",
+        "target_name": "radiator",
+        "caption": "there is a white, rusted radiator against the wall. it is behind the overflowing trashcan.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "wall",
+                "overflowing trashcan"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "it is the white sink. the white sink is  on the wall to the left of the toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "10",
+        "target_name": "radiator",
+        "caption": "it is a white radiator. the white radiator is on the right wall beneath the bathroom window.",
+        "parsed_query": {
+            "Target": "radiator",
+            "Anchor": [
+                "right wall",
+                "bathroom window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "a wooden black door next to the paper box.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "paper box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "the sink is white. it is located to the right of the window.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "12",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "the toilet paper dispenser is round and white. it is located on the wall above and to the left of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "14",
+        "target_name": "sink",
+        "caption": "the sink is white. it is the first sink to the right of the window.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "6",
+        "target_name": "window",
+        "caption": "the window is rectangular. it is located above the radiator, and to the lower right of the paper towel dispenser.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "radiator",
+                "paper towel dispenser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "the trash can is beige and overflowing. it is located below the window, and in front of the radiator.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "window",
+                "radiator"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "11",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the hanging paper towel dispenser. the dispenser is next to the door.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "22",
+        "target_name": "shower_curtain",
+        "caption": "the small peach shower curtain. the shower curtain is next to the toilet.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "15",
+        "target_name": "sink",
+        "caption": "the small oval sink. the sink is the one on the right side.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "11",
+        "target_name": "paper_towel_dispenser",
+        "caption": "the wall paper towel dispenser. the dispenser is on the wall by the door.",
+        "parsed_query": {
+            "Target": "paper towel dispenser",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "5",
+        "target_name": "toilet",
+        "caption": "the toilet is in its own room. the toilet is next to the door.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "12",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "it is a white toilet paper dispenser. the white toilet paper dispenser sits on the right of the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "3",
+        "target_name": "bathroom_stall_door",
+        "caption": "it is a brown bathroom stall door. the brown bathroom stall door sits directly across from the sink.",
+        "parsed_query": {
+            "Target": "bathroom stall door",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "8",
+        "target_name": "bathroom_vanity",
+        "caption": "it is a white bathroom vanity. the white bathroom vanity sits directly across from the bathroom stall door.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "bathroom stall door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "12",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "it is a silver toilet paper dispenser. the  silver toilet paper dispenser sits directly across from the sink.",
+        "parsed_query": {
+            "Target": "toilet paper dispenser",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "14",
+        "target_name": "sink",
+        "caption": "it is a white sink. the white sink sits on the end of the left wall next to the window.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "left wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "8",
+        "target_name": "bathroom_vanity",
+        "caption": "a comfortable and compact bathroom vanity. it is near to the wall.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "a narrow and lengthy door. it is located near the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "12",
+        "target_name": "toilet_paper_dispenser",
+        "caption": "a circle shaped toilet paper. it is located near to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "14",
+        "target_name": "sink",
+        "caption": "a small size comfortable sink. it is attached to the wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0550_00",
+        "target_id": "4",
+        "target_name": "door",
+        "caption": "a brown narrow door. it is attached to the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wall"
+        },
+        "unique": false
+    }
+]

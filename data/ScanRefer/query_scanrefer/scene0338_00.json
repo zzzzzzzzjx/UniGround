@@ -1,0 +1,359 @@
+[
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "2",
+        "target_name": "cabinet",
+        "caption": "a cabinet sits to the left of a another cabinet with the word \"safe\" on it. it is in the corner.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "cabinet with the word safe on it"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "12",
+        "target_name": "copier",
+        "caption": "a copier sits on the floor near the wall to the right of a cabinet that says \"safe\". it is to the left of a black garbage can.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": [
+                "cabinet labeled safe",
+                "black garbage can"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "2",
+        "target_name": "cabinet",
+        "caption": "a black cabinet sits in the corner. it's to the right of some cardboard boxes.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "cardboard boxes"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "1",
+        "target_name": "recycling_bin",
+        "caption": "a recycling bin sits in the corner. it's to the right of a copier.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "some black cabinets hang on the wall above a black counter top with sever rectangular holes. it's above and to the right of a green garbage.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "black counter top",
+                "green garbage"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "17",
+        "target_name": "cabinets",
+        "caption": "a long row of cabinets run along the wall on the floor. it's got several rectangular cutout's on it's top surface.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "12",
+        "target_name": "copier",
+        "caption": "a copier sits on the floor to the left of a black garbage bin. it's to the right of a bin that says \"safe\".",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": [
+                "black garbage bin",
+                "bin that says \"safe\""
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "1",
+        "target_name": "recycling_bin",
+        "caption": "a black recycling bin sits in the corner all alone. it's to the left of a door.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "12",
+        "target_name": "copier",
+        "caption": "a copier sits near the wall to the right of some cardboard boxes. it's to the right of a black bin in the corner.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": [
+                "cardboard boxes",
+                "black bin"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "6",
+        "target_name": "recycling_bin",
+        "caption": "a green recycling bin sits to the left of a black cabinet. it's to the right of a wooden door.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "black cabinet",
+                "wooden door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "1",
+        "target_name": "recycling_bin",
+        "caption": "there is a rectangular dark recycling bin with wheels. it is next to a door.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "6",
+        "target_name": "recycling_bin",
+        "caption": "there is a rectangular gray recycling bin with a green lid. it is next to a door.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "1",
+        "target_name": "recycling_bin",
+        "caption": "there is a rectangular recycling bin with wheels. it is left of a door.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "there is a rectangular gray cabinet. it is on the wall over a counter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "2",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular dark cabinet. it is next to a white cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "white cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "there is a rectangular gray cabinet. it is on a wall over a counter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "there is a rectangular gray cabinet. it is on a wall next to a shelf.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "15",
+        "target_name": "cabinets",
+        "caption": "there is a rectangular gray cabinet. it is on a wall next to a shelf and is over a counter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "shelf",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "2",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular black cabinet. it is next to a white cabinet.",
+        "parsed_query": {
+            "Target": "rectangular black cabinet",
+            "Anchor": "white cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "17",
+        "target_name": "cabinets",
+        "caption": "there is a rectangular gray cabinet. it is under a gray counter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "gray counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "12",
+        "target_name": "copier",
+        "caption": "this is a gray copier. it is to the left of a trash can.",
+        "parsed_query": {
+            "Target": "gray copier",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "6",
+        "target_name": "recycling_bin",
+        "caption": "this is a gray and green recycling bin. it is to the right of the door.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "6",
+        "target_name": "recycling_bin",
+        "caption": "this is a gray and green recycling bin. it is is in front of cabinets.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "2",
+        "target_name": "cabinet",
+        "caption": "this is a black cabinet. it is to the left of a white cabinet.",
+        "parsed_query": {
+            "Target": "black cabinet",
+            "Anchor": "white cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "12",
+        "target_name": "copier",
+        "caption": "this is a gray copier. it is to the right of a cabinet.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "1",
+        "target_name": "recycling_bin",
+        "caption": "there is a recycling bin with wheels. it is next to the door.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "17",
+        "target_name": "cabinets",
+        "caption": "there are rectangular gray cabinets. they are under the long counter.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "long counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "17",
+        "target_name": "cabinets",
+        "caption": "there are rectangular gray cabinets with metal handles. they are under the counter.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "17",
+        "target_name": "cabinets",
+        "caption": "there are long rectangular cabinets. they are under the counter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0338_00",
+        "target_id": "6",
+        "target_name": "recycling_bin",
+        "caption": "there is a rectangular recycling bin with a green lid. it is next to the door.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "door"
+        },
+        "unique": false
+    }
+]

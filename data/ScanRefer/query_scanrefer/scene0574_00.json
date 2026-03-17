@@ -1,0 +1,454 @@
+[
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "24",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is to the left of two other towels.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "towels"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "this is a gray trash can. it is by the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "25",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is in between two other towels.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "towel",
+                "towel"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this is a white door. it is to the left of the towels.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "towels"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "25",
+        "target_name": "towel",
+        "caption": "this is a white towel. it is in the center of the towels.",
+        "parsed_query": {
+            "Target": "white towel",
+            "Anchor": "towels"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "the door is white. it is to the left of the sink.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "the door is white. it is to the right of the hangers.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "hangers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the trash can is black. it is to the left of the bathroom vanity.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bathroom vanity"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the trash can is small and black. it is to the right of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "11",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity has the sink on top. it is underneath the mirror.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": [
+                "sink",
+                "mirror"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "13",
+        "target_name": "towel",
+        "caption": "the towel is to the left of the sink. it is the first towel from the right.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "the sink is round and white. it is on the kitchen cabinet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "kitchen cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "13",
+        "target_name": "towel",
+        "caption": "the towel is white. it is the third from towel from the left.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "the door is beige. it is to the left of the trash can.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "24",
+        "target_name": "towel",
+        "caption": "the towel is to the left of the sink. it is the first towel from the left.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "25",
+        "target_name": "towel",
+        "caption": "this is a white face towel. it is hanging on the wall.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "25",
+        "target_name": "towel",
+        "caption": "this white towel is hanging in between 2 other towels. it is half folded.",
+        "parsed_query": {
+            "Target": "white towel",
+            "Anchor": [
+                "towel",
+                "towel"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "2",
+        "target_name": "bench",
+        "caption": "this is a brown bench. it is placed adjacent to the main door.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "main door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "2",
+        "target_name": "bench",
+        "caption": "this is a rectangular brown bench. it is placed adjacent to the white door.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "white door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "13",
+        "target_name": "towel",
+        "caption": "this is a folded white towel. it is placed at the right most of 3 towels.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "towel"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "it is a gray trash can. the gray trash can is a to the right of the bathroom door, next to the vanity sink.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "bathroom door",
+                "vanity sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "13",
+        "target_name": "towel",
+        "caption": "this towel is hung on the wall. it is white.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "2",
+        "target_name": "bench",
+        "caption": "this bench is on the top left corner. it is dark.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "2",
+        "target_name": "bench",
+        "caption": "it is a gray bench. the gray bench is under the rack with the hangers.",
+        "parsed_query": {
+            "Target": "gray bench",
+            "Anchor": "rack with the hangers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "24",
+        "target_name": "towel",
+        "caption": "this towel is against the wall. it is hung.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "11",
+        "target_name": "bathroom_vanity",
+        "caption": "this bathroom vanity is brown. it is smooth.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this door is straight ahead. it is silver.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "24",
+        "target_name": "towel",
+        "caption": "it is a white towel. the white towel is on the left wall of the vanity.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "vanity"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "it is a white sink. the white sink is in the middle left side of the vanity.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "vanity"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "it is a white sink. the white sink is next to the left wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "left wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "11",
+        "target_name": "bathroom_vanity",
+        "caption": "this is a bathroom vanity. it appears to be made of marble or composite and has one inlay sink.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "this is a small waste bin in the bathroom. it is almost underneath the vanity sink.",
+        "parsed_query": {
+            "Target": "waste bin",
+            "Anchor": "vanity sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "this is the porcelain inlay sink. it is installed in the bathroom vanity counter top.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "bathroom vanity counter top"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "11",
+        "target_name": "bathroom_vanity",
+        "caption": "this is a marble vanity top. it has one inlay sink and it is for the bathroom.",
+        "parsed_query": {
+            "Target": "vanity top",
+            "Anchor": "bathroom"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "11",
+        "target_name": "bathroom_vanity",
+        "caption": "this is a marble vanity. it has one porcelain inlay sink and is for the bathroom.",
+        "parsed_query": {
+            "Target": "vanity",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "2",
+        "target_name": "bench",
+        "caption": "there is a rectangular brown bench. it is next to the door.",
+        "parsed_query": {
+            "Target": "bench",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "6",
+        "target_name": "sink",
+        "caption": "there is a an oval sink. it is in a marble counter.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "marble counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "13",
+        "target_name": "towel",
+        "caption": "there is a rectangular towel. it is on a rack at the left side of the room.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "rack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "24",
+        "target_name": "towel",
+        "caption": "there is a rectangular towel. it is on a rack at the left side of the room and the leftmost on the rack.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "rack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0574_00",
+        "target_id": "25",
+        "target_name": "towel",
+        "caption": "there is a rectangular towel. it is on a rack at the left side of the room and the middle towel of the rack.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "rack"
+        },
+        "unique": false
+    }
+]

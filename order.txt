@@ -1,0 +1,377 @@
+export REFERIT3D_DATA="/home/yf/jiaxi/projest/SeeGround/referit3d_data/referit3d"
+# 钱多多api
+export VLM_MODEL="Qwen/Qwen2-VL-72B-Instruct"
+export VLM_MODEL="gpt-5"
+export VLM_MODEL="gpt-4o"
+export VLM_MODEL="glm-4.5v"
+export VLM_MODEL="qwen2.5-vl-72b-instruct"
+0
+export OPENAI_API_KEY="sk-ZEavwbgapOU34px9yAaS9OWhjy2a1BRh7ttBnVQwQlE4iN78"
+export OPENAI_API_BASE="https://api2.aigcbest.top/v1"
+export VLM_MODEL="gpt-5"
+1
+export OPENAI_API_KEY="sk-1fOlgZuQOMr7jSEzAayZEVKSENAwh31hpUqTEbX1qIuDXria"
+export OPENAI_API_BASE="https://api2.aigcbest.top/v1"
+export VLM_MODEL="gpt-4o"
+2
+export OPENAI_API_KEY="sk-461G3uaPvfqbuUz9XGNbNVbMZ9gsfbsxyPU5rpitmcZ5KCKm"
+export OPENAI_API_BASE="https://api2.aigcbest.top/v1"
+export VLM_MODEL="gpt-5"
+3
+export OPENAI_API_KEY="sk-ZEavwbgapOU34px9yAaS9OWhjy2a1BRh7ttBnVQwQlE4iN78"
+export OPENAI_API_BASE="https://api2.aigcbest.top/v1"
+export VLM_MODEL="gpt-4o"
+4
+conda activate seeground
+export OPENAI_API_KEY="sk-myOW7OVrLpdzbA8SG8xgjyPiVhAu61TcJeE1t2xisEe2qz5H"
+export OPENAI_API_BASE="https://api2.aigcbest.top/v1"
+export VLM_MODEL="gpt-5"
+
+5
+export OPENAI_API_KEY="sk-5dw3DJCwGX47w1JEoEnxPQECSu5rbOOnhO7p1UE73gndZ3Io"
+export OPENAI_API_BASE="https://api2.aigcbest.top/v1"
+export VLM_MODEL="gpt-5"
+
+6
+export OPENAI_API_KEY="sk-ThXK39KED2kSKWCDN5hAykjGE6g6QvtwQPRf5rpDzZIBE95J"
+export OPENAI_API_BASE="https://api2.aigcbest.top/v1"
+export VLM_MODEL="gpt-5"
+
+7
+export OPENAI_API_KEY="sk-r06fMgHzA1l5MfmSSsde0qHBgUQQPAANub2cOIjFo4GFAEo4"
+export OPENAI_API_BASE="https://api2.aigcbest.top/v1"
+export VLM_MODEL="gpt-5"
+
+8
+conda activate seeground
+export OPENAI_API_KEY="sk-6RPy8XV82u3RlE8kYBRoF2n4bHoPLd247UvQ65ZKRtzTANPY"
+export OPENAI_API_BASE="https://api2.aigcbest.top/v1"
+export VLM_MODEL="gpt-5"
+
+# qwen官方api
+export OPENAI_API_KEY="sk-1477c11bf84a4ed4b1dfaadbda999868"
+export OPENAI_API_BASE="https://dashscope.aliyuncs.com/compatible-mode/v1"
+export VLM_MODEL="qwen2-vl-72b-instruct"
+
+
+
+for scene in scene0046_00 scene0077_00 ...; do
+python experiments/ablation/summarize_scene.py \
+    /media/yf/HIKSEMI/results_superpoints/$scene \
+    experiments/ablation/scannet/$scene/exp_2_no_global \
+    $scene
+done
+
+python experiments/ablation/summarize_scene.py \
+  --aggregate \
+  --ablation_dir experiments/ablation/scannet \
+  ---exp exp_2_no_global
+  --exp exp_3_no_candidate
+  --exp exp_1_full
+  --exp exp_2_no_global
+python experiments/ablation/summarize_scene.py \
+      --aggregate \
+      --ablation_dir experiments/ablation/scannet \
+      --exp exp_4_simple_prompt
+bash experiments/ablation/scannet/terminal_01.sh
+
+bash experiments/ablation/model/terminal_01.sh
+
+cd /home/yf/jiaxi/projest/SeeGround/
+------------------------------------------------------------------------------------------------
+
+# parse_query脚本
+python parse_query/generate_query_data_scanrefer.py \
+  --anno_file data/ScanRefer/ScanRefer_filtered_val.json \
+  --scan_id_file scene_list_vigil3d.txt \要处理对象
+  --save_dir data/ScanRefer/query_share \
+  --scan_data referit3d_data/referit3d/scan_data \
+  --label_map_file referit3d_data/referit3d/annotations/meta_data/scannetv2-labels.combined.tsv \
+  --prompt_file prompts/parsing_query.txt \
+  --per_scene 100000 \
+  --shuffle_per_scene False \
+  --openai_api_key "$OPENAI_API_KEY" \
+  --openai_api_base "$OPENAI_API_BASE" \
+  --model_name "$VLM_MODEL" \
+  --skip_existing True
+
+------------------------------------------------------------------------------------------------
+
+
+# 单个任务推理脚本
+ScanRefer版本
+python inference/inference_grounding.py \
+  --output_dir outputs/1 \
+  --task_root assets/0201/scene0019_00/1 \
+  --pcd_dir referit3d_data/referit3d/scan_data/pcd_with_global_alignment \
+  --openai_api_key "$OPENAI_API_KEY" \
+  --openai_api_base "$OPENAI_API_BASE" \
+  --model_name "$VLM_MODEL" \
+  --use_image True \
+  --num_global_views 3 \
+  --candidate_image_per_id 6 \
+  --max_candidate_images 5 \
+  --candidate_image_collage True \
+  --adaptive_point_radius True \
+  --filter_ceiling_points False
+
+# 多个任务推理脚本
+python scripts/run_scene_batch_grounding.py \
+  --scene_root assets/0201/scene0019_00 \
+  --output_root outputs/test \
+  --pcd_dir referit3d_data/referit3d/scan_data/pcd_with_global_alignment \
+  --openai_api_key "$OPENAI_API_KEY" \
+  --openai_api_base "$OPENAI_API_BASE" \
+  --model_name "$VLM_MODEL" \
+  --use_image True \
+  --num_global_views 3 \
+  --candidate_image_per_id 5 \
+  --max_candidate_images 5 \
+  --candidate_image_collage True \
+  --adaptive_point_radius True \
+  --filter_ceiling_points False \
+  --compress_collage False 
+
+------------------------------------------------------------------------------------------------
+Arkitscenes版本
+1、进行数据转换：
+/home/yf/jiaxi/projest/SeeGround/scripts/convert_arkitscenes_to_scannet_format.py
+python /home/yf/jiaxi/projest/SeeGround/scripts/convert_arkitscenes_to_scannet_format.py \
+  --input_root /home/yf/yf/guazai/data/41048085 \
+  --output_root /home/yf/yf/guazai/data/converted/41048085
+
+2、进行均分到并发文件夹下
+
+Arkitscenes版本
+单个任务推理脚本
+python inference/inference_grounding.py \
+      --output_dir outputs/arkitscenes/47333462/test_task_0 \
+      --scene_json /home/yf/yf/guazai/seeground/assets_converted/47333462/0/task.json \
+      --gt_json /home/yf/yf/guazai/seeground/assets_converted/47333462/0/gt.json \
+      --pcd_dir referit3d_data/referit3d/scan_data/pcd_with_global_alignment
+      --openai_api_key "$OPENAI_API_KEY" \
+      --openai_api_base "$OPENAI_API_BASE" \
+      --model_name "$VLM_MODEL" \
+      --use_image True \
+      --num_global_views 3 \
+      --candidate_image_root /home/yf/yf/guazai/seeground/assets_converted/47333462/0 \
+      --candidate_image_per_id 5 \
+      --max_candidate_images 15 \
+      --candidate_image_collage True \
+      --adaptive_point_radius True \
+      --filter_ceiling_points True \
+      --ceiling_percentile 80
+python distribute_folders.py /home/yf/yf/guazai/data/arkitscenes 6 --output_dir /home/yf/yf/guazai/data/47333462
+多个任务推理脚本
+
+python scripts/run_scene_batch_grounding.py \
+  --scene_root /home/yf/yf/guazai/data/split/41048085/1 \
+  --output_root /home/yf/yf/guazai/gen3dvg/outputs/41048085 \
+  --pcd_dir referit3d_data/referit3d/scan_data/pcd_with_global_alignment \
+  --openai_api_key "$OPENAI_API_KEY" \
+  --openai_api_base "$OPENAI_API_BASE" \
+  --model_name "$VLM_MODEL" \
+  --use_image True \
+  --num_global_views 3 \
+  --candidate_image_per_id 5 \
+  --max_candidate_images 10 \
+  --candidate_image_collage True \
+  --adaptive_point_radius True \
+  --filter_ceiling_points True \
+  --ceiling_percentile 80 \
+  --compress_collage True \
+  --collage_quality 75 \
+  --collage_max_size 1024
+请帮我写一个脚本，能够把一个父文件夹下的
+
+--collage_max_size - 限制拼接图片的最大尺寸
+    - 建议设置为：1024 或 1536
+    - 这会在保持图片质量的同时减小文件大小
+--collage_quality - JPEG 压缩质量
+    - 当前默认：85
+    - 可以降低到：70-75（仍能保持较好的视觉质量）
+
+
+------------------------------------------------------------------------------------------------
+
+
+# git仓库使用方法                                                                                              
+  步骤 1：检查文件状态                                                                                                                                                                            
+  git status                                                                                    
+  步骤 2：如果文件被 .gitignore 忽略，需要先修改 .gitignore
+  移除对应的忽略规则
+  步骤 3：添加文件到暂存区
+  # 添加单个文件
+  git add grounding_stage1/visualize_instance.py
+  # 或添加整个目录
+  git add grounding_stage1/
+  # 或添加所有修改
+  git add .
+  步骤 4：提交到本地仓库
+  git commit -m "描述你的修改内容"
+  步骤 5：推送到远程仓库
+  git push
+
+
+#渲染图片相关内容
+  265x192
+  1080x720
+  根据检查结果，目前给VLM送进去的图片情况如下：
+  图片数量：6张
+  1. 1张全局拼接图 (global_collage.png)
+    - 分辨率：2040 x 680
+    - 包含3个全局视角的拼接
+  2. 5张候选对象拼接图 (candidate collages)
+    - 10_collage.png: 4353 x 720
+    - 2_collage.png: 3298 x 720
+    - 31_collage.png: 2824 x 720
+    - 34_collage.png: 3209 x 720
+    - 3_collage.png: 3667 x 72
+  分辨率特点：
+  - 全局图：固定高度680像素，宽度2040（3个视角横向拼接，每个约680x680）
+*  - 候选图：固定高度720像素，宽度根据每个候选对象的多视角图像数量动态变化（2824-4353像素）
+  - 所有图片都是横向拼接的collage格式，这意味着VLM需要处理的总分辨率相当大，尤其是候选对象图片，最宽的达到了4353像素。这可能会对VLM的处理效率和token消耗产生影响。
+
+--------------------------------------------------------------------------
+
+消融使用使用指南：
+bash experiments/quick_start_ablation.sh
+设置实验参数：
+输出路径：
+EXPERIMENTS=
+exp_1_full
+exp_2_no_global
+exp_3_no_candidate
+exp_4_simple_prompt
+
+python experiments/run_ablation.py \
+      --scene_root assets/0201/scene0030_00 \
+      --output_root experiments/ablation/exp_4_simple_prompt \
+      --pcd_dir /home/yf/yf/guazai/gen3dvg/referit3d_data/referit3d/scan_data/pcd_with_global_alignment \
+      --openai_api_key "sk-461G3uaPvfqbuUz9XGNbNVbMZ9gsfbsxyPU5rpitmcZ5KCKm" \
+      --openai_api_base "https://api2.aigcbest.top/v1" \
+      --model_name "gpt-5" \
+      --experiments exp_4_simple_prompt \
+      --skip_existing
+
+
+----------------------------------------------------------------------------
+评估脚本
+单个场景评估
+python eval/evaluate_results.py \
+--scene_root /home/yf/yf/guazai/data/converted/41048085 \
+--output_dir /home/yf/yf/guazai/gen3dvg/outputs/41048085
+------------------------------------------------------------------****************************************************************-
+python experiments/evaluate_results.py \
+  --scene_root assets/0201/scene0030_00 \
+  --output_dir experiments/noprompt/ablation_0213_1653/exp_4_simple_prompt \
+  --exp_name "NO prompt_file"
+批量场景处理（输入输出场景文件夹命名一致）
+python experiments/evaluate_results.py \
+  --input_root /media/yf/7A540FD2540F9055/results_arkit/converted \
+  --output_root /home/yf/yf/guazai/gen3dvg/outputs/arkitscenes \
+  --exp_name "ARKitScenes实验"
+
+------------------------------------------------------------------------------
+渲染图片
+python eval/render_scene.py /home/yf/yf/guazai/gen3dvg/assets/0201/scene0030_00/24 \
+--out /home/yf/yf/guazai/gen3dvg/render_out/30_24
+
+渲染點雲可視化（前端）
+python eval/visualize_projection_task.py \
+/home/yf/yf/guazai/gen3dvg/assets/0201/scene0030_00/24
+
+python eval/visualize_projection_task.py \
+/home/yf/yf/guazai/gen3dvg/assets/0201/scene0030_00/24
+
+mesh点云可视化（blender）
+1、复制脚本blender/scene_loader.py内容到blender中
+2、相机参数调整
+右键相机：设置相机活动
+N打开视图，点击视图勾选锁定，滚动鼠标调整到合适的视角
+blender终端输入：
+import bpy; 
+m = bpy.data.objects['RenderCam'].matrix_world
+print(list(m[0])+list(m[1])+list(m[2])+list(m[3]))
+复制相机矩阵参数到脚本的 CAM_MATRIX
+填写图片输出路径 RENDER_OUTPUT
+运行脚本即可输出
+
+------------------------------------------------------------------------------
+
+
+ 用法一：单场景汇总
+
+  python experiments/ablation/summarize_scene.py \<scene_root>
+  <exp_dir> <scene_name>
+
+  参数说明：
+  - scene_root — 原始场景数据目录（含各任务子目录和 gt.json），如
+  /media/yf/HIKSEMI/results_superpoints/scene0046_00
+  - exp_dir — 某个实验的输出目录，如
+  experiments/ablation/scannet/scene0046_00/exp_1_full
+  - scene_name — 场景名，如 scene0046_00
+
+  输出：
+  - 打印 filtered/complete 两种 Acc@0.25 和 Acc@0.50
+  - 在 exp_dir/summary.json 写入详细结果
+
+  示例：
+python experiments/ablation/summarize_scene.py \
+  /media/yf/HIKSEMI/results_superpoints/scene0084_00 \
+  experiments/ablation/scannet/scene0084_00/exp_2_no_global \
+  scene0084_00
+
+  ---
+  用法二：跨场景批量汇总（aggregate）
+
+  python experiments/ablation/summarize_scene.py \
+      --aggregate \
+      --ablation_dir <ablation_dir> \
+      --exp <exp_id>
+
+  参数说明：
+  - --ablation_dir — 消融实验根目录，如 experiments/ablation/scannet
+  - --exp — 实验名，默认 exp_1_full，可选 exp_2_no_global /
+  exp_3_no_candidate / exp_4_simple_prompt
+
+  前提： 各场景下的 <exp_id>/summary.json 必须已存在（先跑用法一）
+
+  输出：
+  - 打印跨场景汇总表（每行一个场景 + 总体指标）
+  - 在 ablation_dir/aggregate_<exp_id>.json 写入结果
+
+  示例：
+  # 汇总 exp_1_full 所有场景
+  python experiments/ablation/summarize_scene.py \
+      --aggregate \
+      --ablation_dir experiments/ablation/scannet \
+      --exp exp_1_full
+
+  # 汇总 exp_4_simple_prompt
+  python experiments/ablation/summarize_scene.py \
+      --aggregate \
+      --ablation_dir experiments/ablation/scannet \
+      --exp exp_4_simple_prompt
+
+  ---
+  典型工作流
+
+  # 1. 先对每个场景每个 exp 跑单场景汇总
+  for scene in scene0046_00 scene0077_00 ...; do
+    python experiments/ablation/summarize_scene.py \
+      /media/yf/HIKSEMI/results_superpoints/$scene \
+      experiments/ablation/scannet/$scene/exp_1_full \
+      $scene
+  done
+
+  # 2. 再跑 aggregate 得到跨场景总结果
+python experiments/ablation/summarize_scene.py \
+    --aggregate \
+    --ablation_dir experiments/ablation/model \
+    --exp exp_1_full
+
+
+
+----------------------------------------------------
+vlm消融

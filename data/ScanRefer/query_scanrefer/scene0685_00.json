@@ -1,0 +1,344 @@
+[
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "13",
+        "target_name": "poster_printer",
+        "caption": "the poster printer occupies the rightmost wall. there are other machinery or equipment to the left of it alongside both walls.",
+        "parsed_query": {
+            "Target": "poster printer",
+            "Anchor": "rightmost wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "the trash can is green, and located in front of the control panel on the left wall. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "control panel",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table has a roll of blue masking tape atop the right side of it. the table has a table to the right of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "roll of blue masking tape",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the table is one of two tables against the wall. it is the one on the right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the table is one of two tables. it is to the right of the table that has the blue tape atop it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "table with blue tape on top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this door is in the middle. it is brown.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is grey.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "this trash can is on the left. it is green.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "13",
+        "target_name": "poster_printer",
+        "caption": "this poster printer is straight ahead. it is grey.",
+        "parsed_query": {
+            "Target": "poster printer",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "this trash can is tall. it is on the left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "there is a rectangular brown door. it is next to a black trash can.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "black trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular green trash can. it is next to a wooden door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "wooden door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "13",
+        "target_name": "poster_printer",
+        "caption": "there is a rectangular poster printer. it is next to a table.",
+        "parsed_query": {
+            "Target": "poster printer",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular black trash can. it is next to a door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "there is a rectangular table. it is in front of the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "13",
+        "target_name": "poster_printer",
+        "caption": "the poster printer is on the northern side. the poster printer is gray and boxy.",
+        "parsed_query": {
+            "Target": "poster printer",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the door is on the opposite wall from the copier machine. the door is rectangular.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "copier machine"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table is south of the copier machine. the table is orange and rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "copier machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "the trash can is right of the entrance door. the trash can is black with a plastic bag on top.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the table is left of the green trash can. the table is square and has four legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "green trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "0",
+        "target_name": "trash_can",
+        "caption": "this is a large green trash can. there is a door to the right of it and a wall behind it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "13",
+        "target_name": "poster_printer",
+        "caption": "this is a large free standing printer. it is in the back of the room with walls on all sides of it. it is dark colored.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this is a small rectangular table. there is a poster printer behind and to the left of it. there are papers on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "poster printer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this is the table most to the left. it is against the wall and has another table to the right of it. there are papers on top of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this is a wood door. it has a handle on the right side. it is in the middle of the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "this trash can is on the top right. its black.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this door is straight ahead. it is brown.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "this trash can is on the top right. it is black.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "7",
+        "target_name": "trash_can",
+        "caption": "this trash can is black. it is on the top right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0685_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

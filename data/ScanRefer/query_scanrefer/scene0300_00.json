@@ -1,0 +1,688 @@
+[
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "it is a silver table with two monitors on it. the table is behind two chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "12",
+        "target_name": "picture",
+        "caption": "it is a picture to the left of the window. the picture is on the right of the two pictures.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "window",
+                "two pictures"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "it is a table to the right of the windows. the table has 1 grey chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is to the left of the door. the bookshelf is on the right of the two bookshelves.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "door",
+                "two bookshelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table has a blue backpack on it. the table is to the left of a grey trash can on the floor.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "blue backpack",
+                "grey trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is facing a computer screen. the chair is on the left of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "computer screen",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is to the right of the door. the chair is under the left computer screen.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "left computer screen"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "the monitor is to the left of the window. the monitor is on the right side of the desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "window",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "20",
+        "target_name": "divider",
+        "caption": "the divider is on a table with a blue backpack on it. the divider is white and rectangular.",
+        "parsed_query": {
+            "Target": "divider",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "there is a rectangular gray chair. is at the table and closer to the brown cabinet.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "brown cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is between another bookshelf and a red wall. the bookshelf is a brown rectangular prism.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "bookshelf",
+                "red wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "there is a rectangular painting. it is on the wall and closest to the brown cabinet.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": [
+                "wall",
+                "brown cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "20",
+        "target_name": "divider",
+        "caption": "there is a rectangular white divider. it is on the desk with a backpack on it and at the side of the room.",
+        "parsed_query": {
+            "Target": "divider",
+            "Anchor": [
+                "desk",
+                "backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "19",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular dark trash can. it is on next to the desk and behind a bookshelf.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "desk",
+                "bookshelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "there is a rectangular monitor. it is on the desk and next to a brown cabinet.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "brown cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "there is a rectangular gray chair. it is at the desk with a backpack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "19",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular dark trash can. it is between a desk and a bookshelf.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "desk",
+                "bookshelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is next to the desk in the northwest side of the room. the chair is gray and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "the monitor is next to the leftmost window. the monitor is black and rectangular.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "leftmost window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is the closest one to the leftmost window. the chair has four legs and is gray.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "leftmost window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is between another bookshelf and a red wall. the bookshelf is brown and rectangular.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "bookshelf",
+                "red wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "the monitor is on the silver table. the monitor is the closest to the window.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "silver table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "12",
+        "target_name": "picture",
+        "caption": "the picture is in a brown square frame. the picture is on the right side of the wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "brown square frame",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "the chair is grey. the chair is on the left side of the long table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "long table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "19",
+        "target_name": "trash_can",
+        "caption": "the trash can is to the right of the blue backpack. the trash can is to the left of the book shelf.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "blue backpack",
+                "book shelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "the monitor is on the right side of the table. the monitor is closest to the windows.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "on the right you can see the edge of a tall bookcase. it appears to be open-backed like a library shelf. it is a brown color and you can see at least six shelves on it as well as a white sign. to the left of it you can see a desk with a person's head sitting there.",
+        "parsed_query": {
+            "Target": "bookcase",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "19",
+        "target_name": "trash_can",
+        "caption": "on the right of the scene you see a small, standard black trash bin. it sits directly to the right of a desk in what appears to be a library.",
+        "parsed_query": {
+            "Target": "trash bin",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "1",
+        "target_name": "monitor",
+        "caption": "in the center you can see a computer monitor sitting at the edge of a long table. to the right is a window at the edge of the room and at its left there is another, identical monitor. it is turned off.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair in the center of the room sits in front of a computer table. it is a grey-beige color and has a cushioned bottom but no armrests.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "computer table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "this picture is hanged on the wall besides another picture. two monitors are present on the table under these pictures.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "picture"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "20",
+        "target_name": "divider",
+        "caption": "this divider is placed on a table. in front of the divider a backpack and a chair is present.",
+        "parsed_query": {
+            "Target": "divider",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "12",
+        "target_name": "picture",
+        "caption": "this is right side picture hanged on the wall besides another picture. a window is also present on the right side of this picture.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "another picture",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "there is a gray square chair. it is at the table and closer to the corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "there is a rectangular brown shelf. it is closest to the edge of a wood table.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wood table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "there is a rectangular white table. it is at the corner of the room and has chairs at it and monitors on it.",
+        "parsed_query": {
+            "Target": "rectangular white table",
+            "Anchor": [
+                "chair",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "there is a rectangular black monitor. it is on a table and farther away from the corner of the room.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "there is gray square chair. it is at a wood table with a backpack on it.",
+        "parsed_query": {
+            "Target": "gray square chair",
+            "Anchor": "wood table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "the picture is the left-most one above the white table. the picture is brown and rectangular.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "the monitor is the left-most one on top of a white table. the monitor is a black rectangle.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the table is below two monitors. the table is a white rectangle with two legs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "monitors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is the rightmost one next to the white table. the chair has four legs and is gray.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "2",
+        "target_name": "monitor",
+        "caption": "the monitor is the left-most one on top of a white table. the monitor is a black rectangular object.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "there is a small rectangular picture with a horse. it is first one on the left of two pictures hanging on the wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "there is a white table. there are computer monitors and keyboards on top of the table.",
+        "parsed_query": {
+            "Target": "computer monitors and keyboards",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "there is a brown wooden bookshelf. the bookshelf is the one in between two other bookshelves.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "bookshelf",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "19",
+        "target_name": "trash_can",
+        "caption": "there is a black trash can. the trash can is beside a desk with a backpack on it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "there is a long wooden bookshelf. the bookshelf is the first one from the right.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this chair is placed under a table kept close with the wall. a monitor is present in front of the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this chair is placed under a table. a back pack and a divider is present on the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "this table is kept close with the wall. two monitors are on the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "this is the left side piture hanging on the wall. another picture is hanging on the right side.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is between another bookshelf and a red wall. the bookshelf is a brown rectangle.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "another bookshelf",
+                "red wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table is the one next to the window with a backpack on it. the table is a brown square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window",
+                "backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0300_00",
+        "target_id": "20",
+        "target_name": "divider",
+        "caption": "the divider is on a table with a backpack. the divider is a white rectangle.",
+        "parsed_query": {
+            "Target": "divider",
+            "Anchor": [
+                "table",
+                "backpack"
+            ]
+        },
+        "unique": false
+    }
+]

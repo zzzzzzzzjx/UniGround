@@ -1,0 +1,655 @@
+[
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "1",
+        "target_name": "sink",
+        "caption": "this is a sink. the sink is attached close to wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "17",
+        "target_name": "towel",
+        "caption": "the hanging towel. the towel is next to the tub.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "tub"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "2",
+        "target_name": "bathroom_cabinet",
+        "caption": "the small bathroom cabinet. the cabinet is next to the towel.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "towel"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "4",
+        "target_name": "shower_curtain",
+        "caption": "the hanging shower curtain. the curtain hangs in the tub.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "4",
+        "target_name": "shower_curtain",
+        "caption": "the big shower curtain. the shower curtain is in the tub.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "1",
+        "target_name": "sink",
+        "caption": "the round sink. the sink is next to the toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "it is a light colored cabinet. it is above the toilet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "1",
+        "target_name": "sink",
+        "caption": "it is a light colored round sink. it is on a cabinet to the left of the toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "cabinet",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "it is a light colored toilet. there is a toilet paper holder on the left and a bath tub on the right.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "toilet paper holder",
+                "bath tub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "it is a light colored door. it is shut and located in the corner.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "26",
+        "target_name": "bathtub",
+        "caption": "it is a regular sized, light colored bathtub. the shower curtain is half open on it.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "shower curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "13",
+        "target_name": "toilet_paper",
+        "caption": "a rolled toilet paper. it is beside the toilet bowl.",
+        "parsed_query": {
+            "Target": "rolled toilet paper",
+            "Anchor": "toilet bowl"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "a black towel. it is hanged on the shower curtain rod.",
+        "parsed_query": {
+            "Target": "black towel",
+            "Anchor": "shower curtain rod"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "a white toilet bowl. beside of it is a toilet paper.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "toilet bowl"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "2",
+        "target_name": "bathroom_cabinet",
+        "caption": "a white bathroom cabinet. behind of it is a toilet bowl.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "toilet bowl"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "a white toilet bowl. it is behind a toilet cabinet.",
+        "parsed_query": {
+            "Target": "toilet bowl",
+            "Anchor": "toilet cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "13",
+        "target_name": "toilet_paper",
+        "caption": "it is a white toilet paper roll. it is placed in between the white cabinet and the toilet bowl.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": [
+                "white cabinet",
+                "toilet bowl"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "it is a white door. it is situated in between the two towel holders.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "towel holder",
+                "towel holder"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "4",
+        "target_name": "shower_curtain",
+        "caption": "it is a beige plastic shower curtain. it is hung over the shower stall.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "shower stall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "2",
+        "target_name": "bathroom_cabinet",
+        "caption": "it is a white wooden bathroom cabinet. it is placed to the left of the toilet bowl.",
+        "parsed_query": {
+            "Target": "bathroom cabinet",
+            "Anchor": "toilet bowl"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "2",
+        "target_name": "bathroom_cabinet",
+        "caption": "it is a white wooden bathroom cabinet. it is put at the corner between the shower towel stand and the toilet bowl.",
+        "parsed_query": {
+            "Target": "bathroom cabinet",
+            "Anchor": [
+                "shower towel stand",
+                "toilet bowl"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "2",
+        "target_name": "bathroom_cabinet",
+        "caption": "the small bathroom cabinet. the cabinet is next to the toilet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "the bathroom door. the door is next to the tub.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "the average toilet. the toilet is by the tub.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "13",
+        "target_name": "toilet_paper",
+        "caption": "the toilet paper roll. the roll is next to the toilet.",
+        "parsed_query": {
+            "Target": "toilet paper roll",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "26",
+        "target_name": "bathtub",
+        "caption": "the big bathtub. the tub is near the toilet.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "17",
+        "target_name": "towel",
+        "caption": "this is a green towel. the towel is hanged on the towel rod.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "towel rod"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "4",
+        "target_name": "shower_curtain",
+        "caption": "this is a yellow shower curtain. the curtain is hanged on the top of bath tub.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "bath tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "13",
+        "target_name": "toilet_paper",
+        "caption": "this is a  golden color toilet paper. the toilet paper is attached to wall.",
+        "parsed_query": {
+            "Target": "toilet paper",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "8",
+        "target_name": "towel",
+        "caption": "this is green towel. the towel is hanged on the towel rod.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "towel rod"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "this is a cabinet. the cabinet is on the top of wash basin.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wash basin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "the towel is draped over the shower curtain rod. it is located to the left of the shower curtain.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shower curtain rod",
+                "shower curtain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "the door is on the left side wall. it is directly opposite the sink.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "8",
+        "target_name": "towel",
+        "caption": "the towel is hung on the rack. it is on the right side of the rack. it is located to the left of, and above the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "rack",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "the towel is hung on the shower curtain rod. the towel is to the left of the shower curtain.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shower curtain rod",
+                "shower curtain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "the towel is located on the shower curtain rod. the towel is hung on the left portion of the rod, with the curtain to the right of it.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "shower curtain rod",
+                "curtain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "26",
+        "target_name": "bathtub",
+        "caption": "this is a bath tub. the bath tub is placed and attached close to wall.",
+        "parsed_query": {
+            "Target": "bath tub",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "a small size cabinet. it is very near the wash basin.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wash basin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "17",
+        "target_name": "towel",
+        "caption": "a plain color towel is hanged. it is near the curtain and door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "curtain",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "4",
+        "target_name": "shower_curtain",
+        "caption": "it is a lengthy shower curtain. it is near the hanged towel.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "hanged towel"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "17",
+        "target_name": "towel",
+        "caption": "a plain color hanged towel. it is kept near to the door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "26",
+        "target_name": "bathtub",
+        "caption": "a lengthy comfortable bath tub. it is located very near the toilet.",
+        "parsed_query": {
+            "Target": "bath tub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "1",
+        "target_name": "sink",
+        "caption": "a circle shaped plain color sink. it is near the toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "a small compact cabinet. it is at the top of the toilet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "6",
+        "target_name": "door",
+        "caption": "a medium size door. it is near the hanged towel near the window.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "towel",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "26",
+        "target_name": "bathtub",
+        "caption": "the bathtub is to the right of the the toilet. the bathtub looks like a hollowed out rectangular prism.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "7",
+        "target_name": "toilet",
+        "caption": "the toilet is between the bathtub and the bathroom cabinet. the toilet is white and has an oval shape.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "bathtub",
+                "bathroom cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "20",
+        "target_name": "towel",
+        "caption": "the towel is to the left of the curtain above the bathtub. the towel is dark green and wavy.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "curtain",
+                "bathtub"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "8",
+        "target_name": "towel",
+        "caption": "the towel is to the right of the entrance door and on a rack. the towel is green and bent.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "entrance door",
+                "rack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "8",
+        "target_name": "towel",
+        "caption": "the towel is between the entrance door and the sink. the towel is olive green and wavy.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "entrance door",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "1",
+        "target_name": "sink",
+        "caption": "an oval shaped sink. it is above a white cabinet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "white cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "13",
+        "target_name": "toilet_paper",
+        "caption": "a rolled tissue. it is beside the toilet bowl.",
+        "parsed_query": {
+            "Target": "rolled tissue",
+            "Anchor": "toilet bowl"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "8",
+        "target_name": "towel",
+        "caption": "a dark green towel. it is hanged on the wall.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "a white toilet cabinet. it is above the toilet bowl.",
+        "parsed_query": {
+            "Target": "toilet cabinet",
+            "Anchor": "toilet bowl"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0153_00",
+        "target_id": "17",
+        "target_name": "towel",
+        "caption": "a dark green towel. it is hanged in a rod that is attached to the wall.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "rod",
+                "wall"
+            ]
+        },
+        "unique": false
+    }
+]

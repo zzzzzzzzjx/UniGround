@@ -1,0 +1,420 @@
+[
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "24",
+        "target_name": "closet_doors",
+        "caption": "there is a brown wooden cabinet. placed under the stairs.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "there is a wooden table. placed next to the stairs.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": "stairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "there is a white wooden cabinet. placed under the window of the room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "there is a gray steel shelf. placed on the left of the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "30",
+        "target_name": "towel",
+        "caption": "there is a green clothe. hanging on the wall between window and cabinet.",
+        "parsed_query": {
+            "Target": "cloth",
+            "Anchor": [
+                "window",
+                "cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "13",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular brown cabinet. it is next to a window with curtains.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window with curtains"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "13",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular brown cabinet. it is next to a window with curtains in the corner of the room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window with curtains"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "30",
+        "target_name": "towel",
+        "caption": "there is a brown towel. it is next to a window.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "there is a square brown table. it is next to a set of steps.",
+        "parsed_query": {
+            "Target": "square brown table",
+            "Anchor": "set of steps"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "30",
+        "target_name": "towel",
+        "caption": "there is a brown towel. it is next to a brown cabinet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "brown cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "this is a white door. it is behind the stairway.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "stairway"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "this is a black shelf. it is to the left of a window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "this is a small cabinet. it is below a window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "this is a white cabinet. it is below a window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "13",
+        "target_name": "cabinet",
+        "caption": "this is a brown cabinet. it is to the right of a window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "there is a rectangular door. it is next to a brown closet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "brown closet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "there is a rectangular gray shelf. it is next to stairs.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "there is a rectangular door. it is next to a flight of stairs.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "flight of stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "there is a rectangular shelf. it is next to a flight of stairs.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "flight of stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "13",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular brown cabinet. it is next to the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "30",
+        "target_name": "towel",
+        "caption": "the towel is hanging from a pipe that is diagonal under the window. the tower is in the corner between the window and the left side of the closet door.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "pipe",
+                "window",
+                "closet door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "the cabinet is located under the window and under a diagonal bar on the wall. the cabinet has 3 white drawers and is sitting to the left of a towel and to the right of a black bag with white letters.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "window",
+                "diagonal bar on the wall",
+                "towel",
+                "black bag with white letters"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "24",
+        "target_name": "closet_doors",
+        "caption": "the closet doors are located under the stairs. there are 2 closet doors, are a light brown in color and has a table to the right with a soda sitting on it. there is a small hallway to another room to the left of the closet doors.",
+        "parsed_query": {
+            "Target": "closet doors",
+            "Anchor": [
+                "stairs",
+                "table",
+                "hallway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "24",
+        "target_name": "closet_doors",
+        "caption": "the closet doors are located below the staircase. they are behind and slightly left of the table.",
+        "parsed_query": {
+            "Target": "closet doors",
+            "Anchor": [
+                "staircase",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "15",
+        "target_name": "cabinet",
+        "caption": "the cabinet has 3 white drawers and is sitting under a window. there is a towel hanging to the right of the cabinet and a black bag with white letters to the left of it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table is to the left of the staircase. it is also located to the right of the closet doors.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "staircase",
+                "closet doors"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "24",
+        "target_name": "closet_doors",
+        "caption": "the closet doors are located on the right side of the room, under the staircase. there is an open door just past the closet doors, that leads to a different room.",
+        "parsed_query": {
+            "Target": "open door",
+            "Anchor": "closet doors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "30",
+        "target_name": "towel",
+        "caption": "the towel is next to the left closet door and hanging under the right side of the window. the towel is hanging on a pipe/rod that is under the window and is in the very corner of the closet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "left closet door",
+                "window",
+                "pipe/rod",
+                "closet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table is located to the right, and in front of the closet doors. the table is also to the left of the staircase.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "closet doors",
+                "staircase"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "13",
+        "target_name": "cabinet",
+        "caption": "the cabinet is located against the wall on the right side of the room. it is also to the right of the window at the far end.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "this is a white door. it is behind the stairs.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "this is a white door. it is in the open doorway.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "open doorway"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "24",
+        "target_name": "closet_doors",
+        "caption": "these are brown closet doors. they are under the stairs.",
+        "parsed_query": {
+            "Target": "closet doors",
+            "Anchor": "stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "this is a black shelf. it is at the foot of the stairs.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0357_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "this is a square table. it is at the end of the stairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "stairs"
+        },
+        "unique": true
+    }
+]

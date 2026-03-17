@@ -1,0 +1,491 @@
+[
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is around the brown round table. it is in the front right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is small and brown. it is around the brown round table and on the left side in between the two patterned chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown round table",
+                "patterned chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "the table is brown and round. it is on the right side of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is around the round table in the back. it is the solid brown one in the front.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is around the brown round table on the right. it is on the right side against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown round table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a multicolored chair. it is facing a round table and near a plant.",
+        "parsed_query": {
+            "Target": "multicolored chair",
+            "Anchor": [
+                "round table",
+                "plant"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is black and pushed up to the table. it is the only black chair and is the chair closest to the near wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "there is a rectangular chair. it is at a table next to a plant.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "plant"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "there is a rectangular chair. it is at a table with its back facing the corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "there is a rectangular multicolored chair. it is at a table next to a plant.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "plant"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "there is a circular table. it is surrounded by chairs.",
+        "parsed_query": {
+            "Target": "circular table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a rectangular chair. it is at a table with its back facing the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is one of 4 at a table. it is the chair that is farthermost from the plant. it is sitting side ways from the brown wall cabinet.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "plant",
+                "brown wall cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is one of 4 chairs at a round table. the chair is closest to the open doorway and is sitting sideways in relation the the wood and glass wall cabinet.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "open doorway",
+                "wood and glass wall cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is on the left side of the gray armed chair. the chair when facing the glass/wood cabinet it is the chair in between the gray chair and the cabinet.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "gray armed chair",
+                "glass/wood cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "the table is round with a light brown top. it sits directly in front of the wood/glass wall cabinet and has 5 chairs around it. one of the chairs is black/gray while the others are geometric patterned.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wood/glass wall cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "there is a square chair. it is at a round table near a plant.",
+        "parsed_query": {
+            "Target": "square chair",
+            "Anchor": [
+                "round table",
+                "plant"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "there is a circular brown table. it is surrounded by chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a square chair. it is at a round table with its back towards a window.",
+        "parsed_query": {
+            "Target": "square chair",
+            "Anchor": [
+                "round table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "the table is round. there are five chairs facing the table.",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is around the table on the right. it is the small brown chair without a pattern.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table on the right"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is around the table in the back. it is the one on the back right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is located to the left of the cabinet. the chair is facing the round table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "cabinet",
+                "round table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "8",
+        "target_name": "chair",
+        "caption": "the chair is partially pulled into the table. it is to the right of the edge of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is to the left of the cabinet. it is also to the right of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "cabinet",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is brown with a circle pattern. it is the furthest chair to the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a brown chair. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "another chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "this is a round table. it is in the middle of chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this is a brown chair. it is in front of a plant.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "plant"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the chair is brown with no arm rests. it is pushed into the table and is to the right of the black chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "there is a multicolored chair. it is facing a round table and another chair across the table from it, but not facing a plant.",
+        "parsed_query": {
+            "Target": "multicolored chair",
+            "Anchor": [
+                "round table",
+                "chair",
+                "plant"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a multicolored chair. it is at a round table with its back towards a window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a chair. it is at a round table flanked by two other chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "there is a round brown table. it is surrounded by chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "it is a light brown table with a wooden finish surrounded by four chairs. it is to the right in the room by the plant.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs",
+                "plant"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "it is a round table with a light brown wooden finish. it is to the left side of the room and surrounded by 5 chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "it is a multicolored fabric chair with red, yellow, and blue patterns on it. it is the chair closest to the plant.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "plant"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "a chair with a pattern of red, blue, and yellow on fabric. it is the chair that is second closest to the plant.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "plant"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0355_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "a fabric chair that has a pattern on it with yellow, red, and blue. to the left of it is a grey chair.",
+        "parsed_query": {
+            "Target": "fabric chair",
+            "Anchor": "grey chair"
+        },
+        "unique": false
+    }
+]

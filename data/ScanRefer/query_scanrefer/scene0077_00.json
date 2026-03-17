@@ -1,0 +1,667 @@
+[
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "a black trash can. it is behind the wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "a brown door. an open door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "22",
+        "target_name": "copier",
+        "caption": "a white machine. in front of the lavatory.",
+        "parsed_query": {
+            "Target": "machine",
+            "Anchor": "lavatory"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "a wooden door. a brown open door.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "a black trash can. it is right in front of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "this is a cabinet in the back of the room. it's below the window and appears to be a lighter color.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "it is a tall, black trash can. the trash can is straight in front of the door and, next to a white appliance.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "white appliance"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "15",
+        "target_name": "counter",
+        "caption": "it is a gray counter . the counter is on the cabinets at the back of the room, along the wall.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "1",
+        "target_name": "printer",
+        "caption": "this is a printer below the window. it's a lighter color and is on the cabinet.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "window",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "it is a wooden door. the door is in the corner of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "0",
+        "target_name": "copier",
+        "caption": "this is a copier in across of the printer against a diagonal wall. it's a lighter color.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "printer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "3",
+        "target_name": "window",
+        "caption": "it is a small two paned window. the window is above the counter , on the right side.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "22",
+        "target_name": "copier",
+        "caption": "this is a copier that's across from the other copier. this is diagonal from the printer. this is a large copier.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": [
+                "other copier",
+                "printer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "2",
+        "target_name": "printer",
+        "caption": "the printer is a small,black countertop type. the printer is on the counter at the back of the room.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "this is a trash can in the back of the room against the back wall. the trash can is almost a square shape and appears to be white.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "back wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "0",
+        "target_name": "copier",
+        "caption": "it is a counter top, white copier. the copier is on a table on the right side of the room.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "1",
+        "target_name": "printer",
+        "caption": "it is a white printer. the printer sits on the far right side of the counter in the back of the room.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "15",
+        "target_name": "counter",
+        "caption": "it is a gray counter . the counter is on the cabinets that are along the wall at the back of the room.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "1",
+        "target_name": "printer",
+        "caption": "it is a white printer. the printer is on the counter at the back of the room. the printer is on the right side of the counter ,by the wall and window.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "counter",
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "15",
+        "target_name": "counter",
+        "caption": "thisis a counter in an office that holds the printer and files. it is all the way against the wall and under the window when you walk into the room.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "2",
+        "target_name": "printer",
+        "caption": "this is a black printer that is sitting on the counter in the office. it is right in the middle of the counter against the wall.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "counter",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "3",
+        "target_name": "window",
+        "caption": "the window in the office is on the far side of the room. it is above the desk against the wall and to the right of the shelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "desk",
+                "wall",
+                "shelves"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "2",
+        "target_name": "printer",
+        "caption": "this is an office printer sitting on the far back counter against the wall. it is to the left of the window.",
+        "parsed_query": {
+            "Target": "office printer",
+            "Anchor": [
+                "counter",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "4",
+        "target_name": "shelf",
+        "caption": "these are open office shelves against the far wall when you walk into the room. they are above the counter and to the left of the window.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "counter",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "0",
+        "target_name": "copier",
+        "caption": "this is a black copier. it is on a table.",
+        "parsed_query": {
+            "Target": "black copier",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this is a brown door. it is in a corner of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this is a black trash can. it is to the left of a copier.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "this is a white cabinet. it is at the end of the room against a wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "15",
+        "target_name": "counter",
+        "caption": "this is a black counter. it is on top of a white cabinet.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "white cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "15",
+        "target_name": "counter",
+        "caption": "this is a black counter. it is below a window.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "3",
+        "target_name": "window",
+        "caption": "this is a window with blinds. it is above a black counter.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "black counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "this is a white cabinet. it is below a counter top.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "counter top"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "1",
+        "target_name": "printer",
+        "caption": "this is a square printer. it is in front of the window.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "22",
+        "target_name": "copier",
+        "caption": "this is a large copier. it is to the right of a trash can.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "22",
+        "target_name": "copier",
+        "caption": "this is a large copier. it is in front of a white cabinet.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "white cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "2",
+        "target_name": "printer",
+        "caption": "this is a black printer. it is on a white kitchen cabinet.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "white kitchen cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "this is a white cabinet. it is facing a copier.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "copier"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "4",
+        "target_name": "shelf",
+        "caption": "this is a wall-mounted shelf. it is above a cabinet.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "a small trashcan is on the wood floor and against the far wall.  the floor is wood.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "wood floor",
+                "far wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "a trashcan is placed on the wooden floor against the wall on the left. a doorway appears just after it on the left.",
+        "parsed_query": {
+            "Target": "trashcan",
+            "Anchor": [
+                "wooden floor",
+                "wall on the left"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "0",
+        "target_name": "copier",
+        "caption": "a copier has been placed against the far wall. to the left is a desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "4",
+        "target_name": "shelf",
+        "caption": "this shelf is attached to the wall above the counter. the shelf is to the left of the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "counter",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "a tall trash can is placed against the far wall. to the right of it is a copier machine.",
+        "parsed_query": {
+            "Target": "copier machine",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "1",
+        "target_name": "printer",
+        "caption": "this printer is directly below the window. it is sitting on the counter, in the corner.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "window",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "2",
+        "target_name": "printer",
+        "caption": "a printer is placed in the middle of a cabinet top that is attached to the far wall. just above it are some shelves along with window slightly to the left.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": [
+                "cabinet",
+                "far wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "4",
+        "target_name": "shelf",
+        "caption": "this shelf is to the left of the window. it is above the counter and extends to the left corner of the wall it is on (the same wall that the window is in).",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "window",
+                "counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "22",
+        "target_name": "copier",
+        "caption": "this copier is sitting to the right of a trash can. the counter, cabinets and shelf are to the right of the copier.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "4",
+        "target_name": "shelf",
+        "caption": "this is a built-in shelf sitting above the counter. it is the left of the only window in the room.",
+        "parsed_query": {
+            "Target": "built-in shelf",
+            "Anchor": [
+                "counter",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "3",
+        "target_name": "window",
+        "caption": "this is a small two pane window. this window is in the corner of the room, above the counter.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "3",
+        "target_name": "window",
+        "caption": "this is a small window. this window is above the counter at the back of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "this is a lower white cabinet in a kitchen. it is located below the window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this is a tall, black trash can with a lid. it is located between the door and stove.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "stove"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "0",
+        "target_name": "copier",
+        "caption": "this is a copier sitting upon a wooden table. it sits across from the window and cabinet.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": [
+                "wooden table",
+                "window",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "9",
+        "target_name": "door",
+        "caption": "this is a wooden brown door. it is located beside a table with a copier on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "table with a copier on it"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0077_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this is a tall black trash can with a lid. it is sitting between the door and the stove.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "door",
+                "stove"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,598 @@
+[
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "0",
+        "target_name": "door",
+        "caption": "a door sits to the right of a painting on the wall. it's partially standing open.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "painting"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "3",
+        "target_name": "mattress",
+        "caption": "a mattress leans against a wall. it's to the right of a picture and it partially covers the picture.",
+        "parsed_query": {
+            "Target": "mattress",
+            "Anchor": [
+                "wall",
+                "picture"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "17",
+        "target_name": "shelf",
+        "caption": "shelves sit in a recess in the wall. they are to the left of a painting on the wall.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": "painting"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "14",
+        "target_name": "picture",
+        "caption": "a painting faces us hanging on the wall. it's to the left of an open door.",
+        "parsed_query": {
+            "Target": "painting",
+            "Anchor": "open door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "7",
+        "target_name": "end_table",
+        "caption": "this is a brown table. it is in the corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "30",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "30",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is to the left of the flowers.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "flowers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "3",
+        "target_name": "mattress",
+        "caption": "this is a black mattress. it is to the right of the brown table.",
+        "parsed_query": {
+            "Target": "mattress",
+            "Anchor": "brown table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "30",
+        "target_name": "chair",
+        "caption": "it is a brown chair. the brown chair is the first brown chair that is in the room to the right of the standing mirror.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": "standing mirror"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "14",
+        "target_name": "picture",
+        "caption": "it is a yellow, pink, orange and white picture. the yellow, pink, orange and white picture is to the left of the white door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "white door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "it is a black cabinet. the black cabinet is sitting next to the white cabinet and the white rail across from the white door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "white cabinet",
+                "white rail",
+                "white door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "17",
+        "target_name": "shelf",
+        "caption": "it is a white shelf. the white shelf is behind the white rail.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "rail"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "the cabinet is a light colored cabinet. it is to the left of the darker cabinet. the cabinet has a railing behind it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "darker cabinet",
+                "railing"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "0",
+        "target_name": "door",
+        "caption": "the door is located to the right of the picture that is hung on the wall. the door is slightly ajar.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "picture"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "30",
+        "target_name": "chair",
+        "caption": "the chair is located to the right of the other chair. the chair is facing the desk in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "other chair",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "3",
+        "target_name": "mattress",
+        "caption": "the mattress is leaning up against the wall. it is located to the left of the exercise equipment. it is also partially covering a picture that is hung on the wall near the left side of the mattress.",
+        "parsed_query": {
+            "Target": "mattress",
+            "Anchor": [
+                "wall",
+                "exercise equipment",
+                "picture"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "14",
+        "target_name": "picture",
+        "caption": "the picture is affixed to the wall. it is located to the left of the door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "14",
+        "target_name": "picture",
+        "caption": "this is canvas artwork containing warm colors. it is located at the back of the room to the left of the door.",
+        "parsed_query": {
+            "Target": "canvas artwork",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "7",
+        "target_name": "end_table",
+        "caption": "this is a small square black side table. it is tucked in the back corner next to the entryway.",
+        "parsed_query": {
+            "Target": "side table",
+            "Anchor": "entryway"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "3",
+        "target_name": "mattress",
+        "caption": "this is a large black blow up mattress. it is leaning up against the wall at the back of the room.",
+        "parsed_query": {
+            "Target": "blow up mattress",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "7",
+        "target_name": "end_table",
+        "caption": "this is a small black side table. it is tucked in the back right corner of the room. it is between the entryway and the blow up mattress.",
+        "parsed_query": {
+            "Target": "side table",
+            "Anchor": [
+                "entryway",
+                "blow up mattress"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "7",
+        "target_name": "end_table",
+        "caption": "the end table is left of the large rectangular cabinet. the end table is a dark brown square.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "large rectangular cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "the cabinet is the closest one to the white door. the cabinet is a light tn rectangular box.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "white door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "0",
+        "target_name": "door",
+        "caption": "the door is left of the rectangular mirror. the door is a white rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "rectangular mirror"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "14",
+        "target_name": "picture",
+        "caption": "the picture is left of the white door. the picture is rectangular and red and yellow colored.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "white door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "the cabinet is the black one in the center of the room. the cabinet is a black rectangular prism.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "the cabinet is between a black cabinet and the door. the cabinet is a white rectangular prism.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "black cabinet",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "the door is left of the white cabinet. the door is a white rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "white cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "31",
+        "target_name": "chair",
+        "caption": "the chair is in the northwest room. the chair is black with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "27",
+        "target_name": "shelf",
+        "caption": "the shelf is in the corner left of the door. the shelf is a black rectangular prism.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "this is a white cabinet place besides a black cabinet in the left side besides a railing. a door is seen in the front besides this cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "black cabinet",
+                "railing",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "17",
+        "target_name": "shelf",
+        "caption": "this shelf is attached to the wall. a railing is seen in front of this shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "railing"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "this cabinet is placed besides a white cabinet on the left. a door is seen on the right of this cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "white cabinet",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "7",
+        "target_name": "end_table",
+        "caption": "this is a small end table on the left besides a mattress kept slanting on the wall. a flower vase is placed on this table.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "mattress"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "2",
+        "target_name": "door",
+        "caption": "this is a closed door. a white cabinet is seen on the right of this door.",
+        "parsed_query": {
+            "Target": "white cabinet",
+            "Anchor": "closed door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "6",
+        "target_name": "cabinet",
+        "caption": "the cabinet is to the right of the door. it is also to the left of the other darker colored cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "door",
+                "darker colored cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "31",
+        "target_name": "chair",
+        "caption": "the chair is located facing the small desk. it is tom the immediate left of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "small desk",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "3",
+        "target_name": "mattress",
+        "caption": "the mattress is leaning against the wall. it is leaning on a picture behind it that is hung on the wall.",
+        "parsed_query": {
+            "Target": "mattress",
+            "Anchor": [
+                "wall",
+                "picture"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "31",
+        "target_name": "chair",
+        "caption": "the chair is in a small nook, facing a desk. it is located to the left of the other chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "other chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "27",
+        "target_name": "shelf",
+        "caption": "the shelf is to the right of the mattress on the wall. it is behind the piece of exercise equipment.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "mattress",
+                "piece of exercise equipment"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "0",
+        "target_name": "door",
+        "caption": "the large white door. the door is next to the stairs.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "30",
+        "target_name": "chair",
+        "caption": "the small square chair. the chair is next to the little table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "little table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "27",
+        "target_name": "shelf",
+        "caption": "the small corner shelf. the shelf is by the workout equipment.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "workout equipment"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "0",
+        "target_name": "door",
+        "caption": "the white bedroom door. the door is close to the stairs.",
+        "parsed_query": {
+            "Target": "bedroom door",
+            "Anchor": "stairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "27",
+        "target_name": "shelf",
+        "caption": "the small rectangle shelf. the shelf is in the corner of the room.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "22",
+        "target_name": "cabinet",
+        "caption": "it is a black cabinet. the black cabinet is sitting next to the white rail, across from the white door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "white rail",
+                "white door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "17",
+        "target_name": "shelf",
+        "caption": "it is a white shelf. the white shelf is sitting behind the black cabinet.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "black cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "17",
+        "target_name": "shelf",
+        "caption": "it is a white shelf. the white shelf is sitting behind the white rail that is behind the black cabinet.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "white rail",
+                "black cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0629_00",
+        "target_id": "27",
+        "target_name": "shelf",
+        "caption": "it is a black shelf. the black shelf is sitting to the left of the white door, in the far left corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "white door"
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,875 @@
+[
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "33",
+        "target_name": "tv",
+        "caption": "this tv is against the wall. . it is square.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "15",
+        "target_name": "storage_bin",
+        "caption": "this is a storage bin. the storage bin is close to wall.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "this is a dresser table. the dresser table is attached to wall.",
+        "parsed_query": {
+            "Target": "dresser table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "this is a dresser table. the dresser table is close to wall.",
+        "parsed_query": {
+            "Target": "dresser table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "6",
+        "target_name": "nightstand",
+        "caption": "this is a wooden night stand. the night stand is next to bed.",
+        "parsed_query": {
+            "Target": "night stand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "this is a rectangular pillow. the pillow is close to night stand.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "night stand"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "this door is on the left side. it is white and plain.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "this door is on the left of the scene. it is closed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "this pillow is straight ahead. it is firm and smooth.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "9",
+        "target_name": "bed",
+        "caption": "this bed is cluttered. it is in the middle.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "20",
+        "target_name": "lamp",
+        "caption": "this lamp is against the wall. it is standing.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "20",
+        "target_name": "lamp",
+        "caption": "this lamp is against the wall. it has a cone-shaped head.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "16",
+        "target_name": "storage_bin",
+        "caption": "this storage bin is on the right corner. it is cube-shaped.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "this pillow is on the top right. it has colors on it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "15",
+        "target_name": "storage_bin",
+        "caption": "this storage bin is on the top left. it is stacked.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "this pillow is on the top right. it is light.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "7",
+        "target_name": "nightstand",
+        "caption": "this nightstand is brown. it is against the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "18",
+        "target_name": "pillow",
+        "caption": "this pillow is on the bed. it is bright.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "9",
+        "target_name": "bed",
+        "caption": "the bed is in the center of the room. the bed is a white rectangle.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "33",
+        "target_name": "tv",
+        "caption": "the tv north of the bed and above a cabinet. the tv is a black rectangle.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "bed",
+                "cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "7",
+        "target_name": "nightstand",
+        "caption": "the nightstand is west of the bed. the nightstand is a brown box.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "the window is east of the tv. the window is a clear rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "this pillow is on the top right. it is soft.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "19",
+        "target_name": "lamp",
+        "caption": "this lamp is on the right side. it is standing.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "this pillow is on the top right of the bed. it is colored.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is on the left side of the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "19",
+        "target_name": "lamp",
+        "caption": "there is a cylindrical lamp. it is to the right of a bed on a nightstand.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed",
+                "nightstand"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "there is a rectangular dresser. it is against the wall and left of a window.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "19",
+        "target_name": "lamp",
+        "caption": "there is a cylindrical lamp . it is on a nightstand to the right of a bed.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "nightstand",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "there is a white pillow. it is in front of a brown cabinet next to the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "brown cabinet",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "18",
+        "target_name": "pillow",
+        "caption": "it is a white pillow. it is on the left side of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "2",
+        "target_name": "trash_can",
+        "caption": "it is a green trash can. it is in the corner of the dresser and the wall.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "dresser",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "18",
+        "target_name": "pillow",
+        "caption": "it is a a white pillow. it is the closest pillow to the dolls house.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": "dolls house"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "20",
+        "target_name": "lamp",
+        "caption": "it is a white lamp. it is on the nightstand next to the dolls house.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "nightstand",
+                "dolls house"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "15",
+        "target_name": "storage_bin",
+        "caption": "the storage bin is on the left side of the dolls house. it has red and tile lids.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": "dolls house"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "9",
+        "target_name": "bed",
+        "caption": "this bed is in the center. it is ridged.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "16",
+        "target_name": "storage_bin",
+        "caption": "this storage bin is on the top right. it is box shaped.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "15",
+        "target_name": "storage_bin",
+        "caption": "this storage bin is on the left corner. it is stacked.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "this window is on the left side. it is opaque.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "6",
+        "target_name": "nightstand",
+        "caption": "this nightstand is on the right side. it is brown.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "18",
+        "target_name": "pillow",
+        "caption": "this pillow is on the left side. it is soft.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "2",
+        "target_name": "trash_can",
+        "caption": "this trash can is on the floor. it is green and empty.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "this is a brown dresser with brass handles.  it is against the wall, opposite the foot of the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "this is the window in the room.  it is the only window in the room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "16",
+        "target_name": "storage_bin",
+        "caption": "this is a white two drawer storage bin.  it is between the bedside table and the wall.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "bedside table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "35",
+        "target_name": "picture",
+        "caption": "this is a picture hanging on the wall.  this picture is on the wall opposite of the foot of the bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "35",
+        "target_name": "picture",
+        "caption": "this is a picture with a black frame on the wall.  it is located on the wall opposite of the foot of the bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "33",
+        "target_name": "tv",
+        "caption": "this tv is on the left. it is blue.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "15",
+        "target_name": "storage_bin",
+        "caption": "this storage bin is on the left. its stacked.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "9",
+        "target_name": "bed",
+        "caption": "this bed is in the middle. its wrinkled.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "this window is on the left. it is white.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "there is a tall but narrow white door in the wall. it is to the right of the wooden dresser.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "wooden dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "6",
+        "target_name": "nightstand",
+        "caption": "there is a wooden nightstand with three drawers. it is to the right of the bed and has a tall lamp sitting on it.",
+        "parsed_query": {
+            "Target": "wooden nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "35",
+        "target_name": "picture",
+        "caption": "there is a long horizontal picture hanging on the wall. it is between the two wooden dressers.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wooden dresser",
+                "wooden dresser"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "there is a white back pillow sitting on the floor in front of the wooden nightstand. it is on the left side of the bed.",
+        "parsed_query": {
+            "Target": "back pillow",
+            "Anchor": [
+                "wooden nightstand",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "there is a tall narrow white door in the wall. it is on the right side of the tall wooden dresser.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "tall wooden dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "2",
+        "target_name": "trash_can",
+        "caption": "this is a green cylinder. there is a set of drawers to the right of it and a hallway to the left.",
+        "parsed_query": {
+            "Target": "green cylinder",
+            "Anchor": [
+                "set of drawers",
+                "hallway"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "9",
+        "target_name": "bed",
+        "caption": "this is a bed in the middle of the room. it is light colored and against the wall.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "19",
+        "target_name": "lamp",
+        "caption": "this is a long thin lamp to the right of the bed. it is on a nightstand and has a white shade.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed",
+                "nightstand"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "2",
+        "target_name": "trash_can",
+        "caption": "this is a circular shaped trash can to the left of the dresser. it is in the corner.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "6",
+        "target_name": "nightstand",
+        "caption": "this nightstand is wooden. it has three drawers and is to the right of the bed.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "33",
+        "target_name": "tv",
+        "caption": "the object is a tv. if you were sitting on the foot of the bed it be the tv on the brown dresser in front of you.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "brown dresser",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "2",
+        "target_name": "trash_can",
+        "caption": "the object is a trash can. it is to left side of the dresser with the mirror above it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "10",
+        "target_name": "dresser",
+        "caption": "the object is a dresser. it is the dresser that is holding the tv app on the top of it.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "tv app"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "11",
+        "target_name": "dresser",
+        "caption": "the object is a dresser. it is the long dresser up below the mirror.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "mirror"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "this is a pillow on the bed. it is on the right side of the bed near the headboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "headboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "18",
+        "target_name": "pillow",
+        "caption": "this is a pillow on the bed. it is on the left side of the bed near the headboard.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "headboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "11",
+        "target_name": "dresser",
+        "caption": "this is a dresser in the bedroom. it is near the right foot of the bed.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "33",
+        "target_name": "tv",
+        "caption": "this is a tv monitor. it is on the tall dresser in the room.",
+        "parsed_query": {
+            "Target": "tv monitor",
+            "Anchor": "tall dresser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "16",
+        "target_name": "storage_bin",
+        "caption": "this is a plastic storage bin. it is to the right side of the bed.",
+        "parsed_query": {
+            "Target": "plastic storage bin",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "8",
+        "target_name": "door",
+        "caption": "the door is right of the cabinets. the door is a white rectangle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "35",
+        "target_name": "picture",
+        "caption": "the picture is left of the cabinet. the picture is a white rectangle with black edges.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "cabinet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "20",
+        "target_name": "lamp",
+        "caption": "the lamp is left of the bed. the lamp has a white cone shaped top.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "17",
+        "target_name": "pillow",
+        "caption": "the pillow is left of the bed. the pillow is white and has two armrests.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0697_00",
+        "target_id": "20",
+        "target_name": "lamp",
+        "caption": "the lamp is on a nightstand left of the bed. the lamp has a yellow body and white cone.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "nightstand",
+                "bed"
+            ]
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,525 @@
+[
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "10",
+        "target_name": "armchair",
+        "caption": "the object is a brown armchair. it is located in front of the shelf behind the table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "shelf",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "33",
+        "target_name": "window",
+        "caption": "the object is a window. if he was standing behind the chair with the blue book bag it would be directly to the left.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "chair with the blue book bag"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "the object is a brown shelf. it wraps around both sides of the table against the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "31",
+        "target_name": "window",
+        "caption": "a clear compact window. it is located above the book shelf.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "book shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "it is a window. it has a shelf containing books placed in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "it is a round table. it is surrounded by three chairs with one of them having a backpack placed on it.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "chairs",
+                "backpack"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "this is a round table. this table is next to chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "this is a round table. the table is made of wood.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "it is a window. it has a shelf containing books placed in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelf containing books"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "33",
+        "target_name": "window",
+        "caption": "it is a window. it has a shelf containing books placed in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "31",
+        "target_name": "window",
+        "caption": "it is a window. it has a shelf containing books in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "it is a window. it has a shelf containing books placed in front of it .",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "27",
+        "target_name": "window",
+        "caption": "it is a wide window. it has  a long book shelf placed in front of it filled up with books.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "book shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "27",
+        "target_name": "window",
+        "caption": "it is a wide glass window. it has a long bookshelf placed in front of it and the book shelf is filled up with books.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "5",
+        "target_name": "bookshelf",
+        "caption": "this bookshelf is rectangular, light-colored, and against a wall. there are 6 shelves in this bookshelf. it is behind the chair with the blue backpack on the seat.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "chair with the blue backpack on the seat",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "this table is relatively centered within the room. it is circular, and has a chair with a blue backpack on it to its right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "5",
+        "target_name": "bookshelf",
+        "caption": "this small two-story bookshelf is behind the chair with the blue backpack. its back is against a wall.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "chair with the blue backpack",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "it is broad window. it has a large shelf containing various books in front of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "10",
+        "target_name": "armchair",
+        "caption": "this brown chair is next to the circular table in the room. it is on the opposite side of the chair with the blue backpack.",
+        "parsed_query": {
+            "Target": "brown chair",
+            "Anchor": [
+                "circular table",
+                "chair with the blue backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "the window is against the wall. it is above the long bookcase.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall",
+                "long bookcase"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is around the round table. it has a blue bookbag on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "27",
+        "target_name": "window",
+        "caption": "the window is along the back wall. it is above the bookcase.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "back wall",
+                "bookcase"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "31",
+        "target_name": "window",
+        "caption": "this is a white color wooden window. the window is placed on the top of the book shelf.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "book shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "this is a window made of wood. the window is closed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "33",
+        "target_name": "window",
+        "caption": "this is a wooden window with book shelf. the window is closed with wooden frame.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "book shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "27",
+        "target_name": "window",
+        "caption": "the window is located above the bookshelf. it is to the left of the other window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bookshelf",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "27",
+        "target_name": "window",
+        "caption": "this is a white window in a library. it is the first one to the right of the corner.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "this is a brown wood bookshelf in a library.  it is on the two walls with the windows and meets in a corner.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "33",
+        "target_name": "window",
+        "caption": "this is a white window in a library. it is the first one on the left wall above the bookshelf.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "left wall",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a brown wood chair in a library.  it is at the round table with a blue backpack on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "round table",
+                "blue backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "32",
+        "target_name": "window",
+        "caption": "it is a window.  it is located beside a smaller window about half its size.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "smaller window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "it is a wooden bookshelf.  it is an \"l\" shape and filled with books.  there is a table in the middle.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "it is a chair.  there is a table in front and a bookshelf behind it. a backpack is in the seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "bookshelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "its a window.  its located in the middle up above the bookshelf.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bookshelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "5",
+        "target_name": "bookshelf",
+        "caption": "it is a 2 shelf long bookshelf.  its located behind a round table and a chair with a backpack sitting in it.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "round table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "31",
+        "target_name": "window",
+        "caption": "this small window is on the right. it is rectangular.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "10",
+        "target_name": "armchair",
+        "caption": "this armchair is thick and by the table. it is facing inward.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "5",
+        "target_name": "bookshelf",
+        "caption": "this bookshelf is filled and stacked. it is facing the viewer.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "thie chair has an object on it. it is facing down and left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "31",
+        "target_name": "window",
+        "caption": "the window is small and rectangular. it is above the counter.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "29",
+        "target_name": "window",
+        "caption": "the object is a window. it is directly above and behind the brown chair.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "brown chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "10",
+        "target_name": "armchair",
+        "caption": "the object is a chair. it is brown and it is directly in front of the shelf.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "28",
+        "target_name": "window",
+        "caption": "the object is a window. it is the window that is directly left of the window above and behind the brown chair.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "window",
+                "brown chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0558_00",
+        "target_id": "4",
+        "target_name": "bookshelf",
+        "caption": "the object is a shelf. it is in front of the table and it is l-shaped and it runs on two sides of the walls.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "table"
+        },
+        "unique": false
+    }
+]

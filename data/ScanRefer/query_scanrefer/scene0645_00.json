@@ -1,0 +1,2282 @@
+[
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "this is a white color lamp. the lamp is in front of the mirror.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "mirror"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "36",
+        "target_name": "couch",
+        "caption": "the couch is brown. there is a picture frame hanging above it.",
+        "parsed_query": {
+            "Target": "picture frame",
+            "Anchor": "couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "37",
+        "target_name": "cabinet",
+        "caption": "the cabinet is square and dark brown. it is under the tv.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "50",
+        "target_name": "ottoman",
+        "caption": "the ottoman is rectangular and beige. it is in front of the armchair.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "79",
+        "target_name": "shower_curtain",
+        "caption": "the shower curtain is tall and white. it is to the right of the bathtub.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "24",
+        "target_name": "armchair",
+        "caption": "the armchair is beige colored. it is to the left of the window.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "23",
+        "target_name": "armchair",
+        "caption": "a chair sits with it's back to the corner. it's got an ottoman in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "ottoman"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "67",
+        "target_name": "pillow",
+        "caption": "a pillow sits on top of the left bed. it's the pillow on top of the left side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "left bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "67",
+        "target_name": "pillow",
+        "caption": "a pillow sits atop another pillow on the left side of the bed. it's to the let of another bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "pillow",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "36",
+        "target_name": "couch",
+        "caption": "a couch sits with it's back to the wall facing us. it's got a picture hanging above it.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "wall",
+                "picture"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "18",
+        "target_name": "bathtub",
+        "caption": "it is a bath in a en suite for a two bed bedroom. this is part of a hotel room.",
+        "parsed_query": {
+            "Target": "bath",
+            "Anchor": "en suite"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "29",
+        "target_name": "trash_can",
+        "caption": "this is a bin that ats as a waste paper basket. it is next to a computer table.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "computer table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "this is a computer table that sits inside a hotel room. it is next to a sofa and covered in paper.",
+        "parsed_query": {
+            "Target": "computer table",
+            "Anchor": "sofa"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "24",
+        "target_name": "armchair",
+        "caption": "the armchair is beige. it is to the left of the window.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "55",
+        "target_name": "window",
+        "caption": "this is a bedroom window covered by a curtain. it is on the right of both beds.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "beds"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "50",
+        "target_name": "ottoman",
+        "caption": "the ottoman is rectangular. it is in front of the armchair.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "18",
+        "target_name": "bathtub",
+        "caption": "the bathtub is white. it is to the left of the shower curtain.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "shower curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "33",
+        "target_name": "lamp",
+        "caption": "the lamp has a white shade. it is in the middle of the beds on the nightstand.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "beds",
+                "nightstand"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "18",
+        "target_name": "bathtub",
+        "caption": "the bathtub is rectangular. it is to the right of the toilet.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "33",
+        "target_name": "lamp",
+        "caption": "there is a bronze and white lamp placed on a brown nightstand in the center of the room. the lamp is placed in the middle of the brown nightstand. it is positioned between 2 twin beds up against the beige wall.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "brown nightstand",
+                "twin beds",
+                "beige wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "this is a tan or white colored door. it is next to the backpack at the entry to the house.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "backpack"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "74",
+        "target_name": "sink",
+        "caption": "there is a bronze sink in the bathroom just to the right of the two twin beds. when you walk through the bathroom door, the sink is in front of you just to your left.  the sink is in the left corner of the bathroom and is to the left of a white toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "twin beds",
+                "bathroom door",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "79",
+        "target_name": "shower_curtain",
+        "caption": "this is the shower curtain in the bathroom. it is pushed towards the edge of the shower stall near the yellow curtain door.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "shower stall",
+                "yellow curtain door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "65",
+        "target_name": "pillow",
+        "caption": "this is a white pillow on the right side of the bed on the left. this is in a hotel room.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "38",
+        "target_name": "door",
+        "caption": "this is an opened door. it has a brass handle and is in a room with tile flooring.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "79",
+        "target_name": "shower_curtain",
+        "caption": "this is the white shower curtain. it is pulled to the side of the shower stall and near the yellow door to the bedroom.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "shower stall",
+                "yellow door to the bedroom"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "40",
+        "target_name": "curtain",
+        "caption": "there is a brown curtain hanging, slightly open, to the left-hand side of the central window along the back wall in the room.  the curtain is directly behind padded armchair with a throw pillow on it; it is also directly behind a floor lamp that is positioned just behind the armchair. it is positioned to the right of the window which has the curtains mostly drawn shut.",
+        "parsed_query": {
+            "Target": "brown curtain",
+            "Anchor": [
+                "central window",
+                "padded armchair",
+                "floor lamp",
+                "window with curtains mostly drawn shut"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "38",
+        "target_name": "door",
+        "caption": "there is a beige door with a brass doorknob leading to the bathroom that is hanging open. you can't miss the bathroom door if you walk past the two twin beds and look to the right of the brown dresser with the tv on it.  the door is directly in front of the bathroom sink.",
+        "parsed_query": {
+            "Target": "bathroom door",
+            "Anchor": [
+                "brown dresser",
+                "bathroom sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "35",
+        "target_name": "bathroom_vanity",
+        "caption": "there is a bronze bathroom counter that begins in the left-hand corner of the bathroom runs along the bathroom wall.  it is to the left of the toilet as well as above the toilet.  there is a mirror directly above it. you can't miss the bathroom counter if you walk past the twin beds and go through the open door just to the right of the brown dresser with the tv on top of it.",
+        "parsed_query": {
+            "Target": "bathroom counter",
+            "Anchor": [
+                "toilet",
+                "mirror",
+                "twin beds",
+                "open door",
+                "brown dresser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "65",
+        "target_name": "pillow",
+        "caption": "the pillow is on the bed. it is to the left of the lamp, resting on the pillow that is behind it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "lamp",
+                "pillow"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "34",
+        "target_name": "lamp",
+        "caption": "the lamp is affixed to the wall. it is above the chair.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "22",
+        "target_name": "chair",
+        "caption": "the chair is slightly pulled away from the table. the chair is facing the table to its right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "22",
+        "target_name": "chair",
+        "caption": "the chair is facing the table to the left. the chair is slightly pulled away from the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "19",
+        "target_name": "end_table",
+        "caption": "the end table is located to the left of the chair. the end table has a slightly rounded look to it.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "49",
+        "target_name": "pillow",
+        "caption": "a pillow sits on a chair facing us. it's behind an ottoman sitting on the chairs cushion.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "chair",
+                "ottoman"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "a pillow sits on a coffee table. there is a couch behind it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "coffee table",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "28",
+        "target_name": "pillow",
+        "caption": "a pillow sits on the left isde of a couch. it's under and slightly to the left of a painting on the wall.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch",
+                "painting"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "a desk sits on the wall under a painting. it's got a lamp lit up on the desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "painting"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "26",
+        "target_name": "tv",
+        "caption": "a tv sits in front of us facing us. it's on kind of a tall dresser.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "tall dresser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "41",
+        "target_name": "curtain",
+        "caption": "these are curtains around the window in the room. in the small bay window addition, it is over the right window.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "right window",
+                "small bay window addition"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "40",
+        "target_name": "curtain",
+        "caption": "this is a curtain around one of the bay windows in the living room. it is on the left side window in the bay behind the lamp.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "bay window",
+                "lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "36",
+        "target_name": "couch",
+        "caption": "this is a three seated couch. it is in the living room by the coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "coffee table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "10",
+        "target_name": "recycling_bin",
+        "caption": "this is a small recycling bin. it is next to the desk behind the trash bin.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "desk",
+                "trash bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "35",
+        "target_name": "bathroom_vanity",
+        "caption": "the bathroom vanity is to the left of hte toilet. the bathroom vanity is a light tan rectangle.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "30",
+        "target_name": "coffee_table",
+        "caption": "the coffee table is in the center of room. the coffee table is a dark brown rectangle with four legs.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "37",
+        "target_name": "cabinet",
+        "caption": "the cabinet is left of the bathroom door. the cabinet is a dark brown box.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "bathroom door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "26",
+        "target_name": "tv",
+        "caption": "the tv is on top of the cabinet that is left of bathroom door. the tv is a black rectanagle.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "cabinet",
+                "bathroom door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "30",
+        "target_name": "coffee_table",
+        "caption": "this is a coffee table with wooden legs and glass top. it is located in the middle of the seating area and in front of the sofa.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "seating area",
+                "sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "65",
+        "target_name": "pillow",
+        "caption": "this is a beige bed pillow. it is the front right pillow on the left bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "left bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "17",
+        "target_name": "curtain",
+        "caption": "this is a brown curtain. it is drawn open in front of a window to the right of the bed.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "55",
+        "target_name": "window",
+        "caption": "this is the glass window in the wall of the room. it is behind the open curtain to the right of the bed.",
+        "parsed_query": {
+            "Target": "glass window",
+            "Anchor": [
+                "open curtain",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "67",
+        "target_name": "pillow",
+        "caption": "the pillow is the southern left-most one on the bed. the pillow is a green rectangle.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "65",
+        "target_name": "pillow",
+        "caption": "the pillow is the south-most and right-most one on the left-most bed. the pillow is a white rectangle.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "left-most bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "10",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is right of the northern desk. the recycling bin is a blue rectangular prism.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "northern desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "26",
+        "target_name": "tv",
+        "caption": "the tv is on top of the cabinet left of the bathroom door. the tv is a black rectangle.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "cabinet",
+                "bathroom door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "15",
+        "target_name": "towel",
+        "caption": "the towel is next to the bathroom door. the towel is a white rectangle.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "bathroom door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "22",
+        "target_name": "chair",
+        "caption": "this is the wood and fabric desk chair with arms. it is in front of the desk and to the right of the sofa.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": [
+                "desk",
+                "sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "67",
+        "target_name": "pillow",
+        "caption": "the bed pillow is on the left side of the bed. it is to the left of the lamp.",
+        "parsed_query": {
+            "Target": "bed pillow",
+            "Anchor": [
+                "bed",
+                "lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "28",
+        "target_name": "pillow",
+        "caption": "this is a throw pillow on the arm of the triple seated couch. it is on the left side of the couch near the ottoman.",
+        "parsed_query": {
+            "Target": "throw pillow",
+            "Anchor": [
+                "triple seated couch",
+                "ottoman"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "10",
+        "target_name": "recycling_bin",
+        "caption": "this is a blue recycling bin. it is behind the trash bin next to the desk.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "trash bin",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "36",
+        "target_name": "couch",
+        "caption": "this is a three seated brown couch. it is behind the coffee table in the living room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "coffee table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "29",
+        "target_name": "trash_can",
+        "caption": "the brown square trash can is to the right of the lamp. it is also behind the chair and to the right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "lamp",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "17",
+        "target_name": "curtain",
+        "caption": "this is a pulled apart curtain over the window in the room. it is by the head of the bed.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "17",
+        "target_name": "curtain",
+        "caption": "this is a fabric curtain over the window. it is in the corner of the room by the head of the bed.",
+        "parsed_query": {
+            "Target": "fabric curtain",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "20",
+        "target_name": "bed",
+        "caption": "the bed is sitting on the left side of the room. there is a table and lamp to the right of it.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "there is a desk in the room with a mirror centered over it. the highlighted item is the lamp on the right side of the desk. it has a metallic base and a white lamp shade.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "23",
+        "target_name": "armchair",
+        "caption": "an armchair is sitting in the right corner of the room with a footstool in front. there is another to the left of it.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "armchair in the right corner of the room"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "37",
+        "target_name": "cabinet",
+        "caption": "there is a large, brown cabinet to the left of the door to the bathroom. there are several objects on the floor around it. it appears that there are two doors on the right and left that swing out when opened.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "bathroom door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "59",
+        "target_name": "pillow",
+        "caption": "a brown long pillow is on the bed in the right side of the room. there is window with curtains to the right side of it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "74",
+        "target_name": "sink",
+        "caption": "a white basin sink in the corner of the room.  it is to the left of the toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "41",
+        "target_name": "curtain",
+        "caption": "the curtain that covers the right window in the small seating area.  it is on the opposite side as the reading lamp.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "right window",
+                "reading lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "a wooden desk pushed against the wall.  there are objects strewn about the top and a chair slightly pulled out from under the desk.",
+        "parsed_query": {
+            "Target": "wooden desk",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "34",
+        "target_name": "lamp",
+        "caption": "a tall reading lamp sitting in the reading nook behind the armchair.  it is turned on and is on the left side of the nook.",
+        "parsed_query": {
+            "Target": "reading lamp",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "20",
+        "target_name": "bed",
+        "caption": "a large bed with a tan bed spread.  there are pillows on the bed, and the bed is made.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "79",
+        "target_name": "shower_curtain",
+        "caption": "this is a white shower curtain. it is in front of a bathtub.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "31",
+        "target_name": "nightstand",
+        "caption": "this is a black nightstand. it is in between beds.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "beds"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "58",
+        "target_name": "picture",
+        "caption": "this is a square picture. it is above the bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "10",
+        "target_name": "recycling_bin",
+        "caption": "this is a blue recycling bin. it is on the floor, behind the trash can.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "58",
+        "target_name": "picture",
+        "caption": "this is a square picture. it is to the left of another picture.",
+        "parsed_query": {
+            "Target": "square picture",
+            "Anchor": "picture"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "15",
+        "target_name": "towel",
+        "caption": "this is a light color towel hanging on the towel rod. the towel rod is close to wall.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "towel rod"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "46",
+        "target_name": "ottoman",
+        "caption": "this is a rectangular ottoman. the ottoman is in front of the sofa.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "sofa"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "58",
+        "target_name": "picture",
+        "caption": "this is a picture hanging on wall. the picture is having wooden frame.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "17",
+        "target_name": "curtain",
+        "caption": "these are the curtains over the windows. they are just behind the bed.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "windows",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "20",
+        "target_name": "bed",
+        "caption": "this is a brown bed. it is to the left of another bed.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "65",
+        "target_name": "pillow",
+        "caption": "this is a white pillow. it is on the right side of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is to the left of the trash can.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "trash can"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "19",
+        "target_name": "end_table",
+        "caption": "this is a brown end table. it is to the left of the chair.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "35",
+        "target_name": "bathroom_vanity",
+        "caption": "this is a white bathroom vanity. it is behind the toilet.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "22",
+        "target_name": "chair",
+        "caption": "this is a wooden chair with arm. the chair is in front of table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "33",
+        "target_name": "lamp",
+        "caption": "this is a lamp with cover. the lamp is close to wall.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "67",
+        "target_name": "pillow",
+        "caption": "this is a rectangular pillow. the pillow is on the left of the left side bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "left side bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "74",
+        "target_name": "sink",
+        "caption": "this is a half round shape sink. the sink is attached to wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "37",
+        "target_name": "cabinet",
+        "caption": "there is a dark wooden cabinet. it is to the right of the table.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "31",
+        "target_name": "nightstand",
+        "caption": "there is a dark brown nightstand. it is in between the beds.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": "beds"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "49",
+        "target_name": "pillow",
+        "caption": "there is a small, brown throw pillow. it is in the chair next to the ottoman.",
+        "parsed_query": {
+            "Target": "throw pillow",
+            "Anchor": [
+                "chair",
+                "ottoman"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "35",
+        "target_name": "bathroom_vanity",
+        "caption": "there is a marble bathroom vanity. it is above the toilet.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "24",
+        "target_name": "armchair",
+        "caption": "there is a tan armchair with a matching ottoman. there is a pillow sitting on the armchair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "64",
+        "target_name": "pillow",
+        "caption": "the pillow is the black on the leftmost b ed. the pillow is black and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "leftmost bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "62",
+        "target_name": "pillow",
+        "caption": "the pillow is the south-most and left-most one on the right-most bed. the pillow is a gray rectangle.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "right-most bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "59",
+        "target_name": "pillow",
+        "caption": "the pillow is on the right-most bed. the pillow is black and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "right-most bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "21",
+        "target_name": "bed",
+        "caption": "the bed is on the right. it is to the right of the nightstand.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "nightstand"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "41",
+        "target_name": "curtain",
+        "caption": "the curtain is the right-most one on the windows. the curtain is wavy and light brown.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "15",
+        "target_name": "towel",
+        "caption": "the towel is to the right of the door. it is mounted on the wall to the left of the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "door",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "38",
+        "target_name": "door",
+        "caption": "the door is open. it is in front of the sink.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "28",
+        "target_name": "pillow",
+        "caption": "the pillow is brown. it is on the left side of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "21",
+        "target_name": "bed",
+        "caption": "the bed is rectangular and has a white bedspread. it is located between the end table with the lamp on it, to its left, and the window to its right.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "end table",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "21",
+        "target_name": "bed",
+        "caption": "the bed is rectangular, with a brown headboard and a white bedspread. it is located to the direct left of the wall with the window in it.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "wall with the window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "21",
+        "target_name": "bed",
+        "caption": "the bed is rectangular, with a white bedspread. it is the second bed from the left.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "64",
+        "target_name": "pillow",
+        "caption": "the pillow is brown and cylindrical. it is located on the bed, to the left of the end table with the lamp on it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "end table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "79",
+        "target_name": "shower_curtain",
+        "caption": "this is a shower curtain. the shower curtain is next to bath tub.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "bath tub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "41",
+        "target_name": "curtain",
+        "caption": "this is a curtain hanging . the curtain is close to wall.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "46",
+        "target_name": "ottoman",
+        "caption": "this is a brown ottoman. it is in front of the chair.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "58",
+        "target_name": "picture",
+        "caption": "this is a square picture. it is above the head of the bed.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "62",
+        "target_name": "pillow",
+        "caption": "this is the rectangular pillow . the pillow is on the bed which is next to lamp.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "24",
+        "target_name": "armchair",
+        "caption": "this is a cream armchair. it is behind an ottoman.",
+        "parsed_query": {
+            "Target": "cream armchair",
+            "Anchor": "ottoman"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "21",
+        "target_name": "bed",
+        "caption": "this is a bed made of wood. the bed is close to wall.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "55",
+        "target_name": "window",
+        "caption": "this is a tall window. it is to the right of the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "this is a wooden door. the door is closed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "26",
+        "target_name": "tv",
+        "caption": "this is a black tv. it is above the dresser.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "dresser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "30",
+        "target_name": "coffee_table",
+        "caption": "this coffee table is in the middle. it is brown.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "23",
+        "target_name": "armchair",
+        "caption": "this armchair is facing the viewer. it is brown.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "28",
+        "target_name": "pillow",
+        "caption": "this pillow is on the couch. it is smooth.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "this lamp is on the right. it is white.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "60",
+        "target_name": "pillow",
+        "caption": "this pillow is on the bed close to the wall. it is the closest pillow to the window.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "40",
+        "target_name": "curtain",
+        "caption": "the curtain is white. it is the curtain of the window next to the lamp.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "window",
+                "lamp"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "29",
+        "target_name": "trash_can",
+        "caption": "this trash can is rectangular. it is black in the inside.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "this is a brown pillow. it is on the coffee table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "31",
+        "target_name": "nightstand",
+        "caption": "this nightstand is in the middle of the two beds. it has a lamp on it.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "62",
+        "target_name": "pillow",
+        "caption": "this is a pillow. it is white and on the left side of the bed on the right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "37",
+        "target_name": "cabinet",
+        "caption": "this is a chest of drawers. it is located at the foot of the bed on the left.",
+        "parsed_query": {
+            "Target": "chest of drawers",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "74",
+        "target_name": "sink",
+        "caption": "there is a bathroom sink. it is to the left of the toilet.",
+        "parsed_query": {
+            "Target": "bathroom sink",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "58",
+        "target_name": "picture",
+        "caption": "there is a picture above the bed. it is the one on the left.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "32",
+        "target_name": "toilet",
+        "caption": "this toiler is light colored and has its lid up. there is a counter to the left of it and a bathtub to the right of it.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "counter",
+                "bathtub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "5",
+        "target_name": "door",
+        "caption": "this is the trim for the door to the room. it is the trim on the right side of the door.",
+        "parsed_query": {
+            "Target": "trim",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "17",
+        "target_name": "curtain",
+        "caption": "it is a brown curtain. the brown curtain is on the right wall next to the bed.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "40",
+        "target_name": "curtain",
+        "caption": "it is a brown and gold curtain. the brown and gold curtain is in the center of the room next to the lamp and sofa.",
+        "parsed_query": {
+            "Target": "brown and gold curtain",
+            "Anchor": [
+                "lamp",
+                "sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "32",
+        "target_name": "toilet",
+        "caption": "it is a white toilet. the white toilet it to the right of the sink.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "30",
+        "target_name": "coffee_table",
+        "caption": "it is the black coffee table. the black coffee table is at the foot of both beds.",
+        "parsed_query": {
+            "Target": "black coffee table",
+            "Anchor": "beds"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "50",
+        "target_name": "ottoman",
+        "caption": "this is an ottoman chair. it is in front of the single seated chair.",
+        "parsed_query": {
+            "Target": "ottoman chair",
+            "Anchor": "single seated chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "33",
+        "target_name": "lamp",
+        "caption": "this is a lamp. it is on the night table between the two beds.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "night table",
+                "beds"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "38",
+        "target_name": "door",
+        "caption": "this is an opened wooden door. it is the door for the bathroom and has a brass knob.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "23",
+        "target_name": "armchair",
+        "caption": "it is a beige armchair. the beige armchair is in the far right corner of the room. next to the sofa.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "sofa"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "28",
+        "target_name": "pillow",
+        "caption": "the pillow is on top of the couch. it is on the furthest left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "55",
+        "target_name": "window",
+        "caption": "the window is to the right of the bed. it is partially hidden by the curtain.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed",
+                "curtain"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "60",
+        "target_name": "pillow",
+        "caption": "the pillow is on the bed. it is the white one on the front right.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "the desk is brown. it is to the right of the couch.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "64",
+        "target_name": "pillow",
+        "caption": "the pillow is on the bed. it is the dark one on the front of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "60",
+        "target_name": "pillow",
+        "caption": "the pillow is located on the bed right side of the room near the window.  the highlighted pillow is one of four white pillows on the bed and it's the one in the front and the very right one and just behind the neck pillow on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "window",
+                "neck pillow"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "the pillow is brown. the pillow is on the coffee table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "22",
+        "target_name": "chair",
+        "caption": "the chair is brown. the chair is in front of a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "30",
+        "target_name": "coffee_table",
+        "caption": "the hight lighted coffee table is located in front of sofa which is placed on other side of beds.   it is a rectangle shape and glass top table with golden color legs.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "sofa",
+                "beds"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "46",
+        "target_name": "ottoman",
+        "caption": "the ottoman is on the right. the ottoman is in front of the chair.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "32",
+        "target_name": "toilet",
+        "caption": "the toilet is to the left of the tub. the toilet is to the right of the sink.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "tub",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "18",
+        "target_name": "bathtub",
+        "caption": "the bathtub is white. the bathtub is to the right of the toilet.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "20",
+        "target_name": "bed",
+        "caption": "the highlighted bed in the one on the left which is near the bathroom.  it is the one opposite side of the window.  it is located left side of the side table if you're facing the bed.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "bathroom",
+                "window",
+                "side table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "38",
+        "target_name": "door",
+        "caption": "the highlighted door is the bathroom door and it's opened towards the inside of the bathroom.  it has brass door knob.  it is located near the bed that is on the left side and not the window side.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "49",
+        "target_name": "pillow",
+        "caption": "the highlighted cushion in on the chair located on the left side, the one near the bed and in front of the window.  the pillow is on the chair that is not directly touching the side table and the one without blue stuffed animal on it.",
+        "parsed_query": {
+            "Target": "cushion",
+            "Anchor": [
+                "chair",
+                "bed",
+                "window",
+                "side table",
+                "blue stuffed animal"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "31",
+        "target_name": "nightstand",
+        "caption": "this is a brown night stand. it is between the two beds.",
+        "parsed_query": {
+            "Target": "night stand",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "49",
+        "target_name": "pillow",
+        "caption": "this pillow is on the chair in front of the lamp. it is on the chair that has an ottoman in front.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "chair",
+                "lamp",
+                "ottoman"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "24",
+        "target_name": "armchair",
+        "caption": "this armchair is in front of a tall lamp. one of its arms is close to the wall.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "tall lamp",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "29",
+        "target_name": "trash_can",
+        "caption": "this trash can is black inside. it is next to the table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "49",
+        "target_name": "pillow",
+        "caption": "this pillow is on the arm chair. it is on the hair that is behind an ottoman.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "arm chair",
+                "ottoman"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "40",
+        "target_name": "curtain",
+        "caption": "this is a white curtain. it is behind the lamp.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "lamp"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "18",
+        "target_name": "bathtub",
+        "caption": "this is a white bathtub. it is behind a shower curtain.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "shower curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "this is a square pillow. it is on a glass table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "glass table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "32",
+        "target_name": "toilet",
+        "caption": "this is a white toilet. it is to the left of the bathtub.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "bathtub"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "46",
+        "target_name": "ottoman",
+        "caption": "the highlighted object is the ottoman that belongs to the chair to the left of the couch. it appears to be made from a velvety fabric. it is rectangular shaped and is a beige color.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "chair",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "the highlighted object is the pillow that is on the center of the coffee table that is in front of the couch. it is a brown color and is square in shape. there is a darker brown border around the pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "coffee table",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "32",
+        "target_name": "toilet",
+        "caption": "the highlighted object is the toilet in the bathroom. it is an ivory color and is between the toilet paper roll on its left, and the tub on its right. the seat is down and the lid is up.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "toilet paper roll",
+                "tub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "31",
+        "target_name": "nightstand",
+        "caption": "the highlighted object is the nightstand that is in between the two beds in the room. there is a lamp in the middle of the nightstand. it is about the same height as the beds are.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "74",
+        "target_name": "sink",
+        "caption": "the highlighted object in the bathroom is the sink. it appears to be built into the counter. the sink is white and oval shaped.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "counter"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "34",
+        "target_name": "lamp",
+        "caption": "this is a lamp on the wall. it has a chair under it. it is on the left side. it is on.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "this lamp is standing on the table. there is a wall behind it to the right. it is on.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "50",
+        "target_name": "ottoman",
+        "caption": "this ottoman is light colored and rectangular. it has a chair behind it.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "33",
+        "target_name": "lamp",
+        "caption": "this lamp is on a nightstand. it is in between the beds. it has a dark base and is turned on.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "nightstand",
+                "beds"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "26",
+        "target_name": "tv",
+        "caption": "this tv is on the left. it is brown.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "64",
+        "target_name": "pillow",
+        "caption": "this pillow is on the bed. it is brown.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "15",
+        "target_name": "towel",
+        "caption": "this towel is white. it is hanging.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "64",
+        "target_name": "pillow",
+        "caption": "this towel is on the bed. it is brown.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "35",
+        "target_name": "bathroom_vanity",
+        "caption": "this bathroom vanity is on the left. it is gold and white.",
+        "parsed_query": {
+            "Target": "bathroom vanity",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "19",
+        "target_name": "end_table",
+        "caption": "this end table is on the left corner. it is brown.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "20",
+        "target_name": "bed",
+        "caption": "this bed is tan. it is soft.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "19",
+        "target_name": "end_table",
+        "caption": "this end table is on the top left. it is brown.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "59",
+        "target_name": "pillow",
+        "caption": "this pillow is on the bed. it is barrel-shaped.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "62",
+        "target_name": "pillow",
+        "caption": "this pillow is on the bed. it is on the left side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "19",
+        "target_name": "end_table",
+        "caption": "the end table is the closest one to the window. the end table is a round cylinder.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "29",
+        "target_name": "trash_can",
+        "caption": "the trash can is south of the blue trash can. the trash can is a gray rectangular prism.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "blue trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "the lamp is above a desk and next to a mirror. the lamp is a white cone.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "desk",
+                "mirror"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0645_00",
+        "target_id": "50",
+        "target_name": "ottoman",
+        "caption": "the ottoman is south of an armchair. the ottoman is a caramel square prism.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,973 @@
+[
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "25",
+        "target_name": "door",
+        "caption": "a brown wooden door. on the side of the room.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "a brown wooden desk. next to another same desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "a brown wooden desk. on the right to another same desk.",
+        "parsed_query": {
+            "Target": "brown wooden desk",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "27",
+        "target_name": "cabinet",
+        "caption": "the cabinet is in the northwest corner of the room. the cabinet is a white rectangular prism.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "the chair is left of the entrance door. the chair is brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table is the round one in the center of the room. the table is circular and light tan colored.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is pulled into the table. it is on the right edge of the table. it is to the right of the chair beside it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "2",
+        "target_name": "desk",
+        "caption": "the desk is located on the right side of the room. there is a table past the desk that is also near the right side of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "19",
+        "target_name": "table",
+        "caption": "the table is round. there are four chairs at the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "the table is located up against the wall on the right side of the room. there is a chair pulled under the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is one of two at the table. the chair is to the left of the chair beside it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is the closest one to the entrance door. the chair is blue with brown legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "19",
+        "target_name": "table",
+        "caption": "the table is on the northwest corner of the room. the table is a light tan circle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "2",
+        "target_name": "desk",
+        "caption": "the desk is directly to the left of the door. the desk is medium brown with a square shape.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the chair is the southwest-most one next to the northwest-most table. the chair is blue with a square seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "northwest-most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is the closest one to the door from the right. the chair is blue with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is directly to the right of the door. the chair has a square seat and four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is the south-most one next to the northern-most table. the chair is blue with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "northern-most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "19",
+        "target_name": "table",
+        "caption": "the table is round and wooden. it is the second one in the room of it's kind. it is near the red railing.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "red railing"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at a desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "29",
+        "target_name": "desk",
+        "caption": "this is a wooden desk. it is to the left of another desk.",
+        "parsed_query": {
+            "Target": "wooden desk",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "30",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is at the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "25",
+        "target_name": "door",
+        "caption": "this is a brown door. it is behind the table.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is behind the chair.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "29",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is behind a chair.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "29",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is to the right of a shorter desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "shorter desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "this is a square table. it is to the left of another table.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is to the left of another table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "2",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is to the right of the round table.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "27",
+        "target_name": "cabinet",
+        "caption": "this is a white cabinet. it is in the corner of the room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a cushion chair made of wood. the chair is placed on the opposite side of the wall on the second place.",
+        "parsed_query": {
+            "Target": "cushion chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this chair is having four legs. the chair is close to the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "25",
+        "target_name": "door",
+        "caption": "this is a door made of wood. the door is closed.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "2",
+        "target_name": "desk",
+        "caption": "this is a wooden desk. the desk is at the corner of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is circular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this chair is brown. it is on the left side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "this table is sturdy. it is tan.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this chair is on the left of the table. its facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "this chair is facing away. it is near the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "32",
+        "target_name": "chair",
+        "caption": "it is a blue chair. the blue chair is the second chair (from left to right) that sits at  one of the two brown desk on the wall at the far left.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "brown desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "it is a small table. it is against the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "25",
+        "target_name": "door",
+        "caption": "it is a wooden door. it is in the corner of the room.",
+        "parsed_query": {
+            "Target": "wooden door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "this is a small table. it has a single spot.",
+        "parsed_query": {
+            "Target": "small table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "the table is the closest one to the entrance door. the table is light brown and square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "it is a blue chair in the table close to the door. it is on the right side on the farther side of the wall.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "the chair is left of the entrance door. the chair is blue with a square seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "19",
+        "target_name": "table",
+        "caption": "it is a round table. it has four chair around it and is close to the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "the chair is southwest of the left-most round table. the chair has a curved back and is blue.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "left-most round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "5",
+        "target_name": "chair",
+        "caption": "the chair is the closest one to the entrance door. the chair is blue with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "entrance door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "it is a rectangular table. it is the closest to the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is on the round table right in front of the chairs of the cubicles.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": [
+                "round table",
+                "chairs of the cubicles"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is the chair on the right side. it is facing the wall of the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "27",
+        "target_name": "cabinet",
+        "caption": "it is a white cabinet. it is in the left side of the door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "it is a blue chair under the first  round table. it is facing the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "first round table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "30",
+        "target_name": "chair",
+        "caption": "this is the black chair on the left side. it is by the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this is the black chair on the left side. it is closest to the door.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "27",
+        "target_name": "cabinet",
+        "caption": "this is the white cabinet by the corner. it is close to the table and the entry door.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "table",
+                "entry door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "it is a white table. the white table is sitting behind the two brown desks in the far left corner of the room.",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": "two brown desks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "it is a brown chair. the brown chair is sitting at the far left of the room, to the left of the brown door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "32",
+        "target_name": "chair",
+        "caption": "it is a blue chair. the blue chair is the chair that is sitting at the right of the two brown desks in the left corner of the room.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": "two brown desks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "29",
+        "target_name": "desk",
+        "caption": "it is a brown desk. the brown desk is the left of the two brown desks in the left corner of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "it is a blue chair. the blue chair is the chair that is sitting next to the two brown desks in the left corner of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown desks"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is facing the table. it is to the left of the chair beside it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "17",
+        "target_name": "table",
+        "caption": "the table is round. there is a stapler atop it, along with other items.",
+        "parsed_query": {
+            "Target": "stapler",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "the table is to the left of the other table. the door is behind, and to the left of the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "other table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "the desk is in a row of similar desks. there is a desk to the left of it, and a desk to the right of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk to the left",
+                "desk to the right"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "the chair is pulled under the table that it is facing. the chair is facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "9",
+        "target_name": "chair",
+        "caption": "a blue rolling chair sitting under the round table.  the back of the chair faces the wooden study desks.",
+        "parsed_query": {
+            "Target": "rolling chair",
+            "Anchor": [
+                "round table",
+                "wooden study desks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "a wooden desk near the front entrance.  it is the closest desk to the entrance of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "front entrance"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "2",
+        "target_name": "desk",
+        "caption": "a single study cubical to the right of the round table.  it sits alone, in a corner.",
+        "parsed_query": {
+            "Target": "study cubical",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "30",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "this is a white table. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "33",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at a desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is at a round table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "this is a brown table. it is behind the chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "6",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is at the round table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "round table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a blue chair. it is next to a jacket.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "jacket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "it is a brown table. the brown table is the table on the left that is closer to the far left corner.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "18",
+        "target_name": "table",
+        "caption": "it is a brown table. the brown table is the table at the right of the brown door.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "brown door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "it is a blue chair. the blue chair is the chair on the right side of the table to the right of the door.",
+        "parsed_query": {
+            "Target": "blue chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0665_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "it is a blue chair. the blue chair is the second right chair of the table to the right of the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    }
+]

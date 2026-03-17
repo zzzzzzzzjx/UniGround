@@ -1,0 +1,681 @@
+[
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "there is a brown single door in the hallway. there is a trash can to the left of this door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "brown single door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "6",
+        "target_name": "doors",
+        "caption": "there are a set of double doors at the end of the room. there is a ladder next to these double doors.",
+        "parsed_query": {
+            "Target": "ladder",
+            "Anchor": "double doors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "16",
+        "target_name": "recycling_bin",
+        "caption": "there is a recycling bin half under the white table. the recycling bin is across from the single door in the hallway.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "white table",
+                "single door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "there is a circular trash can in between the brown table and the white table. it is to the right of the sink and to the left of the green recycling bin.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "brown table",
+                "white table",
+                "sink",
+                "green recycling bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "8",
+        "target_name": "traffic_cone",
+        "caption": "this is a traffic cone in the corner. it is orange.",
+        "parsed_query": {
+            "Target": "traffic cone",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "5",
+        "target_name": "trash_can",
+        "caption": "there is a black trash can next to the brown single door. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "brown single door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "0",
+        "target_name": "recycling_bin",
+        "caption": "this is a recycling bin atop a surface. it may be empty or filled.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "the door is a brown wood door with brass hardware on the right portion of it. the door is also the the right of the trash can.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "the door is on the right side of the room. there is a trash can to its left.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "16",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is on the floor partially under the table. it is green at the top.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the trash can is to the left of another trash can. it is also to the right of a different trash can; it is in between the two.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "another trash can",
+                "a different trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is on the right side of the room. there are trash cans to the left of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "trash cans"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "6",
+        "target_name": "doors",
+        "caption": "there are two large wooden doors. they have large dark handles in the center.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "there is a cylindrical silver trash can. it is to the left of three larger bins and has no cover or lid.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "three larger bins"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "6",
+        "target_name": "doors",
+        "caption": "there are two large wooden doors. the doors are a golden wooden color with large dark handles.",
+        "parsed_query": {
+            "Target": "doors",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "0",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is to the right of the trash can. the recycling bin has a green bag on top.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "trash can",
+                "green bag"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "there is a cylindrical silver trash can. it is smaller than the three other bins beside it and has no lid.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "bins"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "16",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin has a green lid. it is located to the right of and partially under the table.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is located on the right side of the room. there are trash cans and recycling bins to its left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "5",
+        "target_name": "trash_can",
+        "caption": "the trash can is on the floor, in the left corner. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "floor",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "6",
+        "target_name": "doors",
+        "caption": "the doors are on the left side of the room. the doors are located to the left of the orange pylon cone.",
+        "parsed_query": {
+            "Target": "doors",
+            "Anchor": "orange pylon cone"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "11",
+        "target_name": "sink",
+        "caption": "this is a white sink. it is to the left of a curtain.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "this is a gray trash can. it is next to three other trash cans.",
+        "parsed_query": {
+            "Target": "gray trash can",
+            "Anchor": "trash cans"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "this is a white table. it is behind a trash can.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "0",
+        "target_name": "recycling_bin",
+        "caption": "this is a gray recycling bin. it is in front of a table.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "11",
+        "target_name": "sink",
+        "caption": "this is a white sink. it is by a vacuum cleaner.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "vacuum cleaner"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "28",
+        "target_name": "table",
+        "caption": "this is a white table. it is cluttered with objects.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "28",
+        "target_name": "table",
+        "caption": "this is a white table. it is in the middle.",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "11",
+        "target_name": "sink",
+        "caption": "this is a sink on the far side of the wall. it is attached to the wall.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "28",
+        "target_name": "table",
+        "caption": "this is a table , this table is not the only table in the room .  this table is not the only table in the room it is the only cluttered table in the room . it is on the left side of the doors against the wall .",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "doors",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "8",
+        "target_name": "traffic_cone",
+        "caption": "there is an orange traffic cone. it is next to a ladder.",
+        "parsed_query": {
+            "Target": "traffic cone",
+            "Anchor": "ladder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "5",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular gray trash can. it is next to a door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "28",
+        "target_name": "table",
+        "caption": "there is a large rectangular table. it is in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "8",
+        "target_name": "traffic_cone",
+        "caption": "there is an orange traffic cone. it is on the floor besides a ladder.",
+        "parsed_query": {
+            "Target": "traffic cone",
+            "Anchor": "ladder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "8",
+        "target_name": "traffic_cone",
+        "caption": "there is an orange and white striped traffic cone. it is next to a ladder on the floor.",
+        "parsed_query": {
+            "Target": "traffic cone",
+            "Anchor": "ladder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "15",
+        "target_name": "trash_can",
+        "caption": "in between a stainless steel bed and a brown cabinet with a sink are four trash cans .  this is the trash can that is to the right of the big trash can , and behind the  turquoise trash can with the two round holes .  it is not the biggest trash can it is not  the trash can with the turquoise holes , it is not this small round trash can to the left of the trash can with the turquoise holes .  this is the trash can to the right of the biggest trash can and behind the trash can with the to turquoise holes .",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "biggest trash can",
+                "turquoise trash can with two round holes"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "11",
+        "target_name": "sink",
+        "caption": "to the right of the double doors and on the floor is an orange pylon .  behind the orange pylon is a ladder and a vacuum cleaner .  behind the ladder and behind the vacuum cleaner is a stainless steel sink .  the stainless steel sink is the item we are looking for .",
+        "parsed_query": {
+            "Target": "stainless steel sink",
+            "Anchor": [
+                "ladder",
+                "vacuum cleaner"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "15",
+        "target_name": "trash_can",
+        "caption": "up against the far wall is a stainless steel bed .  to the left of the stainless steel bed that is up against the  far wall  are four trash cans we are looking for the trash can that is closest to the stainless steel bed and is not turquoise .",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "stainless steel bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "to the right of the round  cabinet with the sink is a tall trash can .   the tall trash can is the item we are looking for .  we are not looking for  the  three trash cans that are surrounding the tall trash can  ,just the tallest trash can .",
+        "parsed_query": {
+            "Target": "tall trash can",
+            "Anchor": "round cabinet with the sink"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "a brown wooden door. there is a black and gold handle used to open the door.",
+        "parsed_query": {
+            "Target": "handle",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "8",
+        "target_name": "traffic_cone",
+        "caption": "a small orange and white cone. the cone is on the floor next to a metal ladder.",
+        "parsed_query": {
+            "Target": "cone",
+            "Anchor": "metal ladder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "5",
+        "target_name": "trash_can",
+        "caption": "a small black trash can. the trash can is next to a refrigerator and has a plastic bag inside of it.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "a large black trash can. the trash can is next to other waste bins and has instructions attached to the front of the bin.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "other waste bins"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "0",
+        "target_name": "recycling_bin",
+        "caption": "this is a large recycling bin with a green lid. the lid has two openings and the bin has a rectangular opening.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "16",
+        "target_name": "recycling_bin",
+        "caption": "this is a grey recycling bin with a green lid. it is to the right of a grey table.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "grey table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "5",
+        "target_name": "trash_can",
+        "caption": "this is a large black trash can. it is against a wall and next to a wooden door.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "wall",
+                "wooden door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "this is a large single wood finished door. there is a brass colored lever style handle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "0",
+        "target_name": "recycling_bin",
+        "caption": "this is a large recycling bin with a rectangular opening. the bin has a green lid with two openings.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the object is a trash can it is located where the two halls meet. it is against the wall below the window.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "14",
+        "target_name": "trash_can",
+        "caption": "the object is a trash can. it is beneath the windows. it is where the two walls meet it is the tallest trash of the four.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "windows"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "28",
+        "target_name": "table",
+        "caption": "if you was walk into the two double doors. it would be the first table for you write the object is a table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "double doors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "11",
+        "target_name": "sink",
+        "caption": "the object is a sink. if you were to walk to the two double doors it would be in the small room directly to the left as you entered.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "double doors"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "15",
+        "target_name": "trash_can",
+        "caption": "the object has a trash can. it is where the two hallways meet there are four trash cans under the window it is the one to the right of the tallest trash can.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "window",
+                "tallest trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "this silver table is located in the right corner of the room. to the left of the table is a trashcan with a green lid with two holes.",
+        "parsed_query": {
+            "Target": "silver table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "16",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin has a green lid and is tucked underneath the long table. the recycling bin is located next to the white wall with high shelves.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "long table",
+                "white wall with high shelves"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "13",
+        "target_name": "trash_can",
+        "caption": "the trash can is directly right of the brown tables turned sideways. to the left of the trash can is a large sink.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "brown tables",
+                "large sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "this table is surrounded by trash cans and recycling bins. this long table is located in the back right corner of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "trash cans",
+                "recycling bins"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0412_00",
+        "target_id": "6",
+        "target_name": "doors",
+        "caption": "these doors are brown and black. they double doors are located at the very end of the room.",
+        "parsed_query": {
+            "Target": "double doors",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,558 @@
+[
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "this is the window that sits low by the wall. it is near lamp by the corner.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "lamp"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "3",
+        "target_name": "desk",
+        "caption": "there is a black table with a rectangular glass top. it is to the right of a black dresser, of similar height that also has glass top.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "black dresser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed is in the back left corner. it is against a window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "there is a black shelf with 3 separate shelves. it is located at the foot or to the rear of the bed. the black shelf also has a lamp ,with a white shade, on top.,",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "6",
+        "target_name": "closet_door",
+        "caption": "the closet door is in the back left corner. there are silver shelves to the right of it.",
+        "parsed_query": {
+            "Target": "silver shelves",
+            "Anchor": "closet door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "18",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is under the desk on the right side. it is against the left legs of the desk.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "the shelf is black. there is a white lamp on top of it.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "18",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is blue. it is under the desk on the right side.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "there is a window with white colored blinds on it. the window is to the right of the black table with the glass top. it is also behind the blue bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "black table with the glass top",
+                "blue bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "3",
+        "target_name": "desk",
+        "caption": "there is a black desk with a clear rectangular glass. the desk is located near the window, and has a office chair pulled up to it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "window",
+                "office chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "6",
+        "target_name": "closet_door",
+        "caption": "there is a white closet door that has 1 door knob. it is located to the right of the black shelf,  that has a lamp on top of it.",
+        "parsed_query": {
+            "Target": "closet door",
+            "Anchor": "black shelf"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is by the window. it is to the right of the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "6",
+        "target_name": "closet_door",
+        "caption": "the grey door. it is to the left of the closet.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "closet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "4",
+        "target_name": "cabinet",
+        "caption": "the cabinet is by the desk, to the left of the desk. it is also by the window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "6",
+        "target_name": "closet_door",
+        "caption": "the grey door that is in front of the bed. it is to the left of the other closet door.",
+        "parsed_query": {
+            "Target": "grey door",
+            "Anchor": [
+                "bed",
+                "other closet door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "3",
+        "target_name": "desk",
+        "caption": "the desk with the lamp on it. it is to the left of the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "lamp",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed is on the northeast side of the room. the bed is a black rectangle.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "18",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is below the table on the northwest corner of the room. the recycling bin is a blue rectangular prism.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "the shelf is next to the black bed. the shelf is a hollowed out rectangle.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "black bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "the chair is next to the northwest table. the chair is gray with a curved backside.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "northwest table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "4",
+        "target_name": "cabinet",
+        "caption": "the cabinet is south of the northwest table. the cabinet is gray with four legs.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "northwest table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "this is a set of blinds directly in front of the main doorway. i is on the left of the bed and the right of the computer table.",
+        "parsed_query": {
+            "Target": "set of blinds",
+            "Anchor": [
+                "main doorway",
+                "bed",
+                "computer table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this is the double bed on the right side of the room from the entrance.  behind the bed is the window blinds.",
+        "parsed_query": {
+            "Target": "double bed",
+            "Anchor": [
+                "entrance",
+                "window blinds"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "this is the lampshade in the back left corner of the bedroom. it sits on top of the computer table.",
+        "parsed_query": {
+            "Target": "lampshade",
+            "Anchor": "computer table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "this is the lampshade. it sits on the computer table in the back left side of the bedroom.",
+        "parsed_query": {
+            "Target": "lampshade",
+            "Anchor": "computer table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "this lampshade sits on the computer table. it is in the back left side of the bedroom.",
+        "parsed_query": {
+            "Target": "lampshade",
+            "Anchor": "computer table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "4",
+        "target_name": "cabinet",
+        "caption": "there is a black cabinet by the wall. it sits between the table and the shelf.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "table",
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "there is a white lamp near the corner.  it is on top of the table.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "a bed with a blue blanket.  located in the corner of the room against the wall.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "3",
+        "target_name": "desk",
+        "caption": "there is a black table by the wall. it has a lamp on it and is near the corner.",
+        "parsed_query": {
+            "Target": "black table",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "a windown on the wall beside the corner desk.  it is behind the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "corner desk",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "a tall black shelving unit at the foot of th ebed.  there are three large shelves.",
+        "parsed_query": {
+            "Target": "shelving unit",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "3",
+        "target_name": "desk",
+        "caption": "it is a black table by the window.  it is beside a low cabinet.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "window",
+                "low cabinet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "a rolling office chair under the desk beside the window.  it is under the glass table to the left of the bed.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "desk",
+                "window",
+                "glass table",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "18",
+        "target_name": "recycling_bin",
+        "caption": "a short blue recycling bin.  it is beside the rolling chair and under the table.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "rolling chair",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "6",
+        "target_name": "closet_door",
+        "caption": "it is a white wooden closet door. it is located to the right of the desk lamp.",
+        "parsed_query": {
+            "Target": "closet door",
+            "Anchor": "desk lamp"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "10",
+        "target_name": "shelf",
+        "caption": "it is a black three levels shelf. it is located to the right of the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "4",
+        "target_name": "cabinet",
+        "caption": "it is a brown wooden cabinet. it is placed in between the three levels shelf and the desk.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "three levels shelf",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "4",
+        "target_name": "cabinet",
+        "caption": "it is a brown wooden cabinet with a glass top. it is placed to the left of the desk.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "0",
+        "target_name": "window",
+        "caption": "it is a white window with a blind. it is located at the back of the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "a rolling office chair sitting under the glass table.  it is in front of the window.",
+        "parsed_query": {
+            "Target": "rolling office chair",
+            "Anchor": [
+                "glass table",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "a rolling office chair with a dark cushion.  it is under the table in the corner beside the window.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "table",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "12",
+        "target_name": "lamp",
+        "caption": "a small reading lamp on the glass table.  it sits in the corner by the window.",
+        "parsed_query": {
+            "Target": "reading lamp",
+            "Anchor": [
+                "glass table",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "18",
+        "target_name": "recycling_bin",
+        "caption": "a small blue recycling bin on the floor under the glass table.  it is to the right of the black file cabinets.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "glass table",
+                "black file cabinets"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0658_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "a bed with a blue blanket.  it sits in the corner of the room in front of the window and glass table.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "window",
+                "glass table"
+            ]
+        },
+        "unique": true
+    }
+]

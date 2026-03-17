@@ -1,0 +1,174 @@
+[
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "small round table. the round table is positioned in the middle of four armchairs. the color of the table is brown or black.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "armchairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "it is a white armchair. the white armchair is the chair on the left.",
+        "parsed_query": {
+            "Target": "white armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "4",
+        "target_name": "armchair",
+        "caption": "the object is a white armchair. it is the white armchair on the right. a table is sitting in front of it.",
+        "parsed_query": {
+            "Target": "white armchair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "the table has a round top. the table has chairs facing it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "3",
+        "target_name": "armchair",
+        "caption": "the armchair is facing the table. there is another chair to the right of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "1",
+        "target_name": "armchair",
+        "caption": "the armchair is to the right of the other chair. it is facing the table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "other chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "3",
+        "target_name": "armchair",
+        "caption": "a chair sits to the right of a circular table. it's to the right of another chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "circular table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "a small circular table sits in the middle of the floor. it's surrounded by four chairs.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "1",
+        "target_name": "armchair",
+        "caption": "this is a tan chair. it has a wire frame supporting it. it is near the flowers and around the small table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "flowers",
+                "small table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "2",
+        "target_name": "armchair",
+        "caption": "this is one of the fitted chairs around the small tbale. this one is closest to the black support pillar in the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "small table",
+                "black support pillar"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "this is a small black table. it resembles an upside down top hat. it is by the white chairs and flowers.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "white chairs",
+                "flowers"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "there is a brown end table that looks like a mushroom.  it is surrounded by 4 white chairs.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "white chairs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "1",
+        "target_name": "armchair",
+        "caption": "there are 4 white chairs surrounding a brown end table.  this chair has circular discs on the floor directly in front of it.",
+        "parsed_query": {
+            "Target": "white chair",
+            "Anchor": [
+                "brown end table",
+                "circular discs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0423_00",
+        "target_id": "3",
+        "target_name": "armchair",
+        "caption": "there are 4 white chairs surrounding a circular end table that looks like a mushroom.  this chair is directly to the left of the chair with the circular discs in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "chair with the circular discs in front of it"
+        },
+        "unique": false
+    }
+]

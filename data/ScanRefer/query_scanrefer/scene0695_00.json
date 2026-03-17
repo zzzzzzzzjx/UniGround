@@ -1,0 +1,715 @@
+[
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "the dull gross pillow. the pillow is on top of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "5",
+        "target_name": "curtain",
+        "caption": "the large window curtain. the curtain is next to the little shelf.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "little shelf"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "the large square window. the window is covered by the curtain.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "the small room door. the door is by the little table.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "little table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "the rolling office chair. the chair is in front of the desk.",
+        "parsed_query": {
+            "Target": "rolling office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "item is a bed with white linens on it.  it is located to the left of the cardboard box on the floor.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "cardboard box"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "item is a light tan trash can on the floor.  it is located to the left of the mesh hamper.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "mesh hamper"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "34",
+        "target_name": "cabinet",
+        "caption": "item is a wooden cabinet.  it is located under the mustard yellow item of clothing.",
+        "parsed_query": {
+            "Target": "wooden cabinet",
+            "Anchor": "mustard yellow item of clothing"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "4",
+        "target_name": "desk",
+        "caption": "item is a tan colored rectangular office desk.  it is located to the right of the black office chair.",
+        "parsed_query": {
+            "Target": "office desk",
+            "Anchor": "office chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this is a white door. it is to the left of the desk.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "5",
+        "target_name": "curtain",
+        "caption": "this is a white curtain. it is in front of the window.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "19",
+        "target_name": "laundry_hamper",
+        "caption": "this is a round laundry hamper. it is to the right of a white basket.",
+        "parsed_query": {
+            "Target": "laundry hamper",
+            "Anchor": "white basket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "this is a brown shelf. it is to the right of the desk.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "4",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is behind the chair.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "this window is on the wall. it has a grey border.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this bed is in the middle. it has objects.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "this bookshelf is against the wall. it is brown.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "this pillow is on the right. it is on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "6",
+        "target_name": "lamp",
+        "caption": "this lamp is on the top left corner. it is thin.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "5",
+        "target_name": "curtain",
+        "caption": "the large hanging curtain. the curtain is next to the little shelf.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "little shelf"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "5",
+        "target_name": "curtain",
+        "caption": "the white hanging curtains. the curtains are hanging in front of the window.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "19",
+        "target_name": "laundry_hamper",
+        "caption": "the large circular laundry hamper. the hamper is next to the lamp.",
+        "parsed_query": {
+            "Target": "laundry hamper",
+            "Anchor": "lamp"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "4",
+        "target_name": "desk",
+        "caption": "the large wooden desk. the desk is by the bed.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "the small bookshelf. the shelf is by the bed.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "it is a brown bed. the brown bed is next to the left wall in the room.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "left wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "34",
+        "target_name": "cabinet",
+        "caption": "it is a brown cabinet. the brown cabinet is at the foot of the bed on the left side of the room, next to the lamp.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "bed",
+                "lamp"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "it is a black office chair. the black office chair is the chair that is in front  of the desk that is siting next to the right wall in the room.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "19",
+        "target_name": "laundry_hamper",
+        "caption": "it is a white laundry hamper. the white laundry hamper is the hamper that is sitting to the left of the white lamp.",
+        "parsed_query": {
+            "Target": "laundry hamper",
+            "Anchor": "white lamp"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "6",
+        "target_name": "lamp",
+        "caption": "it is a white lamp. the white lamp is sitting to the right of the white laundry hamper.",
+        "parsed_query": {
+            "Target": "white lamp",
+            "Anchor": "white laundry hamper"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "9",
+        "target_name": "office_chair",
+        "caption": "the large cumfy office chair. the chair is in front of the desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "9",
+        "target_name": "office_chair",
+        "caption": "the cool office chair. the chair is by the desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "the small trash can. the trash can is in the corner of the room.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "the small wooden bookshelf. the shelf is by the desk.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "the rectangle trash can. the trash can is by the hamper.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "hamper"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "6",
+        "target_name": "lamp",
+        "caption": "this lamp is on the far wall. it is grey.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "4",
+        "target_name": "desk",
+        "caption": "this desk is on the right side. it is brown.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "9",
+        "target_name": "office_chair",
+        "caption": "this office chair is on the right. its brown.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "this bed is on the left. its white.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this door is on the right. its light.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this door is on the top right. its tan.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "this office chair is facing away. its black.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "9",
+        "target_name": "office_chair",
+        "caption": "this office chair is on the top right. its black.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "6",
+        "target_name": "lamp",
+        "caption": "this lamp is black. its thin in its base.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "this office chair is facing away. it has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "34",
+        "target_name": "cabinet",
+        "caption": "it is the brown cabinet. the brown cabinet is at the foot of the bed on the left of the room.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "4",
+        "target_name": "desk",
+        "caption": "it is a brown desk. the brown desk is on the right wall, in front of the black office chair, to the right of the bed.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "office chair",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "34",
+        "target_name": "cabinet",
+        "caption": "it is a brown cabinet. the brown cabinet is to the foot of the bed, and to the right of the lamp.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "bed",
+                "lamp"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "it is a beige trash can. the beige trash can is in the corner on the left of the white hamper.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "white hamper"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "6",
+        "target_name": "lamp",
+        "caption": "it is a white lamp. the white lamp is to the right of the white laundry hamper.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "white laundry hamper"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "this window is on the left. it is dark.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "18",
+        "target_name": "bookshelf",
+        "caption": "this bookshelf is on the far side. it is cluttered.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "19",
+        "target_name": "laundry_hamper",
+        "caption": "this laundry hamper is on the far side. it is empty.",
+        "parsed_query": {
+            "Target": "laundry hamper",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this door is on the top right corner. it is grey.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "this pillow is in between two hard objects. it is soft.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "34",
+        "target_name": "cabinet",
+        "caption": "the cabinet is left of the bed. the cabinet is a brown box.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "the pillow is on the right-most side of the bed. the pillow is a white rectangle.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "the window is right of the curtains. the window is white and rectangular.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "curtains"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "16",
+        "target_name": "trash_can",
+        "caption": "the trash can is next to the window. the trash can is white and has a rectangular top.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "15",
+        "target_name": "pillow",
+        "caption": "the pillow is the right-most one on the bed. the pillow is white and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "8",
+        "target_name": "office_chair",
+        "caption": "the office chair is in the middle of the room. the office chair is black and has five legs.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "5",
+        "target_name": "curtain",
+        "caption": "the curtain is on the opposite wall from the bed. the curtain is white and wavy.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "2",
+        "target_name": "window",
+        "caption": "the window is on the wall opposite from the bed. the window is a white rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "19",
+        "target_name": "laundry_hamper",
+        "caption": "the laundry hamper is next to the window. the laundry hamper is a gray cylinder.",
+        "parsed_query": {
+            "Target": "laundry hamper",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0695_00",
+        "target_id": "7",
+        "target_name": "bed",
+        "caption": "the bed is on the west side of the room. the bed is a white rectangle.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    }
+]

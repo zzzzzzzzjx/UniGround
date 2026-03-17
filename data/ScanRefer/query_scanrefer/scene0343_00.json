@@ -1,0 +1,804 @@
+[
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "the white wooden chair that is slightly pulled out from under the white legged, wood topped desk it sits under.  it is to the right of an identical chair that is pushed under the table more.  there is a rolling chopping board directly to the right of the chair.",
+        "parsed_query": {
+            "Target": "white wooden chair",
+            "Anchor": [
+                "white legged, wood topped desk",
+                "identical chair",
+                "rolling chopping board"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the main prep table in the center of the room.  it is a blonde colored wood and has stainless steel shelves under it.",
+        "parsed_query": {
+            "Target": "prep table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "a vertical stack of shelves and tubs mounted to the back wall.  it sits in the far back corner.  the tubs are transparent.",
+        "parsed_query": {
+            "Target": "vertical stack of shelves and tubs",
+            "Anchor": "back wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "8",
+        "target_name": "cart",
+        "caption": "a white rolling caddy with three shelves.  it is in between a blue caddy and a beige colored caddy.",
+        "parsed_query": {
+            "Target": "caddy",
+            "Anchor": [
+                "blue caddy",
+                "beige colored caddy"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "a six shelved storage unit mounted to the back wall.  it has a combination of flat shelves and tubs for storage and is white in color with clear shelves and tubs.",
+        "parsed_query": {
+            "Target": "storage unit",
+            "Anchor": "back wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair is located under a wood table. they are white chairs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wood table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table is next to another table. it is made out of a light wood.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "4",
+        "target_name": "sign",
+        "caption": "the sign is next to the shelves. it is rectangular.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": "shelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "8",
+        "target_name": "cart",
+        "caption": "this is a three tiered dingy white cart on wheels.  it is in between the blue cart and the square white cart up against the wall.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "blue cart",
+                "square white cart"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "5",
+        "target_name": "shelf",
+        "caption": "it is a small, white set of shelves amidst other sets of shelves.  it is on the bottom right of the shelves and above a turquoise cart.",
+        "parsed_query": {
+            "Target": "set of shelves",
+            "Anchor": [
+                "shelves",
+                "turquoise cart"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "it is a brown, wood table with white legs.  it has a brown, wooden serving cart beside it and two white chairs pushed in under it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "serving cart",
+                "white chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "4",
+        "target_name": "sign",
+        "caption": "this is some type of yellow fluid storage tank.  it is attached up high on the wall above the blue cart.",
+        "parsed_query": {
+            "Target": "fluid storage tank",
+            "Anchor": [
+                "wall",
+                "blue cart"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "9",
+        "target_name": "cart",
+        "caption": "this is a cream cart. it is in the corner.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "it is a light brown table pushed against a wall with 2 drawers and 2 trays underneath.  it is between a slightly darker table on the left and a black table on the right.",
+        "parsed_query": {
+            "Target": "light brown table",
+            "Anchor": [
+                "slightly darker table",
+                "black table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "this is a wooden table. it is against the wall, in between two tables.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "this is a white table or one with a white table cloth.  this table is in the middle of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "there's a brown table with a small serving cart attached that extends the length of the table.  the table is in the center of the room, has white legs with two white chairs pushed underneath it.",
+        "parsed_query": {
+            "Target": "brown table",
+            "Anchor": [
+                "serving cart",
+                "white chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this is a white wooden kitchen or desk chair.  it is the left chair of the two chairs at the desk up against the wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "7",
+        "target_name": "cart",
+        "caption": "this is a blue cart. it is to the left of a white cart.",
+        "parsed_query": {
+            "Target": "blue cart",
+            "Anchor": "white cart"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "5",
+        "target_name": "shelf",
+        "caption": "it is a small, white set of shelves where the top part is bigger and the bottom part is smaller.  it has dividers in the middle of it and is above a turquoise cart.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": "turquoise cart"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "6",
+        "target_name": "step_stool",
+        "caption": "this is a tan step stool. it is next to a blue cart.",
+        "parsed_query": {
+            "Target": "step stool",
+            "Anchor": "blue cart"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "this is a white table with a rack underneath.  it is straight across from the blue cart.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "blue cart"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "6",
+        "target_name": "step_stool",
+        "caption": "it is a brown wooden step stool. the stool is under a decorative wall shelf and beside a blue cart with rollers.",
+        "parsed_query": {
+            "Target": "step stool",
+            "Anchor": [
+                "decorative wall shelf",
+                "blue cart with rollers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "7",
+        "target_name": "cart",
+        "caption": "it is a blue cart adjacent to a table with a white countertop. the blue cart is next to a wooden step stool.",
+        "parsed_query": {
+            "Target": "blue cart",
+            "Anchor": [
+                "table with a white countertop",
+                "wooden step stool"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "it is wire basket shelving attached to rails in a cream colored wall. the shelving is next to a wooden table with butcher block top and two slate shelves.",
+        "parsed_query": {
+            "Target": "wire basket shelving",
+            "Anchor": "wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "6",
+        "target_name": "step_stool",
+        "caption": "it is a small wooden step stool with three steps sitting to the left of blue cart. the stool is at the end of the table.",
+        "parsed_query": {
+            "Target": "step stool",
+            "Anchor": [
+                "blue cart",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "the chair is white in color and is on the right of another exact chair when facing the backs of the chairs. the chair has a rolling butchers block to the right of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "rolling butchers block"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "5",
+        "target_name": "shelf",
+        "caption": "the shelf is a white wall shelf above a black furnishing. it is a bit to the left and above the aqua blue cart.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "black furnishing",
+                "aqua blue cart"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "8",
+        "target_name": "cart",
+        "caption": "the cart is on the right side of the aqua blue/green cart. the white cart is in between the aqua cart and the off white wart.",
+        "parsed_query": "{\"Target\": \"cart\", \"Anchor\": \"aqua blue/green cart\"}\n{\"Target\": \"white cart\", \"Anchor\": [\"aqua cart\", \"off white cart\"]}",
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table top is light brown in color and has 2 stainless steel/silver drawers. the table sits in front of the black table. the table has a white table on the left side when facing the table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "black table",
+                "white table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "9",
+        "target_name": "cart",
+        "caption": "the cart is a beige color. it has a white cart on it's left and a light brown table with a green and yellow stripe on the bottom shelf on the right.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "white cart",
+                "light brown table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "this is a square table. it is to the left of shelves.",
+        "parsed_query": {
+            "Target": "square table",
+            "Anchor": "shelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "this is a wooden table. it is to the right of another table.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "this is a wooden table. it is to the left of a black table.",
+        "parsed_query": {
+            "Target": "wooden table",
+            "Anchor": "black table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is long and is made of wood. it is the right table in the center of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "there is a rectangular table with green, blue and yellow colors. it is next to another long table.",
+        "parsed_query": {
+            "Target": "rectangular table",
+            "Anchor": "long table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "9",
+        "target_name": "cart",
+        "caption": "the cart has 3 baskets. it is the furthest cart to the right and is pushed into the corner.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "12",
+        "target_name": "table",
+        "caption": "the table has 2 shelves under it. it is located to the right of a colorful table and left of a black one.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "colorful table",
+                "black table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "the chair is pushed into the near side of the table. it is the white chair on the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "there is a tall brown table stand. it is smaller in surface area and next to other tables.",
+        "parsed_query": {
+            "Target": "table stand",
+            "Anchor": "tables"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is long and made of wood. it is the table in the center that is closest to the near wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "near wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "6",
+        "target_name": "step_stool",
+        "caption": "there is a rectangular brown step stool. it is next to a teal step stool.",
+        "parsed_query": {
+            "Target": "step stool",
+            "Anchor": "teal step stool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "7",
+        "target_name": "cart",
+        "caption": "this is a blue cart. it is by a white cart.",
+        "parsed_query": {
+            "Target": "blue cart",
+            "Anchor": "white cart"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "this is a white shelf. it is by a table.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "this is a tan table. it is to the right of another table.",
+        "parsed_query": {
+            "Target": "tan table",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this is a wooden chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "wooden chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "this is a brown table. it is to the left of shelves.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "shelves"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table has multicolored paint on it. it is located to the left of a similar table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "similar table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "14",
+        "target_name": "table",
+        "caption": "the table is on the right side of the room. it is a wooden, rectangular table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "8",
+        "target_name": "cart",
+        "caption": "the cart is one of three. there is a cart to the right of it, and a blue cart to the left of it.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": [
+                "cart",
+                "blue cart"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "5",
+        "target_name": "shelf",
+        "caption": "the shelf is affixed to the wall. a yellow box is next to it, and carts are beneath it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "yellow box",
+                "carts"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "16",
+        "target_name": "table",
+        "caption": "the table is in the center of the room. there are tables to the right of it and against the wall. there is also a table to the left of it against the opposite wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "there is a rectangular brown table. it is next to some chairs and has shelves in it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "there is a square white chair. it is facing a table at its rightmost corner.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "4",
+        "target_name": "sign",
+        "caption": "there is a rectangular yellow sign. it is above the teal step ladder.",
+        "parsed_query": {
+            "Target": "rectangular yellow sign",
+            "Anchor": "teal step ladder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "4",
+        "target_name": "sign",
+        "caption": "there is a rectangular yellow sign. it is next to the shelf on the wall.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": "shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "there is a square brown chair. it is in the middle of a long row of chairs at the long end of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "row of chairs",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "6",
+        "target_name": "step_stool",
+        "caption": "there is a rectangular brown step stool. it is next to the teal step stool.",
+        "parsed_query": {
+            "Target": "step stool",
+            "Anchor": "teal step stool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "9",
+        "target_name": "cart",
+        "caption": "there is a rectangular brown cart. it is next to the table with a blue, yellow and green top.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "table with a blue, yellow and green top"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "it is a multi colored desk that is located next to another multi colored desk. the desk is next to a step ladder that is white.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "desk",
+                "step ladder"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "5",
+        "target_name": "shelf",
+        "caption": "the object is a gray shelf. the shelf is located above a brown step ladder.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "brown step ladder"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "9",
+        "target_name": "cart",
+        "caption": "the object is a brown storage container on wheels. it is in between the white step ladder and multi colored desk.",
+        "parsed_query": {
+            "Target": "storage container",
+            "Anchor": [
+                "step ladder",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "13",
+        "target_name": "shelf",
+        "caption": "the shelf has multiple baskets and shelves. it is to the right of the small wooden table.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "small wooden table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "18",
+        "target_name": "chair",
+        "caption": "the chair is white with long legs. it is the first one from the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "3",
+        "target_name": "table",
+        "caption": "the table is dark brown. it is to the right of two tall chairs tucked under it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "tall chairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "11",
+        "target_name": "table",
+        "caption": "the table is brown with stripes. it is the first table from the left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0343_00",
+        "target_id": "4",
+        "target_name": "sign",
+        "caption": "the sign is yellow. it is left of the table with stripes.",
+        "parsed_query": {
+            "Target": "sign",
+            "Anchor": "table with stripes"
+        },
+        "unique": false
+    }
+]

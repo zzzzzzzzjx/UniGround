@@ -1,0 +1,1251 @@
+[
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "the desk is on the left side of the room. there is a man working at it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "the desk is on the left side of the room.  there are 2 desks connected.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "the monitor is on the desk. it is the one on the far left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "11",
+        "target_name": "monitor",
+        "caption": "the monitor is on the desk. it is the second one in from the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "0",
+        "target_name": "computer_tower",
+        "caption": "the computer tower is under the desk. it is on the far left side.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "this is a brown door with an object hanging from its hook. it is closed and facing the viewer.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "7",
+        "target_name": "bookshelf",
+        "caption": "this is a rack of objects. it is brown and has sections.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "this is a desktop surface with objects on it. it is sturdy and flat.",
+        "parsed_query": {
+            "Target": "desktop surface",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "10",
+        "target_name": "monitor",
+        "caption": "this is a computer monitor screen. it is turned on and is the second from the right of the right wall.",
+        "parsed_query": {
+            "Target": "computer monitor screen",
+            "Anchor": "right wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "11",
+        "target_name": "monitor",
+        "caption": "this is a computer with its screen on. it is the one past the head of the person.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": "person"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "11",
+        "target_name": "monitor",
+        "caption": "the monitor is on the desk. it is the second in from the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "the couch is grey. it is in the back of the room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "7",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is brown. it is to the left of the whiteboard.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "whiteboard"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "the monitor is on the desk. it is the first one on the left.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "42",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is in the back of the room. it is to the right of the bookshelf.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "bookshelf"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is partially facing the viewer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "36",
+        "target_name": "window",
+        "caption": "this is a diced and cubed object on the far side of the wall. it has ridges on it.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "this is a steel bar on the side of the door. it is rectangular.",
+        "parsed_query": {
+            "Target": "steel bar",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "this is a closed door. it is wooden and has a handle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "this is a closed and brown door. it has an object hanging from it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "29",
+        "target_name": "monitor",
+        "caption": "this is a monitor resting on a table. it is near a door coming into the room on the right side.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "38",
+        "target_name": "pillow",
+        "caption": "a red cushion on a l-shaped sofa. it is in the middle of the sofa and next to another red cushion.",
+        "parsed_query": {
+            "Target": "red cushion",
+            "Anchor": [
+                "l-shaped sofa",
+                "red cushion"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "0",
+        "target_name": "computer_tower",
+        "caption": "this is a black desk top computer  hard drive tower. it is under the left side of a computer table and next to a man sitting in a chair.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "computer table",
+                "man",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "7",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is wooden and it is the color brown. it is in the corner of the room. it is spaced at the back in the corner.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this is a brown desk chair in front of a computer table. it has a jacket over the top of its back rest.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "computer table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "42",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is the color white. it is on the wall at the left side of the room. it is spaced along the wall between the ceiling and the floor.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall",
+                "ceiling",
+                "floor"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "37",
+        "target_name": "pillow",
+        "caption": "the pillow is the color red. it is located on the couch at the back of the room. it is spaced at the back on top of the couch on the right side.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "a chair cushion with a high back resting on the floor. it is underneath a white board and to the right of a book case.",
+        "parsed_query": {
+            "Target": "chair cushion",
+            "Anchor": [
+                "white board",
+                "book case"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "5",
+        "target_name": "cart",
+        "caption": "the cart is the color black. it is located on the left side of the room near the back. it is spaced in front of the wall on the left side.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": "left wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "10",
+        "target_name": "monitor",
+        "caption": "this is a computer flat screen monitor. it is on a cluttered desk in the room.",
+        "parsed_query": {
+            "Target": "computer flat screen monitor",
+            "Anchor": "cluttered desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "36",
+        "target_name": "window",
+        "caption": "this is a mirror on the wall. it is above a small white wall mounted sill.",
+        "parsed_query": {
+            "Target": "mirror",
+            "Anchor": [
+                "wall",
+                "small white wall mounted sill"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "this is a brown wooden door. it is closed and has a metal colored handle.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "38",
+        "target_name": "pillow",
+        "caption": "this is a red throw pillow. it is on the couch next to a few backpacks.",
+        "parsed_query": {
+            "Target": "throw pillow",
+            "Anchor": [
+                "couch",
+                "backpacks"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "this is a black office chair on swivels. it is pulled up to a computer desk.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": "computer desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "42",
+        "target_name": "whiteboard",
+        "caption": "this is a large whiteboard. it is behind the monitor.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "monitor"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "28",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is under the desk.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a black couch. it is under the window.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "29",
+        "target_name": "monitor",
+        "caption": "this is a black computer monitor. it is to the right of another monitor.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "28",
+        "target_name": "computer_tower",
+        "caption": "this is a computer. above it is several computer monitors.",
+        "parsed_query": {
+            "Target": "computer monitors",
+            "Anchor": "computer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a computer chair with metal legs and wheels.  behind it is a white marker board.",
+        "parsed_query": {
+            "Target": "computer chair",
+            "Anchor": "white marker board"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "38",
+        "target_name": "pillow",
+        "caption": "this is a red throw pillow on couch. to the right of it is another red throw pillow.",
+        "parsed_query": {
+            "Target": "red throw pillow",
+            "Anchor": "red throw pillow"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "this is wooden light brown computer desk with monitors.  below it is a gray computer chair.",
+        "parsed_query": {
+            "Target": "computer chair",
+            "Anchor": "computer desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "5",
+        "target_name": "cart",
+        "caption": "this is a black computer stand on wheels, on top is a computer monitor, below is a computer. to the right is a couch with throw pillows.",
+        "parsed_query": {
+            "Target": "black computer stand",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "5",
+        "target_name": "cart",
+        "caption": "this is a dark colored cart in the middle of the room. it has objects on it.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "10",
+        "target_name": "monitor",
+        "caption": "this is a monitor on the desk surface. it is the second from the right wall.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "desk",
+                "right wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "15",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is facing the viewer.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "43",
+        "target_name": "recycling_bin",
+        "caption": "this is a black bin. it is against the wall and covered by a chair.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "36",
+        "target_name": "window",
+        "caption": "this object is on the far side wall. it has a diced pattern.",
+        "parsed_query": {
+            "Target": "object",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is facing away from the wall.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "this is a black monitor. it is on the left on the desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "42",
+        "target_name": "whiteboard",
+        "caption": "this is a large whiteboard. it is behind monitor.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": "monitor"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "this is a black monitor. it is to the left of another monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "10",
+        "target_name": "monitor",
+        "caption": "this is a black monitor. it is to the left of another monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "38",
+        "target_name": "pillow",
+        "caption": "this is a red pillow. it is on the left side of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "this is a long window. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "29",
+        "target_name": "monitor",
+        "caption": "there is a rectangular monitor. it is the one closest to the door.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "43",
+        "target_name": "recycling_bin",
+        "caption": "the recycling bin is on the floor against the wall. it is to the left of the chair.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": [
+                "floor",
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "there is a rectangular desk. it is against the side of the room left of the door.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "42",
+        "target_name": "whiteboard",
+        "caption": "the whiteboard is affixed to the wall on the right side of the room. it is opposite the desk.",
+        "parsed_query": {
+            "Target": "whiteboard",
+            "Anchor": [
+                "wall on the right side of the room",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "the chair is to the right of the sofa. it is also located to the left of the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "sofa",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "19",
+        "target_name": "door",
+        "caption": "the door is located to the right of the desk. its also located to the left of the shelf.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "desk",
+                "shelf"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "28",
+        "target_name": "computer_tower",
+        "caption": "the computer tower is underneath the right side of the desk. it is to the right of the chair, and to the left of the door.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "desk",
+                "chair",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "28",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is below a desk.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "43",
+        "target_name": "recycling_bin",
+        "caption": "this is a blue recycling bin. it is behind a chair.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "40",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is to the left of the couch.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "0",
+        "target_name": "computer_tower",
+        "caption": "this is a black computer tower. it is to the right of dumbbells.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "dumbbells"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is facing the left side of the room. it is pulled slightly away from the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "7",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is located on the right wall. it is to the right of the door.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "right wall",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is facing the desk. the chair is slightly pulled out from the desk. the chair is to the right of the monitor.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "monitor"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "the window is located to the left of the door. it is also to the right of the desk.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "door",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "37",
+        "target_name": "pillow",
+        "caption": "the pillow is red. it is on the couch. it is also to the left of the chair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a grey couch. it is against the back wall surface.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "back wall surface"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "0",
+        "target_name": "computer_tower",
+        "caption": "this is a computer tower. it is low on the ground and is black.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "5",
+        "target_name": "cart",
+        "caption": "this is a cart. it is black and has a space between its top and bottom.",
+        "parsed_query": {
+            "Target": "cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "36",
+        "target_name": "window",
+        "caption": "this is a window. it is at the upper portion of a wall on the back side.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "there is a black chair. it is at a computer monitor that is the second monitor from the door's left side.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "computer monitor",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "28",
+        "target_name": "computer_tower",
+        "caption": "there is a rectangular computer tower. it is the one closest to the left of the door.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "there is a square gray chair. it is next to a red pillow on the couch.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "red pillow"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is next to a red pillow.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "red pillow"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "37",
+        "target_name": "pillow",
+        "caption": "there is a rectangular red pillow. it is on the couch and next to a gray chair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "couch",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "11",
+        "target_name": "monitor",
+        "caption": "the computer monitor is the third one from the door. there is a picture hanging on the wall directly behind the monitor.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "the black office chair at the wooden computer desk. it is the chair at the desk that is farthest from the door. there is a computer tower on the floor under the desk by the chair.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "wooden computer desk",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "29",
+        "target_name": "monitor",
+        "caption": "the monitor on the wooden desk. it is the monitor closest to the door. there is a white cup in front of the monitor.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "wooden desk",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "38",
+        "target_name": "pillow",
+        "caption": "the red pillow on the couch. it is the pillow that is closer to the wall with the whiteboard on it. it is leaning against the back of the couch.",
+        "parsed_query": {
+            "Target": "red pillow",
+            "Anchor": [
+                "couch",
+                "whiteboard"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "the black office chair at the wooden desk. it is the chair at the desk that is farthest from the door.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "wooden desk",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "12",
+        "target_name": "monitor",
+        "caption": "there is a rectangular monitor. it is at the left end of a long table.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "long table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "0",
+        "target_name": "computer_tower",
+        "caption": "there is a rectangular computer tower. it is next to two chairs and under a table.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "two chairs",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "40",
+        "target_name": "computer_tower",
+        "caption": "there is a rectangular computer tower. it is on a stand with wheels.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": "stand with wheels"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "40",
+        "target_name": "computer_tower",
+        "caption": "there is a rectangular computer tower. it is on a stand with wheels next to a sofa.",
+        "parsed_query": {
+            "Target": "computer tower",
+            "Anchor": [
+                "stand with wheels",
+                "sofa"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "10",
+        "target_name": "monitor",
+        "caption": "there is a rectangular monitor. it is to the right of a laptop on the table.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "laptop"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "there is a long rectangular window. it is to the left of a door.",
+        "parsed_query": {
+            "Target": "long rectangular window",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "there is a rectangular gray couch. it is in front of the window.",
+        "parsed_query": {
+            "Target": "gray couch",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "43",
+        "target_name": "recycling_bin",
+        "caption": "there is a rectangular blue recycling bin. it is next to a computer tower.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "computer tower"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "43",
+        "target_name": "recycling_bin",
+        "caption": "this is a recycling bin behind the monitors. it is blue.",
+        "parsed_query": {
+            "Target": "recycling bin",
+            "Anchor": "monitors"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "3",
+        "target_name": "couch",
+        "caption": "this is a couch on the far side of the wall. it is grey.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "23",
+        "target_name": "window",
+        "caption": "this is a grey surface between the doors on the far side. it is steel.",
+        "parsed_query": {
+            "Target": "surface",
+            "Anchor": [
+                "door",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "17",
+        "target_name": "chair",
+        "caption": "this is an arm chair. it is beside the desk and computer.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "desk",
+                "computer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "11",
+        "target_name": "monitor",
+        "caption": "this is a computer monitor. it is one of two on the desk and it's the right side one.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "7",
+        "target_name": "bookshelf",
+        "caption": "this is a tall brown shelf. it has multiple levels and is in the corner.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "5",
+        "target_name": "cart",
+        "caption": "this is a small black double layer shelf. it has a computer on it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "computer"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "37",
+        "target_name": "pillow",
+        "caption": "there is a small red pillow. it is decorative and on the right side of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this is an armchair. it is at the second pair of monitors beside the man.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "second pair of monitors",
+                "man"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "29",
+        "target_name": "monitor",
+        "caption": "this is a monitor. it is one of four and on the far right.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "37",
+        "target_name": "pillow",
+        "caption": "this is a small red pillow. it is one of two and on the right side of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0474_00",
+        "target_id": "16",
+        "target_name": "chair",
+        "caption": "this is an arm chair. it is the one the man is sitting in at the desk.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": [
+                "man",
+                "desk"
+            ]
+        },
+        "unique": false
+    }
+]

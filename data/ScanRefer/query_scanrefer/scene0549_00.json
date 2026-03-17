@@ -1,0 +1,767 @@
+[
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "a green couch. between two round wooden tables.",
+        "parsed_query": {
+            "Target": "green couch",
+            "Anchor": [
+                "round wooden table",
+                "round wooden table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "3",
+        "target_name": "coffee_table",
+        "caption": "a beige wooden table. in front of the couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "a beige wooden table. in the middle of the couches.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couches"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "a beige wooden round table. next to the couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "a beige round table. on the right to the couch.",
+        "parsed_query": {
+            "Target": "beige round table",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "11",
+        "target_name": "armchair",
+        "caption": "it is a blue armchair. the blue armchair is at the front left of the room.",
+        "parsed_query": {
+            "Target": "blue armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "9",
+        "target_name": "armchair",
+        "caption": "it is a blue armchair. the blue armchair is at the back left of the room.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "it is a blue couch. the blue couch is at the mid-back of the room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "10",
+        "target_name": "armchair",
+        "caption": "it is a blue armchair. the blue armchair is at the back right of the room.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "it is a blue couch. the blue couch is at the mid right of the room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "6",
+        "target_name": "end_table",
+        "caption": "this is a round table. it is by the green couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "green couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "10",
+        "target_name": "armchair",
+        "caption": "this is a blue chair. it is facing another chair on the far side of the coffee table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "chair",
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "this is a round table. it is under flowers.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "flowers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "4",
+        "target_name": "end_table",
+        "caption": "this is a round table. it is by the green couch and blue chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "green couch",
+                "blue chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "6",
+        "target_name": "end_table",
+        "caption": "this is a round table. it is by the green couch and blue chair.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": [
+                "green couch",
+                "blue chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "11",
+        "target_name": "armchair",
+        "caption": "there is a square blue armchair. it is facing the long end of a table and near a teal couch.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "table",
+                "teal couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "6",
+        "target_name": "end_table",
+        "caption": "there is a circular wooden end table. it is next to a teal couch.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "teal couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "10",
+        "target_name": "armchair",
+        "caption": "there is a square blue armchair. it is facing the long end of a table and near a teal couch.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "table",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "21",
+        "target_name": "armchair",
+        "caption": "there is a square blue armchair. it is beside a teal couch and a circular end table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "teal couch",
+                "circular end table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "4",
+        "target_name": "end_table",
+        "caption": "there is a circular wooden end table. it is next to a teal couch and a blue armchair.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "couch",
+                "armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "it is a blue couch. the blue couch sits in front of the right wall in the room.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "right wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "it is a blue couch. the blue couch sits between two round tables next to the right wall in the room.",
+        "parsed_query": {
+            "Target": "blue couch",
+            "Anchor": [
+                "round tables",
+                "right wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "10",
+        "target_name": "armchair",
+        "caption": "it is a blue armchair. the blue armchair is the first armchair in the front right of the room.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "9",
+        "target_name": "armchair",
+        "caption": "it is a blue armchair. the blue armchair is the back armchair towards the right of the room.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "7",
+        "target_name": "end_table",
+        "caption": "it is the brown round table. the brown round table is the second round table that sits on the right wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "right wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "3",
+        "target_name": "coffee_table",
+        "caption": "there is a rectangular coffee table. it is in front of a teal couch.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "teal couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "21",
+        "target_name": "armchair",
+        "caption": "there is a blue armchair. it is facing the end of a long coffee table.",
+        "parsed_query": {
+            "Target": "blue armchair",
+            "Anchor": "long coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "7",
+        "target_name": "end_table",
+        "caption": "there is a circular end table. it is next to a teal couch.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "teal couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "there is a rectangular teal couch. it is next to two armchairs and a coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "armchairs",
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "4",
+        "target_name": "end_table",
+        "caption": "this table is straight ahead. it is brown and round.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "12",
+        "target_name": "shelf",
+        "caption": "this shelf is on the right. it is blue.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "21",
+        "target_name": "armchair",
+        "caption": "this chair is in the middle. it is blue and turned away.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "21",
+        "target_name": "armchair",
+        "caption": "this chair is on the left. it is blue.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "12",
+        "target_name": "shelf",
+        "caption": "this shelf is against the wall. it is stacked.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "7",
+        "target_name": "end_table",
+        "caption": "there is a circular end table. it is beside a teal couch.",
+        "parsed_query": {
+            "Target": "circular end table",
+            "Anchor": "teal couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "there is a rectangular teal couch. it is next to two armchairs.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "armchairs"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "6",
+        "target_name": "end_table",
+        "caption": "there is a circular end table. it is to the right of a teal couch.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "teal couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "0",
+        "target_name": "couch",
+        "caption": "there is a rectangular teal couch. it is besides two armchairs and behind a coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "armchairs",
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "there is a circular wooden end table. it is next to a teal couch.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": "teal couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "a blue table. it is behind the wooden beige table.",
+        "parsed_query": {
+            "Target": "blue table",
+            "Anchor": "wooden beige table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "a blue table. it is behind the blue couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "a blue couch. it is the largest in view and is by the wood coffee table.",
+        "parsed_query": {
+            "Target": "blue couch",
+            "Anchor": "wood coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "1",
+        "target_name": "couch",
+        "caption": "a big blue couch. it is between two end tables.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "end table",
+                "end table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "3",
+        "target_name": "coffee_table",
+        "caption": "a wooden coffee table. it is between three couches.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "couch",
+                "couch",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "this table is on the right. it is rectangular.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "4",
+        "target_name": "end_table",
+        "caption": "this end table is on the left. it is round.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "7",
+        "target_name": "end_table",
+        "caption": "this round table is in the middle of two surfaces. it is brown.",
+        "parsed_query": {
+            "Target": "round table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "12",
+        "target_name": "shelf",
+        "caption": "this shelf is by the far wall. it is grey.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "far wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "3",
+        "target_name": "coffee_table",
+        "caption": "this coffee table is rectangular. it is brown.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "10",
+        "target_name": "armchair",
+        "caption": "there is a square blue armchair. it is next to a teal couch.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "teal couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "there is a rectangular brown coffee table. it is in front of a teal couch.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "teal couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "11",
+        "target_name": "armchair",
+        "caption": "there is a square blue armchair. it is next to a teal couch",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "teal couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "11",
+        "target_name": "armchair",
+        "caption": "there is a square blue armchair. it is next to a teal couch and facing the end of a long coffee table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "teal couch",
+                "long coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "9",
+        "target_name": "armchair",
+        "caption": "there is a square blue armchair. it is facing the end of a long coffee table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "4",
+        "target_name": "end_table",
+        "caption": "the item is in an end table. it is directly opposite of the end table with the flowers on it.",
+        "parsed_query": {
+            "Target": "item",
+            "Anchor": [
+                "end table",
+                "end table with the flowers on it"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "the table is rectangular. it is located to the left of a round, tan table.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "round tan table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "5",
+        "target_name": "end_table",
+        "caption": "the wooden table is brown, with a circular surface. it is located as a corner piece between a green couch to its left, and a greyish couch to its perpendicular right.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "green couch",
+                "greyish couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "9",
+        "target_name": "armchair",
+        "caption": "the armchair is blue. it is located perpendicular to the blue-green couch on its right, and across from the rectangular white coffee table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "blue-green couch",
+                "rectangular white coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "2",
+        "target_name": "coffee_table",
+        "caption": "the coffee table has a rectangular white surface. it is located in front of the blue-green couch, and the right of the blue armchair.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": [
+                "blue-green couch",
+                "blue armchair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "11",
+        "target_name": "armchair",
+        "caption": "the armchair is blue. it is located behind the white coffee table, and to the left of the round, tan table.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": [
+                "white coffee table",
+                "round tan table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "13",
+        "target_name": "table",
+        "caption": "the object is a table. when you enter through the double doors that is the first table to your left.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "double doors"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "9",
+        "target_name": "armchair",
+        "caption": "the object is a chair. when you're through the double doors it is the first chair to the left of you in front of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "double doors",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "12",
+        "target_name": "shelf",
+        "caption": "the object is a shelf. when you enter through the double doors it is the first shelf to you right.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "double doors"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0549_00",
+        "target_id": "12",
+        "target_name": "shelf",
+        "caption": "the object is a shelf. when you enter through the double doors it will be directly to your right.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "double doors"
+        },
+        "unique": true
+    }
+]

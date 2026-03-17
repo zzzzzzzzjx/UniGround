@@ -1,0 +1,418 @@
+[
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "there is a rectangular wooden table. it is surrounded by chairs and at the wall.",
+        "parsed_query": {
+            "Target": "rectangular wooden table",
+            "Anchor": [
+                "chairs",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "there is a gray chair. it is on the right side of a table.",
+        "parsed_query": {
+            "Target": "gray chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "there is a rectangular wooden table. it is surrounded by chairs.",
+        "parsed_query": {
+            "Target": "rectangular wooden table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is facing the table. it is located to the right of the chair beside it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the table is rectangular. there are two chairs facing it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is square. there is a chair to the left of it, and a chair to the right of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "the chair is facing the table. the chair is facing right. there is another chair pulled under the table that faces the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the table is on the right side of the room. there are two chairs on the left side of it, that face it.",
+        "parsed_query": {
+            "Target": "chairs",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is next to the northeast-most table. the chair is black with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "northeast-most table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table is the northwest-most one. the table is a brown rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is the southwest-most one next to the northeast-most table. the chair is black with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is the southwest-most one next to the northeast-most table. the chair is black with a square seat.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is the southeast-most one on the northeast-most table. the chair has four legs and is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is brown. it is square. it is in the front of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair has brown legs. it is on the right side of the left table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "left table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is on the table on the right. the chair is on the left side of that table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the chair is on the right table. the chair is on the right of the other chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the chair is on the left table. the chair is to the right of the other chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "5",
+        "target_name": "table",
+        "caption": "the table is brown. the table is on the right side of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table is brown. the table is on the left side of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is brown. the table is square.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "the chair is facing the table. it is the chair to the right of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is to the right of one chair. it is to the left of the other chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "4",
+        "target_name": "table",
+        "caption": "the table is square. there is a chair to the left, and a chair to the right of it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "6",
+        "target_name": "table",
+        "caption": "the table has booth seating to the right of it. it has chairs to the left of it, facing it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "booth seating",
+                "chairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the chair is one of two chairs. it is the one on the left.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "the first chair on your right after an open space for walking. the chair's seat is tucked in under the tabletop.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "tabletop"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "the first chair at a table on your right. brown wood chair and the seat is tucked under the tabletop.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "this chair is facing up and right. it is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this chair is facing down and right. it is standing.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this chair is facing away. it is brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "2",
+        "target_name": "chair",
+        "caption": "this chair is on the right. it is on four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "14",
+        "target_name": "chair",
+        "caption": "this chair is facing down and right. it is on four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0609_00",
+        "target_id": "13",
+        "target_name": "chair",
+        "caption": "brown wood chair that is set to the right of the small table. the seat area is tucked under the tabletop.",
+        "parsed_query": {
+            "Target": "brown wood chair",
+            "Anchor": "small table"
+        },
+        "unique": false
+    }
+]

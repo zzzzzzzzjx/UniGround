@@ -1,0 +1,1200 @@
+[
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "the pillow is the top-most pillow on the bed. there are multiple pillows under the pillow. the pillow is on top of the bed sheets. the pillow is a cream color (white-light yellow). there is a red blanket in front of the pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "bed sheets",
+                "pillows",
+                "red blanket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "the window is located between two beds. the detail and the panes of the both sides of the window appear to be different.  the window has a large, brown window ledge.  on the ledge, there is a box with multiple rubix cubes.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "13",
+        "target_name": "closet",
+        "caption": "the closet is not very deep.  there are brown shelves to the right/front of the closet. there is a plant on the top shelf.  there are multiple towels hanging inside the closet.",
+        "parsed_query": {
+            "Target": "towels",
+            "Anchor": "closet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "the small desk is located between two beds. the desk is made from wood and is the color brown. on top of the desk, there is a laptop and headphones.  the desk is in front of the window.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "bed",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "24",
+        "target_name": "shelf",
+        "caption": "the shelf is brown and made from wood. there are three levels to the brown shelf. there is a plant on the top shelf. there are candles on the shelf. the shelf is in front of the closet.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "closet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "a door stands in a small hall. it's got some clothes hanging to the left of it on the wall.",
+        "parsed_query": {
+            "Target": "clothes",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "15",
+        "target_name": "bed",
+        "caption": "a loft bed sits to the left of a window. it's got a desk on it's left side.",
+        "parsed_query": {
+            "Target": "loft bed",
+            "Anchor": [
+                "window",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "46",
+        "target_name": "pillow",
+        "caption": "an orange pillow sits on the bed. it's behind a white pillow.",
+        "parsed_query": {
+            "Target": "orange pillow",
+            "Anchor": [
+                "bed",
+                "white pillow"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "a chair sits pulled into a desk. it's got a wall to the left of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "a door stands in the hall. it's to the right of some clothes hanging on the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "clothes hanging on the wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "the door is open facing the inside of the small bedroom. it sits midway in the wall and has a closet on one side of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "wall",
+                "closet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "13",
+        "target_name": "closet",
+        "caption": "the closet does not have a door, it is wide open. access to the closet required going in between it and the desk. it sits in the far right corner of the bedroom.",
+        "parsed_query": {
+            "Target": "closet",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "29",
+        "target_name": "fan",
+        "caption": "the waist height white oscillating fan is positioned beside the bed and desk chair. if you enter the bedroom door and continue straight ahead you will run into it before reaching the bed. against the rear wall.",
+        "parsed_query": {
+            "Target": "oscillating fan",
+            "Anchor": [
+                "bed",
+                "desk chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "37",
+        "target_name": "pillow",
+        "caption": "an average sized, oblong pillow of a light tan color. it is at the head of the bed, leaning against some other pillows. it is in the front.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "pillows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "the bedroom door sits between the doorless closet on it's right and a bedside table on the left. the door is narrow and has some hanging clothes on the left side of the door jam.",
+        "parsed_query": {
+            "Target": "bedroom door",
+            "Anchor": [
+                "doorless closet",
+                "bedside table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "the double window is positioned in between two twin beds. it's place in the rear wall is farther right instead of directly in the middle.",
+        "parsed_query": {
+            "Target": "double window",
+            "Anchor": [
+                "twin bed",
+                "twin bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "a large casement window with bluish highlights.  it is the main window in the room, in the center of the wall.",
+        "parsed_query": {
+            "Target": "casement window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "29",
+        "target_name": "fan",
+        "caption": "a short dyson-style floor fan.  it is in front of the bed and between the desk (left) and a black box (r).",
+        "parsed_query": {
+            "Target": "dyson-style floor fan",
+            "Anchor": [
+                "bed",
+                "desk",
+                "black box"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "26",
+        "target_name": "chair",
+        "caption": "a black rolling office chair with five wheels.  it is in front of a small desk between the two beds.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "small desk",
+                "two beds"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "28",
+        "target_name": "dresser",
+        "caption": "a chocolate-brown dresser with three drawers. it is under the bed with magenta bedspread. the office chair is to the left.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed with magenta bedspread",
+                "office chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "26",
+        "target_name": "chair",
+        "caption": "a desk chair is pushed into a small computer desk. the chair has wheels.",
+        "parsed_query": {
+            "Target": "desk chair",
+            "Anchor": "small computer desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "14",
+        "target_name": "bed",
+        "caption": "the messy purple bed is against the wall under the window. it is a twin size mattress.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "there is a small cube shaped cabinet on the floor near the bed. it is behind the lamp.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "bed",
+                "lamp"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "a black cube sits on the floor. it is in front of the bed.",
+        "parsed_query": {
+            "Target": "cube",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "there are two large windows on the wall between two beds. the windows have pull down shades.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "beds"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "26",
+        "target_name": "chair",
+        "caption": "it is a black chair. the black chair is sitting at the desk that is between the two beds, towards the back left of the room.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "beds"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "it is the brown desk. the brown desk is sitting to the left of the bed with the white and orange pillow.",
+        "parsed_query": {
+            "Target": "brown desk",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "it is a grey chair. the grey chair is sitting at the brown desk which is to the left of the bed with the white and orange pillow.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "brown desk",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "it is a brown desk. the brown desk is sitting in the back left corner of the room.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "37",
+        "target_name": "pillow",
+        "caption": "it is a white pillow. the white pillow is on the bed (in the back of the room) with the blue and white sheet, and purple comforter.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "46",
+        "target_name": "pillow",
+        "caption": "the pillow is on the bed. it is orange, and their is another pillow resting on top of it, in front of it.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "pillow"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "the desk has a chair pulled into it. the desk is located to the left of the dresser drawers.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "dresser drawers"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "the chair is facing the desk. there is a backpack on the floor to the right of the chair.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "14",
+        "target_name": "bed",
+        "caption": "the bed is on the right side of the room. there is a desk slightly below and to the left of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "the yellow pillow in front of another pillow. it is on the bed.",
+        "parsed_query": {
+            "Target": "yellow pillow",
+            "Anchor": [
+                "pillow",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "24",
+        "target_name": "shelf",
+        "caption": "the shelf sitting on a desk. it is to the left of the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "desk",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "the yellow pillow in front of the other pillow. it is on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "other pillow",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "26",
+        "target_name": "chair",
+        "caption": "the chair is in front of the desk. in between the two beds.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "beds"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "29",
+        "target_name": "fan",
+        "caption": "the fan is next to the bed. in front of it is the desk with a shelf on it.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "14",
+        "target_name": "bed",
+        "caption": "it is a brown wooden bed. it is placed in front of the brown wooden shelf.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "brown wooden shelf"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "28",
+        "target_name": "dresser",
+        "caption": "a brown dresser has three drawers and is under the bed. there is another bed in front and to the left of it and the black and green backpack.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "27",
+        "target_name": "dresser",
+        "caption": "it is a brown wooden dresser. it is placed under the bed next to the window.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "the brown wood desk has a chair in front of it. there is a wood shelf sitting on top of the desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "22",
+        "target_name": "shelf",
+        "caption": "the shelf is to the right of the bed. it is behind the backpack.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "bed",
+                "backpack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "20",
+        "target_name": "window",
+        "caption": "the window is behind the bed. it is on the back right side.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "the chair is in the back left corner. it is in front of the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "the pillow is on the bed. it is the one in the front.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "28",
+        "target_name": "dresser",
+        "caption": "it is a brown wooden dresser. it is placed under the bed next to the brown wooden shelf.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "brown wooden shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "17",
+        "target_name": "bookshelf",
+        "caption": "the white shelf is against the wall and behind the bed. there is another bed to the right of it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "3",
+        "target_name": "door",
+        "caption": "the door is in the back middle of the room. it is ot the left of the desk.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "24",
+        "target_name": "shelf",
+        "caption": "this is a cabinet shelf. it is on the desk in the corner and has a buddha statue head on it.",
+        "parsed_query": {
+            "Target": "cabinet shelf",
+            "Anchor": [
+                "desk",
+                "buddha statue head"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "15",
+        "target_name": "bed",
+        "caption": "this is a top bunk bed. it has a red fabric on top of the bed sheets.",
+        "parsed_query": {
+            "Target": "top bunk bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "22",
+        "target_name": "shelf",
+        "caption": "this is a stacked shelving unit. it is made of plastic.",
+        "parsed_query": {
+            "Target": "shelving unit",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "the grey cabinet is to the left of the brown bed. it is also to the right of the black sandals.",
+        "parsed_query": {
+            "Target": "grey cabinet",
+            "Anchor": [
+                "brown bed",
+                "black sandals"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "13",
+        "target_name": "closet",
+        "caption": "the closet is behind the wooden desk. there are green picture frames on the self in front.",
+        "parsed_query": {
+            "Target": "closet",
+            "Anchor": "wooden desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "17",
+        "target_name": "bookshelf",
+        "caption": "this is a plastic shelving unit. it has an alarm clock on it. it is on top of the bed near the wall.",
+        "parsed_query": {
+            "Target": "shelving unit",
+            "Anchor": [
+                "bed",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "46",
+        "target_name": "pillow",
+        "caption": "it is an orange cotton pillow. it is placed on the bed next to the wall with a colorful picture.",
+        "parsed_query": {
+            "Target": "orange cotton pillow",
+            "Anchor": [
+                "bed",
+                "wall with a colorful picture"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "17",
+        "target_name": "bookshelf",
+        "caption": "this is a white bookshelf. it is at the foot of the bed.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "37",
+        "target_name": "pillow",
+        "caption": "this is a white head board pillow. it is on the striped bed on top.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "striped bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "15",
+        "target_name": "bed",
+        "caption": "this is a brown bed. it is to the right of the desk.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "it is a brown wooden table. it is placed to the left of the bed.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "37",
+        "target_name": "pillow",
+        "caption": "this is a white pillow. it is under the picture.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "picture"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "23",
+        "target_name": "shelf",
+        "caption": "the black shelf is in the corner, above the bed.  it is to the right of the brown shelf.",
+        "parsed_query": {
+            "Target": "black shelf",
+            "Anchor": [
+                "bed",
+                "brown shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "27",
+        "target_name": "dresser",
+        "caption": "the brown wood dresser is under the bed with a black chair to the right of it. the wood dresser has a wooden desk in front of it.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "black chair",
+                "wooden desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "28",
+        "target_name": "dresser",
+        "caption": "the brown dresser is directly behind the backpack on the floor. it is to the left of the clear shelf.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "backpack",
+                "clear shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "23",
+        "target_name": "shelf",
+        "caption": "this is a black shelf. it is above the head of the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "this is a black cabinet. it is on the floor, by the bed.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "16",
+        "target_name": "desk",
+        "caption": "the desk is in a corner against the wall. it has a white bookend on top of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "29",
+        "target_name": "fan",
+        "caption": "the white fan is in the center of the room, to the right of the grey chair. it is to the left of the grey cabinet.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": [
+                "grey chair",
+                "grey cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "22",
+        "target_name": "shelf",
+        "caption": "this is a shelf with many rows. the shelf is close to wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "37",
+        "target_name": "pillow",
+        "caption": "this is a rectangular pillow. the pillow is on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "46",
+        "target_name": "pillow",
+        "caption": "this is orange pillow. the pillow is on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is in between beds.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bed",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "24",
+        "target_name": "shelf",
+        "caption": "this is  wooden shelf. the wooden shelf is attached to wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "13",
+        "target_name": "closet",
+        "caption": "this is a closet. the closet is attached to wall.",
+        "parsed_query": {
+            "Target": "closet",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "25",
+        "target_name": "chair",
+        "caption": "this is a brown wooden chair. it is in front of a desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "14",
+        "target_name": "bed",
+        "caption": "this is a wooden bed. it is under a purple blanket.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "purple blanket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "14",
+        "target_name": "bed",
+        "caption": "this is a wooden bed. it is to the right of the table.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "15",
+        "target_name": "bed",
+        "caption": "this is a wooden bed. it is to the left of the table.",
+        "parsed_query": {
+            "Target": "wooden bed",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "45",
+        "target_name": "pillow",
+        "caption": "this is a cream colored pillow. it is topmost on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "this is a black cabinet. it is by the fan.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "fan"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "22",
+        "target_name": "shelf",
+        "caption": "this is a cream colored shelf. it has lots of stuff on it.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "17",
+        "target_name": "bookshelf",
+        "caption": "this is a white bookshelf with lots of shelves. it is by the wall across the table.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "15",
+        "target_name": "bed",
+        "caption": "this bed is in the center. it is brown and ridged.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "27",
+        "target_name": "dresser",
+        "caption": "the dresser is under the bed. it has a suitcase in front of it.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": [
+                "bed",
+                "suitcase"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "26",
+        "target_name": "chair",
+        "caption": "this chair is on the left side. it is cirular and black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "27",
+        "target_name": "dresser",
+        "caption": "this dresser is in the middle. it is brown and sturdy.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "23",
+        "target_name": "shelf",
+        "caption": "this shelf has objects in it. it is on the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "17",
+        "target_name": "bookshelf",
+        "caption": "the bookshelf is in front of the bed. it is white.",
+        "parsed_query": {
+            "Target": "bookshelf",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "23",
+        "target_name": "shelf",
+        "caption": "this shelf is on the wall. it is brown.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "24",
+        "target_name": "shelf",
+        "caption": "this is a wooden shelf. it is on the left side of the bed.",
+        "parsed_query": {
+            "Target": "wooden shelf",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "22",
+        "target_name": "shelf",
+        "caption": "this is a white shelf. it is next to the bed with purple blanket.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bed with purple blanket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "23",
+        "target_name": "shelf",
+        "caption": "this is a small shelf. it is above the bed.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "29",
+        "target_name": "fan",
+        "caption": "there is a tall object round at the top located to the right near the wall. a brown desk and chair sets to the left of the tall metal object.",
+        "parsed_query": {
+            "Target": "brown desk and chair set",
+            "Anchor": "tall metal object"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "28",
+        "target_name": "dresser",
+        "caption": "there is a brown wooden dresser drawer. it is located to the right across from the office desk and chair.",
+        "parsed_query": {
+            "Target": "dresser drawer",
+            "Anchor": [
+                "office desk",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "31",
+        "target_name": "desk",
+        "caption": "the brown wooden desk is located underneath the black and white laptop. it has a black cushion computer chair in front of it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "laptop",
+                "computer chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0648_00",
+        "target_id": "46",
+        "target_name": "pillow",
+        "caption": "the orange pillow is under the white pillow. it touches the back of the head board.",
+        "parsed_query": {
+            "Target": "orange pillow",
+            "Anchor": [
+                "white pillow",
+                "head board"
+            ]
+        },
+        "unique": false
+    }
+]

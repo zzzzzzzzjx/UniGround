@@ -1,0 +1,792 @@
+[
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "19",
+        "target_name": "armchair",
+        "caption": "a gray cotton arm chair. in the corner of the room.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "14",
+        "target_name": "wardrobe_closet",
+        "caption": "a white wooden cabinet. on the right to the bed.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "a white wooden small table. on the right to the arm chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "arm chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "a white wooden table. between the chair and bed.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "25",
+        "target_name": "shelf",
+        "caption": "a white wooden shelf. on the side of the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "14",
+        "target_name": "wardrobe_closet",
+        "caption": "this is a wardrobe closet. the wardrobe is closed and made of wood.",
+        "parsed_query": {
+            "Target": "wardrobe closet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "23",
+        "target_name": "chest",
+        "caption": "there is a blue chest by the wall. it is on top of the table.",
+        "parsed_query": {
+            "Target": "chest",
+            "Anchor": [
+                "wall",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "19",
+        "target_name": "armchair",
+        "caption": "there is a gray armchair by the wall. it is right on the corner of the room.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "25",
+        "target_name": "shelf",
+        "caption": "there is a silver shelf by the wall. it is between the chair and the couch.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "chair",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "18",
+        "target_name": "shelf",
+        "caption": "there is a shelf by the wall near the corner. it is beside a lower shelf.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "wall",
+                "lower shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "16",
+        "target_name": "crib",
+        "caption": "there is a baby crib by the wall. it is in silver color.",
+        "parsed_query": {
+            "Target": "baby crib",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "23",
+        "target_name": "chest",
+        "caption": "this is a blue color chest. the chest is dresser.",
+        "parsed_query": {
+            "Target": "chest",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this is a picture with brown frame. the picture is hanged on wall.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "17",
+        "target_name": "diaper_bin",
+        "caption": "this is a diaper bin. the diaper bin is next to cradle.",
+        "parsed_query": {
+            "Target": "diaper bin",
+            "Anchor": "cradle"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "14",
+        "target_name": "wardrobe_closet",
+        "caption": "this is a closet wardrobe. the wardrobe is next to wall.",
+        "parsed_query": {
+            "Target": "wardrobe",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "7",
+        "target_name": "pillow",
+        "caption": "a single pillow on the gray armchair in the corner of the room. the pillow is square and white and gray plaid. the chair it is sitting on is in front of the lamp in the corner of the room.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "gray armchair",
+                "lamp"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "17",
+        "target_name": "diaper_bin",
+        "caption": "a plain black diaper bin located in the small space between the white crib and the white cabinet. the bin is just barely visible in the space next to the crib. the bin is rectangular and plain black and is against the solid foot of the crib.",
+        "parsed_query": {
+            "Target": "diaper bin",
+            "Anchor": [
+                "white crib",
+                "white cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "9",
+        "target_name": "window",
+        "caption": "a large window on the far wall in the room. the window has a gray armchair and a lamp to its left, a white crib to its right, and a small side table in front of it. the window is covered by a light cream-colored, sheer curtain and a thicker beige curtain is tied back on either side of it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "gray armchair",
+                "lamp",
+                "white crib",
+                "small side table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "18",
+        "target_name": "shelf",
+        "caption": "a white shelf located in the corner of the room. the shelf unit has two shelves on the bottom and the top shelf is covered in fabric and doubles as a baby changing table. there is a mounted wall shelf with several family photos above this shelving unit. to the right of the shelf is a small set of white pullout storage bins.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": [
+                "mounted wall shelf",
+                "white pullout storage bins"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this picture is on the left wall. it is facing right.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "left wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this picture is on the right. it is facing viewer.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "7",
+        "target_name": "pillow",
+        "caption": "this pillow is on the chair. it is in the corner.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "23",
+        "target_name": "chest",
+        "caption": "this chest is on the top right fridge. it is blue.",
+        "parsed_query": {
+            "Target": "chest",
+            "Anchor": "top right fridge"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "18",
+        "target_name": "shelf",
+        "caption": "this shelf is on the top left. it has objects.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "the table is to the right of the chair. it is also to the left of the crib.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "chair",
+                "crib"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "16",
+        "target_name": "crib",
+        "caption": "the crib is to the left of the trash can. it is to the right of the corner of the room.",
+        "parsed_query": {
+            "Target": "crib",
+            "Anchor": [
+                "trash can",
+                "corner of the room"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "23",
+        "target_name": "chest",
+        "caption": "the chest is atop the cabinet. it is to the right of the clock on the wall.",
+        "parsed_query": {
+            "Target": "chest",
+            "Anchor": [
+                "cabinet",
+                "clock"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "9",
+        "target_name": "window",
+        "caption": "the window is above the small table. it is to the right of the chair, and to the left of the crib.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "small table",
+                "chair",
+                "crib"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "7",
+        "target_name": "pillow",
+        "caption": "the pillow is on the chair. it is between the two arms, and resting on the cushion.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "chair",
+                "arms",
+                "cushion"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "18",
+        "target_name": "shelf",
+        "caption": "the shelf is on the northwest corner of the room. the shelf is a silver rectangle.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "5",
+        "target_name": "lamp",
+        "caption": "the lamp is on the northwest corner of the room. the lamp is a white cone.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "17",
+        "target_name": "diaper_bin",
+        "caption": "the diaper bin is between the baby bed and the cabinet. the diaper bin is a dark rectangular prism.",
+        "parsed_query": {
+            "Target": "diaper bin",
+            "Anchor": [
+                "baby bed",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "17",
+        "target_name": "diaper_bin",
+        "caption": "the diaper bin is between the baby bed and the white cabinet. the diaper bin is black and rectangular.",
+        "parsed_query": {
+            "Target": "diaper bin",
+            "Anchor": [
+                "baby bed",
+                "white cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "17",
+        "target_name": "diaper_bin",
+        "caption": "the diaper bin is left of the white cabinet. the diaper bin is a black rectangular prism.",
+        "parsed_query": {
+            "Target": "diaper bin",
+            "Anchor": "white cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "16",
+        "target_name": "crib",
+        "caption": "this is a white crib. it is to the left of the wardrobe.",
+        "parsed_query": {
+            "Target": "crib",
+            "Anchor": "wardrobe"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "8",
+        "target_name": "curtain",
+        "caption": "this is a cream curtain. it is behind the chair.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "this is a red picture. it is to the right of another picture.",
+        "parsed_query": {
+            "Target": "red picture",
+            "Anchor": "picture"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "7",
+        "target_name": "pillow",
+        "caption": "this is a gray pillow. it is on the chair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "9",
+        "target_name": "window",
+        "caption": "this is a large window. it is behind white curtains.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "white curtains"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "23",
+        "target_name": "chest",
+        "caption": "this chest is on the top right. it is black.",
+        "parsed_query": {
+            "Target": "chest",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "14",
+        "target_name": "wardrobe_closet",
+        "caption": "this wardrobe closet is on the left. it is tan.",
+        "parsed_query": {
+            "Target": "wardrobe closet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "19",
+        "target_name": "armchair",
+        "caption": "this armchair is facing the viewer. it is smooth.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "19",
+        "target_name": "armchair",
+        "caption": "this armchair is facing the viewer. it is grey.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "22",
+        "target_name": "curtain",
+        "caption": "this curtain is on the far side. it is ridged.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "9",
+        "target_name": "window",
+        "caption": "it is a white window. the white window is is next to the white window curtain.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "white window curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "it is a white table. the white table is next tot he white curtain.",
+        "parsed_query": {
+            "Target": "white table",
+            "Anchor": "white curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "22",
+        "target_name": "curtain",
+        "caption": "it is the white curtain. the white curtain is next to the white table.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": "white table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "22",
+        "target_name": "curtain",
+        "caption": "it is the white curtain. the white curtain is next tot he grey curtain.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": "grey curtain"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "25",
+        "target_name": "shelf",
+        "caption": "this shelf is against the wall. it is grey.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "9",
+        "target_name": "window",
+        "caption": "this window is straight ahead. it is between curtains.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "curtains"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "25",
+        "target_name": "shelf",
+        "caption": "this shelf is against the wall. it is grey in color.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "8",
+        "target_name": "curtain",
+        "caption": "this curtain is on the left. it is ridged.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "16",
+        "target_name": "crib",
+        "caption": "this crib is in the middle. it is white.",
+        "parsed_query": {
+            "Target": "crib",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "5",
+        "target_name": "lamp",
+        "caption": "this lamp is on the top left. it is white.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "10",
+        "target_name": "table",
+        "caption": "this table is on the top left. it is standing.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "5",
+        "target_name": "lamp",
+        "caption": "this lamp is on the top left. it is white in color.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "19",
+        "target_name": "armchair",
+        "caption": "this armchair is facing in. it is grey.",
+        "parsed_query": {
+            "Target": "armchair",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "5",
+        "target_name": "lamp",
+        "caption": "this lamp is on the top left. it is cone shaped.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "18",
+        "target_name": "shelf",
+        "caption": "this shelf is on the left. it is grey.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "8",
+        "target_name": "curtain",
+        "caption": "this curtain is on the other side. its grooved.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "16",
+        "target_name": "crib",
+        "caption": "this crib is on the other side. it is ridged.",
+        "parsed_query": {
+            "Target": "crib",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "14",
+        "target_name": "wardrobe_closet",
+        "caption": "this wardrobe closet is on the right. it is grey.",
+        "parsed_query": {
+            "Target": "wardrobe closet",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "22",
+        "target_name": "curtain",
+        "caption": "the curtain is left of the armchair. the curtain is white and wavy.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "25",
+        "target_name": "shelf",
+        "caption": "the shelf is next to the armchair. the shelf is a white rectangular prism.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "armchair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "5",
+        "target_name": "lamp",
+        "caption": "the lamp is behind the armchair. the lamp is a white cone with a thin body.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "armchair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "7",
+        "target_name": "pillow",
+        "caption": "the pillow is on top of an armchair. the pillow is a white and purple square.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "armchair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0633_00",
+        "target_id": "20",
+        "target_name": "picture",
+        "caption": "the picture is above the armchair and lamp behind it. the picture is a rectangle.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "armchair",
+                "lamp"
+            ]
+        },
+        "unique": false
+    }
+]

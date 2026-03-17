@@ -1,0 +1,1056 @@
+[
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "32",
+        "target_name": "toilet_flush_button",
+        "caption": "it is beige and it flushes the toilet. it is a button. it is between the sink and the bathtub on the top side of the toilet.",
+        "parsed_query": {
+            "Target": "button",
+            "Anchor": [
+                "sink",
+                "bathtub",
+                "toilet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "it is the black door at the end of  the hallway. it has a red and white sign on it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "hallway"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "this is down at the end of a long hallway. it is between two doors. it is black. it is the black door at the end of the hallway.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "hallway",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "4",
+        "target_name": "wardrobe",
+        "caption": "this is the tall  brown cabinet next to the blue plaid curtains. it is the wardrobe next to the window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "blue plaid curtains",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "36",
+        "target_name": "towel",
+        "caption": "this is the blue towel hanging betwen the sink and the toilet. it is on a bar.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "this is the blue door . it is at the end of the hallway. it is between two doors and has a red and white sign on it.",
+        "parsed_query": {
+            "Target": "blue door",
+            "Anchor": [
+                "hallway",
+                "doors"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "19",
+        "target_name": "table",
+        "caption": "this is a table with wooden sides and a green top. it is behind 2 pairs of shoes, right in front of a wall, and to the left of the desk. .",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "shoes",
+                "wall",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "31",
+        "target_name": "toilet",
+        "caption": "this is a toilet. the toilet is situated between the bathtub and the sink.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "bathtub",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "4",
+        "target_name": "wardrobe",
+        "caption": "this is a tall brown wooden cabinet . it is called a wardrobe. it is directly to the right of the window with the green curtains.",
+        "parsed_query": {
+            "Target": "wardrobe",
+            "Anchor": "window with green curtains"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "3",
+        "target_name": "bed",
+        "caption": "this is a bed it is to the right of the tall brown cabinet that is to the right of the window with the green curtains. this bed has on top a blue blanket.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "tall brown cabinet",
+                "window with the green curtains"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "a brown and blue chair on the right side of the room.  it is in front of a computer desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "computer desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "a blue and brown chair.  it is in front of a desk with a computer on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "computer"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "54",
+        "target_name": "nightstand",
+        "caption": "a brown wooden nightstand.  it's between the end of the bed and close to the wall.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "11",
+        "target_name": "laptop",
+        "caption": "a black computer with a blue screen.  it's located on a wooden desk with a wooden chair in front of it.",
+        "parsed_query": {
+            "Target": "computer",
+            "Anchor": [
+                "wooden desk",
+                "wooden chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "a blue and brown chair.  it's located in front of a window and it's facing a wooden desk with a computer on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "window",
+                "wooden desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "32",
+        "target_name": "toilet_flush_button",
+        "caption": "the white toilet flush button is positioned above the toilet and on the left of the sink. above the button is a shelf with toilet paper on it.",
+        "parsed_query": {
+            "Target": "toilet flush button",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "37",
+        "target_name": "sink",
+        "caption": "the sink is white with on main chrome coloured tap. on the left of the sink is a blue towel on a pole. below the sink is a small white bin and on its right a shower.",
+        "parsed_query": {
+            "Target": "blue towel",
+            "Anchor": [
+                "sink",
+                "pole"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "2",
+        "target_name": "bathtub",
+        "caption": "a white bathtub with a white shower curtain. entering the room it is on the farmost right of the room. on its left is a white sink.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": [
+                "white shower curtain",
+                "white sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "47",
+        "target_name": "pillow",
+        "caption": "a white pillow positioned at the head of a bed. above the pillow is a wooden headboard and below it a blue towel.",
+        "parsed_query": {
+            "Target": "white pillow",
+            "Anchor": [
+                "bed",
+                "wooden headboard",
+                "blue towel"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "31",
+        "target_name": "toilet",
+        "caption": "a white toilet, positioned on the left of the bathroom as you walk in through the doorway. below and on the right of the toilet are two blue towels and above the toilet is a button pres to flush the toilet.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": "doorway"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "36",
+        "target_name": "towel",
+        "caption": "this is a blue towel .  it is next to the toilet  and the sink.  the towel is hanging on a bar .",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "toilet",
+                "sink",
+                "bar"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "44",
+        "target_name": "shower_curtain",
+        "caption": "this is the shower curtain hanging  over the bath tub.  the shower curtain is white .  it is next to the toilet .",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "bath tub",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "53",
+        "target_name": "tv",
+        "caption": "this is a tv , it   hanging in the corner between the cabinets and the wall .  it is above the bed .",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "cabinets",
+                "wall",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "4",
+        "target_name": "wardrobe",
+        "caption": "this cabinet is called a wardrobe .  it is tall and wooden .  it  is between the window and the bed .",
+        "parsed_query": {
+            "Target": "wardrobe",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "31",
+        "target_name": "toilet",
+        "caption": "a white toilet. the cover seats are opened.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "54",
+        "target_name": "nightstand",
+        "caption": "a table end shelf. it is at foot of the bed with two teirs.",
+        "parsed_query": {
+            "Target": "table end shelf",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "11",
+        "target_name": "laptop",
+        "caption": "a black top located in center of desk. the lid is open and blue screen is visible.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "26",
+        "target_name": "door",
+        "caption": "an open white entry door. just in front of the toliet.",
+        "parsed_query": {
+            "Target": "entry door",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "32",
+        "target_name": "toilet_flush_button",
+        "caption": "a cabinet door. located above the open toilet seat.",
+        "parsed_query": {
+            "Target": "cabinet door",
+            "Anchor": "open toilet seat"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "4",
+        "target_name": "wardrobe",
+        "caption": "this is a brown wardrobe in the corner of the room. it has two doors. it is next to the window with green blue curtains.",
+        "parsed_query": {
+            "Target": "wardrobe",
+            "Anchor": "window with green blue curtains"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "19",
+        "target_name": "table",
+        "caption": "this is a table with wooden sides and a green top. it is behind 2 pairs of shoes, to the left of the desk, and in front of the wall.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "shoes",
+                "desk",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "44",
+        "target_name": "shower_curtain",
+        "caption": "this is a white shower curtain. it is to the right of the sink, shelf, and mirror.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "sink",
+                "shelf",
+                "mirror"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "53",
+        "target_name": "tv",
+        "caption": "this is a black tv. it is hung above the brown night stand, and is to the right of the brown wardrobe that is sitting in the corner of the room.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "brown night stand",
+                "brown wardrobe"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "53",
+        "target_name": "tv",
+        "caption": "this is a tv.  the tv is suspended on the wall .  tv is the suspended on the wall between the tall brown cabinet and the wall to the right of the tv is a blue poster .  under the tv on the table is a box of tissues .",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "tall brown cabinet",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "26",
+        "target_name": "door",
+        "caption": "this door is the bathroom door and it's open. the color of the door is white.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "this door appears to be the front door to the apartment. if you walk through the apartment and past the bathroom you will encounter this door. the door is black and has a small window.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "54",
+        "target_name": "nightstand",
+        "caption": "the nightstand is brown and is located in the bedroom. it's at the end of the bed below the tv.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "tv"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "2",
+        "target_name": "bathtub",
+        "caption": "this object is a white bathtub located inside the bathroom. walking through the bathroom door this bathtub will be on your right. the bathtub is on the right side of the sink. the bathroom is located on the right side of the apartment before the front door.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": [
+                "bathroom door",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "31",
+        "target_name": "toilet",
+        "caption": "this toilet is beige in color and looks dirty. if you open the door and someone was sitting on the toilet you'd hit them as the toilet is directly in front of the door to the left of the sink.",
+        "parsed_query": {
+            "Target": "toilet",
+            "Anchor": [
+                "door",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "2",
+        "target_name": "bathtub",
+        "caption": "this bathtub is white and is positioned to your right if you were to enter through the bathroom door. the bathtub is to the right of the sink and its height doesn't match the height of the sink. the tub is positioned in the far right corner of the room.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": [
+                "bathroom door",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this chair is made out of wood and has a blue cushion to sit on. the chair is positioned in front of a desk that has a laptop on it. the chair is just a few inches from the window curtains.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "desk",
+                "window curtains"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "2",
+        "target_name": "bathtub",
+        "caption": "this is a white bathtub. it is next to the sink.",
+        "parsed_query": {
+            "Target": "bathtub",
+            "Anchor": "sink"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "53",
+        "target_name": "tv",
+        "caption": "this is a black tv. it is above a bed.",
+        "parsed_query": {
+            "Target": "black tv",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "11",
+        "target_name": "laptop",
+        "caption": "this is a black laptop. it is on a desk.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "37",
+        "target_name": "sink",
+        "caption": "this is a white sink. it is next to a toilet.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "3",
+        "target_name": "bed",
+        "caption": "this is a rectangular bed. it is against the wall.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "36",
+        "target_name": "towel",
+        "caption": "this is a blue towel. it is between the toilet and the sink.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "this is a tan desk. it is next to a green chair.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "green chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "54",
+        "target_name": "nightstand",
+        "caption": "this is a brown nightstand. it is in a corner of the room.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "47",
+        "target_name": "pillow",
+        "caption": "this is a white pillow. it is at the head of a rectangular bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "3",
+        "target_name": "bed",
+        "caption": "this is a white bed. it is in the corner of the room.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "47",
+        "target_name": "pillow",
+        "caption": "the pillow is located on top of the bed. it is on the right side of the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "the desk is located to the left of the chair. there is a computer monitor or laptop sitting atop the desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "11",
+        "target_name": "laptop",
+        "caption": "the laptop is located on top of the desk. the laptop is open. the laptop is basically centered on the desktop, with items on both sides of it.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "31",
+        "target_name": "toilet",
+        "caption": "the toilet is located to the left of the sink. there is a blue towel hung to the immediate right of the toilet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "toilet"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "37",
+        "target_name": "sink",
+        "caption": "the sink is located to the right of the toilet. it is to the left of the tub.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "toilet",
+                "tub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "44",
+        "target_name": "shower_curtain",
+        "caption": "this is white shower curtain. the curtain is near the wash basin.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": "wash basin"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "37",
+        "target_name": "sink",
+        "caption": "this is white sink. the sink is near the shower curtain.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": "shower curtain"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "1",
+        "target_name": "chair",
+        "caption": "this is arm chair with four legs. the is placed in front of the laptop.",
+        "parsed_query": {
+            "Target": "arm chair",
+            "Anchor": "laptop"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "32",
+        "target_name": "toilet_flush_button",
+        "caption": "this is bathroom flush button. the toilet flush button is above the toilet basin.",
+        "parsed_query": {
+            "Target": "toilet flush button",
+            "Anchor": "toilet basin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "26",
+        "target_name": "door",
+        "caption": "this is the toilet door is white color. the toilet door is opened.",
+        "parsed_query": {
+            "Target": "toilet door",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "44",
+        "target_name": "shower_curtain",
+        "caption": "this is a white shower curtain. it is in the shower and pulled all the way to the left so it is next to the sink.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "shower",
+                "sink"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "44",
+        "target_name": "shower_curtain",
+        "caption": "it is a shower curtain in the shower. the shower curtain is in the bathroom.",
+        "parsed_query": {
+            "Target": "shower curtain",
+            "Anchor": [
+                "shower",
+                "bathroom"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "26",
+        "target_name": "door",
+        "caption": "this is a white door. the door has been swung into the bathroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bathroom"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "47",
+        "target_name": "pillow",
+        "caption": "this is a pillow on the bed. the pillow is hidden slightly underneath the blankets.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "blankets"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "36",
+        "target_name": "towel",
+        "caption": "this is a blue bath towel. it is hanging off the sink and hangs near the toilet.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "sink",
+                "toilet"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "19",
+        "target_name": "table",
+        "caption": "there is a green and wooden chair. it is located to the left of the desk.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "37",
+        "target_name": "sink",
+        "caption": "there is an off-white sink attached to the wall. it is in between the toilet and the shower.",
+        "parsed_query": {
+            "Target": "sink",
+            "Anchor": [
+                "toilet",
+                "shower"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "26",
+        "target_name": "door",
+        "caption": "there is an off-white door. it is located to the left of the toilet, separating the bathroom and the bedroom.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "toilet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "47",
+        "target_name": "pillow",
+        "caption": "there is an off-white pillow on the bed. it is in the right hand corner of the room.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "32",
+        "target_name": "toilet_flush_button",
+        "caption": "there is a white toilet flush button above the toilet. it is to the left of the sink.",
+        "parsed_query": {
+            "Target": "toilet flush button",
+            "Anchor": [
+                "toilet",
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "this is a desk made out of wood and is very cluttered. a black laptop sits on top of the desk. a chair with a blue cushion is stationed facing the front of the desk to which the laptop screen is facing out. a bench with a green cushion is attached to this desk.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "there is a window with green curtains,. to the left of the window with  green  curtains is a desk .  a desk is the item we are looking for .",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "window with green curtains"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "2",
+        "target_name": "bathtub",
+        "caption": "bathtub can be seen with its curtain hanging in one corner. a washbasin can be seen besides it, under which a dustbin can also be seen.",
+        "parsed_query": {
+            "Target": "dustbin",
+            "Anchor": [
+                "washbasin",
+                "bathtub"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "19",
+        "target_name": "table",
+        "caption": "the surface of the table is green in color. two pairs of shoe can be seen lying in front of it.",
+        "parsed_query": {
+            "Target": "shoes",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "36",
+        "target_name": "towel",
+        "caption": "the towel is blue in color. it is hanging in between toilet and the washbasin.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "toilet",
+                "washbasin"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "54",
+        "target_name": "nightstand",
+        "caption": "nightstand is kept close to a wooden cupboard. it is kept between a bed and the wooden cupboard.",
+        "parsed_query": {
+            "Target": "nightstand",
+            "Anchor": [
+                "bed",
+                "wooden cupboard"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "3",
+        "target_name": "bed",
+        "caption": "the bed is covered with a blue and white colored bedspread. a chair can be seen in front of the bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "6",
+        "target_name": "desk",
+        "caption": "the desk is to the right of the bench. the desk has a laptop on top of it. the desk has a chair pulled slightly away from it.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": [
+                "bench",
+                "laptop",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "21",
+        "target_name": "door",
+        "caption": "the door is rectangular in shape and has a small window on the upper portion. the door is located to the right of the bath area.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bath area"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "4",
+        "target_name": "wardrobe",
+        "caption": "the wardrobe is located in the corner of the room, to the right of the curtains. the wardrobe is against the wall, and it is to the left of a painting.",
+        "parsed_query": {
+            "Target": "wardrobe",
+            "Anchor": [
+                "curtains",
+                "painting"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "11",
+        "target_name": "laptop",
+        "caption": "the laptop is located on top of the desk. the laptop is to the left of the curtains, and to the right of a chair.",
+        "parsed_query": {
+            "Target": "laptop",
+            "Anchor": [
+                "desk",
+                "curtains",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0046_00",
+        "target_id": "3",
+        "target_name": "bed",
+        "caption": "the bed is located to the right of the television. the bed is covered with blankets. the bed is behind the chair.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "television",
+                "chair"
+            ]
+        },
+        "unique": true
+    }
+]

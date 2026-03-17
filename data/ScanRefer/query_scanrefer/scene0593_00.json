@@ -1,0 +1,867 @@
+[
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "21",
+        "target_name": "copier",
+        "caption": "there is a rectangular copier. it is to the right of a teal cabinet.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "teal cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "21",
+        "target_name": "copier",
+        "caption": "there is a rectangular copier. it is to the left of a trash can.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "4",
+        "target_name": "window",
+        "caption": "thsi window is straight ahead. it is bright.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "24",
+        "target_name": "couch",
+        "caption": "this sofa is tan. it is smooth.",
+        "parsed_query": {
+            "Target": "sofa",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "27",
+        "target_name": "door",
+        "caption": "there is a rectangular brown cabinet. it is next to a gray trash can.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "gray trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "22",
+        "target_name": "printer",
+        "caption": "this printer is on the right side of the desk. it is large.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "there is a rectangular black trash can. it is next to a window.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "this table is on the top left. it is brown.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this trash can is black. it is on the top right.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular gray cabinet. it is next to a black trash can.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "32",
+        "target_name": "fan",
+        "caption": "there is a circular white fan. it is in front of a brown cabinet.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": "brown cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular green cabinet. it is next to a copier.",
+        "parsed_query": {
+            "Target": "rectangular green cabinet",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "0",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular cabinet overhanging. it is next to a copier.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "6",
+        "target_name": "paper_cutter",
+        "caption": "there is a rectangular paper cutter. it is on the right end of a cabinet.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "17",
+        "target_name": "cabinet",
+        "caption": "there is a rectangular brown cabinet. it has a paper cutter on top of it.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "rectangular brown cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "5",
+        "target_name": "window",
+        "caption": "the window has a white frame. it is located behind the brown dresser, at its left end.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "brown dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "the cabinet is grey and rectangular. it is located across from the white couch.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "white couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "the cabinet is grey. it is located to the right of the dark grey trash bin, and below the white printer.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "dark grey trash bin",
+                "white printer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "32",
+        "target_name": "fan",
+        "caption": "the white fan is tall with a round face.  it is located next to the wall, across the room and in front of the tall grey trash can.",
+        "parsed_query": {
+            "Target": "white fan",
+            "Anchor": [
+                "wall",
+                "tall grey trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "27",
+        "target_name": "door",
+        "caption": "the wooden door is brown and rectangular. it is located across and to the left of the white couch with the red backpack on it.",
+        "parsed_query": {
+            "Target": "wooden door",
+            "Anchor": "white couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "25",
+        "target_name": "trash_can",
+        "caption": "it is a black trash can. the black trash can is sitting next to the left wall beside the brown cabinet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "left wall",
+                "brown cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "5",
+        "target_name": "window",
+        "caption": "it is a blue window. the blue window is sitting behind the front wall right next to the brown cabinet.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "front wall",
+                "brown cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "21",
+        "target_name": "copier",
+        "caption": "it is a white copier. the white copier is sitting next to the front wall that is left to the brown cabinet beside the window.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": [
+                "front wall",
+                "brown cabinet",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "24",
+        "target_name": "couch",
+        "caption": "it is a cream couch. the cream couch is sitting at the front left of the room.",
+        "parsed_query": {
+            "Target": "cream couch",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "27",
+        "target_name": "door",
+        "caption": "it is a brown door. the brown door is at the far end of the left wall, and to the left of the cream couch.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "0",
+        "target_name": "cabinet",
+        "caption": "a broad black closed cabinet. it is attached to the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "25",
+        "target_name": "trash_can",
+        "caption": "a lengthy black plain trash can. it is located near the sofa.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "sofa"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "17",
+        "target_name": "cabinet",
+        "caption": "a big and spacious closed cabinet. it is very near the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "21",
+        "target_name": "copier",
+        "caption": "a big size compact copier. it is near to the wall.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "17",
+        "target_name": "cabinet",
+        "caption": "a broad and spacious cabinet. it is closed and near the window.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "0",
+        "target_name": "cabinet",
+        "caption": "a black broad cabinet. it is attached to the wall.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "21",
+        "target_name": "copier",
+        "caption": "a broad compact copier. it is kept near the window.",
+        "parsed_query": {
+            "Target": "copier",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "25",
+        "target_name": "trash_can",
+        "caption": "a lengthy black trash can. it is located near the broad cabinet.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "broad cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "a small size compact table. it is closer to the sofa.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "sofa"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "4",
+        "target_name": "window",
+        "caption": "a clear and broad window. it is attached to the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "6",
+        "target_name": "paper_cutter",
+        "caption": "this is a paper cutter. the paper cutter is placed on the table next to trash can.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": [
+                "table",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "22",
+        "target_name": "printer",
+        "caption": "this is a printer. the printer is placed on the table.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "this is a brown wooden table. the table is placed at the corner of the room.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this is a grey trash can. the trash can is placed next to copier.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "17",
+        "target_name": "cabinet",
+        "caption": "thee cabinet is located under the window. there is a large trash bin o the right side of the cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "the table is to the right of the sofa chair. it is in the right corner of the room, with items atop it.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "sofa chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "the cabinet is to the right of the trash can. there is a copy machine atop the cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "trash can",
+                "copy machine"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "22",
+        "target_name": "printer",
+        "caption": "the printer is atop the right side of the cabinet. it is mostly white, but has a blue piece on the top of it.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "24",
+        "target_name": "couch",
+        "caption": "the couch is located along the left wall. there is a red and black backpack atop the couch.",
+        "parsed_query": {
+            "Target": "backpack",
+            "Anchor": "couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "5",
+        "target_name": "window",
+        "caption": "the window is on the left side of the room. it is to the left of the cabinet and the trash can.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "cabinet",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "the cabinet has a printer atop it. the cabinet is to the right of the trash can.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "printer",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "32",
+        "target_name": "fan",
+        "caption": "the fan is on the right side of the room near the wall. it is a circular fan, standing on a four-pronged base.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "4",
+        "target_name": "window",
+        "caption": "the widow is on the left side of the room. it is behind the trash can.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "0",
+        "target_name": "cabinet",
+        "caption": "the cabinet is affixed to the wall. it is above the printer and the lower counter.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "printer",
+                "lower counter"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "6",
+        "target_name": "paper_cutter",
+        "caption": "the paper cutter is atop the right side of the cabinet. it is to the left of the trash can. there is a window behind it.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": [
+                "cabinet",
+                "trash can",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "25",
+        "target_name": "trash_can",
+        "caption": "the trash can is to the right of the paper cutter. the trash can sits between the two different cabinets.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": [
+                "paper cutter",
+                "cabinet",
+                "cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "0",
+        "target_name": "cabinet",
+        "caption": "the cabinet is located on the left side of the room. it is affixed to the wall. it is above the printer below it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "wall",
+                "printer"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "the cabinet has many sections within it for filing papers. the cabinet is to the left of the printer copy machine.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "printer copy machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "the cabinet is to the left of the copy machine. there is a section for files sitting on top of the cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "copy machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "12",
+        "target_name": "cabinet",
+        "caption": "this is a tall cabinet. it is to the left of the copier.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "copier"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "32",
+        "target_name": "fan",
+        "caption": "this is a white fan. it is to the right of the trash can.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "4",
+        "target_name": "window",
+        "caption": "this is a rectangular window. it is behind the trash can.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "15",
+        "target_name": "table",
+        "caption": "this is a brown table. it is by the couch.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "24",
+        "target_name": "couch",
+        "caption": "this is a white couch. it is to the left of the table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "4",
+        "target_name": "window",
+        "caption": "this is a glass window. it is behind the trash can.",
+        "parsed_query": {
+            "Target": "glass window",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "27",
+        "target_name": "door",
+        "caption": "this is a brown door. it is to the left of the couch.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "5",
+        "target_name": "window",
+        "caption": "this is a glass window. it is to the left of another window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "22",
+        "target_name": "printer",
+        "caption": "this is a white printer. it is on the counter.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "this is a black trash can. it is on the floor.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "27",
+        "target_name": "door",
+        "caption": "the door is brown. it is located to the right of the bin.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "6",
+        "target_name": "paper_cutter",
+        "caption": "the paper cutter is on the counter, to the left of the trash can. the window is behind the paper cutter.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": [
+                "counter",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "17",
+        "target_name": "cabinet",
+        "caption": "the cabinet has a window behind it. the cabinet has a small trash can to the left of it.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "window",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "8",
+        "target_name": "trash_can",
+        "caption": "the trash can is on the floor to the left of the cabinet. there is a small white bin beside it, to the right.",
+        "parsed_query": {
+            "Target": "small white bin",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "32",
+        "target_name": "fan",
+        "caption": "the fan is a circular fan the is on a stand. its on the right side of the room, in front of the trash can.",
+        "parsed_query": {
+            "Target": "fan",
+            "Anchor": [
+                "stand",
+                "trash can"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "25",
+        "target_name": "trash_can",
+        "caption": "this is a black color trash can. the trash can is next to table.",
+        "parsed_query": {
+            "Target": "trash can",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "6",
+        "target_name": "paper_cutter",
+        "caption": "a small thin compact paper cutter. it is located near the trash can.",
+        "parsed_query": {
+            "Target": "paper cutter",
+            "Anchor": "trash can"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "24",
+        "target_name": "couch",
+        "caption": "a small size compact couch. it is on the brown sofa.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "brown sofa"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "5",
+        "target_name": "window",
+        "caption": "a clear compact window. it is located near the machine.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "machine"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0593_00",
+        "target_id": "22",
+        "target_name": "printer",
+        "caption": "a compact size printer. it is located on the sofa.",
+        "parsed_query": {
+            "Target": "printer",
+            "Anchor": "sofa"
+        },
+        "unique": false
+    }
+]

@@ -1,0 +1,1014 @@
+[
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "the chair is west of the left-most table. the chair is dark brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "23",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is on the northwest side of the room. the sofa chair dark brown and has four legs.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "the chair is the left-most one that is next to the left-most table. the chair is dark brown and has four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the chair is the south-most one on the left-most table. the chair is dark brown with four legs.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "21",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is left of the clock. the sofa chair is dark brown and has four legs.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "clock"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "15",
+        "target_name": "toaster_oven",
+        "caption": "this is placed on the left side of the kitchen countertop. a wall clock is placed on the wall behind this toaster.",
+        "parsed_query": {
+            "Target": "toaster",
+            "Anchor": [
+                "kitchen countertop",
+                "wall clock"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "this is under the left side of the kitchen countertop. a microwave and a toaster is placed above this cabinet.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "microwave",
+                "toaster"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "25",
+        "target_name": "refrigerator",
+        "caption": "a table is seen in front of this refrigerator. a sofa is placed behind this refrigerator.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": [
+                "table",
+                "sofa"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "11",
+        "target_name": "window",
+        "caption": "a number 12 is seen on the wall on right side of this window. a wall clock is hanged on the wall on the left of this window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "wall clock"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "above this cabinet microwave and toaster is placed. a wall clock is hanged on the wall above this cabinet.",
+        "parsed_query": {
+            "Target": "wall clock",
+            "Anchor": "cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "3",
+        "target_name": "bin",
+        "caption": "there is a rectangular blue bin. it is next to a white trash bag.",
+        "parsed_query": {
+            "Target": "rectangular blue bin",
+            "Anchor": "white trash bag"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a square brown chair. it is next to a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "25",
+        "target_name": "refrigerator",
+        "caption": "there is a rectangular refrigerator. it is next to a gray couch.",
+        "parsed_query": {
+            "Target": "rectangular refrigerator",
+            "Anchor": "gray couch"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "28",
+        "target_name": "chair",
+        "caption": "there is a square brown chair. it is to the right of another chair.",
+        "parsed_query": {
+            "Target": "square brown chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "12",
+        "target_name": "cabinets",
+        "caption": "there are rectangular brown cabinets. they are under a kitchen counter.",
+        "parsed_query": {
+            "Target": "rectangular brown cabinets",
+            "Anchor": "kitchen counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "32",
+        "target_name": "storage_bin",
+        "caption": "this is a white storage bin. it is below the counter.",
+        "parsed_query": {
+            "Target": "white storage bin",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "16",
+        "target_name": "counter",
+        "caption": "this is a white counter. it is above the cabinets.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "22",
+        "target_name": "pillow",
+        "caption": "this is a tan pillow. it is behind the chair.",
+        "parsed_query": {
+            "Target": "tan pillow",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "31",
+        "target_name": "storage_bin",
+        "caption": "this is a white storage bin. it is by a shorter storage bin.",
+        "parsed_query": {
+            "Target": "white storage bin",
+            "Anchor": "shorter storage bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "28",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is at the corner of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "21",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is black. it is the second chair from the left.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "15",
+        "target_name": "toaster_oven",
+        "caption": "the toaster oven is rectangular and dark silvery grey. it is the second appliance from the left, next to the microwave.",
+        "parsed_query": {
+            "Target": "toaster oven",
+            "Anchor": [
+                "microwave"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "28",
+        "target_name": "chair",
+        "caption": "the chair is black. it is first chair from the right, in front of the table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "23",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is dark grey. it is the first chair from the left.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "3",
+        "target_name": "bin",
+        "caption": "the bin is blue. it is in front of the cabinets.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "3",
+        "target_name": "bin",
+        "caption": "the bin is blue. the bin is to the left of the trash bag.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "trash bag"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "16",
+        "target_name": "counter",
+        "caption": "the counter is tan. the counter has a pack of water on it.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "22",
+        "target_name": "pillow",
+        "caption": "the pillow is tan. the pillow is on the floor.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "the cabinet is brown. the cabinet is under the microwave.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "microwave"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "22",
+        "target_name": "pillow",
+        "caption": "the pillow is tan. it is behind the chair.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "16",
+        "target_name": "counter",
+        "caption": "the counter is above the blue bin. the counter has many objects on it.",
+        "parsed_query": {
+            "Target": "counter",
+            "Anchor": "blue bin"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "31",
+        "target_name": "storage_bin",
+        "caption": "the storage bin is white. the storage bin is under the counter.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": "counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "3",
+        "target_name": "bin",
+        "caption": "the bin is blue. the bin is in front of the cabinets.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "32",
+        "target_name": "storage_bin",
+        "caption": "the storage bin is white. it is above another storage bin.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": "storage bin"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "25",
+        "target_name": "refrigerator",
+        "caption": "this is a white refrigerator with stickers on it. it i in the kitchen near where the hardwood starts.",
+        "parsed_query": {
+            "Target": "refrigerator",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "17",
+        "target_name": "microwave",
+        "caption": "this is the kitchen microwave. it is on the kitchen counter near the toaster oven.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": [
+                "kitchen counter",
+                "toaster oven"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "12",
+        "target_name": "cabinets",
+        "caption": "these are the kitchen cabinets. they are mounted on the floor and they are beneath the sink.",
+        "parsed_query": {
+            "Target": "kitchen cabinets",
+            "Anchor": [
+                "sink"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "28",
+        "target_name": "chair",
+        "caption": "this is a chair. it is in the dining room at the corner of the table near the living area.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "11",
+        "target_name": "window",
+        "caption": "this is a huge and wide window. it is by a long table full of stuff.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "this is a cabinet by the corner of the room. it sits beside a shelf.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": [
+                "shelf"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "31",
+        "target_name": "storage_bin",
+        "caption": "this is a white storage bin in the room. it sits beside a cabinet.",
+        "parsed_query": {
+            "Target": "white storage bin",
+            "Anchor": "cabinet"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "this is a chair with its back turned away. it sits facing a table.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "12",
+        "target_name": "cabinets",
+        "caption": "this is a long strip of cabinets by the kitchen. it sits beside the window.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "21",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is left of the desk. the sofa chair is black with two arms.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "22",
+        "target_name": "pillow",
+        "caption": "the pillow is south of the left-most desk. the pillow is black and rectangular.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "desk"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "the table is in the enter of the room. the table is a dark brown rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "23",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is the south one on the left side of the room. the sofa chair is black with two arms.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "15",
+        "target_name": "toaster_oven",
+        "caption": "the toaster oven is below and to the right of the clock. the toaster oven is a black box.",
+        "parsed_query": {
+            "Target": "toaster oven",
+            "Anchor": "clock"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "11",
+        "target_name": "window",
+        "caption": "the window is rectangular with a white frame. it is above and behind the long kitchen counter, and to the right of the clock.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "long kitchen counter",
+                "clock"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "the table is black and rectangular. it is standing on top of the black and white rug, and to the right of the picture windows.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "rug",
+                "picture windows"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "22",
+        "target_name": "pillow",
+        "caption": "the pillow is square and tan. it is located to the front left of the plastic white storage drawers.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "plastic white storage drawers"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "30",
+        "target_name": "storage_bin",
+        "caption": "the storage bin is black. it is located between the plastic white storage drawers, and the brown wooden cabinet.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": [
+                "plastic white storage drawers",
+                "brown wooden cabinet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "17",
+        "target_name": "microwave",
+        "caption": "the microwave is rectangular. it is the first appliance from the left, on top of the kitchen counter.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "kitchen counter"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "31",
+        "target_name": "storage_bin",
+        "caption": "this storage bin is straight ahead. it is brown.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "30",
+        "target_name": "storage_bin",
+        "caption": "this storage bin is in the middle. it is box shaped.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "12",
+        "target_name": "cabinets",
+        "caption": "these cabinets are on the left. they are brown.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "23",
+        "target_name": "sofa_chair",
+        "caption": "this chair is straight ahead. it is black.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "32",
+        "target_name": "storage_bin",
+        "caption": "this storage bin is straight ahead. it is black.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "21",
+        "target_name": "sofa_chair",
+        "caption": "this sofa chair is straight ahead. it is black.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "30",
+        "target_name": "storage_bin",
+        "caption": "this storage bin is in the corner. it is black.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this chair is in the middle. it is facing right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "15",
+        "target_name": "toaster_oven",
+        "caption": "this toaster oven is on the other side. it is brown.",
+        "parsed_query": {
+            "Target": "toaster oven",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "16",
+        "target_name": "counter",
+        "caption": "there is a rectangular counter. it is over some wooden cabinets.",
+        "parsed_query": {
+            "Target": "rectangular counter",
+            "Anchor": "wooden cabinets"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "25",
+        "target_name": "refrigerator",
+        "caption": "there is a rectangular refrigerator. it is facing a wooden table.",
+        "parsed_query": {
+            "Target": "rectangular refrigerator",
+            "Anchor": "wooden table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "16",
+        "target_name": "counter",
+        "caption": "there is a rectangular counter. it is next to a blue bin.",
+        "parsed_query": {
+            "Target": "rectangular counter",
+            "Anchor": "blue bin"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "15",
+        "target_name": "toaster_oven",
+        "caption": "there is a rectangular toaster oven. it is next to a window.",
+        "parsed_query": {
+            "Target": "toaster oven",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "there is a square black chair. it is next to the window.",
+        "parsed_query": {
+            "Target": "square black chair",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "17",
+        "target_name": "microwave",
+        "caption": "the microwave is below the clock. the microwave is a black rectangular prism.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "clock"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "27",
+        "target_name": "chair",
+        "caption": "the chair is southwest of the left-most table. the chair has four legs and is dark brown.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "21",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is in front of the desk. the sofa chair is dark brown with four legs.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "18",
+        "target_name": "cabinet",
+        "caption": "the cabinet is below the northern desk. the cabinet is a dark brown box.",
+        "parsed_query": {
+            "Target": "cabinet",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "30",
+        "target_name": "storage_bin",
+        "caption": "the storage bin is right of the gray storage cabinets. the storage bin is black and square.",
+        "parsed_query": {
+            "Target": "storage bin",
+            "Anchor": "gray storage cabinets"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a dark colored chair. it is pushed out from the table on the left side, and faces to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "32",
+        "target_name": "storage_bin",
+        "caption": "this is a bin under the counter. it is dark colored and has drawers. it is on the right wall under the window (to the left).",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "counter",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "32",
+        "target_name": "storage_bin",
+        "caption": "this bin is under the desk. there is a window above and to the right of it. it is dark colored.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": [
+                "desk",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this chair is dark. it is at the table. it has no armrests. it is facing to the right and pushed out.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "25",
+        "target_name": "refrigerator",
+        "caption": "this fridge is in the corner on the back right. it faces left and is behind the cabinet. there is a table to the left and in front.",
+        "parsed_query": {
+            "Target": "fridge",
+            "Anchor": [
+                "cabinet",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "12",
+        "target_name": "cabinets",
+        "caption": "the cabinets are brown. they are located behind and to the left of the blue storage bin.",
+        "parsed_query": {
+            "Target": "cabinets",
+            "Anchor": [
+                "blue storage bin"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "the table is black and rectangular. it is standing on top of the black and white rug, to the right of the window.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "rug",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "11",
+        "target_name": "window",
+        "caption": "the window is rectangular. it is located above the kitchen counter top, and behind the leafy green plant.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "kitchen counter top",
+                "leafy green plant"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "the table is black and rectangular. it is standing behind two black chairs, and to right of another black chair.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": [
+                "black chairs",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "17",
+        "target_name": "microwave",
+        "caption": "the microwave is black and silver. it is the first appliance on top of the counter, from the left.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "11",
+        "target_name": "window",
+        "caption": "the window is right of the clock. the window is a clear rectangle.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "clock"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "26",
+        "target_name": "table",
+        "caption": "the table is in the middle of the room. the table is a brown rectangle.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "17",
+        "target_name": "microwave",
+        "caption": "the microwave is right of the refrigerator. the microwave is a black rectangular prism.",
+        "parsed_query": {
+            "Target": "microwave",
+            "Anchor": "refrigerator"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "23",
+        "target_name": "sofa_chair",
+        "caption": "the sofa chair is on the southern side of the western section of the room. the sofa chair is black with four legs.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0606_00",
+        "target_id": "3",
+        "target_name": "bin",
+        "caption": "the bin is left of the white trash bag. the bin is a black rectangular prism.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": "white trash bag"
+        },
+        "unique": false
+    }
+]

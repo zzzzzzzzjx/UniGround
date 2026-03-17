@@ -1,0 +1,692 @@
+[
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "12",
+        "target_name": "crate",
+        "caption": "there is a plastic bottle box. placed on the side of the wall.",
+        "parsed_query": {
+            "Target": "plastic bottle box",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "7",
+        "target_name": "rack",
+        "caption": "there is a wooden bucket. placed on the corner of the room.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a wooden chair. placed next to the heater.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "heater"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "12",
+        "target_name": "crate",
+        "caption": "there is a brown plastic bottle box. placed on the corner of the room.",
+        "parsed_query": {
+            "Target": "bottle box",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "there is a window. placed on the corner of the wall.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a chair with an orange seat in the back of the room, facing away from the wall. there is a blue container to the right.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "wall",
+                "blue container"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "8",
+        "target_name": "bucket",
+        "caption": "there is a white bucket to the right of a chair. it is underneath an orange hose.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": [
+                "chair",
+                "hose"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "21",
+        "target_name": "towel",
+        "caption": "there is a striped towel hanging from a pipe on the right side of the room. the pipe is connected to the blue container.",
+        "parsed_query": {
+            "Target": "striped towel",
+            "Anchor": [
+                "pipe",
+                "blue container"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "9",
+        "target_name": "bucket",
+        "caption": "there is a multicolored bucket in the corner of the room. it has utensils sticking out of it.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "21",
+        "target_name": "towel",
+        "caption": "there is a towel hanging from a pipe on the right side of the room. it is under a large red container.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "pipe",
+                "large red container"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "12",
+        "target_name": "crate",
+        "caption": "this is a hollow or filled and brown, box-like object in contact with another surface beside it. it is oriented toward the viewer.",
+        "parsed_query": {
+            "Target": "brown box-like object",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "3",
+        "target_name": "shelf",
+        "caption": "this is a rack, attached to a wall surface. it is filled with some objects and is facing the viewer and to the right.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": "wall surface"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "12",
+        "target_name": "crate",
+        "caption": "this is a brown, hollow or filled, box-like object beside another surface. it is against a wall and is facing the viewer.",
+        "parsed_query": {
+            "Target": "box-like object",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "21",
+        "target_name": "towel",
+        "caption": "this is a towel hung on a door handle and is brown, possibly used and dirty. it is flimsy and is nearest the viewer.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "door handle"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "3",
+        "target_name": "shelf",
+        "caption": "this is a rack attached to a wall surface with some objects inside it and atop it as well. it is gray and relatively thin.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": "wall surface"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "4",
+        "target_name": "shelf",
+        "caption": "there is a rectangular gray shelf. it is next to the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "10",
+        "target_name": "bucket",
+        "caption": "there is a cylindrical bucket. it is against the wall.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "8",
+        "target_name": "bucket",
+        "caption": "there is a cylindrical bucket. it is beside a chair and near a table.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": [
+                "chair",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "5",
+        "target_name": "fuse_box",
+        "caption": "there is a rectangular fuse box. it is on the wall near a chair.",
+        "parsed_query": {
+            "Target": "fuse box",
+            "Anchor": [
+                "wall",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "9",
+        "target_name": "bucket",
+        "caption": "there is a cylindrical colorful bucket. it is on the floor next to a white bucket.",
+        "parsed_query": {
+            "Target": "cylindrical colorful bucket",
+            "Anchor": [
+                "floor",
+                "white bucket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "3",
+        "target_name": "shelf",
+        "caption": "some shelves are installed on a wall. it is to the right of a gray square on the wall.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": "gray square"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "2",
+        "target_name": "furnace",
+        "caption": "a furnace sits on a tiled floor. it's to the right of a chair that has it's back to the wall.",
+        "parsed_query": {
+            "Target": "furnace",
+            "Anchor": [
+                "tiled floor",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "a window has some horizontal blinds drawn over it. the window is to the left of a strange two leveled table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "strange two leveled table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "9",
+        "target_name": "bucket",
+        "caption": "a bucket sits to the right of another bucket. it's the bucket closest to the corner.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "bucket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "4",
+        "target_name": "shelf",
+        "caption": "two shelves are hanging on a wall. they are to the right of a window.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "a window is installed in the wall with a small ledge under it. it's to the left of two shelves.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelves"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "a window is installed to the left of a shelf. it's got a small ledge under it.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "shelf"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "3",
+        "target_name": "shelf",
+        "caption": "a series of shelves are installed on the wall. it's to the right of a breaker box.",
+        "parsed_query": {
+            "Target": "shelves",
+            "Anchor": "breaker box"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "21",
+        "target_name": "towel",
+        "caption": "a towel hangs on a bar to the right of a blue furnace. it's to the right of another towel.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": [
+                "bar",
+                "blue furnace",
+                "towel"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "a chair sits in the corner. it's to the left of a bucket.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "bucket"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "18",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is next to a long table.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "21",
+        "target_name": "towel",
+        "caption": "there is a rectangular towel. it is on a rack on the right side of the rack.",
+        "parsed_query": {
+            "Target": "towel",
+            "Anchor": "rack"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "7",
+        "target_name": "rack",
+        "caption": "there is a rectangular brown rack. it is next to a stool on the ground.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": "stool"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "there is a square brown chair. it is next to a window.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "9",
+        "target_name": "bucket",
+        "caption": "there is a cylindrical colorful bucket. it is next to a white bucket.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "white bucket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "8",
+        "target_name": "bucket",
+        "caption": "this is a bucket. it sets by a chair.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "11",
+        "target_name": "chair",
+        "caption": "this is a chair. it sets along a wall.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "4",
+        "target_name": "shelf",
+        "caption": "this is a shelf. it is affixed to the wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "5",
+        "target_name": "fuse_box",
+        "caption": "this is a fuse box. it is attached to the wall.",
+        "parsed_query": {
+            "Target": "fuse box",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "7",
+        "target_name": "rack",
+        "caption": "this is a rack. it sets against a wall.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "8",
+        "target_name": "bucket",
+        "caption": "this is a round bucket. it is to the right of the chair.",
+        "parsed_query": {
+            "Target": "round bucket",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "4",
+        "target_name": "shelf",
+        "caption": "this is a brown shelf. it is to the right of the window.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "3",
+        "target_name": "shelf",
+        "caption": "this is a white shelf. it is mounted on the far wall.",
+        "parsed_query": {
+            "Target": "shelf",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "7",
+        "target_name": "rack",
+        "caption": "this is a brown rack. it is next to a red container.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": "container"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "5",
+        "target_name": "fuse_box",
+        "caption": "this is a white fuse box. it is above a chair.",
+        "parsed_query": {
+            "Target": "fuse box",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "12",
+        "target_name": "crate",
+        "caption": "the crate is located on the floor against the wall. there is a shelf to its left.",
+        "parsed_query": {
+            "Target": "crate",
+            "Anchor": [
+                "floor",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "2",
+        "target_name": "furnace",
+        "caption": "the furnace is against the right side of the room. there is a chair to the left in front of it. the furnace is blue.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "furnace"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "2",
+        "target_name": "furnace",
+        "caption": "the furnace is blue. there is a chair and three buckets in front of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "furnace"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "8",
+        "target_name": "bucket",
+        "caption": "the bucket is sitting on the floor. there is a blue bucket to the left, and a greenish bucket to the right.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": [
+                "floor",
+                "blue bucket",
+                "greenish bucket"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "7",
+        "target_name": "rack",
+        "caption": "the rack is on the left side. there is a crate on the floor and to the right of it.",
+        "parsed_query": {
+            "Target": "crate",
+            "Anchor": [
+                "floor",
+                "rack"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "2",
+        "target_name": "furnace",
+        "caption": "this is a janitor cart holding supplies. its front is facing away fron the viewer.",
+        "parsed_query": {
+            "Target": "janitor cart",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "10",
+        "target_name": "bucket",
+        "caption": "this is a silver bin. it is in the center and is empty.",
+        "parsed_query": {
+            "Target": "bin",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "5",
+        "target_name": "fuse_box",
+        "caption": "this is a surface attached to the wall. it is white and is facing right.",
+        "parsed_query": {
+            "Target": "surface",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "4",
+        "target_name": "shelf",
+        "caption": "this is a rack object with different surfaces atop each other. there are objects on top of them.",
+        "parsed_query": {
+            "Target": "rack",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "10",
+        "target_name": "bucket",
+        "caption": "the bucket is located on the floor. it is a round, light colored bucket.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "10",
+        "target_name": "bucket",
+        "caption": "the bucket is to the right of the blue furnace. the bucket is short and round.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "blue furnace"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "9",
+        "target_name": "bucket",
+        "caption": "the bucket is one of two on the floor. it is the one one the right with green and blue color on it.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "floor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "2",
+        "target_name": "furnace",
+        "caption": "the furnace is to the left of the bucket. the furnace is blue in color.",
+        "parsed_query": {
+            "Target": "furnace",
+            "Anchor": "bucket"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0377_00",
+        "target_id": "10",
+        "target_name": "bucket",
+        "caption": "the bucket is on the floor. the bucket is to the right of the furnace.",
+        "parsed_query": {
+            "Target": "bucket",
+            "Anchor": "furnace"
+        },
+        "unique": false
+    }
+]

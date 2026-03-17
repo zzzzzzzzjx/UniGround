@@ -1,0 +1,1068 @@
+[
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "there is a rectangular window. it is next to a blue and green flag.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "blue and green flag"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "there is a rectangular picture. it is next to a map on the wall.",
+        "parsed_query": {
+            "Target": "rectangular picture",
+            "Anchor": "map"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "8",
+        "target_name": "ottoman",
+        "caption": "there is a square brown ottoman. it is at the corner of a couch.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "6",
+        "target_name": "coffee_table",
+        "caption": "there is a rectangular brown coffee table. it is in front of a window.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "there is a rectangular pillow. it is in front of a map.",
+        "parsed_query": {
+            "Target": "rectangular pillow",
+            "Anchor": "map"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "a brown rectangle coffee table is in the middle of the room. there is a white fur rug underneath.",
+        "parsed_query": {
+            "Target": "brown rectangle coffee table",
+            "Anchor": "white fur rug"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "8",
+        "target_name": "ottoman",
+        "caption": "an ottoman is sitting to the right of the couch. there is a picture on the wall to the right of it.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "ottoman"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "3",
+        "target_name": "keyboard_piano",
+        "caption": "a keyboard piano is sitting in the corner of the right side of the room. there is a guitar in front of it.",
+        "parsed_query": {
+            "Target": "guitar",
+            "Anchor": "keyboard piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "a picture is hanging on the back wall with a couch below it.  there is a window to the right of it.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "couch",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "the brown wood tone coffee table is in the middle of the room. there is a chair to the left of it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "brown wood tone coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "16",
+        "target_name": "curtain",
+        "caption": "the curtain is open, revealing the window behind it. the curtain is to the right of the tv.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": [
+                "window",
+                "tv"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "41",
+        "target_name": "recliner_chair",
+        "caption": "there is a gray recliner chair. it is next to a guitar.",
+        "parsed_query": {
+            "Target": "gray recliner chair",
+            "Anchor": "guitar"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "0",
+        "target_name": "guitar",
+        "caption": "there is a wooden guitar. it is next to a recliner chair.",
+        "parsed_query": {
+            "Target": "wooden guitar",
+            "Anchor": "recliner chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "26",
+        "target_name": "couch",
+        "caption": "the couch is on the right side of the room. it is facing the coffee table to the left.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "coffee table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "there is a rectangular pillow. it is on a gray couch.",
+        "parsed_query": {
+            "Target": "rectangular pillow",
+            "Anchor": "gray couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "there is a rectangular brown table. it is in front of a gray couch.",
+        "parsed_query": {
+            "Target": "rectangular brown table",
+            "Anchor": "gray couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "41",
+        "target_name": "recliner_chair",
+        "caption": "there is a gray recliner chair. it is next to a gray couch.",
+        "parsed_query": {
+            "Target": "gray recliner chair",
+            "Anchor": "gray couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "43",
+        "target_name": "tv",
+        "caption": "the tv has a window behind it. it also has a plant above it.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "window",
+                "plant"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "0",
+        "target_name": "guitar",
+        "caption": "this is a wooden guitar. it is to the left of the chair.",
+        "parsed_query": {
+            "Target": "guitar",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "5",
+        "target_name": "lamp",
+        "caption": "this is a round lamp. it is in between two chairs.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "28",
+        "target_name": "sofa_chair",
+        "caption": "this is a black sofa chair. it is to the left of the lamp.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "lamp"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "0",
+        "target_name": "guitar",
+        "caption": "this is a tan guitar. it is by the plant.",
+        "parsed_query": {
+            "Target": "guitar",
+            "Anchor": "plant"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "this is a black pillow. it is on the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "5",
+        "target_name": "lamp",
+        "caption": "the lamp is between the two chairs on the northern side. the lamp is a gray cone.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "chairs"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "5",
+        "target_name": "lamp",
+        "caption": "the lamp is between two armchairs. the lamp is a gray cone.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "armchair",
+                "armchair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "the pillow is on top of the couch on the left end. the pillow is gray and square.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "the pillow is on the ride side of the couch. the pillow is gray and square.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "9",
+        "target_name": "ottoman",
+        "caption": "the ottoman is between the couch and table. the ottoman is dark and cube-like.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "couch",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "12",
+        "target_name": "door",
+        "caption": "there is a rectangular door. it is next to a map.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "map"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "29",
+        "target_name": "sofa_chair",
+        "caption": "there is a dark sofa chair. it is to the right of a lamp.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "lamp"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "0",
+        "target_name": "guitar",
+        "caption": "there is a brown guitar. it is to the right of a coffee table.",
+        "parsed_query": {
+            "Target": "brown guitar",
+            "Anchor": "coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "there is a rectangular brown table. it is to the right of a dark sofa chair.",
+        "parsed_query": {
+            "Target": "rectangular brown table",
+            "Anchor": "dark sofa chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "5",
+        "target_name": "lamp",
+        "caption": "there is a brown and white lamp. it is next to a sofa chair.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "sofa chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "10",
+        "target_name": "tv_stand",
+        "caption": "it is a white tv stand. the white tv stand is at the right of the black couch.",
+        "parsed_query": {
+            "Target": "white tv stand",
+            "Anchor": "black couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "26",
+        "target_name": "couch",
+        "caption": "it is a black couch. the back couch is to the left of the white tv stand.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": [
+                "tv stand"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "16",
+        "target_name": "curtain",
+        "caption": "it is a white curtain. the white curtain is to the right of the tv.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": "tv"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "26",
+        "target_name": "couch",
+        "caption": "there is a long black couch in the room. it is by the wall with a picture.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "picture"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "3",
+        "target_name": "keyboard_piano",
+        "caption": "it is a black and white keyboard piano. the black and white keyboard piano is in the far right corner of the room.",
+        "parsed_query": {
+            "Target": "black and white keyboard piano",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "6",
+        "target_name": "coffee_table",
+        "caption": "there is a brown coffee table by the wall. beside it is a guitar on the floor.",
+        "parsed_query": {
+            "Target": "guitar",
+            "Anchor": "brown coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "41",
+        "target_name": "recliner_chair",
+        "caption": "it is a black recliner chair. the black recliner chair is to the right of the black and white keyboard piano.",
+        "parsed_query": {
+            "Target": "black recliner chair",
+            "Anchor": "black and white keyboard piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "3",
+        "target_name": "keyboard_piano",
+        "caption": "there is a black keyboard piano. it is near the plant by the window.",
+        "parsed_query": {
+            "Target": "black keyboard piano",
+            "Anchor": [
+                "plant"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "6",
+        "target_name": "coffee_table",
+        "caption": "there is a brown coffee table by the window. it has a flower vase on it.",
+        "parsed_query": {
+            "Target": "flower vase",
+            "Anchor": "brown coffee table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "10",
+        "target_name": "tv_stand",
+        "caption": "the tv stand is under the tv in the corner of the room, between the couch and window.  it is dark colored and has several cabinets.",
+        "parsed_query": {
+            "Target": "tv stand",
+            "Anchor": [
+                "couch",
+                "window"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "3",
+        "target_name": "keyboard_piano",
+        "caption": "the keyboard piano is between the window and chair and there's an acoustic guitar propped on it.  the piano is black and white and is about 3 feet off the ground.",
+        "parsed_query": {
+            "Target": "keyboard piano",
+            "Anchor": [
+                "window",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "the black pillow is on top of the back of the couch.  it is on the left side of the couch directly under a world map.",
+        "parsed_query": {
+            "Target": "black pillow",
+            "Anchor": [
+                "couch",
+                "world map"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "43",
+        "target_name": "tv",
+        "caption": "the flat panel tv is in the corner of the room, between the couch and window.  it is on the tv stand and there is a plant behind the tv.",
+        "parsed_query": {
+            "Target": "flat panel tv",
+            "Anchor": [
+                "couch",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "the black pillow is on top of the back of the couch, on the left side as you're facing it.  it is directly below a map of the world on the wall.",
+        "parsed_query": {
+            "Target": "black pillow",
+            "Anchor": [
+                "couch",
+                "map of the world"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "3",
+        "target_name": "keyboard_piano",
+        "caption": "the keyboard piano is black and white and rectangular. it is located behind the guitar, and to the left of the black chair.",
+        "parsed_query": {
+            "Target": "keyboard piano",
+            "Anchor": [
+                "guitar",
+                "black chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "12",
+        "target_name": "door",
+        "caption": "the door is rectangular and white. it is located to the left of the world map on the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "world map"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "26",
+        "target_name": "couch",
+        "caption": "this is a black couch. it is facing a coffee table.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": "coffee table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "10",
+        "target_name": "tv_stand",
+        "caption": "the tv stand is black and rectangular. it is underneath the black tv.",
+        "parsed_query": {
+            "Target": "tv stand",
+            "Anchor": "black tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "12",
+        "target_name": "door",
+        "caption": "this is a white door. it is to the left of the map.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "map"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "6",
+        "target_name": "coffee_table",
+        "caption": "this is a brown coffee table. it is next to the guitar.",
+        "parsed_query": {
+            "Target": "coffee table",
+            "Anchor": "guitar"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "16",
+        "target_name": "curtain",
+        "caption": "this is a white curtain. it is in front of the window.",
+        "parsed_query": {
+            "Target": "white curtain",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "10",
+        "target_name": "tv_stand",
+        "caption": "this is a black tv stand. it is under the tv.",
+        "parsed_query": {
+            "Target": "tv stand",
+            "Anchor": "tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "16",
+        "target_name": "curtain",
+        "caption": "there are curtains hanging on each side of the window. the curtain is to the right of the tv.",
+        "parsed_query": {
+            "Target": "curtain",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "12",
+        "target_name": "door",
+        "caption": "there is a white door to the left of the couch. it is also to the left of the map hanging on the wall.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "couch",
+                "map"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "5",
+        "target_name": "lamp",
+        "caption": "there is a lamp on the table between the two armchairs. it is beneath the cluster of pictures hung on the wall.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "table",
+                "two armchairs",
+                "cluster of pictures"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "10",
+        "target_name": "tv_stand",
+        "caption": "the tv stand has a tv atop it. it is to the right of the couch and the painting on the wall.",
+        "parsed_query": {
+            "Target": "tv stand",
+            "Anchor": [
+                "couch",
+                "painting"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "the pillow is one of two that are on the right side of the couch. it is the flat one on the left.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "43",
+        "target_name": "tv",
+        "caption": "the tv is atop the tv stand. there is a green plant above the tv.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "tv stand"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "9",
+        "target_name": "ottoman",
+        "caption": "there is a dark colored ottoman sitting in front of an armchair. it is between the armchair and the coffee table.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": [
+                "armchair",
+                "coffee table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "25",
+        "target_name": "pillow",
+        "caption": "there is a pillow sitting on the couch. it is on the right side of the couch.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "couch"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "41",
+        "target_name": "recliner_chair",
+        "caption": "the recliner chair is in the reclined position. it is located to the right of the guitar.",
+        "parsed_query": {
+            "Target": "recliner chair",
+            "Anchor": "guitar"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "41",
+        "target_name": "recliner_chair",
+        "caption": "there is a dark colored recliner chair in a slightly reclined position. it is to the right of the guitar.",
+        "parsed_query": {
+            "Target": "recliner chair",
+            "Anchor": "guitar"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "23",
+        "target_name": "end_table",
+        "caption": "there is an end table between the two armchairs. there is a lamp sitting on it.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "end table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "it is the window behind the tv.  it sits by the living room.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "tv"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "23",
+        "target_name": "end_table",
+        "caption": "there is an end table sitting on the floor. it is between the two dark colored armchairs.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "dark colored armchairs"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "there is a picture hanging on the wall to the right of the world map also hanging on the wall. it is hanging above the couch.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "world map",
+                "couch"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "23",
+        "target_name": "end_table",
+        "caption": "it is the end table near the lamp. it sits between the 2 couches.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": [
+                "lamp",
+                "2 couches"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "this window is on the right. it is opaque.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "29",
+        "target_name": "sofa_chair",
+        "caption": "this sofa chair is in the middle. it is dark.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "27",
+        "target_name": "pillow",
+        "caption": "this pillow is by the wall. it is dark.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "43",
+        "target_name": "tv",
+        "caption": "this tv is on the other wall. it is black.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "12",
+        "target_name": "door",
+        "caption": "this door is on the right. it is brown.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "16",
+        "target_name": "curtain",
+        "caption": "they are the light colored curtains by the window. it hangs in the living room.",
+        "parsed_query": {
+            "Target": "curtains",
+            "Anchor": [
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "23",
+        "target_name": "end_table",
+        "caption": "this end table is in the middle. it is black.",
+        "parsed_query": {
+            "Target": "end table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "9",
+        "target_name": "ottoman",
+        "caption": "this ottoman is in the middle. it is cube.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "26",
+        "target_name": "couch",
+        "caption": "this couch is facing in. its brown.",
+        "parsed_query": {
+            "Target": "couch",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "9",
+        "target_name": "ottoman",
+        "caption": "this ottoman is brown. its in the middle.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "this picture is on the far wall. it has a brown border.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "28",
+        "target_name": "sofa_chair",
+        "caption": "it is the dark sofa chair in the living room. it sits in front of a center table.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": "center table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "it is the window with curtains on the side. it sits by the tv.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": [
+                "tv"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "29",
+        "target_name": "sofa_chair",
+        "caption": "this sofa chair is black. it is facing viewer.",
+        "parsed_query": {
+            "Target": "sofa chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "2",
+        "target_name": "table",
+        "caption": "this table is in the middle. it is brown.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "13",
+        "target_name": "picture",
+        "caption": "this picture is on the wall. it has a brown border.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "wall"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "43",
+        "target_name": "tv",
+        "caption": "this tv is in the center. it is turned off.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "17",
+        "target_name": "window",
+        "caption": "this window is on the right. it is bright.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "0",
+        "target_name": "guitar",
+        "caption": "this guitar is on the floor. it is brown.",
+        "parsed_query": {
+            "Target": "guitar",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0608_00",
+        "target_id": "9",
+        "target_name": "ottoman",
+        "caption": "this ottoman is on the floor. it is brown.",
+        "parsed_query": {
+            "Target": "ottoman",
+            "Anchor": ""
+        },
+        "unique": false
+    }
+]

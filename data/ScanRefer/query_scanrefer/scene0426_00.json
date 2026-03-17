@@ -1,0 +1,1184 @@
+[
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "37",
+        "target_name": "monitor",
+        "caption": "it is a black monitor. it is by the vertical side of a piano placed on a brown table.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "piano"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "27",
+        "target_name": "organizer_shelf",
+        "caption": "four tiered stacked lidded boxes one square in width. it is next to a desk and a lamp shade.",
+        "parsed_query": {
+            "Target": "four tiered stacked lidded boxes",
+            "Anchor": [
+                "desk",
+                "lamp shade"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "28",
+        "target_name": "desk",
+        "caption": "this is a flat wooden, laminate desk. it has metal legs and is in the corner next to the bed.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "1",
+        "target_name": "lamp",
+        "caption": "this is a lamp and lamp shade in front of a door. it is between two sofa couches near a wall.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "door",
+                "sofa couches",
+                "wall"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this is a painted white door with a brass handle. it is in the corner of a room with an office chair in front of it.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "office chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "36",
+        "target_name": "keyboard_piano",
+        "caption": "this is an electric piano on top of a wooden desk. it is also by two computer flat screens.",
+        "parsed_query": {
+            "Target": "electric piano",
+            "Anchor": [
+                "wooden desk",
+                "computer flat screens"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "22",
+        "target_name": "pillow",
+        "caption": "it is a black pillow. resting on the wall and lying on the bed while being covered by a duvet.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "wall",
+                "bed",
+                "duvet"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "it is a black chair. out of the three chairs present in the room it has a golf bag and some towels placed on it.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "golf bag",
+                "towels"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "31",
+        "target_name": "instrument_case",
+        "caption": "it is a black guitar bag it is by the door side. and a green guitar case is placed in front of it.",
+        "parsed_query": {
+            "Target": "guitar bag",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "it is a black chair. it sits right across as you enter the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the black computer chair is located beside the white door. the chair is sitting to the left of the door.",
+        "parsed_query": {
+            "Target": "computer chair",
+            "Anchor": "white door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "it is a black chair. it sits closest to the dresser.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a black chair in a bedroom. it is the one closest to the dresser with a tv.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "dresser with a tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "22",
+        "target_name": "pillow",
+        "caption": "this is a brown pillow in a bedroom.  it is the pillow that's in the corner on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "32",
+        "target_name": "instrument_case",
+        "caption": "the dark green guitar case is standing to the left of the television. it is to the right of the white door.",
+        "parsed_query": {
+            "Target": "guitar case",
+            "Anchor": [
+                "television",
+                "white door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "24",
+        "target_name": "bed",
+        "caption": "this is a bed in a bedroom.  it is against the wall under the window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": [
+                "wall",
+                "window"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "0",
+        "target_name": "pillow",
+        "caption": "this is a white pillow in a bedroom. it is the pillow on the bed next to the tv remotes.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "tv remotes"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "0",
+        "target_name": "pillow",
+        "caption": "this is a white pillow in a bedroom. it is on the bed and closest to the desk.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "desk"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "37",
+        "target_name": "monitor",
+        "caption": "it is a black monitor. it sits right on top of the table.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "41",
+        "target_name": "picture",
+        "caption": "it is a picture hanging on the wall. it sits on the right as you enter the door.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "wall",
+                "door"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "27",
+        "target_name": "organizer_shelf",
+        "caption": "it is an organizer shelf beside a pink jacket hanging . it sits right next to the table,.",
+        "parsed_query": {
+            "Target": "organizer shelf",
+            "Anchor": [
+                "pink jacket",
+                "table"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "22",
+        "target_name": "pillow",
+        "caption": "there is a brown pillow. it is on the bed and in the corner against the wall.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "27",
+        "target_name": "organizer_shelf",
+        "caption": "there is and organizer shelf. it is directly to the right of the brown table with metal legs.",
+        "parsed_query": {
+            "Target": "organizer shelf",
+            "Anchor": "brown table with metal legs"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "there is a white door with a gold handle. there is a black chair in front of the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "22",
+        "target_name": "pillow",
+        "caption": "there is a large brown pillow. it is on the bed behind the pile of blankets.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "pile of blankets"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "8",
+        "target_name": "dresser",
+        "caption": "there is a dresser with six drawers. it has a large flat screen tv on top of it.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "tv"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "the door is white. it is located between a black computer chair and a black guitar case.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": [
+                "computer chair",
+                "guitar case"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "the tan blinds are located behind a long red pillow. the blinds are to the left of the desk with the computer monitor.",
+        "parsed_query": {
+            "Target": "blinds",
+            "Anchor": [
+                "pillow",
+                "desk"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "8",
+        "target_name": "dresser",
+        "caption": "this is a white dresser. it is under a tv.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "tv"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "28",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is facing a bed.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "1",
+        "target_name": "lamp",
+        "caption": "this is a tall lamp. it is in front of doors.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": "doors"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "the window blinds are gold. they are located behind the long red pillow of the bed.",
+        "parsed_query": {
+            "Target": "window blinds",
+            "Anchor": "pillow"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "0",
+        "target_name": "pillow",
+        "caption": "this is a white pillow. it is on the bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "this is a square window. it is above the bed.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is to the left of another chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "28",
+        "target_name": "desk",
+        "caption": "this is a brown desk. it is to the left of storage containers.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "storage containers"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "1",
+        "target_name": "lamp",
+        "caption": "this is a tall lamp. it is in between two chairs.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "41",
+        "target_name": "picture",
+        "caption": "this is a square picture. it is on top of storage containers.",
+        "parsed_query": {
+            "Target": "square picture",
+            "Anchor": "storage containers"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "16",
+        "target_name": "monitor",
+        "caption": "this is a black monitor. it is on a desk.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "16",
+        "target_name": "monitor",
+        "caption": "this is a flat screen monitor. it is on the left side of the desk.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "31",
+        "target_name": "instrument_case",
+        "caption": "this is a black guitar case. it is standing up behind a green guitar case.",
+        "parsed_query": {
+            "Target": "black guitar case",
+            "Anchor": "green guitar case"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "8",
+        "target_name": "dresser",
+        "caption": "this is a six drawer wooden dresser. it is in a room near the wall.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "wall"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "this is a gray swivel office chair. it is in a cluttered room and has paper and tissues on it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "36",
+        "target_name": "keyboard_piano",
+        "caption": "the keyboard piano is on a table next to the bed. there are clear storage bins stacked next to the table the keyboard piano is on. there is a book on top of the keyboard piano.",
+        "parsed_query": {
+            "Target": "keyboard piano",
+            "Anchor": [
+                "table",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "the office chair is sitting between the bed and another chair. it is in front of a closet door and has a box of tissues sitting in it.",
+        "parsed_query": {
+            "Target": "office chair",
+            "Anchor": [
+                "bed",
+                "chair",
+                "closet door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "41",
+        "target_name": "picture",
+        "caption": "the picture is hanging on the wall above the clear storage bins. it is on the same wall as the table with the keyboard on it. there is a coat rack standing by it.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": [
+                "clear storage bins",
+                "table with the keyboard on it",
+                "coat rack"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "the window is on the same wall as the bed. there are blinds in the window and a pink pillow is leaned against the window.",
+        "parsed_query": {
+            "Target": "window",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "35",
+        "target_name": "tv",
+        "caption": "the tv is on the same wall as the door. it is black and is sitting on top of a dresser. it is directly across from the bed.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": [
+                "door",
+                "dresser",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "32",
+        "target_name": "instrument_case",
+        "caption": "the green instrument case is to the left of the flat screen tv. the instrument case is directly next to the door.",
+        "parsed_query": {
+            "Target": "instrument case",
+            "Anchor": [
+                "flat screen tv",
+                "door"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "the black chair has a gray article of clothing thrown over it. the black chair is directly behind the door.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "16",
+        "target_name": "monitor",
+        "caption": "the black monitor is located on top of the brown desk. it is directly right of the beige curtains.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "brown desk",
+                "beige curtains"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "32",
+        "target_name": "instrument_case",
+        "caption": "the green instrument case has a gray rolled up sleeping bag in front of it. the instrument case is to the left of the white dresser.",
+        "parsed_query": {
+            "Target": "instrument case",
+            "Anchor": [
+                "gray rolled up sleeping bag",
+                "white dresser"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "14",
+        "target_name": "window",
+        "caption": "in front of the window is a long pink pillow. the window is located behind the bed.",
+        "parsed_query": {
+            "Target": "long pink pillow",
+            "Anchor": [
+                "window",
+                "bed"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "23",
+        "target_name": "pillow",
+        "caption": "there is a large red pillow at the top of the bed. it is leaning against the window to the right of the grey pillow.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "window",
+                "grey pillow"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a chair at the foot of the bed. it has arms and wheels and is next to another chair that has no wheels. a box of tissues is on the seat of the chair.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "bed",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "0",
+        "target_name": "pillow",
+        "caption": "there is a light grey pillow on the bed. it is smaller than the other pillows and in front of the red pillow.",
+        "parsed_query": {
+            "Target": "light grey pillow",
+            "Anchor": [
+                "bed",
+                "red pillow"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "1",
+        "target_name": "lamp",
+        "caption": "there is a standing lamp between the two chairs. it has two bulbs, one facing up and one spotlight that is adjustable.",
+        "parsed_query": {
+            "Target": "standing lamp",
+            "Anchor": [
+                "chair",
+                "chair"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "28",
+        "target_name": "desk",
+        "caption": "there is a wooden desk next to the bed. it is dark in color and has no drawers.",
+        "parsed_query": {
+            "Target": "desk",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "31",
+        "target_name": "instrument_case",
+        "caption": "this is a black instrument case. it is behind a green one.",
+        "parsed_query": {
+            "Target": "instrument case",
+            "Anchor": "green instrument case"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "41",
+        "target_name": "picture",
+        "caption": "this a squared picture. it is behind the plastic boxes.",
+        "parsed_query": {
+            "Target": "picture",
+            "Anchor": "plastic boxes"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "this door is white. it is net to the instrument cases.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "instrument cases"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "this is a black chair. it is in front of the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "23",
+        "target_name": "pillow",
+        "caption": "this is a red pillow. it is in front of the window.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "window"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "27",
+        "target_name": "organizer_shelf",
+        "caption": "there is a tall rectangular organizer shelf. it is next to a monitor.",
+        "parsed_query": {
+            "Target": "organizer shelf",
+            "Anchor": "monitor"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "31",
+        "target_name": "instrument_case",
+        "caption": "the item is an instrument case. it is located beside the flat screen tv that is sitting on the dresser to the left.",
+        "parsed_query": {
+            "Target": "instrument case",
+            "Anchor": "flat screen tv"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "24",
+        "target_name": "bed",
+        "caption": "the bed is located to the right of the chair. the bed is on the right side of the room.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "chair"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "0",
+        "target_name": "pillow",
+        "caption": "the pillow is on the bed. the pillow is to the right of the table.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": [
+                "bed",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "27",
+        "target_name": "organizer_shelf",
+        "caption": "the organizer shelf contains six drawers. it is located to the right of the table.",
+        "parsed_query": {
+            "Target": "organizer shelf",
+            "Anchor": "table"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "28",
+        "target_name": "desk",
+        "caption": "the table has two monitors on it. the table is to the right of the bed.",
+        "parsed_query": {
+            "Target": "table",
+            "Anchor": "bed"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "32",
+        "target_name": "instrument_case",
+        "caption": "the instrument case is located to the left of the dresser. it is also to the right of the chair.",
+        "parsed_query": {
+            "Target": "instrument case",
+            "Anchor": [
+                "dresser",
+                "chair"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "there is a brown chair. it is in front of a door and beside a bed.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": [
+                "door",
+                "bed"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "37",
+        "target_name": "monitor",
+        "caption": "there is a rectangular monitor. it is on the table next to a stack of containers.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "stack of containers"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "16",
+        "target_name": "monitor",
+        "caption": "there is a rectangular black monitor. it is on the table against the wall.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": [
+                "table",
+                "wall"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "24",
+        "target_name": "bed",
+        "caption": "there is a rectangular bed. it is next to the door.",
+        "parsed_query": {
+            "Target": "rectangular bed",
+            "Anchor": "door"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "8",
+        "target_name": "dresser",
+        "caption": "there is a rectangular dresser. it is next to a box of bottled water.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "box of bottled water"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "37",
+        "target_name": "monitor",
+        "caption": "this is a black monitor. it is on the right side of the table.",
+        "parsed_query": {
+            "Target": "monitor",
+            "Anchor": "table"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "35",
+        "target_name": "tv",
+        "caption": "this is a black tv. it is on a dresser.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "dresser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "24",
+        "target_name": "bed",
+        "caption": "this is a white bed. it is below the window.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": "window"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "35",
+        "target_name": "tv",
+        "caption": "this is a black tv. it is on a white dresser.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": "white dresser"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "37",
+        "target_name": "monitor",
+        "caption": "this is a black monitor. it is to the right of another monitor.",
+        "parsed_query": {
+            "Target": "black monitor",
+            "Anchor": "monitor"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "36",
+        "target_name": "keyboard_piano",
+        "caption": "it is a light brown keyboard piano. it is on top of the brown desk.",
+        "parsed_query": {
+            "Target": "keyboard piano",
+            "Anchor": "brown desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "3",
+        "target_name": "chair",
+        "caption": "it is a dark brown chair. it is right in the middle of the pic.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": ""
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "35",
+        "target_name": "tv",
+        "caption": "it is a black tv. it is in the center.",
+        "parsed_query": {
+            "Target": "tv",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "23",
+        "target_name": "pillow",
+        "caption": "it is a red pillow. it is on the white bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "white bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "16",
+        "target_name": "monitor",
+        "caption": "there is a computer monitor on the desk. it is on the left side of the desk.",
+        "parsed_query": {
+            "Target": "computer monitor",
+            "Anchor": "desk"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "8",
+        "target_name": "dresser",
+        "caption": "there is a rectangular beige dresser. it is next to a cardboard box.",
+        "parsed_query": {
+            "Target": "dresser",
+            "Anchor": "cardboard box"
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "36",
+        "target_name": "keyboard_piano",
+        "caption": "there is a rectangular keyboard piano. it is on the table between two monitors.",
+        "parsed_query": {
+            "Target": "keyboard piano",
+            "Anchor": [
+                "table",
+                "monitors"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "23",
+        "target_name": "pillow",
+        "caption": "there is a rectangular red pillow. it is on the right side of a bed.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "22",
+        "target_name": "pillow",
+        "caption": "there is a rectangular brown pillow. it is on the side of the bed in the corner.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "7",
+        "target_name": "chair",
+        "caption": "there is a black chair. it is to the left of the other chair.",
+        "parsed_query": {
+            "Target": "black chair",
+            "Anchor": "other chair"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "17",
+        "target_name": "door",
+        "caption": "there is a white door. it is to the left of the dresser.",
+        "parsed_query": {
+            "Target": "door",
+            "Anchor": "dresser"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "24",
+        "target_name": "bed",
+        "caption": "there is a bed in the corner. it is in the right corner of the room.",
+        "parsed_query": {
+            "Target": "bed",
+            "Anchor": ""
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "4",
+        "target_name": "chair",
+        "caption": "there is a black chair in the corner of the room. it is to the left of the door.",
+        "parsed_query": {
+            "Target": "chair",
+            "Anchor": "door"
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "36",
+        "target_name": "keyboard_piano",
+        "caption": "the item is a keyboard piano. it is located at the top of the bed on the right hand side of the table.",
+        "parsed_query": {
+            "Target": "keyboard piano",
+            "Anchor": [
+                "bed",
+                "table"
+            ]
+        },
+        "unique": false
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "1",
+        "target_name": "lamp",
+        "caption": "the item is a lamp. it is located at the left end of the foot of the bed between the two chairs against the doors.",
+        "parsed_query": {
+            "Target": "lamp",
+            "Anchor": [
+                "bed",
+                "chairs",
+                "doors"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "35",
+        "target_name": "tv",
+        "caption": "the item is a flat screen tv. it is located at the end of the room on top of the dresser in front of the beds.",
+        "parsed_query": {
+            "Target": "flat screen tv",
+            "Anchor": [
+                "dresser",
+                "beds"
+            ]
+        },
+        "unique": true
+    },
+    {
+        "scan_id": "scene0426_00",
+        "target_id": "23",
+        "target_name": "pillow",
+        "caption": "the item is a pillow. it is located at the right top of the bed and is red.",
+        "parsed_query": {
+            "Target": "pillow",
+            "Anchor": "bed"
+        },
+        "unique": false
+    }
+]
